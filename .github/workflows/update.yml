@@ -1,7 +1,5 @@
 name: Update daily-live manifest
-on:
-  schedule:
-    - cron: "24 7,12,18 * * *"
+on: push
 jobs:
   update:
     runs-on: ubuntu-latest
