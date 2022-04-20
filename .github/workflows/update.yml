@@ -1,0 +1,30 @@
+name: Update daily-live manifest
+on:
+  schedule:
+    - cron: "0 12,18 * * *"
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the branch
+      - name: checkout
+        uses: actions/checkout@v2
+        with:
+          ref: daily-live
+
+      - name: update manifest files
+        run: |
+          chmod +x "${GITHUB_WORKSPACE}/.github/update.sh"
+          "${GITHUB_WORKSPACE}/.github/update.sh"
+
+      - name: setup git config
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+
+      - name: commit
+        run: |
+          # Stage the file, commit and push
+          git add -u
+          git commit -m "Update daily-live manifest"
+          git push origin daily-live
