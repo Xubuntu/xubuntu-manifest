@@ -17,14 +17,7 @@ jobs:
           chmod +x "${GITHUB_WORKSPACE}/.github/update.sh"
           "${GITHUB_WORKSPACE}/.github/update.sh"
 
-      - name: setup git config
-        run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "<>"
-
       - name: commit
-        run: |
-          # Stage the file, commit and push
-          git add -u
-          git commit -m "Update daily-live manifest"
-          git push origin daily-live
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update daily-live manifest
