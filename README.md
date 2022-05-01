@@ -4,8 +4,8 @@ Manifest files for each Xubuntu release
 Use this repository to compare changes between releases.
 
 ## Xubuntu 22.04 "Jammy Jellyfish"
-- [21.10 to 22.04 daily](https://github.com/Xubuntu/xubuntu-manifest/compare/21.10...daily-live)
-- [20.04.x to 22.04 daily](https://github.com/Xubuntu/xubuntu-manifest/compare/xubuntu-20.04...daily-live)
+- [20.04.x to 22.04.x](https://github.com/Xubuntu/xubuntu-manifest/compare/xubuntu-20.04...xubuntu-22.04)
+- [21.10 to 22.04](https://github.com/Xubuntu/xubuntu-manifest/compare/21.10...22.04)
 
 ## Xubuntu 21.10 "Impish Indri"
 - [21.04 to 21.10](https://github.com/Xubuntu/xubuntu-manifest/compare/21.04...21.10)
