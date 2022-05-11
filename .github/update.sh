@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RELEASE="jammy"
+RELEASE="kinetic"
 ARCHES="amd64"
 DATE=`date -u +%Y%m%d`
 URL=""
