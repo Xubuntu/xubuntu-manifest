@@ -11,6 +11,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: daily-live
+          token: ${{ secrets.PAT }}
 
       - name: update manifest files
         run: |
