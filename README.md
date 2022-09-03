@@ -6,6 +6,7 @@ Use this repository to compare changes between releases.
 ## Xubuntu 22.04 "Jammy Jellyfish"
 - [20.04.x to 22.04.x](https://github.com/Xubuntu/xubuntu-manifest/compare/xubuntu-20.04...xubuntu-22.04)
 - [21.10 to 22.04](https://github.com/Xubuntu/xubuntu-manifest/compare/21.10...22.04)
+- [22.04 to 22.04.1](https://github.com/Xubuntu/xubuntu-manifest/compare/22.04...22.04.1)
 
 ## Xubuntu 21.10 "Impish Indri"
 - [21.04 to 21.10](https://github.com/Xubuntu/xubuntu-manifest/compare/21.04...21.10)
@@ -24,6 +25,7 @@ Use this repository to compare changes between releases.
 - [20.04.2 to 20.04.2.0](https://github.com/Xubuntu/xubuntu-manifest/compare/20.04.2...20.04.2.0)
 - [20.04.2.0 to 20.04.3](https://github.com/Xubuntu/xubuntu-manifest/compare/20.04.2.0...20.04.3)
 - [20.04.3 to 20.04.4](https://github.com/Xubuntu/xubuntu-manifest/compare/20.04.3...20.04.4)
+- [20.04.4 to 20.04.5](https://github.com/Xubuntu/xubuntu-manifest/compare/20.04.4...20.04.5)
 
 ## Build your own comparison
 [Compare](https://github.com/Xubuntu/xubuntu-manifest/compare)
