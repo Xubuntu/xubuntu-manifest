@@ -3,6 +3,9 @@ Manifest files for each Xubuntu release
 
 Use this repository to compare changes between releases.
 
+## Xubuntu 22.10 "Kinetic Kudu"
+- [22.04 to 22.10](https://github.com/Xubuntu/xubuntu-manifest/compare/22.04...22.10)
+
 ## Xubuntu 22.04 "Jammy Jellyfish"
 - [20.04.x to 22.04.x](https://github.com/Xubuntu/xubuntu-manifest/compare/xubuntu-20.04...xubuntu-22.04)
 - [21.10 to 22.04](https://github.com/Xubuntu/xubuntu-manifest/compare/21.10...22.04)
