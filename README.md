@@ -3,6 +3,10 @@ Manifest files for each Xubuntu release
 
 Use this repository to compare changes between releases.
 
+## Xubuntu 23.04 "Lunar Lobster"
+- [22.04 to 23.04](https://github.com/Xubuntu/xubuntu-manifest/compare/22.04...23.04)
+- [22.10 to 23.04](https://github.com/Xubuntu/xubuntu-manifest/compare/22.04...23.04)
+
 ## Xubuntu 22.10 "Kinetic Kudu"
 - [22.04 to 22.10](https://github.com/Xubuntu/xubuntu-manifest/compare/22.04...22.10)
 
