@@ -4,7 +4,7 @@ Manifest files for each Xubuntu release
 Use this repository to compare changes between releases.
 
 # Xubuntu 23.10 "Mantic Minotaur"
-- [23.04 to daily](https://github.com/Xubuntu/xubuntu-manifest/compare/23.04...daily-live)
+- [23.04 to 23.10](https://github.com/Xubuntu/xubuntu-manifest/compare/23.04...23.10)
 
 ## Xubuntu 23.04 "Lunar Lobster"
 - [22.04 to 23.04](https://github.com/Xubuntu/xubuntu-manifest/compare/22.04...23.04)
