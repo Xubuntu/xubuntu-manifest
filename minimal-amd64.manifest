@@ -505,7 +505,7 @@ libgssapi-krb5-2:amd64	1.20.1-3ubuntu1
 libgstreamer-gl1.0-0:amd64	1.22.6-1
 libgstreamer-plugins-base1.0-0:amd64	1.22.6-1
 libgstreamer-plugins-good1.0-0:amd64	1.22.6-1ubuntu1
-libgstreamer1.0-0:amd64	1.22.5-1
+libgstreamer1.0-0:amd64	1.22.6-1
 libgtk-3-0:amd64	3.24.38-5ubuntu1
 libgtk-3-bin	3.24.38-5ubuntu1
 libgtk-3-common	3.24.38-5ubuntu1
@@ -701,7 +701,7 @@ libpipewire-0.3-modules:amd64	0.3.83-1
 libpixman-1-0:amd64	0.42.2-1
 libplist3:amd64	2.2.0-6build3
 libplymouth5:amd64	22.02.122-3ubuntu2
-libpng16-16:amd64	1.6.40-1
+libpng16-16:amd64	1.6.40-2
 libpolkit-agent-1-0:amd64	123-3
 libpolkit-gobject-1-0:amd64	123-3
 libpoppler-cpp0v5:amd64	23.08.0-2ubuntu1
@@ -870,10 +870,10 @@ libwpebackend-fdo-1.0-1:amd64	1.14.2-1
 libwrap0:amd64	7.6.q-32
 libwww-perl	6.72-1
 libwww-robotrules-perl	6.02-1
-libx11-6:amd64	2:1.8.6-1ubuntu1
-libx11-data	2:1.8.6-1ubuntu1
+libx11-6:amd64	2:1.8.7-1
+libx11-data	2:1.8.7-1
 libx11-protocol-perl	0.56-9
-libx11-xcb1:amd64	2:1.8.6-1ubuntu1
+libx11-xcb1:amd64	2:1.8.7-1
 libx264-164:amd64	2:0.164.3095+gitbaee400-3build1
 libx265-199:amd64	3.5-2
 libxapian30:amd64	1.4.22-1
