@@ -9,7 +9,7 @@ alsa-ucm-conf	1.2.9-1ubuntu3
 alsa-utils	1.2.9-1ubuntu1
 amd64-microcode	3.20230808.1.1ubuntu1
 anacron	2.3-38ubuntu1
-apparmor	4.0.0~alpha2-0ubuntu5
+apparmor	4.0.0~alpha2-0ubuntu6
 apport	2.27.0-0ubuntu5
 apport-gtk	2.27.0-0ubuntu5
 apport-symptoms	0.24
@@ -387,7 +387,7 @@ libann0	1.1.2+doc-9
 libao-common	1.2.2+20180113-1.1ubuntu3
 libao4:amd64	1.2.2+20180113-1.1ubuntu3
 libaom3:amd64	3.7.0-1
-libapparmor1:amd64	4.0.0~alpha2-0ubuntu5
+libapparmor1:amd64	4.0.0~alpha2-0ubuntu6
 libappstream4:amd64	0.16.3-1
 libapt-pkg6.0:amd64	2.7.3
 libarchive13:amd64	3.6.2-1ubuntu1
@@ -513,8 +513,8 @@ libcups2:amd64	2.4.6-0ubuntu3
 libcupsfilters2:amd64	2.0.0-0ubuntu1
 libcupsfilters2-common	2.0.0-0ubuntu1
 libcupsimage2:amd64	2.4.6-0ubuntu3
-libcurl3-gnutls:amd64	8.2.1-1ubuntu3
-libcurl4:amd64	8.2.1-1ubuntu3
+libcurl3-gnutls:amd64	8.2.1-1ubuntu3.1
+libcurl4:amd64	8.2.1-1ubuntu3.1
 libdaemon0:amd64	0.14-7.1ubuntu3
 libdata-dump-perl	1.25-1
 libdatrie1:amd64	0.2.13-2
@@ -1263,7 +1263,7 @@ libzfs4linux	2.2.0-0ubuntu1
 libzimg2:amd64	3.0.5+ds1-1
 libzmq5:amd64	4.3.4-6
 libzpool5linux	2.2.0-0ubuntu1
-libzstd1:amd64	1.5.5+dfsg2-1ubuntu2
+libzstd1:amd64	1.5.5+dfsg2-2
 libzvbi-common	0.2.42-1
 libzvbi0:amd64	0.2.42-1
 lightdm	1.30.0-0ubuntu8
@@ -1391,7 +1391,7 @@ printer-driver-m2300w	0.51-15build1
 printer-driver-min12xxw	0.0.9-11build2
 printer-driver-pnm2ppa	1.13+nondbs-0ubuntu9
 printer-driver-postscript-hp	3.22.10+dfsg0-2ubuntu1
-printer-driver-ptouch	1.6-2build1
+printer-driver-ptouch	1.7-1
 printer-driver-pxljr	1.4+repack0-6build1
 printer-driver-sag-gdi	0.1-8
 printer-driver-splix	2.0.0+svn315-7fakesync1build4
@@ -1706,7 +1706,7 @@ zfs-zed	2.2.0-0ubuntu1
 zfsutils-linux	2.2.0-0ubuntu1
 zip	3.0-13
 zlib1g:amd64	1:1.2.13.dfsg-1ubuntu5
-zstd	1.5.5+dfsg2-1ubuntu2
+zstd	1.5.5+dfsg2-2
 snap:core22	stable	864
 snap:snapd	stable	20290
 snap:firefox	stable/ubuntu-24.04	3289
