@@ -10,7 +10,7 @@ alsa-utils	1.2.9-1ubuntu1
 amd64-microcode	3.20230808.1.1ubuntu1
 anacron	2.3-38ubuntu1
 apparmor	4.0.0~alpha2-0ubuntu6
-apport	2.27.0-0ubuntu5
+apport	2.27.0-0ubuntu6
 apport-symptoms	0.24
 appstream	0.16.3-1
 apt	2.7.3
@@ -231,7 +231,7 @@ initramfs-tools-bin	0.142ubuntu15
 initramfs-tools-core	0.142ubuntu15
 inputattach	1:1.8.1-1
 install-info	7.1-1
-intel-media-va-driver:amd64	23.2.3+dfsg1-1
+intel-media-va-driver:amd64	23.3.5+dfsg1-1
 intel-microcode	3.20230808.1
 ipp-usb	0.9.23-1build1
 iproute2	6.1.0-1ubuntu2
@@ -1061,7 +1061,7 @@ pulseaudio	1:16.1+dfsg1-2ubuntu4
 pulseaudio-utils	1:16.1+dfsg1-2ubuntu4
 python-apt-common	2.6.0ubuntu1
 python3	3.11.4-5
-python3-apport	2.27.0-0ubuntu5
+python3-apport	2.27.0-0ubuntu6
 python3-apt	2.6.0ubuntu1
 python3-blinker	1.6.2-1
 python3-cairo:amd64	1.24.0-3
@@ -1104,7 +1104,7 @@ python3-pam	0.4.2-18build1
 python3-pexpect	4.8.0-4ubuntu1
 python3-pil:amd64	10.0.0-1
 python3-pkg-resources	68.1.2-2
-python3-problem-report	2.27.0-0ubuntu5
+python3-problem-report	2.27.0-0ubuntu6
 python3-ptyprocess	0.7.0-5
 python3-pygments	2.15.1+dfsg-1
 python3-pyparsing	3.1.0-1
@@ -1246,7 +1246,7 @@ xfce4-screensaver	4.18.2-1
 xfce4-screenshooter	1.10.4-1
 xfce4-session	4.18.3-1
 xfce4-settings	4.18.2-1ubuntu1
-xfce4-terminal	1.0.4-1
+xfce4-terminal	1.1.1-1
 xfce4-whiskermenu-plugin	2.8.0-1
 xfconf	4.18.1-1
 xfdesktop4	4.18.1-1
