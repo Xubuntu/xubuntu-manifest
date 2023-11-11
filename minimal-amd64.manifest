@@ -774,7 +774,7 @@ libspeexdsp1:amd64	1.2.1-1
 libsqlite3-0:amd64	3.42.0-1
 libss2:amd64	1.47.0-2ubuntu1
 libssh-4:amd64	0.10.5-3ubuntu1
-libssl3:amd64	3.0.10-1ubuntu2
+libssl3:amd64	3.0.10-1ubuntu2.1
 libstartup-notification0:amd64	0.12-6build2
 libstdc++6:amd64	13.2.0-6ubuntu1
 libstemmer0d:amd64	2.2.0-4
@@ -1005,7 +1005,7 @@ numlockx	1.2-9
 ocl-icd-libopencl1:amd64	2.3.2-1
 openprinting-ppds	20230202-1
 openssh-client	1:9.3p1-1ubuntu3
-openssl	3.0.10-1ubuntu2
+openssl	3.0.10-1ubuntu2.1
 os-prober	1.81ubuntu3
 p11-kit	0.25.0-4ubuntu1
 p11-kit-modules:amd64	0.25.0-4ubuntu1
@@ -1247,7 +1247,7 @@ xfce4-screenshooter	1.10.4-1
 xfce4-session	4.18.3-1
 xfce4-settings	4.18.2-1ubuntu1
 xfce4-terminal	1.1.1-1
-xfce4-whiskermenu-plugin	2.8.0-1
+xfce4-whiskermenu-plugin	2.8.1-1
 xfconf	4.18.1-1
 xfdesktop4	4.18.1-1
 xfdesktop4-data	4.18.1-1
