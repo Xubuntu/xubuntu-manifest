@@ -301,9 +301,9 @@ inetutils-telnet	2:2.4-2ubuntu2
 info	7.1-1
 init	1.65.2ubuntu1
 init-system-helpers	1.65.2ubuntu1
-initramfs-tools	0.142ubuntu16
-initramfs-tools-bin	0.142ubuntu16
-initramfs-tools-core	0.142ubuntu16
+initramfs-tools	0.142ubuntu17
+initramfs-tools-bin	0.142ubuntu17
+initramfs-tools-core	0.142ubuntu17
 inputattach	1:1.8.1-1
 install-info	7.1-1
 intel-media-va-driver:amd64	23.3.5+dfsg1-1
@@ -427,7 +427,7 @@ libayatana-appindicator3-1	0.5.93-1
 libayatana-ido3-0.4-0:amd64	0.10.1-1
 libayatana-indicator3-7:amd64	0.9.3-1
 libbabeltrace1:amd64	1.5.11-3build1
-libbabl-0.1-0:amd64	1:0.1.106-2
+libbabl-0.1-0:amd64	1:0.1.106-3
 libbdplus0:amd64	0.2.0-3
 libblas3:amd64	3.11.0-2build1
 libblkid1:amd64	2.39.1-4ubuntu2
@@ -1606,7 +1606,7 @@ wpasupplicant	2:2.10-15
 x11-apps	7.7+11
 x11-common	1:7.7+23ubuntu2
 x11-session-utils	7.7+6
-x11-utils	7.7+5build2
+x11-utils	7.7+6
 x11-xkb-utils	7.7+8
 x11-xserver-utils	7.7+10
 xauth	1:1.1.2-1
