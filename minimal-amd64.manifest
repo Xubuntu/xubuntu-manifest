@@ -8,7 +8,7 @@ alsa-topology-conf	1.2.5.1-2
 alsa-ucm-conf	1.2.9-1ubuntu3
 alsa-utils	1.2.9-1ubuntu1
 amd64-microcode	3.20231019.1ubuntu1
-anacron	2.3-38ubuntu1
+anacron	2.3-39ubuntu1
 apparmor	4.0.0~alpha2-0ubuntu6
 apport	2.27.0-0ubuntu6
 apport-symptoms	0.24
@@ -223,14 +223,14 @@ humanity-icon-theme	0.6.16
 hunspell-en-us	1:2020.12.07-2
 i965-va-driver:amd64	2.4.1+dfsg1-1build1
 inetutils-telnet	2:2.4-2ubuntu2
-info	7.1-1
+info	7.1-2
 init	1.65.2ubuntu1
 init-system-helpers	1.65.2ubuntu1
 initramfs-tools	0.142ubuntu17
 initramfs-tools-bin	0.142ubuntu17
 initramfs-tools-core	0.142ubuntu17
 inputattach	1:1.8.1-1
-install-info	7.1-1
+install-info	7.1-2
 intel-media-va-driver:amd64	23.3.5+dfsg1-1
 intel-microcode	3.20231114.0ubuntu1
 ipp-usb	0.9.23-1build1

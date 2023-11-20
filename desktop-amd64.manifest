@@ -8,7 +8,7 @@ alsa-topology-conf	1.2.5.1-2
 alsa-ucm-conf	1.2.9-1ubuntu3
 alsa-utils	1.2.9-1ubuntu1
 amd64-microcode	3.20231019.1ubuntu1
-anacron	2.3-38ubuntu1
+anacron	2.3-39ubuntu1
 apparmor	4.0.0~alpha2-0ubuntu6
 apport	2.27.0-0ubuntu6
 apport-gtk	2.27.0-0ubuntu6
@@ -298,14 +298,14 @@ im-config	0.57-2
 indicator-common	16.10.0+18.04.20180321.1-0ubuntu5
 indicator-messages	13.10.1+18.10.20180918-0ubuntu5
 inetutils-telnet	2:2.4-2ubuntu2
-info	7.1-1
+info	7.1-2
 init	1.65.2ubuntu1
 init-system-helpers	1.65.2ubuntu1
 initramfs-tools	0.142ubuntu17
 initramfs-tools-bin	0.142ubuntu17
 initramfs-tools-core	0.142ubuntu17
 inputattach	1:1.8.1-1
-install-info	7.1-1
+install-info	7.1-2
 intel-media-va-driver:amd64	23.3.5+dfsg1-1
 intel-microcode	3.20231114.0ubuntu1
 inxi	3.3.31-2-1
