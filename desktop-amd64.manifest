@@ -1061,7 +1061,7 @@ libsrt1.5-gnutls:amd64	1.5.3-1
 libss2:amd64	1.47.0-2ubuntu1
 libssh-4:amd64	0.10.5-3ubuntu1
 libssh-gcrypt-4:amd64	0.10.5-3ubuntu1
-libssl3:amd64	3.0.10-1ubuntu2.1
+libssl3:amd64	3.0.10-1ubuntu3
 libstartup-notification0:amd64	0.12-6build2
 libstdc++6:amd64	13.2.0-6ubuntu1
 libstemmer0d:amd64	2.2.0-4
@@ -1338,7 +1338,7 @@ onboard-common	1.4.1-5build7
 onboard-data	1.4.1-5build7
 openprinting-ppds	20230202-1
 openssh-client	1:9.4p1-1ubuntu1
-openssl	3.0.10-1ubuntu2.1
+openssl	3.0.10-1ubuntu3
 os-prober	1.81ubuntu3
 p11-kit	0.25.0-4ubuntu1
 p11-kit-modules:amd64	0.25.0-4ubuntu1
