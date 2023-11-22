@@ -777,7 +777,7 @@ libkeybinder-3.0-0:amd64	0.3.2-1.1
 libkeyutils1:amd64	1.6.3-2
 libklibc:amd64	2.0.13-2
 libkmod2:amd64	30+20230519-1ubuntu3
-libkpathsea6:amd64	2023.20230311.66589-7
+libkpathsea6:amd64	2023.20230311.66589-8
 libkrb5-3:amd64	1.20.1-3ubuntu1
 libkrb5support0:amd64	1.20.1-3ubuntu1
 libksba8:amd64	1.6.4-2
@@ -797,7 +797,7 @@ liblerc4:amd64	4.0.0+ds-2ubuntu2
 liblightdm-gobject-1-0:amd64	1.30.0-0ubuntu8
 liblilv-0-0:amd64	0.24.20-3
 liblirc-client0:amd64	0.10.1-7.2
-libllvm15:amd64	1:15.0.7-10
+libllvm15:amd64	1:15.0.7-10build1
 liblmdb0:amd64	0.9.31-1
 liblocale-gettext-perl	1.07-6
 liblouis-data	3.27.0-1
@@ -1069,7 +1069,7 @@ libsuitesparseconfig7:amd64	1:7.2.2+dfsg-1
 libsvtav1enc1d1:amd64	1.7.0+dfsg-2
 libswresample4:amd64	7:6.1-2ubuntu1
 libswscale7:amd64	7:6.1-2ubuntu1
-libsynctex2:amd64	2023.20230311.66589-7
+libsynctex2:amd64	2023.20230311.66589-8
 libsystemd-shared:amd64	253.5-1ubuntu7
 libsystemd0:amd64	253.5-1ubuntu7
 libtag1v5:amd64	1.13.1-1
@@ -1710,7 +1710,7 @@ zlib1g:amd64	1:1.2.13.dfsg-1ubuntu5
 zstd	1.5.5+dfsg2-2
 snap:core22	stable	864
 snap:snapd	stable	20290
-snap:firefox	stable/ubuntu-24.04	3289
+snap:firefox	stable/ubuntu-24.04	3423
 snap:gnome-42-2204	stable/ubuntu-24.04	141
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535

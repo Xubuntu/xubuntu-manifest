@@ -595,7 +595,7 @@ libldap-common	2.6.6+dfsg-1~exp1ubuntu1
 libldap2:amd64	2.6.6+dfsg-1~exp1ubuntu1
 liblerc4:amd64	4.0.0+ds-2ubuntu2
 liblightdm-gobject-1-0:amd64	1.30.0-0ubuntu8
-libllvm15:amd64	1:15.0.7-10
+libllvm15:amd64	1:15.0.7-10build1
 liblmdb0:amd64	0.9.31-1
 liblocale-gettext-perl	1.07-6
 liblouis-data	3.27.0-1
@@ -773,7 +773,7 @@ libspeexdsp1:amd64	1.2.1-1
 libsqlite3-0:amd64	3.42.0-1
 libss2:amd64	1.47.0-2ubuntu1
 libssh-4:amd64	0.10.5-3ubuntu1
-libssl3:amd64	3.0.10-1ubuntu2.1
+libssl3:amd64	3.0.10-1ubuntu3
 libstartup-notification0:amd64	0.12-6build2
 libstdc++6:amd64	13.2.0-6ubuntu1
 libstemmer0d:amd64	2.2.0-4
@@ -1004,7 +1004,7 @@ numlockx	1.2-9
 ocl-icd-libopencl1:amd64	2.3.2-1
 openprinting-ppds	20230202-1
 openssh-client	1:9.4p1-1ubuntu1
-openssl	3.0.10-1ubuntu2.1
+openssl	3.0.10-1ubuntu3
 os-prober	1.81ubuntu3
 p11-kit	0.25.0-4ubuntu1
 p11-kit-modules:amd64	0.25.0-4ubuntu1
