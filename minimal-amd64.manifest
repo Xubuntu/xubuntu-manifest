@@ -34,8 +34,8 @@ bind9-libs:amd64	1:9.18.18-0ubuntu2
 bluez	5.70-0ubuntu2
 bluez-cups	5.70-0ubuntu2
 bolt	0.9.6-1
-bsdextrautils	2.39.1-4ubuntu2
-bsdutils	1:2.39.1-4ubuntu2
+bsdextrautils	2.39.2-6ubuntu1
+bsdutils	1:2.39.2-6ubuntu1
 btrfs-progs	6.3.2-1
 bubblewrap	0.8.0-2
 busybox-initramfs	1:1.36.1-3ubuntu1
@@ -108,12 +108,12 @@ dracut-install	059-4ubuntu2
 e2fsprogs	1.47.0-2ubuntu1
 ed	1.19-1
 efibootmgr	17-2
-eject	2.39.1-4ubuntu2
+eject	2.39.2-6ubuntu1
 elementary-xfce-icon-theme	0.18-1
 emacsen-common	3.0.5
 enchant-2	2.3.3-2
 exo-utils	4.18.0-1
-fdisk	2.39.1-4ubuntu2
+fdisk	2.39.2-6ubuntu1
 feh	3.10.1-1
 file	1:5.45-2
 finalrd	9build1
@@ -142,7 +142,7 @@ foomatic-db-compressed-ppds	20230202-1
 friendly-recovery	0.2.42
 ftp	20230507-2
 fuse3	3.14.0-4
-fwupd	1.9.9-1
+fwupd	1.9.9-1build1
 fwupd-signed	1.52+1.4-1
 gcc-13-base:amd64	13.2.0-6ubuntu1
 gcr	3.41.1-3
@@ -336,7 +336,7 @@ libavutil58:amd64	7:6.1-3ubuntu1
 libayatana-appindicator3-1	0.5.93-1
 libayatana-ido3-0.4-0:amd64	0.10.1-1
 libayatana-indicator3-7:amd64	0.9.3-1
-libblkid1:amd64	2.39.1-4ubuntu2
+libblkid1:amd64	2.39.2-6ubuntu1
 libblockdev-crypto3:amd64	3.0.4-1
 libblockdev-fs3:amd64	3.0.4-1
 libblockdev-loop3:amd64	3.0.4-1
@@ -348,7 +348,7 @@ libblockdev-utils3:amd64	3.0.4-1
 libblockdev3:amd64	3.0.4-1
 libbluetooth3:amd64	5.70-0ubuntu2
 libbpf1:amd64	1:1.2.2-2
-libbrotli1:amd64	1.1.0-1
+libbrotli1:amd64	1.1.0-2~build1
 libbsd0:amd64	0.11.7-4
 libbytesize-common	2.10-1ubuntu1
 libbytesize1:amd64	2.10-1ubuntu1
@@ -367,7 +367,7 @@ libcanberra0:amd64	0.30-10ubuntu4
 libcap-ng0:amd64	0.8.3-1build3
 libcap2:amd64	1:2.66-4ubuntu1
 libcap2-bin	1:2.66-4ubuntu1
-libcbor0.8:amd64	0.8.0-2ubuntu1
+libcbor0.10:amd64	0.10.2-1.1ubuntu1
 libcdparanoia0:amd64	3.10.2+debian-14build2
 libclone-perl:amd64	0.46-1
 libcodec2-1.2:amd64	1.2.0-2
@@ -428,10 +428,10 @@ libexpat1:amd64	2.5.0-2
 libext2fs2:amd64	1.47.0-2ubuntu1
 libextutils-depends-perl	0.8001-2
 libfastjson4:amd64	1.2304.0-1
-libfdisk1:amd64	2.39.1-4ubuntu2
+libfdisk1:amd64	2.39.2-6ubuntu1
 libffi8:amd64	3.4.4-1
 libfftw3-single3:amd64	3.3.10-1ubuntu1
-libfido2-1:amd64	1.13.0-1
+libfido2-1:amd64	1.13.0-1build1
 libfile-basedir-perl	0.09-2
 libfile-desktopentry-perl	0.22-3
 libfile-fcntllock-perl	0.22-4ubuntu1
@@ -447,7 +447,7 @@ libfribidi0:amd64	1.0.13-3
 libftdi1-2:amd64	1.5-6build3
 libfuse2:amd64	2.9.9-8
 libfuse3-3:amd64	3.14.0-4
-libfwupd2:amd64	1.9.9-1
+libfwupd2:amd64	1.9.9-1build1
 libgail-common:amd64	2.24.33-2ubuntu2
 libgail18:amd64	2.24.33-2ubuntu2
 libgarcon-1-0:amd64	4.18.1-1
@@ -622,7 +622,7 @@ libmbim-utils	1.30.0-1
 libmd0:amd64	1.1.0-1
 libmm-glib0:amd64	1.20.6-1ubuntu2
 libmnl0:amd64	1.0.4-3ubuntu1
-libmount1:amd64	2.39.1-4ubuntu2
+libmount1:amd64	2.39.2-6ubuntu1
 libmp3lame0:amd64	3.100-6
 libmpc3:amd64	1.3.1-1
 libmpfr6:amd64	4.2.1-1
@@ -742,7 +742,7 @@ libsasl2-modules-db:amd64	2.1.28+dfsg1-3
 libseccomp2:amd64	2.5.4-1ubuntu3
 libsecret-1-0:amd64	0.21.1-1
 libsecret-common	0.21.1-1
-libselinux1:amd64	3.5-1build1
+libselinux1:amd64	3.5-1build2
 libsemanage-common	3.5-1build1
 libsemanage2:amd64	3.5-1build1
 libsensors-config	1:3.6.0-7ubuntu1
@@ -754,7 +754,7 @@ libshout3:amd64	2.4.6-1
 libsigc++-2.0-0v5:amd64	2.12.1-1
 libslang2:amd64	2.3.3-3
 libsm6:amd64	2:1.2.3-1build2
-libsmartcols1:amd64	2.39.1-4ubuntu2
+libsmartcols1:amd64	2.39.2-6ubuntu1
 libsnapd-glib-2-1:amd64	1.64-0ubuntu2
 libsnappy1v5:amd64	1.1.10-1
 libsndfile1:amd64	1.2.2-1
@@ -827,7 +827,7 @@ libusb-1.0-0:amd64	2:1.0.26-1
 libusbmuxd6:amd64	2.0.2-4
 libutempter0:amd64	1.2.1-3
 libuuid-perl	0.31-1
-libuuid1:amd64	2.39.1-4ubuntu2
+libuuid1:amd64	2.39.2-6ubuntu1
 libuutil3linux	2.2.0-0ubuntu3
 libuv1:amd64	1.44.2-1
 libv4l-0:amd64	1.24.1-4
@@ -983,7 +983,7 @@ mime-support	3.66
 mobile-broadband-provider-info	20230416-1
 modemmanager	1.20.6-1ubuntu2
 mokutil	0.6.0-2
-mount	2.39.1-4ubuntu2
+mount	2.39.2-6ubuntu1
 mscompress	0.4-10
 mtr-tiny	0.95-1.1
 nano	7.2-1
@@ -1058,10 +1058,10 @@ psmisc	23.6-1
 publicsuffix	20231001.0357-0.1
 pulseaudio	1:16.1+dfsg1-2ubuntu4
 pulseaudio-utils	1:16.1+dfsg1-2ubuntu4
-python-apt-common	2.6.0ubuntu2
+python-apt-common	2.7.0
 python3	3.11.4-5
 python3-apport	2.27.0-0ubuntu6
-python3-apt	2.6.0ubuntu2
+python3-apt	2.7.0
 python3-blinker	1.6.3-1
 python3-cairo:amd64	1.24.0-3build1
 python3-certifi	2022.9.24-1
@@ -1087,7 +1087,7 @@ python3-importlib-metadata	4.12.0-1
 python3-jaraco.classes	3.2.1-4
 python3-jeepney	0.8.0-3
 python3-jwt	2.7.0-1
-python3-keyring	24.3.0-1
+python3-keyring	24.3.0-1ubuntu2
 python3-launchpadlib	1.11.0-1
 python3-lazr.restfulclient	0.14.5-1
 python3-lazr.uri	1.0.6-3
@@ -1110,7 +1110,6 @@ python3-pyparsing	3.1.0-1
 python3-requests	2.31.0+dfsg-1ubuntu1
 python3-rich	13.3.1-2
 python3-secretstorage	3.3.3-1ubuntu1
-python3-shtab	1.5.5-3
 python3-six	1.16.0-4
 python3-software-properties	0.99.40
 python3-systemd	235-1build3
@@ -1125,14 +1124,14 @@ python3.11-minimal	3.11.6-3
 rdate	1:1.11-3ubuntu1
 readline-common	8.2-1.3
 reiserfsprogs	1:3.6.27-7
-rfkill	2.39.1-4ubuntu2
+rfkill	2.39.2-6ubuntu1
 rsync	3.2.7-1
 rsyslog	8.2306.0-2ubuntu2
 rtkit	0.13-5
 sane-airscan	0.99.27-1build1
 sane-utils	1.2.1-5
 sbsigntool	0.9.4-3.1ubuntu3
-secureboot-db	1.8
+secureboot-db	1.9
 sed	4.9-1
 sensible-utils	0.0.20
 session-migration	0.3.6
@@ -1157,7 +1156,7 @@ systemd-hwe-hwdb	253.5.1
 systemd-resolved	253.5-1ubuntu7
 systemd-sysv	253.5-1ubuntu7
 systemd-timesyncd	253.5-1ubuntu7
-sysvinit-utils	3.07-1ubuntu1
+sysvinit-utils	3.08-3ubuntu1
 tar	1.34+dfsg-1.2ubuntu1
 tcl	8.6.13
 tcl8.6	8.6.13+dfsg-2
@@ -1205,8 +1204,8 @@ usbmuxd	1.1.1-3ubuntu1
 usbutils	1:015-1
 user-setup	1.95ubuntu1
 usrmerge	35ubuntu1
-util-linux	2.39.1-4ubuntu2
-uuid-runtime	2.39.1-4ubuntu2
+util-linux	2.39.2-6ubuntu1
+uuid-runtime	2.39.2-6ubuntu1
 va-driver-all:amd64	2.20.0-2
 vdpau-driver-all:amd64	1.5-2
 vim-common	2:9.0.2116-1ubuntu1
@@ -1256,7 +1255,7 @@ xfonts-base	1:1.0.5+nmu1
 xfonts-encodings	1:1.0.5-0ubuntu2
 xfonts-scalable	1:1.0.3-1.3
 xfonts-utils	1:7.7+6build2
-xfsprogs	6.3.0-1ubuntu1
+xfsprogs	6.5.0-1
 xfwm4	4.18.0-1
 xiccd	0.3.0-2
 xinit	1.4.1-0ubuntu4
