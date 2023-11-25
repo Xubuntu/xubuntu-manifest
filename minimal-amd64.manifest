@@ -5,7 +5,7 @@ adwaita-icon-theme	41.0-1ubuntu1
 adwaita-icon-theme-full	41.0-1ubuntu1
 alsa-base	1.0.25+dfsg-0ubuntu7
 alsa-topology-conf	1.2.5.1-2
-alsa-ucm-conf	1.2.9-1ubuntu3
+alsa-ucm-conf	1.2.10-1ubuntu1
 alsa-utils	1.2.9-1ubuntu1
 amd64-microcode	3.20231019.1ubuntu1
 anacron	2.3-39ubuntu1
@@ -253,7 +253,7 @@ klibc-utils	2.0.13-2
 kmod	30+20230519-1ubuntu3
 kpartx	0.9.4-5ubuntu3
 kpartx-boot	0.9.4-5ubuntu3
-krb5-locales	1.20.1-3ubuntu1
+krb5-locales	1.20.1-5build1
 language-pack-bn	1:23.10+20231006
 language-pack-bn-base	1:23.10+20231006
 language-pack-de	1:23.10+20231006
@@ -305,7 +305,7 @@ libaom3:amd64	3.7.0-1
 libapparmor1:amd64	4.0.0~alpha2-0ubuntu6
 libappstream4:amd64	0.16.4-1
 libapt-pkg6.0:amd64	2.7.6
-libarchive13:amd64	3.7.2-1ubuntu1
+libarchive13:amd64	3.7.2-1ubuntu2
 libargon2-1:amd64	0~20190702+dfsg-4
 libasound2:amd64	1.2.10-1
 libasound2-data	1.2.10-1
@@ -331,8 +331,8 @@ libavahi-common3:amd64	0.8-13ubuntu2
 libavahi-core7:amd64	0.8-13ubuntu2
 libavahi-glib1:amd64	0.8-13ubuntu2
 libavc1394-0:amd64	0.5.4-5build2
-libavcodec60:amd64	7:6.1-3ubuntu1
-libavutil58:amd64	7:6.1-3ubuntu1
+libavcodec60:amd64	7:6.1-4ubuntu1
+libavutil58:amd64	7:6.1-4ubuntu1
 libayatana-appindicator3-1	0.5.93-1
 libayatana-ido3-0.4-0:amd64	0.10.1-1
 libayatana-indicator3-7:amd64	0.9.3-1
@@ -348,7 +348,7 @@ libblockdev-utils3:amd64	3.0.4-1
 libblockdev3:amd64	3.0.4-1
 libbluetooth3:amd64	5.70-0ubuntu2
 libbpf1:amd64	1:1.2.2-2
-libbrotli1:amd64	1.1.0-2~build1
+libbrotli1:amd64	1.1.0-2
 libbsd0:amd64	0.11.7-4
 libbytesize-common	2.10-1ubuntu1
 libbytesize1:amd64	2.10-1ubuntu1
@@ -483,7 +483,7 @@ libglvnd0:amd64	1.7.0-1
 libglx-mesa0:amd64	23.2.1-1ubuntu4
 libglx0:amd64	1.7.0-1
 libgmp10:amd64	2:6.3.0+dfsg-2ubuntu4
-libgnutls30:amd64	3.8.1-4ubuntu1
+libgnutls30:amd64	3.8.1-4ubuntu6
 libgoa-1.0-0b:amd64	3.48.0-2
 libgoa-1.0-common	3.48.0-2
 libgomp1:amd64	13.2.0-6ubuntu1
@@ -500,7 +500,7 @@ libgs-common	10.01.2~dfsg1-0ubuntu2.1
 libgs10:amd64	10.01.2~dfsg1-0ubuntu2.1
 libgs10-common	10.01.2~dfsg1-0ubuntu2.1
 libgsm1:amd64	1.0.22-1
-libgssapi-krb5-2:amd64	1.20.1-3ubuntu1
+libgssapi-krb5-2:amd64	1.20.1-5build1
 libgstreamer-gl1.0-0:amd64	1.22.6-1
 libgstreamer-plugins-base1.0-0:amd64	1.22.6-1
 libgstreamer-plugins-good1.0-0:amd64	1.22.6-1ubuntu2
@@ -581,13 +581,13 @@ libjson-c5:amd64	0.17-1
 libjson-glib-1.0-0:amd64	1.8.0-2
 libjson-glib-1.0-common	1.8.0-2
 libjxl0.7:amd64	0.7.0-10.2ubuntu1
-libk5crypto3:amd64	1.20.1-3ubuntu1
+libk5crypto3:amd64	1.20.1-5build1
 libkeybinder-3.0-0:amd64	0.3.2-1.1
 libkeyutils1:amd64	1.6.3-2
 libklibc:amd64	2.0.13-2
 libkmod2:amd64	30+20230519-1ubuntu3
-libkrb5-3:amd64	1.20.1-3ubuntu1
-libkrb5support0:amd64	1.20.1-3ubuntu1
+libkrb5-3:amd64	1.20.1-5build1
+libkrb5support0:amd64	1.20.1-5build1
 libksba8:amd64	1.6.4-2
 liblcms2-2:amd64	2.14-2
 liblcms2-utils	2.14-2
@@ -673,11 +673,11 @@ libp11-kit0:amd64	0.25.0-4ubuntu1
 libpackagekit-glib2-18:amd64	1.2.8-1
 libpam-cap:amd64	1:2.66-4ubuntu1
 libpam-gnome-keyring:amd64	42.1-1
-libpam-modules:amd64	1.5.2-6ubuntu1
-libpam-modules-bin	1.5.2-6ubuntu1
-libpam-runtime	1.5.2-6ubuntu1
+libpam-modules:amd64	1.5.2-9.1ubuntu1
+libpam-modules-bin	1.5.2-9.1ubuntu1
+libpam-runtime	1.5.2-9.1ubuntu1
 libpam-systemd:amd64	253.5-1ubuntu7
-libpam0g:amd64	1.5.2-6ubuntu1
+libpam0g:amd64	1.5.2-9.1ubuntu1
 libpango-1.0-0:amd64	1.51.0+ds-3
 libpangocairo-1.0-0:amd64	1.51.0+ds-3
 libpangoft2-1.0-0:amd64	1.51.0+ds-3
@@ -725,7 +725,7 @@ libqmi-proxy	1.32.4-2ubuntu1
 libqmi-utils	1.32.4-2ubuntu1
 libqpdf29:amd64	11.6.3-1
 libraqm0:amd64	0.10.1-1
-librav1e0:amd64	0.6.6-3
+librav1e0:amd64	0.6.6-4
 libraw1394-11:amd64	2.1.2-2build2
 libreadline8:amd64	8.2-1.3
 libreiserfscore0	1:3.6.27-7
@@ -757,7 +757,7 @@ libsm6:amd64	2:1.2.3-1build2
 libsmartcols1:amd64	2.39.2-6ubuntu1
 libsnapd-glib-2-1:amd64	1.64-0ubuntu2
 libsnappy1v5:amd64	1.1.10-1
-libsndfile1:amd64	1.2.2-1
+libsndfile1:amd64	1.2.2-1ubuntu2
 libsnmp-base	5.9.3+dfsg-2ubuntu3
 libsnmp40:amd64	5.9.3+dfsg-2ubuntu3
 libsoup-3.0-0:amd64	3.4.4-1
@@ -778,7 +778,7 @@ libstartup-notification0:amd64	0.12-6build2
 libstdc++6:amd64	13.2.0-6ubuntu1
 libstemmer0d:amd64	2.2.0-4
 libsvtav1enc1d1:amd64	1.7.0+dfsg-2
-libswresample4:amd64	7:6.1-3ubuntu1
+libswresample4:amd64	7:6.1-4ubuntu1
 libsystemd-shared:amd64	253.5-1ubuntu7
 libsystemd0:amd64	253.5-1ubuntu7
 libtag1v5:amd64	1.13.1-1
@@ -817,7 +817,6 @@ libu2f-udev	1.1.10-3build2
 libuchardet0:amd64	0.0.7-1build2
 libudev1:amd64	253.5-1ubuntu7
 libudisks2-0:amd64	2.10.1-1ubuntu1
-libunistring2:amd64	1.0-2
 libunistring5:amd64	1.1-2
 libunwind8:amd64	1.6.2-3
 libupower-glib3:amd64	1.90.2-7
@@ -917,7 +916,7 @@ libxklavier16:amd64	5.4-4build2
 libxml-parser-perl	2.46-4
 libxml-twig-perl	1:3.52-2
 libxml-xpathengine-perl	0.14-2
-libxml2:amd64	2.9.14+dfsg-1.3build1
+libxml2:amd64	2.9.14+dfsg-1.3build2
 libxmlb2:amd64	0.3.14-2
 libxmu6:amd64	2:1.1.3-3
 libxmuu1:amd64	2:1.1.3-3
