@@ -52,7 +52,7 @@ console-setup-linux	1.222ubuntu1
 coreutils	9.1-1ubuntu2
 cpio	2.13+dfsg-7.1
 cpp	4:13.2.0-1ubuntu1
-cpp-13	13.2.0-6ubuntu1
+cpp-13	13.2.0-7ubuntu1
 cron	3.0pl1-178ubuntu1
 cron-daemon-common	3.0pl1-178ubuntu1
 cryptsetup	2:2.6.1-5ubuntu1
@@ -142,9 +142,9 @@ foomatic-db-compressed-ppds	20230202-1
 friendly-recovery	0.2.42
 ftp	20230507-2
 fuse3	3.14.0-4
-fwupd	1.9.9-1build1
+fwupd	1.9.9-2
 fwupd-signed	1.52+1.4-1
-gcc-13-base:amd64	13.2.0-6ubuntu1
+gcc-13-base:amd64	13.2.0-7ubuntu1
 gcr	3.41.1-3
 gettext-base	0.21-13build1
 ghostscript	10.01.2~dfsg1-0ubuntu2.1
@@ -318,7 +318,7 @@ libatk-bridge2.0-0:amd64	2.50.0-1
 libatk1.0-0:amd64	2.50.0-1
 libatkmm-1.6-1v5:amd64	2.28.3-2
 libatm1:amd64	1:2.5.1-4build2
-libatomic1:amd64	13.2.0-6ubuntu1
+libatomic1:amd64	13.2.0-7ubuntu1
 libatopology2:amd64	1.2.10-1
 libatspi2.0-0:amd64	2.50.0-1
 libattr1:amd64	1:2.5.1-4
@@ -447,14 +447,14 @@ libfribidi0:amd64	1.0.13-3
 libftdi1-2:amd64	1.5-6build3
 libfuse2:amd64	2.9.9-8
 libfuse3-3:amd64	3.14.0-4
-libfwupd2:amd64	1.9.9-1build1
+libfwupd2:amd64	1.9.9-2
 libgail-common:amd64	2.24.33-2ubuntu2
 libgail18:amd64	2.24.33-2ubuntu2
 libgarcon-1-0:amd64	4.18.1-1
 libgarcon-common	4.18.1-1
 libgarcon-gtk3-1-0:amd64	4.18.1-1
 libgbm1:amd64	23.2.1-1ubuntu4
-libgcc-s1:amd64	13.2.0-6ubuntu1
+libgcc-s1:amd64	13.2.0-7ubuntu1
 libgck-1-0:amd64	3.41.1-3
 libgcr-base-3-1:amd64	3.41.1-3
 libgcr-ui-3-1:amd64	3.41.1-3
@@ -486,7 +486,7 @@ libgmp10:amd64	2:6.3.0+dfsg-2ubuntu4
 libgnutls30:amd64	3.8.1-4ubuntu6
 libgoa-1.0-0b:amd64	3.48.0-2
 libgoa-1.0-common	3.48.0-2
-libgomp1:amd64	13.2.0-6ubuntu1
+libgomp1:amd64	13.2.0-7ubuntu1
 libgpg-error-l10n	1.47-3
 libgpg-error0:amd64	1.47-3
 libgpgme11:amd64	1.18.0-4ubuntu1
@@ -628,8 +628,8 @@ libmpc3:amd64	1.3.1-1
 libmpfr6:amd64	4.2.1-1
 libmpg123-0:amd64	1.32.3-1
 libmtdev1:amd64	1.1.6-1build4
-libncurses6:amd64	6.4+20231016-1
-libncursesw6:amd64	6.4+20231016-1
+libncurses6:amd64	6.4+20231121-1build1
+libncursesw6:amd64	6.4+20231121-1build1
 libndp0:amd64	1.8-1fakesync1
 libnet-dbus-perl	1.2.0-2
 libnet-http-perl	6.23-1
@@ -775,7 +775,7 @@ libss2:amd64	1.47.0-2ubuntu1
 libssh-4:amd64	0.10.5-3ubuntu1
 libssl3:amd64	3.0.10-1ubuntu3
 libstartup-notification0:amd64	0.12-6build2
-libstdc++6:amd64	13.2.0-6ubuntu1
+libstdc++6:amd64	13.2.0-7ubuntu1
 libstemmer0d:amd64	2.2.0-4
 libsvtav1enc1d1:amd64	1.7.0+dfsg-2
 libswresample4:amd64	7:6.1-4ubuntu1
@@ -800,7 +800,7 @@ libtiff6:amd64	4.5.1+git230720-1ubuntu1
 libtimedate-perl	2.3300-2
 libtimezonemap-data	0.4.6-6
 libtimezonemap1:amd64	0.4.6-6
-libtinfo6:amd64	6.4+20231016-1
+libtinfo6:amd64	6.4+20231121-1build1
 libtirpc-common	1.3.4+ds-1
 libtirpc3:amd64	1.3.4+ds-1
 libtry-tiny-perl	0.31-2
@@ -986,8 +986,8 @@ mount	2.39.2-6ubuntu1
 mscompress	0.4-10
 mtr-tiny	0.95-1.1
 nano	7.2-1
-ncurses-base	6.4+20231016-1
-ncurses-bin	6.4+20231016-1
+ncurses-base	6.4+20231121-1build1
+ncurses-bin	6.4+20231121-1build1
 netbase	6.4
 netcat-openbsd	1.226-1ubuntu1
 netplan-generator	0.107-5ubuntu2
