@@ -1008,9 +1008,9 @@ libsamplerate0:amd64	0.2.2-4
 libsane-common	1.2.1-5
 libsane-hpaio:amd64	3.22.10+dfsg0-2ubuntu1
 libsane1:amd64	1.2.1-5
-libsasl2-2:amd64	2.1.28+dfsg1-3
-libsasl2-modules:amd64	2.1.28+dfsg1-3
-libsasl2-modules-db:amd64	2.1.28+dfsg1-3
+libsasl2-2:amd64	2.1.28+dfsg1-4
+libsasl2-modules:amd64	2.1.28+dfsg1-4
+libsasl2-modules-db:amd64	2.1.28+dfsg1-4
 libsbc1:amd64	2.0-1
 libseccomp2:amd64	2.5.4-1ubuntu3
 libsecret-1-0:amd64	0.21.1-1
