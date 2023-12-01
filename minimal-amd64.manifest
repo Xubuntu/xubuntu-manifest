@@ -410,8 +410,8 @@ libduktape207:amd64	2.7.0+tests-0ubuntu2
 libdv4:amd64	1.0.0-16
 libdw1:amd64	0.190-1
 libedit2:amd64	3.1-20230828-1
-libefiboot1:amd64	37-6ubuntu3
-libefivar1:amd64	37-6ubuntu3
+libefiboot1:amd64	38-3
+libefivar1:amd64	38-3
 libegl-mesa0:amd64	23.2.1-1ubuntu4
 libegl1:amd64	1.7.0-1
 libelf1:amd64	0.190-1
