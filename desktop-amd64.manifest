@@ -225,7 +225,7 @@ glib-networking:amd64	2.78.0-1
 glib-networking-common	2.78.0-1
 glib-networking-services	2.78.0-1
 gnome-accessibility-themes	3.28-2ubuntu1
-gnome-disk-utility	45.0-1ubuntu1
+gnome-disk-utility	45.1-1ubuntu1
 gnome-font-viewer	45.0-1
 gnome-keyring	42.1-1
 gnome-keyring-pkcs11:amd64	42.1-1
@@ -1635,9 +1635,9 @@ xfce4-notifyd	0.9.3-1
 xfce4-panel	4.18.4-1
 xfce4-panel-profiles	1.0.14-1
 xfce4-places-plugin:amd64	1.8.3-1
-xfce4-power-manager	4.18.2-1
-xfce4-power-manager-data	4.18.2-1
-xfce4-power-manager-plugins	4.18.2-1
+xfce4-power-manager	4.18.3-1
+xfce4-power-manager-data	4.18.3-1
+xfce4-power-manager-plugins	4.18.3-1
 xfce4-pulseaudio-plugin:amd64	0.4.8-1
 xfce4-screensaver	4.18.2-1
 xfce4-screenshooter	1.10.4-1
@@ -1709,7 +1709,7 @@ zlib1g:amd64	1:1.2.13.dfsg-1ubuntu5
 zstd	1.5.5+dfsg2-2
 snap:core22	stable	864
 snap:snapd	stable	20290
-snap:firefox	stable/ubuntu-24.04	3423
+snap:firefox	stable/ubuntu-24.04	3506
 snap:gnome-42-2204	stable/ubuntu-24.04	141
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535

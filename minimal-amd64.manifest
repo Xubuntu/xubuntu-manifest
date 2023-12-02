@@ -1237,9 +1237,9 @@ xfce4-helpers	4.18.2-1ubuntu1
 xfce4-indicator-plugin	2.4.2-1
 xfce4-notifyd	0.9.3-1
 xfce4-panel	4.18.4-1
-xfce4-power-manager	4.18.2-1
-xfce4-power-manager-data	4.18.2-1
-xfce4-power-manager-plugins	4.18.2-1
+xfce4-power-manager	4.18.3-1
+xfce4-power-manager-data	4.18.3-1
+xfce4-power-manager-plugins	4.18.3-1
 xfce4-pulseaudio-plugin:amd64	0.4.8-1
 xfce4-screensaver	4.18.2-1
 xfce4-screenshooter	1.10.4-1
