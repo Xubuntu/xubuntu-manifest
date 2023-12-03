@@ -968,7 +968,7 @@ lshw	02.19.git.2021.06.19.996aaad9c7-2build1
 lsof	4.95.0-1
 lvm2	2.03.16-2ubuntu1
 mailcap	3.70+nmu1ubuntu1
-man-db	2.11.2-3
+man-db	2.12.0-1
 manpages	6.03-2
 mate-polkit	1.26.1-4
 mate-polkit-common	1.26.1-4
