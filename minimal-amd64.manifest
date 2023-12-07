@@ -24,7 +24,7 @@ avahi-daemon	0.8-13ubuntu2
 ayatana-indicator-application	22.2.0-1
 ayatana-indicator-common	0.9.9-1
 base-files	13ubuntu5
-base-passwd	3.6.2
+base-passwd	3.6.3
 bash	5.2.15-2ubuntu1
 bash-completion	1:2.11-8
 bc	1.07.1-3build1
@@ -129,7 +129,7 @@ fonts-droid-fallback	1:6.0.1r16-1.1build1
 fonts-liberation	1:2.1.5-3
 fonts-liberation-sans-narrow	1:1.07.6-4
 fonts-noto-cjk	1:20230817+repack1-3
-fonts-noto-color-emoji	2.038-1
+fonts-noto-color-emoji	2.042-1
 fonts-noto-core	20201225-2
 fonts-noto-hinted	20201225-2
 fonts-noto-mono	20201225-2
@@ -570,7 +570,7 @@ libjansson4:amd64	2.14-2
 libjavascriptcoregtk-4.0-18:amd64	2.42.2-1
 libjavascriptcoregtk-4.1-0:amd64	2.42.2-1
 libjbig0:amd64	2.1-6.1ubuntu1
-libjbig2dec0:amd64	0.19-3build2
+libjbig2dec0:amd64	0.20-1
 libjcat1:amd64	0.1.9-1
 libjpeg-progs	1:9e-1
 libjpeg-turbo8:amd64	2.1.5-2ubuntu1
@@ -814,7 +814,7 @@ libtss2-tcti-swtpm0:amd64	4.0.1-3ubuntu1
 libtumbler-1-0:amd64	4.18.1-1
 libtwolame0:amd64	0.4.0-2build2
 libu2f-udev	1.1.10-3build2
-libuchardet0:amd64	0.0.7-1build2
+libuchardet0:amd64	0.0.8-1
 libudev1:amd64	253.5-1ubuntu7
 libudisks2-0:amd64	2.10.1-1ubuntu1
 libunistring5:amd64	1.1-2
