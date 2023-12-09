@@ -70,7 +70,7 @@ cpdb-backend-cups	2.0~b5-0ubuntu2
 cpio	2.13+dfsg-7.1
 cpp	4:13.2.0-1ubuntu1
 cpp-13	13.2.0-7ubuntu1
-cracklib-runtime	2.9.6-5ubuntu1
+cracklib-runtime	2.9.6-5.1
 cron	3.0pl1-178ubuntu1
 cron-daemon-common	3.0pl1-178ubuntu1
 cryptsetup	2:2.6.1-5ubuntu1
@@ -125,6 +125,7 @@ dpkg	1.22.1ubuntu3
 dpkg-repack	1.52
 dracut-install	059-4ubuntu2
 e2fsprogs	1.47.0-2ubuntu1
+e2fsprogs-l10n	1.47.0-2ubuntu1
 ed	1.19-1
 efibootmgr	17-2
 eject	2.39.2-6ubuntu1
@@ -144,7 +145,7 @@ finalrd	9build1
 findutils	4.9.0-5
 firefox	1:1snap1-0ubuntu3
 firefox-locale-en	1:1snap1-0ubuntu3
-firmware-sof-signed	2.2.6-1ubuntu3
+firmware-sof-signed	2.2.6-1ubuntu4
 fontconfig	2.14.2-4ubuntu1
 fontconfig-config	2.14.2-4ubuntu1
 fonts-dejavu-core	2.37-8
@@ -254,13 +255,13 @@ graphviz	2.42.2-7build3
 grep	3.11-3
 greybird-gtk-theme	3.23.3-1
 groff-base	1.23.0-3
-grub-common	2.12~rc1-12ubuntu3
+grub-common	2.12~rc1-12ubuntu4
 grub-efi-amd64-bin	2.12~rc1-12ubuntu2
 grub-efi-amd64-signed	1.199+2.12~rc1-12ubuntu2
 grub-gfxpayload-lists	0.7
-grub-pc	2.12~rc1-12ubuntu3
-grub-pc-bin	2.12~rc1-12ubuntu3
-grub2-common	2.12~rc1-12ubuntu3
+grub-pc	2.12~rc1-12ubuntu4
+grub-pc-bin	2.12~rc1-12ubuntu4
+grub2-common	2.12~rc1-12ubuntu4
 gsettings-desktop-schemas	45.0-1ubuntu1
 gstreamer1.0-gl:amd64	1.22.6-1
 gstreamer1.0-gtk3:amd64	1.22.6-1ubuntu2
@@ -315,8 +316,8 @@ iptables	1.8.9-2ubuntu2
 iputils-ping	3:20221126-1
 iputils-tracepath	3:20221126-1
 irqbalance	1.9.2-2
-isc-dhcp-client	4.4.3-P1-2ubuntu5
-isc-dhcp-common	4.4.3-P1-2ubuntu5
+isc-dhcp-client	4.4.3-P1-4ubuntu1
+isc-dhcp-common	4.4.3-P1-4ubuntu1
 iso-codes	4.15.0-1
 iucode-tool	2.3.1-3
 jfsutils	1.1.15-5build3
@@ -506,7 +507,7 @@ libcolorhug2:amd64	1.4.6-4
 libcom-err2:amd64	1.47.0-2ubuntu1
 libcpdb-frontend2:amd64	2.0~b5-0ubuntu8
 libcpdb2:amd64	2.0~b5-0ubuntu8
-libcrack2:amd64	2.9.6-5ubuntu1
+libcrack2:amd64	2.9.6-5.1
 libcrypt1:amd64	1:4.4.36-2
 libcryptsetup12:amd64	2:2.6.1-5ubuntu1
 libcups2:amd64	2.4.6-0ubuntu3
@@ -530,8 +531,8 @@ libdebconfclient0:amd64	0.270ubuntu1
 libdebian-installer4:amd64	0.124ubuntu1
 libdebuginfod-common	0.190-1
 libdebuginfod1:amd64	0.190-1
-libdecor-0-0:amd64	0.2.0-1
-libdecor-0-plugin-1-gtk:amd64	0.2.0-1
+libdecor-0-0:amd64	0.2.1-1
+libdecor-0-plugin-1-gtk:amd64	0.2.1-1
 libdeflate0:amd64	1.18-1
 libdevmapper-event1.02.1:amd64	2:1.02.185-2ubuntu1
 libdevmapper1.02.1:amd64	2:1.02.185-2ubuntu1
@@ -580,10 +581,10 @@ libexttextcat-data	3.4.6-1
 libextutils-depends-perl	0.8001-2
 libfastjson4:amd64	1.2304.0-1
 libfdisk1:amd64	2.39.2-6ubuntu1
-libffi8:amd64	3.4.4-1
+libffi8:amd64	3.4.4-2
 libfftw3-double3:amd64	3.3.10-1ubuntu1
 libfftw3-single3:amd64	3.3.10-1ubuntu1
-libfido2-1:amd64	1.13.0-1build1
+libfido2-1:amd64	1.14.0-1
 libfile-basedir-perl	0.09-2
 libfile-desktopentry-perl	0.22-3
 libfile-fcntllock-perl	0.22-4ubuntu1
@@ -739,7 +740,7 @@ libieee1284-3:amd64	0.2.11-14build2
 libigdgmm12:amd64	22.3.12+ds1-1
 libijs-0.35:amd64	0.35-15.1
 libimagequant0:amd64	2.18.0-1
-libimath-3-1-29:amd64	3.1.6-1ubuntu1
+libimath-3-1-29:amd64	3.1.9-3ubuntu1
 libimlib2:amd64	1.12.1-1
 libimobiledevice6:amd64	1.3.0-7
 libinih1:amd64	55-1ubuntu1
@@ -1438,7 +1439,7 @@ python3-jeepney	0.8.0-3
 python3-jwt	2.7.0-1
 python3-keyring	24.3.0-1ubuntu2
 python3-launchpadlib	1.11.0-1
-python3-lazr.restfulclient	0.14.5-1
+python3-lazr.restfulclient	0.14.5-2
 python3-lazr.uri	1.0.6-3
 python3-mako	1.2.4+ds-2
 python3-markdown-it	3.0.0-2
@@ -1525,7 +1526,7 @@ system-config-printer-udev	1.5.18-1ubuntu3
 system-tools-backends	2.10.2-3.1ubuntu1
 systemd	253.5-1ubuntu7
 systemd-dev	253.5-1ubuntu7
-systemd-hwe-hwdb	253.5.1
+systemd-hwe-hwdb	255.1.1
 systemd-resolved	253.5-1ubuntu7
 systemd-sysv	253.5-1ubuntu7
 systemd-timesyncd	253.5-1ubuntu7
