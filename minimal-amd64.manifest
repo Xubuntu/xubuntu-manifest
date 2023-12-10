@@ -42,7 +42,7 @@ busybox-initramfs	1:1.36.1-3ubuntu1
 busybox-static	1:1.36.1-3ubuntu1
 bzip2	1.0.8-5build1
 ca-certificates	20230311ubuntu1
-casper	1.487
+casper	1.488
 cifs-utils	2:7.0-2
 colord	1.4.6-4
 colord-data	1.4.6-4
@@ -135,7 +135,7 @@ fonts-noto-core	20201225-2
 fonts-noto-hinted	20201225-2
 fonts-noto-mono	20201225-2
 fonts-noto-ui-core	20201225-2
-fonts-opensymbol	4:102.12+LibO7.6.3-0ubuntu3
+fonts-opensymbol	4:102.12+LibO7.6.4-0ubuntu1
 fonts-symbola	2.60-1.1
 fonts-ubuntu	0.869-0ubuntu1
 fonts-urw-base35	20200910-7
@@ -227,9 +227,9 @@ inetutils-telnet	2:2.4-2ubuntu2
 info	7.1-2
 init	1.65.2ubuntu1
 init-system-helpers	1.65.2ubuntu1
-initramfs-tools	0.142ubuntu17
-initramfs-tools-bin	0.142ubuntu17
-initramfs-tools-core	0.142ubuntu17
+initramfs-tools	0.142ubuntu18
+initramfs-tools-bin	0.142ubuntu18
+initramfs-tools-core	0.142ubuntu18
 inputattach	1:1.8.1-1
 install-info	7.1-2
 intel-media-va-driver:amd64	23.3.5+dfsg1-1
@@ -323,8 +323,8 @@ libatomic1:amd64	13.2.0-7ubuntu1
 libatopology2:amd64	1.2.10-1
 libatspi2.0-0:amd64	2.50.0-1
 libattr1:amd64	1:2.5.1-4
-libaudit-common	1:3.1.1-1build1
-libaudit1:amd64	1:3.1.1-1build1
+libaudit-common	1:3.1.2-1
+libaudit1:amd64	1:3.1.2-1
 libauthen-sasl-perl	2.1700-1
 libavahi-client3:amd64	0.8-13ubuntu2
 libavahi-common-data:amd64	0.8-13ubuntu2
@@ -437,7 +437,7 @@ libfile-basedir-perl	0.09-2
 libfile-desktopentry-perl	0.22-3
 libfile-fcntllock-perl	0.22-4ubuntu1
 libfile-listing-perl	6.16-1
-libfile-mimeinfo-perl	0.33-1
+libfile-mimeinfo-perl	0.34-1
 libflac12:amd64	1.4.3+ds-2ubuntu1
 libflashrom1:amd64	1.3.0-2.1ubuntu1
 libfont-afm-perl	1.20-4
@@ -461,8 +461,8 @@ libgcr-base-3-1:amd64	3.41.1-3
 libgcr-ui-3-1:amd64	3.41.1-3
 libgcrypt20:amd64	1.10.2-3ubuntu1
 libgd3:amd64	2.3.3-9ubuntu1
-libgdbm-compat4:amd64	1.23-3
-libgdbm6:amd64	1.23-3
+libgdbm-compat4:amd64	1.23-5
+libgdbm6:amd64	1.23-5
 libgdk-pixbuf-2.0-0:amd64	2.42.10+dfsg-3
 libgdk-pixbuf2.0-bin	2.42.10+dfsg-3
 libgdk-pixbuf2.0-common	2.42.10+dfsg-3
@@ -491,9 +491,9 @@ libgomp1:amd64	13.2.0-7ubuntu1
 libgpg-error-l10n	1.47-3
 libgpg-error0:amd64	1.47-3
 libgpgme11:amd64	1.18.0-4ubuntu1
-libgphoto2-6:amd64	2.5.31-1
-libgphoto2-l10n	2.5.31-1
-libgphoto2-port12:amd64	2.5.31-1
+libgphoto2-6:amd64	2.5.31-2
+libgphoto2-l10n	2.5.31-2
+libgphoto2-port12:amd64	2.5.31-2
 libgpm2:amd64	1.20.7-10build1
 libgraphene-1.0-0:amd64	1.10.8-2
 libgraphite2-3:amd64	1.3.14-1build2
@@ -639,7 +639,7 @@ libnet-ssleay-perl:amd64	1.92-2build2
 libnetfilter-conntrack3:amd64	1.0.9-6
 libnetplan0:amd64	0.107-5ubuntu2
 libnettle8:amd64	3.9.1-2
-libnewt0.52:amd64	0.52.23-1ubuntu2
+libnewt0.52:amd64	0.52.24-1ubuntu1
 libnfnetlink0:amd64	1.0.2-2
 libnftables1:amd64	1.0.9-1
 libnftnl11:amd64	1.2.6-2
@@ -650,8 +650,8 @@ libnl-route-3-200:amd64	3.7.0-0.2
 libnm0:amd64	1.44.2-1ubuntu2
 libnma-common	1.10.6-2
 libnma0:amd64	1.10.6-2
-libnotify-bin	0.8.2-1
-libnotify4:amd64	0.8.2-1
+libnotify-bin	0.8.3-1
+libnotify4:amd64	0.8.3-1
 libnpth0:amd64	1.6-3build2
 libnsl2:amd64	1.3.0-3
 libnspr4:amd64	2:4.35-1.1
@@ -704,9 +704,9 @@ libplymouth5:amd64	22.02.122-3ubuntu2
 libpng16-16:amd64	1.6.40-2
 libpolkit-agent-1-0:amd64	123-3
 libpolkit-gobject-1-0:amd64	123-3
-libpoppler-cpp0v5:amd64	23.08.0-2ubuntu1
-libpoppler-glib8:amd64	23.08.0-2ubuntu1
-libpoppler130:amd64	23.08.0-2ubuntu1
+libpoppler-cpp0v5:amd64	23.12.0-1ubuntu2
+libpoppler-glib8:amd64	23.12.0-1ubuntu2
+libpoppler133:amd64	23.12.0-1ubuntu2
 libpopt0:amd64	1.19+dfsg-1
 libppd2:amd64	2:2.0.0-0ubuntu1
 libppd2-common	2:2.0.0-0ubuntu1
@@ -734,9 +734,9 @@ librsvg2-2:amd64	2.54.7+dfsg-2
 librsvg2-common:amd64	2.54.7+dfsg-2
 librtmp1:amd64	2.4+20151223.gitfa8646d.1-2build4
 libsamplerate0:amd64	0.2.2-4
-libsane-common	1.2.1-5
+libsane-common	1.2.1-6
 libsane-hpaio:amd64	3.22.10+dfsg0-2ubuntu1
-libsane1:amd64	1.2.1-5
+libsane1:amd64	1.2.1-6
 libsasl2-2:amd64	2.1.28+dfsg1-4
 libsasl2-modules:amd64	2.1.28+dfsg1-4
 libsasl2-modules-db:amd64	2.1.28+dfsg1-4
@@ -1036,7 +1036,7 @@ policykit-1-gnome	0.105-7ubuntu3
 policykit-desktop-privileges	0.22
 polkitd	123-3
 poppler-data	0.4.12-1
-poppler-utils	23.08.0-2ubuntu1
+poppler-utils	23.12.0-1ubuntu2
 powermgmt-base	1.37
 ppp	2.4.9-1+1.1ubuntu1
 pptp-linux	1.10.0-1build3
@@ -1113,7 +1113,7 @@ python3-secretstorage	3.3.3-1ubuntu1
 python3-six	1.16.0-4
 python3-software-properties	0.99.40
 python3-systemd	235-1build3
-python3-update-manager	1:24.04.2
+python3-update-manager	1:24.04.3
 python3-urllib3	1.26.18-1
 python3-wadllib	1.3.6-5
 python3-xkit	0.5.0ubuntu6
@@ -1129,7 +1129,7 @@ rsync	3.2.7-1
 rsyslog	8.2306.0-2ubuntu2
 rtkit	0.13-5
 sane-airscan	0.99.27-1build1
-sane-utils	1.2.1-5
+sane-utils	1.2.1-6
 sbsigntool	0.9.4-3.1ubuntu4
 secureboot-db	1.9
 sed	4.9-1
@@ -1137,7 +1137,7 @@ sensible-utils	0.0.20
 session-migration	0.3.6
 sgml-base	1.31
 sgml-data	2.0.11+nmu1
-shared-mime-info	2.2-1
+shared-mime-info	2.4-1
 shim-signed	1.56+15.7-0ubuntu1
 shimmer-themes	2.1.3
 snapd	2.60.4+23.10
@@ -1157,7 +1157,7 @@ systemd-resolved	253.5-1ubuntu7
 systemd-sysv	253.5-1ubuntu7
 systemd-timesyncd	253.5-1ubuntu7
 sysvinit-utils	3.08-3ubuntu1
-tar	1.34+dfsg-1.2ubuntu1
+tar	1.34+dfsg-1.2ubuntu2
 tcl	8.6.13
 tcl8.6	8.6.13+dfsg-2
 tcpdump	4.99.4-3ubuntu1
@@ -1176,7 +1176,7 @@ tzdata	2023c-9ubuntu1
 tzdata-icu	2023c-9ubuntu1
 tzdata-legacy	2023c-9ubuntu1
 ubiquity	23.10.8
-ubiquity-casper	1.487
+ubiquity-casper	1.488
 ubiquity-frontend-gtk	23.10.8
 ubiquity-slideshow-xubuntu	196
 ubiquity-ubuntu-artwork	23.10.8
@@ -1195,7 +1195,7 @@ ufw	0.36.2-1
 unattended-upgrades	2.9.1+nmu3ubuntu2
 unzip	6.0-28ubuntu1
 update-inetd	4.53
-update-manager-core	1:24.04.2
+update-manager-core	1:24.04.3
 upower	1.90.2-7
 usb-modeswitch	2.6.1-3ubuntu2
 usb-modeswitch-data	20191128-5
@@ -1208,11 +1208,11 @@ util-linux	2.39.2-6ubuntu1
 uuid-runtime	2.39.2-6ubuntu1
 va-driver-all:amd64	2.20.0-2
 vdpau-driver-all:amd64	1.5-2
-vim-common	2:9.0.2116-1ubuntu1
-vim-tiny	2:9.0.2116-1ubuntu1
+vim-common	2:9.0.2116-1ubuntu2
+vim-tiny	2:9.0.2116-1ubuntu2
 wamerican	2020.12.07-2
 wget	1.21.4-1ubuntu1
-whiptail	0.52.23-1ubuntu2
+whiptail	0.52.24-1ubuntu1
 wireless-regdb	2022.06.06-0ubuntu2
 wireless-tools	30~pre9-13.1ubuntu4
 wireplumber	0.4.14-4ubuntu1
@@ -1288,7 +1288,7 @@ xubuntu-desktop-minimal	2.252
 xubuntu-docs	22.04
 xubuntu-live-settings	23.10.1
 xubuntu-wallpapers	23.10.1
-xxd	2:9.0.2116-1ubuntu1
+xxd	2:9.0.2116-1ubuntu2
 xz-utils	5.4.5-0.1
 yelp	42.2-1
 yelp-xsl	42.1-2
