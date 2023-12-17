@@ -52,7 +52,7 @@ console-setup-linux	1.222ubuntu1
 coreutils	9.1-1ubuntu2
 cpio	2.13+dfsg-7.1
 cpp	4:13.2.0-2ubuntu1
-cpp-13	13.2.0-8ubuntu1
+cpp-13	13.2.0-9ubuntu1
 cron	3.0pl1-178ubuntu1
 cron-daemon-common	3.0pl1-178ubuntu1
 cryptsetup	2:2.6.1-5ubuntu1
@@ -145,7 +145,7 @@ ftp	20230507-2
 fuse3	3.14.0-4
 fwupd	1.9.10-1
 fwupd-signed	1.52+1.4-1
-gcc-13-base:amd64	13.2.0-8ubuntu1
+gcc-13-base:amd64	13.2.0-9ubuntu1
 gcr	3.41.1-3
 gettext-base	0.21-14
 ghostscript	10.02.1~dfsg1-0ubuntu1
@@ -318,7 +318,7 @@ libatk-bridge2.0-0:amd64	2.50.0-1
 libatk1.0-0:amd64	2.50.0-1
 libatkmm-1.6-1v5:amd64	2.28.3-2
 libatm1:amd64	1:2.5.1-4build2
-libatomic1:amd64	13.2.0-8ubuntu1
+libatomic1:amd64	13.2.0-9ubuntu1
 libatopology2:amd64	1.2.10-2
 libatspi2.0-0:amd64	2.50.0-1
 libattr1:amd64	1:2.5.1-4
@@ -454,7 +454,7 @@ libgarcon-1-0:amd64	4.18.1-1
 libgarcon-common	4.18.1-1
 libgarcon-gtk3-1-0:amd64	4.18.1-1
 libgbm1:amd64	23.3.0-2ubuntu3
-libgcc-s1:amd64	13.2.0-8ubuntu1
+libgcc-s1:amd64	13.2.0-9ubuntu1
 libgck-1-0:amd64	3.41.1-3
 libgcr-base-3-1:amd64	3.41.1-3
 libgcr-ui-3-1:amd64	3.41.1-3
@@ -486,7 +486,7 @@ libgmp10:amd64	2:6.3.0+dfsg-2ubuntu4
 libgnutls30:amd64	3.8.1-4ubuntu6
 libgoa-1.0-0b:amd64	3.48.0-2
 libgoa-1.0-common	3.48.0-2
-libgomp1:amd64	13.2.0-8ubuntu1
+libgomp1:amd64	13.2.0-9ubuntu1
 libgpg-error-l10n	1.47-3build1
 libgpg-error0:amd64	1.47-3build1
 libgpgme11:amd64	1.18.0-4ubuntu1
@@ -522,11 +522,11 @@ libgusb2:amd64	0.4.5-1.1
 libhandy-1-0:amd64	1.8.2-3
 libharfbuzz-icu0:amd64	8.0.1-1
 libharfbuzz0b:amd64	8.0.1-1
-libheif-plugin-aomenc:amd64	1.17.1-1ubuntu3
-libheif-plugin-dav1d:amd64	1.17.1-1ubuntu3
-libheif-plugin-libde265:amd64	1.17.1-1ubuntu3
-libheif-plugin-x265:amd64	1.17.1-1ubuntu3
-libheif1:amd64	1.17.1-1ubuntu3
+libheif-plugin-aomenc:amd64	1.17.4-1ubuntu1
+libheif-plugin-dav1d:amd64	1.17.4-1ubuntu1
+libheif-plugin-libde265:amd64	1.17.4-1ubuntu1
+libheif-plugin-x265:amd64	1.17.4-1ubuntu1
+libheif1:amd64	1.17.4-1ubuntu1
 libhogweed6:amd64	3.9.1-2
 libhpmud0:amd64	3.22.10+dfsg0-2ubuntu1
 libhtml-form-perl	6.11-1
@@ -534,7 +534,7 @@ libhtml-format-perl	2.16-2
 libhtml-parser-perl:amd64	3.81-1
 libhtml-tagset-perl	3.20-6
 libhtml-tree-perl	5.07-3
-libhttp-cookies-perl	6.10-1
+libhttp-cookies-perl	6.11-1
 libhttp-daemon-perl	6.16-1
 libhttp-date-perl	6.06-1
 libhttp-message-perl	6.45-1ubuntu1
@@ -775,7 +775,7 @@ libss2:amd64	1.47.0-2ubuntu1
 libssh-4:amd64	0.10.5-3ubuntu1
 libssl3:amd64	3.0.10-1ubuntu3
 libstartup-notification0:amd64	0.12-6build2
-libstdc++6:amd64	13.2.0-8ubuntu1
+libstdc++6:amd64	13.2.0-9ubuntu1
 libstemmer0d:amd64	2.2.0-4
 libsvtav1enc1d1:amd64	1.7.0+dfsg-2
 libswresample4:amd64	7:6.1-5ubuntu1

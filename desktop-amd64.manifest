@@ -69,7 +69,7 @@ coreutils	9.1-1ubuntu2
 cpdb-backend-cups	2.0~b5-0ubuntu2
 cpio	2.13+dfsg-7.1
 cpp	4:13.2.0-2ubuntu1
-cpp-13	13.2.0-8ubuntu1
+cpp-13	13.2.0-9ubuntu1
 cracklib-runtime	2.9.6-5.1
 cron	3.0pl1-178ubuntu1
 cron-daemon-common	3.0pl1-178ubuntu1
@@ -171,7 +171,7 @@ ftp	20230507-2
 fuse3	3.14.0-4
 fwupd	1.9.10-1
 fwupd-signed	1.52+1.4-1
-gcc-13-base:amd64	13.2.0-8ubuntu1
+gcc-13-base:amd64	13.2.0-9ubuntu1
 gcr	3.41.1-3
 gdb	14.1-0ubuntu1
 gettext-base	0.21-14
@@ -404,7 +404,7 @@ libatk-bridge2.0-0:amd64	2.50.0-1
 libatk1.0-0:amd64	2.50.0-1
 libatkmm-1.6-1v5:amd64	2.28.3-2
 libatm1:amd64	1:2.5.1-4build2
-libatomic1:amd64	13.2.0-8ubuntu1
+libatomic1:amd64	13.2.0-9ubuntu1
 libatopology2:amd64	1.2.10-2
 libatrildocument3	1.26.0-2fakesync1
 libatrilview3	1.26.0-2fakesync1
@@ -547,7 +547,7 @@ libdrm-nouveau2:amd64	2.4.117-1
 libdrm-radeon1:amd64	2.4.117-1
 libdrm2:amd64	2.4.117-1
 libduktape207:amd64	2.7.0+tests-0ubuntu2
-libdv4:amd64	1.0.0-16
+libdv4:amd64	1.0.0-17
 libdw1:amd64	0.190-1
 libe-book-0.1-1:amd64	0.1.3-2build4
 libedit2:amd64	3.1-20230828-1
@@ -608,7 +608,7 @@ libgarcon-1-0:amd64	4.18.1-1
 libgarcon-common	4.18.1-1
 libgarcon-gtk3-1-0:amd64	4.18.1-1
 libgbm1:amd64	23.3.0-2ubuntu3
-libgcc-s1:amd64	13.2.0-8ubuntu1
+libgcc-s1:amd64	13.2.0-9ubuntu1
 libgck-1-0:amd64	3.41.1-3
 libgcr-base-3-1:amd64	3.41.1-3
 libgcr-ui-3-1:amd64	3.41.1-3
@@ -625,7 +625,7 @@ libgee-0.8-2:amd64	0.20.6-1
 libgegl-0.4-0:amd64	1:0.4.44-3ubuntu1
 libgegl-common	1:0.4.44-3ubuntu1
 libgexiv2-2:amd64	0.14.2-2
-libgfortran5:amd64	13.2.0-8ubuntu1
+libgfortran5:amd64	13.2.0-9ubuntu1
 libgif7:amd64	5.2.1-2.5
 libgimp2.0:amd64	2.10.36-2
 libgirepository-1.0-1:amd64	1.78.1-5
@@ -653,7 +653,7 @@ libgnome-menu-3-0:amd64	3.36.0-1.1ubuntu1
 libgnutls30:amd64	3.8.1-4ubuntu6
 libgoa-1.0-0b:amd64	3.48.0-2
 libgoa-1.0-common	3.48.0-2
-libgomp1:amd64	13.2.0-8ubuntu1
+libgomp1:amd64	13.2.0-9ubuntu1
 libgpg-error-l10n	1.47-3build1
 libgpg-error0:amd64	1.47-3build1
 libgpgme11:amd64	1.18.0-4ubuntu1
@@ -707,11 +707,11 @@ libgxps2:amd64	0.3.2-3
 libhandy-1-0:amd64	1.8.2-3
 libharfbuzz-icu0:amd64	8.0.1-1
 libharfbuzz0b:amd64	8.0.1-1
-libheif-plugin-aomenc:amd64	1.17.1-1ubuntu3
-libheif-plugin-dav1d:amd64	1.17.1-1ubuntu3
-libheif-plugin-libde265:amd64	1.17.1-1ubuntu3
-libheif-plugin-x265:amd64	1.17.1-1ubuntu3
-libheif1:amd64	1.17.1-1ubuntu3
+libheif-plugin-aomenc:amd64	1.17.4-1ubuntu1
+libheif-plugin-dav1d:amd64	1.17.4-1ubuntu1
+libheif-plugin-libde265:amd64	1.17.4-1ubuntu1
+libheif-plugin-x265:amd64	1.17.4-1ubuntu1
+libheif1:amd64	1.17.4-1ubuntu1
 libhogweed6:amd64	3.9.1-2
 libhpmud0:amd64	3.22.10+dfsg0-2ubuntu1
 libhtml-form-perl	6.11-1
@@ -719,7 +719,7 @@ libhtml-format-perl	2.16-2
 libhtml-parser-perl:amd64	3.81-1
 libhtml-tagset-perl	3.20-6
 libhtml-tree-perl	5.07-3
-libhttp-cookies-perl	6.10-1
+libhttp-cookies-perl	6.11-1
 libhttp-daemon-perl	6.16-1
 libhttp-date-perl	6.06-1
 libhttp-message-perl	6.45-1ubuntu1
@@ -1062,7 +1062,7 @@ libssh-4:amd64	0.10.5-3ubuntu1
 libssh-gcrypt-4:amd64	0.10.5-3ubuntu1
 libssl3:amd64	3.0.10-1ubuntu3
 libstartup-notification0:amd64	0.12-6build2
-libstdc++6:amd64	13.2.0-8ubuntu1
+libstdc++6:amd64	13.2.0-9ubuntu1
 libstemmer0d:amd64	2.2.0-4
 libsuitesparseconfig7:amd64	1:7.3.1+dfsg-2
 libsvtav1enc1d1:amd64	1.7.0+dfsg-2
@@ -1534,7 +1534,7 @@ thunar-archive-plugin:amd64	0.5.2-1
 thunar-data	4.18.8-1
 thunar-media-tags-plugin:amd64	0.4.0-1
 thunar-volman	4.18.0-1
-thunderbird	1:115.5.2+build2-0ubuntu1
+thunderbird	1:115.6.0+build1-0ubuntu1
 time	1.9-0.2
 tnftp	20230507-2
 tpm-udev	0.6ubuntu1
@@ -1692,8 +1692,8 @@ xz-utils	5.4.5-0.1
 yelp	42.2-1
 yelp-xsl	42.1-2
 yudit-common	3.1.0-1
-zenity	3.99.91-1
-zenity-common	3.99.91-1
+zenity	4.0.0-1
+zenity-common	4.0.0-1
 zfs-initramfs	2.2.2-0ubuntu2
 zfs-zed	2.2.2-0ubuntu2
 zfsutils-linux	2.2.2-0ubuntu2
