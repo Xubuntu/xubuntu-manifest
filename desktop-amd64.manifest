@@ -56,7 +56,7 @@ busybox-initramfs	1:1.36.1-6ubuntu1
 busybox-static	1:1.36.1-6ubuntu1
 bzip2	1.0.8-5build1
 ca-certificates	20230311ubuntu1
-casper	1.489
+casper	1.490
 catfish	4.16.4-2
 cheese-common	44.1-1
 cifs-utils	2:7.0-2
@@ -264,7 +264,7 @@ grub2-common	2.12~rc1-12ubuntu4
 gsettings-desktop-schemas	45.0-1ubuntu1
 gstreamer1.0-gl:amd64	1.22.7-1
 gstreamer1.0-gtk3:amd64	1.22.6-1ubuntu2
-gstreamer1.0-libav:amd64	1.22.7-1
+gstreamer1.0-libav:amd64	1.22.8-1
 gstreamer1.0-plugins-base:amd64	1.22.7-1
 gstreamer1.0-plugins-good:amd64	1.22.6-1ubuntu2
 gstreamer1.0-tools	1.22.7-1
@@ -301,9 +301,9 @@ inetutils-telnet	2:2.4-3ubuntu1
 info	7.1-2
 init	1.65.2ubuntu1
 init-system-helpers	1.65.2ubuntu1
-initramfs-tools	0.142ubuntu18
-initramfs-tools-bin	0.142ubuntu18
-initramfs-tools-core	0.142ubuntu18
+initramfs-tools	0.142ubuntu19
+initramfs-tools-bin	0.142ubuntu19
+initramfs-tools-core	0.142ubuntu19
 inputattach	1:1.8.1-1
 install-info	7.1-2
 intel-media-va-driver:amd64	23.4.2+dfsg1-1
@@ -444,7 +444,6 @@ libbluetooth3:amd64	5.70-0ubuntu3
 libbluray2:amd64	1:1.3.4-1
 libboost-iostreams1.74.0:amd64	1.74.0+ds1-23ubuntu3
 libboost-locale1.74.0:amd64	1.74.0+ds1-23ubuntu3
-libboost-regex1.74.0:amd64	1.74.0+ds1-23ubuntu3
 libboost-thread1.74.0:amd64	1.74.0+ds1-23ubuntu3
 libbpf1:amd64	1:1.3.0-2
 libbrlapi0.8:amd64	6.6-4ubuntu1
@@ -796,7 +795,7 @@ liblerc4:amd64	4.0.0+ds-4ubuntu1
 liblightdm-gobject-1-0:amd64	1.30.0-0ubuntu8
 liblilv-0-0:amd64	0.24.22-1
 liblirc-client0:amd64	0.10.1-7.4
-libllvm17:amd64	1:17.0.6-2
+libllvm17:amd64	1:17.0.6-3
 liblmdb0:amd64	0.9.31-1
 liblocale-gettext-perl	1.07-6
 liblouis-data	3.27.0-1
@@ -886,7 +885,7 @@ libnvme1	1.6-1
 libnvpair3linux	2.2.2-0ubuntu2
 libodfgen-0.1-1:amd64	0.1.8-2build2
 libogg0:amd64	1.3.5-3
-libonig5:amd64	6.9.8-2
+libonig5:amd64	6.9.9-1
 liboobs-1-5:amd64	3.0.0-4
 libopenexr-3-1-30:amd64	3.1.5-5.1
 libopengl0:amd64	1.7.0-1
@@ -1044,8 +1043,8 @@ libsoup-3.0-common	3.4.4-2
 libsoup-gnome2.4-1:amd64	2.74.3-2
 libsoup2.4-1:amd64	2.74.3-2
 libsoup2.4-common	2.74.3-2
-libsource-highlight-common	3.1.9-4.2build1
-libsource-highlight4v5:amd64	3.1.9-4.2build1
+libsource-highlight-common	3.1.9-4.2build2
+libsource-highlight4v5:amd64	3.1.9-4.2build2
 libsoxr0:amd64	0.1.3-4build2
 libspa-0.2-bluetooth:amd64	1.0.0-1ubuntu1
 libspa-0.2-modules:amd64	1.0.0-1ubuntu1
@@ -1058,8 +1057,8 @@ libsqlite3-0:amd64	3.44.2-1
 libsratom-0-0:amd64	0.6.16-1
 libsrt1.5-gnutls:amd64	1.5.3-1
 libss2:amd64	1.47.0-2ubuntu1
-libssh-4:amd64	0.10.5-3ubuntu1
-libssh-gcrypt-4:amd64	0.10.5-3ubuntu1
+libssh-4:amd64	0.10.5-3ubuntu2
+libssh-gcrypt-4:amd64	0.10.5-3ubuntu2
 libssl3:amd64	3.0.10-1ubuntu3
 libstartup-notification0:amd64	0.12-6build2
 libstdc++6:amd64	13.2.0-9ubuntu1
@@ -1166,7 +1165,7 @@ libwebpmux3:amd64	1.3.2-0.3
 libwebrtc-audio-processing1:amd64	0.3.1-0ubuntu5
 libwhoopsie-preferences0	23
 libwhoopsie0:amd64	0.2.77
-libwireplumber-0.4-0:amd64	0.4.14-4ubuntu1
+libwireplumber-0.4-0:amd64	0.4.17-1
 libwmf-0.2-7:amd64	0.2.13-1.1
 libwmflite-0.2-7:amd64	0.2.13-1.1
 libwnck-3-0:amd64	43.0-3
@@ -1534,7 +1533,7 @@ thunar-archive-plugin:amd64	0.5.2-1
 thunar-data	4.18.8-1
 thunar-media-tags-plugin:amd64	0.4.0-1
 thunar-volman	4.18.0-1
-thunderbird	1:115.6.0+build1-0ubuntu1
+thunderbird	1:115.6.0+build2-0ubuntu1
 time	1.9-0.2
 tnftp	20230507-2
 tpm-udev	0.6ubuntu1
@@ -1546,11 +1545,11 @@ tumbler-common	4.18.1-1
 tzdata	2023c-9ubuntu1
 tzdata-icu	2023c-9ubuntu1
 tzdata-legacy	2023c-9ubuntu1
-ubiquity	24.04.1
-ubiquity-casper	1.489
-ubiquity-frontend-gtk	24.04.1
+ubiquity	24.04.2
+ubiquity-casper	1.490
+ubiquity-frontend-gtk	24.04.2
 ubiquity-slideshow-xubuntu	196
-ubiquity-ubuntu-artwork	24.04.1
+ubiquity-ubuntu-artwork	24.04.2
 ubuntu-advantage-desktop-daemon	1.10
 ubuntu-advantage-tools	30.1
 ubuntu-drivers-common	1:0.9.7.6
@@ -1594,7 +1593,7 @@ whoopsie	0.2.77
 whoopsie-preferences	23
 wireless-regdb	2022.06.06-0ubuntu2
 wireless-tools	30~pre9-13.1ubuntu4
-wireplumber	0.4.14-4ubuntu1
+wireplumber	0.4.17-1
 wpasupplicant	2:2.10-20
 x11-apps	7.7+11
 x11-common	1:7.7+23ubuntu2
@@ -1702,7 +1701,7 @@ zlib1g:amd64	1:1.2.13.dfsg-1ubuntu5
 zstd	1.5.5+dfsg2-2
 snap:core22	stable	1033
 snap:snapd	stable	20290
-snap:firefox	stable/ubuntu-24.04	3506
+snap:firefox	stable/ubuntu-24.04	3551
 snap:gnome-42-2204	stable/ubuntu-24.04	141
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
