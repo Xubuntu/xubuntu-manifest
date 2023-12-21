@@ -12,7 +12,7 @@ anacron	2.3-39ubuntu1
 apparmor	4.0.0~alpha2-0ubuntu7
 apport	2.27.0-0ubuntu6
 apport-symptoms	0.24
-appstream	1.0.1-1
+appstream	1.0.1-2
 apt	2.7.6
 apt-utils	2.7.6
 aspell	0.60.8-6
@@ -86,14 +86,14 @@ debconf	1.5.82
 debconf-i18n	1.5.82
 debianutils	5.14
 desktop-file-utils	0.26-1ubuntu5
-dhcpcd-base	1:10.0.5-5
+dhcpcd-base	1:10.0.6-1
 dictionaries-common	1.29.7
 diffutils	1:3.10-1
 dirmngr	2.2.40-1.1ubuntu1
 distro-info	1.7
 distro-info-data	0.60
 dmeventd	2:1.02.185-2ubuntu1
-dmidecode	3.5-2
+dmidecode	3.5-3
 dmraid	1.0.0.rc16-12ubuntu1
 dmsetup	2:1.02.185-2ubuntu1
 dmz-cursor-theme	0.4.5ubuntu1
@@ -166,7 +166,7 @@ gir1.2-packagekitglib-1.0	1.2.8-1build1
 gir1.2-pango-1.0:amd64	1.51.0+ds-3
 gir1.2-soup-2.4:amd64	2.74.3-2
 gir1.2-timezonemap-1.0:amd64	0.4.6-6
-gir1.2-vte-2.91:amd64	0.74.1-1
+gir1.2-vte-2.91:amd64	0.74.1-1build1
 gir1.2-webkit2-4.0:amd64	2.42.4-1
 gir1.2-xfconf-0:amd64	4.18.1-1
 gir1.2-xkl-1.0:amd64	5.4-5
@@ -201,10 +201,10 @@ grub-pc	2.12~rc1-12ubuntu4
 grub-pc-bin	2.12~rc1-12ubuntu4
 grub2-common	2.12~rc1-12ubuntu4
 gsettings-desktop-schemas	45.0-1ubuntu1
-gstreamer1.0-gl:amd64	1.22.7-1
-gstreamer1.0-plugins-base:amd64	1.22.7-1
+gstreamer1.0-gl:amd64	1.22.8-1
+gstreamer1.0-plugins-base:amd64	1.22.8-1
 gstreamer1.0-plugins-good:amd64	1.22.6-1ubuntu2
-gstreamer1.0-x:amd64	1.22.7-1
+gstreamer1.0-x:amd64	1.22.8-1
 gtk-update-icon-cache	3.24.38-5ubuntu2
 gtk2-engines-murrine:amd64	0.98.2-3build2
 gtk2-engines-pixbuf:amd64	2.24.33-2ubuntu2
@@ -244,7 +244,7 @@ isc-dhcp-common	4.4.3-P1-4ubuntu1
 iso-codes	4.15.0-1
 iucode-tool	2.3.1-3
 jfsutils	1.1.15-5build3
-jq	1.7-1
+jq	1.7.1-2
 kbd	2.5.1-1ubuntu1
 kerneloops	0.12+git20140509-6ubuntu5
 keyboard-configuration	1.222ubuntu1
@@ -303,12 +303,12 @@ libacl1:amd64	2.3.1-3
 libaio1:amd64	0.3.113-5
 libaom3:amd64	3.7.1-1
 libapparmor1:amd64	4.0.0~alpha2-0ubuntu7
-libappstream5:amd64	1.0.1-1
+libappstream5:amd64	1.0.1-2
 libapt-pkg6.0:amd64	2.7.6
 libarchive13:amd64	3.7.2-1ubuntu2
 libargon2-1:amd64	0~20190702+dfsg-4
-libasound2:amd64	1.2.10-2
-libasound2-data	1.2.10-2
+libasound2:amd64	1.2.10-3
+libasound2-data	1.2.10-3
 libasound2-plugins:amd64	1.2.7.1-1ubuntu2
 libaspell15:amd64	0.60.8-6
 libassuan0:amd64	2.5.6-1
@@ -319,7 +319,7 @@ libatk1.0-0:amd64	2.50.0-1
 libatkmm-1.6-1v5:amd64	2.28.3-2
 libatm1:amd64	1:2.5.1-4build2
 libatomic1:amd64	13.2.0-9ubuntu1
-libatopology2:amd64	1.2.10-2
+libatopology2:amd64	1.2.10-3
 libatspi2.0-0:amd64	2.50.0-1
 libattr1:amd64	1:2.5.1-4
 libaudit-common	1:3.1.2-1
@@ -501,10 +501,10 @@ libgs10:amd64	10.02.1~dfsg1-0ubuntu1
 libgs10-common	10.02.1~dfsg1-0ubuntu1
 libgsm1:amd64	1.0.22-1
 libgssapi-krb5-2:amd64	1.20.1-5build1
-libgstreamer-gl1.0-0:amd64	1.22.7-1
-libgstreamer-plugins-base1.0-0:amd64	1.22.7-1
+libgstreamer-gl1.0-0:amd64	1.22.8-1
+libgstreamer-plugins-base1.0-0:amd64	1.22.8-1
 libgstreamer-plugins-good1.0-0:amd64	1.22.6-1ubuntu2
-libgstreamer1.0-0:amd64	1.22.7-1
+libgstreamer1.0-0:amd64	1.22.8-1
 libgtk-3-0:amd64	3.24.38-5ubuntu2
 libgtk-3-bin	3.24.38-5ubuntu2
 libgtk-3-common	3.24.38-5ubuntu2
@@ -544,6 +544,7 @@ libhwy1:amd64	1.0.7-8
 libhyphen0:amd64	2.8.8-7build2
 libice6:amd64	2:1.0.10-1build2
 libicu72:amd64	72.1-4ubuntu1
+libicu74:amd64	74.2-1ubuntu1
 libid3tag0:amd64	0.15.1b-14
 libidn12:amd64	1.41-1
 libidn2-0:amd64	2.3.4-1build1
@@ -576,7 +577,7 @@ libjpeg-progs	1:9e-1
 libjpeg-turbo8:amd64	2.1.5-2ubuntu1
 libjpeg8:amd64	8c-2ubuntu11
 libjpeg9:amd64	1:9e-1
-libjq1:amd64	1.7-1
+libjq1:amd64	1.7.1-2
 libjson-c5:amd64	0.17-1
 libjson-glib-1.0-0:amd64	1.8.0-2
 libjson-glib-1.0-common	1.8.0-2
@@ -658,7 +659,7 @@ libnss-mdns:amd64	0.15.1-3
 libnss-nis:amd64	3.1-0ubuntu6
 libnss-nisplus:amd64	1.3-0ubuntu6
 libnss-systemd:amd64	253.5-1ubuntu7
-libnss3:amd64	2:3.95-1
+libnss3:amd64	2:3.96.1-1
 libntfs-3g89:amd64	1:2022.10.3-1ubuntu1
 libnuma1:amd64	2.0.16-1
 libnvme1	1.6-1
@@ -842,8 +843,8 @@ libvorbisenc2:amd64	1.3.7-1build2
 libvorbisfile3:amd64	1.3.7-1build2
 libvpl2	2023.3.0-1
 libvpx8:amd64	1.13.1-2ubuntu1
-libvte-2.91-0:amd64	0.74.1-1
-libvte-2.91-common	0.74.1-1
+libvte-2.91-0:amd64	0.74.1-1build1
+libvte-2.91-common	0.74.1-1build1
 libvulkan1:amd64	1.3.268.0-1
 libwacom-common	2.8.0-1
 libwacom9:amd64	2.8.0-1
@@ -852,7 +853,7 @@ libwayland-client0:amd64	1.22.0-2.1
 libwayland-cursor0:amd64	1.22.0-2.1
 libwayland-egl1:amd64	1.22.0-2.1
 libwayland-server0:amd64	1.22.0-2.1
-libwbclient0:amd64	2:4.18.6+dfsg-1ubuntu2.1
+libwbclient0:amd64	2:4.18.6+dfsg-1ubuntu2.2
 libwebkit2gtk-4.0-37:amd64	2.42.4-1
 libwebkit2gtk-4.1-0:amd64	2.42.4-1
 libwebp7:amd64	1.3.2-0.3
@@ -967,7 +968,6 @@ lsb-release	12.0-2
 lshw	02.19.git.2021.06.19.996aaad9c7-2build1
 lsof	4.95.0-1
 lvm2	2.03.16-2ubuntu1
-mailcap	3.70+nmu1ubuntu1
 man-db	2.12.0-1
 manpages	6.03-2
 mate-polkit	1.26.1-4
@@ -978,7 +978,6 @@ memtest86+	6.20-3
 mesa-va-drivers:amd64	23.3.0-2ubuntu3
 mesa-vdpau-drivers:amd64	23.3.0-2ubuntu3
 mesa-vulkan-drivers:amd64	23.3.0-2ubuntu3
-mime-support	3.66
 mobile-broadband-provider-info	20230416-1
 modemmanager	1.20.6-1ubuntu2
 mokutil	0.6.0-2
@@ -1080,7 +1079,7 @@ python3-gdbm:amd64	3.11.5-1
 python3-gi	3.46.0-1build1
 python3-gi-cairo	3.46.0-1build1
 python3-httplib2	0.20.4-3
-python3-icu	2.12-1
+python3-icu	2.12-1build1
 python3-idna	3.3-2
 python3-jwt	2.7.0-1
 python3-launchpadlib	1.11.0-1ubuntu1
@@ -1095,7 +1094,7 @@ python3-oauthlib	3.2.2-1
 python3-olefile	0.46-3
 python3-pam	0.4.2-18build1
 python3-pexpect	4.8.0-4ubuntu1
-python3-pil:amd64	10.0.0-1
+python3-pil:amd64	10.1.0-1
 python3-pkg-resources	68.1.2-2
 python3-problem-report	2.27.0-0ubuntu6
 python3-ptyprocess	0.7.0-5
@@ -1144,12 +1143,12 @@ sudo	1.9.14p2-1ubuntu1
 synaptic	0.91.3
 systemd	253.5-1ubuntu7
 systemd-dev	253.5-1ubuntu7
-systemd-hwe-hwdb	255.1.1
+systemd-hwe-hwdb	255.1.2
 systemd-resolved	253.5-1ubuntu7
 systemd-sysv	253.5-1ubuntu7
 systemd-timesyncd	253.5-1ubuntu7
 sysvinit-utils	3.08-3ubuntu1
-tar	1.34+dfsg-1.2ubuntu2
+tar	1.34+dfsg-1.4
 tcl	8.6.13
 tcl8.6	8.6.13+dfsg-2
 tcpdump	4.99.4-3ubuntu1
@@ -1247,7 +1246,7 @@ xfonts-base	1:1.0.5+nmu1
 xfonts-encodings	1:1.0.5-0ubuntu2
 xfonts-scalable	1:1.0.3-1.3
 xfonts-utils	1:7.7+6build2
-xfsprogs	6.5.0-1ubuntu1
+xfsprogs	6.5.0-1ubuntu2
 xfwm4	4.18.0-1
 xiccd	0.3.0-2
 xinit	1.4.1-0ubuntu4
@@ -1289,5 +1288,5 @@ zfs-initramfs	2.2.2-0ubuntu2
 zfs-zed	2.2.2-0ubuntu2
 zfsutils-linux	2.2.2-0ubuntu2
 zip	3.0-13
-zlib1g:amd64	1:1.2.13.dfsg-1ubuntu5
+zlib1g:amd64	1:1.3.dfsg-3ubuntu1
 zstd	1.5.5+dfsg2-2
