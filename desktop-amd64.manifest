@@ -21,7 +21,7 @@ aptdaemon	1.1.1+bzr982-0ubuntu44
 aptdaemon-data	1.1.1+bzr982-0ubuntu44
 apturl	0.5.2ubuntu22
 apturl-common	0.5.2ubuntu22
-aspell	0.60.8-6
+aspell	0.60.8.1-1
 aspell-en	2020.12.07-0-1
 at-spi2-common	2.50.0-1
 at-spi2-core	2.50.0-1
@@ -136,15 +136,15 @@ engrampa	1.26.0-1ubuntu1
 engrampa-common	1.26.0-1ubuntu1
 espeak	1.48.15+dfsg-3
 espeak-data:amd64	1.48.15+dfsg-3
-espeak-ng-data:amd64	1.51+dfsg-11
+espeak-ng-data:amd64	1.51+dfsg-12
 exo-utils	4.18.0-1
 fdisk	2.39.2-6ubuntu1
 feh	3.10.1-1
 file	1:5.45-2
 finalrd	9build1
 findutils	4.9.0-5
-firefox	1:1snap1-0ubuntu3
-firefox-locale-en	1:1snap1-0ubuntu3
+firefox	1:1snap1-0ubuntu5
+firefox-locale-en	1:1snap1-0ubuntu5
 firmware-sof-signed	2.2.6-1ubuntu4
 fontconfig	2.14.2-6ubuntu1
 fontconfig-config	2.14.2-6ubuntu1
@@ -172,7 +172,7 @@ fuse3	3.14.0-4
 fwupd	1.9.10-1
 fwupd-signed	1.52+1.4-1
 gcc-13-base:amd64	13.2.0-9ubuntu1
-gcr	3.41.1-3
+gcr	3.41.1-4
 gdb	14.1-0ubuntu1
 gettext-base	0.21-14
 ghostscript	10.02.1~dfsg1-0ubuntu1
@@ -192,7 +192,7 @@ gir1.2-glib-2.0:amd64	1.78.1-5
 gir1.2-gmenu-3.0:amd64	3.36.0-1.1ubuntu1
 gir1.2-goa-1.0:amd64	3.48.0-2
 gir1.2-gst-plugins-base-1.0:amd64	1.22.8-1
-gir1.2-gstreamer-1.0:amd64	1.22.7-1
+gir1.2-gstreamer-1.0:amd64	1.22.8-1
 gir1.2-gtk-3.0:amd64	3.24.38-5ubuntu2
 gir1.2-gtkclutter-1.0:amd64	1.8.4-4build2
 gir1.2-handy-1:amd64	1.8.2-3
@@ -267,7 +267,7 @@ gstreamer1.0-gtk3:amd64	1.22.6-1ubuntu2
 gstreamer1.0-libav:amd64	1.22.8-1
 gstreamer1.0-plugins-base:amd64	1.22.8-1
 gstreamer1.0-plugins-good:amd64	1.22.6-1ubuntu2
-gstreamer1.0-tools	1.22.7-1
+gstreamer1.0-tools	1.22.8-1
 gstreamer1.0-x:amd64	1.22.8-1
 gtk-update-icon-cache	3.24.38-5ubuntu2
 gtk2-engines-murrine:amd64	0.98.2-3build2
@@ -395,7 +395,7 @@ libargon2-1:amd64	0~20190702+dfsg-4
 libasound2:amd64	1.2.10-3
 libasound2-data	1.2.10-3
 libasound2-plugins:amd64	1.2.7.1-1ubuntu2
-libaspell15:amd64	0.60.8-6
+libaspell15:amd64	0.60.8.1-1
 libass9:amd64	1:0.17.1-2
 libassuan0:amd64	2.5.6-1
 libasyncns0:amd64	0.8-6build3
@@ -403,7 +403,7 @@ libatasmart4:amd64	0.19-5build2
 libatk-bridge2.0-0:amd64	2.50.0-1
 libatk1.0-0:amd64	2.50.0-1
 libatkmm-1.6-1v5:amd64	2.28.3-2
-libatm1:amd64	1:2.5.1-4build2
+libatm1:amd64	1:2.5.1-5
 libatomic1:amd64	13.2.0-9ubuntu1
 libatopology2:amd64	1.2.10-3
 libatrildocument3	1.26.0-2fakesync1
@@ -442,7 +442,7 @@ libblockdev-utils3:amd64	3.0.4-1
 libblockdev3:amd64	3.0.4-1
 libbluetooth3:amd64	5.70-0ubuntu3
 libbluray2:amd64	1:1.3.4-1
-libboost-iostreams1.74.0:amd64	1.74.0+ds1-23ubuntu3
+libboost-iostreams1.83.0:amd64	1.83.0-1ubuntu3
 libboost-locale1.74.0:amd64	1.74.0+ds1-23ubuntu3
 libboost-thread1.74.0:amd64	1.74.0+ds1-23ubuntu3
 libbpf1:amd64	1:1.3.0-2
@@ -561,7 +561,7 @@ libeot0:amd64	0.01-5build2
 libepoxy0:amd64	1.5.10-1
 libept1.6.0:amd64	1.2.1
 libepubgen-0.1-1:amd64	0.1.1-1ubuntu5
-libespeak-ng1:amd64	1.51+dfsg-11
+libespeak-ng1:amd64	1.51+dfsg-12
 libespeak1:amd64	1.48.15+dfsg-3
 libestr0:amd64	0.1.11-1
 libetonyek-0.1-1:amd64	0.1.10-5
@@ -608,9 +608,9 @@ libgarcon-common	4.18.1-1
 libgarcon-gtk3-1-0:amd64	4.18.1-1
 libgbm1:amd64	23.3.0-2ubuntu3
 libgcc-s1:amd64	13.2.0-9ubuntu1
-libgck-1-0:amd64	3.41.1-3
-libgcr-base-3-1:amd64	3.41.1-3
-libgcr-ui-3-1:amd64	3.41.1-3
+libgck-1-0:amd64	3.41.1-4
+libgcr-base-3-1:amd64	3.41.1-4
+libgcr-ui-3-1:amd64	3.41.1-4
 libgcrypt20:amd64	1.10.2-3ubuntu1
 libgd3:amd64	2.3.3-9ubuntu1
 libgdata-common	0.18.1-3
@@ -676,7 +676,7 @@ libgssapi-krb5-2:amd64	1.20.1-5build1
 libgstreamer-gl1.0-0:amd64	1.22.8-1
 libgstreamer-plugins-base1.0-0:amd64	1.22.8-1
 libgstreamer-plugins-good1.0-0:amd64	1.22.6-1ubuntu2
-libgstreamer1.0-0:amd64	1.22.7-1
+libgstreamer1.0-0:amd64	1.22.8-1
 libgtk-3-0:amd64	3.24.38-5ubuntu2
 libgtk-3-bin	3.24.38-5ubuntu2
 libgtk-3-common	3.24.38-5ubuntu2
@@ -791,7 +791,7 @@ libldacbt-abr2:amd64	2.0.2.3+git20200429+ed310a0-4ubuntu1
 libldacbt-enc2:amd64	2.0.2.3+git20200429+ed310a0-4ubuntu1
 libldap-common	2.6.6+dfsg-1~exp1ubuntu1
 libldap2:amd64	2.6.6+dfsg-1~exp1ubuntu1
-libldb2:amd64	2:2.7.2+samba4.18.6+dfsg-1ubuntu2.1
+libldb2:amd64	2:2.7.2+samba4.18.6+dfsg-1ubuntu2.2
 liblerc4:amd64	4.0.0+ds-4ubuntu1
 liblightdm-gobject-1-0:amd64	1.30.0-0ubuntu8
 liblilv-0-0:amd64	0.24.22-1
@@ -894,8 +894,8 @@ libopenjp2-7:amd64	2.5.0-2
 libopenmpt0:amd64	0.7.3-1
 libopus0:amd64	1.4-1
 liborc-0.4-0:amd64	1:0.4.34-3
-liborcus-0.18-0:amd64	0.19.2-3
-liborcus-parser-0.18-0:amd64	0.19.2-3
+liborcus-0.18-0:amd64	0.19.2-3build1
+liborcus-parser-0.18-0:amd64	0.19.2-3build1
 libp11-kit0:amd64	0.25.3-2ubuntu2
 libpackagekit-glib2-18:amd64	1.2.8-1build1
 libpagemaker-0.0-0:amd64	0.0.4-1build3
@@ -1030,7 +1030,7 @@ libsigc++-3.0-0:amd64	3.6.0-1
 libslang2:amd64	2.3.3-3
 libsm6:amd64	2:1.2.3-1build2
 libsmartcols1:amd64	2.39.2-6ubuntu1
-libsmbclient:amd64	2:4.18.6+dfsg-1ubuntu2.1
+libsmbclient:amd64	2:4.18.6+dfsg-1ubuntu2.2
 libsnapd-glib-2-1:amd64	1.64-0ubuntu2
 libsnappy1v5:amd64	1.1.10-1
 libsndfile1:amd64	1.2.2-1ubuntu2
@@ -1157,7 +1157,7 @@ libwayland-client0:amd64	1.22.0-2.1
 libwayland-cursor0:amd64	1.22.0-2.1
 libwayland-egl1:amd64	1.22.0-2.1
 libwayland-server0:amd64	1.22.0-2.1
-libwbclient0:amd64	2:4.18.6+dfsg-1ubuntu2.1
+libwbclient0:amd64	2:4.18.6+dfsg-1ubuntu2.2
 libwebkit2gtk-4.0-37:amd64	2.42.4-1
 libwebkit2gtk-4.1-0:amd64	2.42.4-1
 libwebp7:amd64	1.3.2-0.3
@@ -1479,7 +1479,7 @@ ristretto	0.13.1-1
 rsync	3.2.7-1
 rsyslog	8.2306.0-2ubuntu2
 rtkit	0.13-5
-samba-libs:amd64	2:4.18.6+dfsg-1ubuntu2.1
+samba-libs:amd64	2:4.18.6+dfsg-1ubuntu2.2
 sane-airscan	0.99.27-1build1
 sane-utils	1.2.1-7
 sbsigntool	0.9.4-3.1ubuntu4
@@ -1696,7 +1696,7 @@ zfs-initramfs	2.2.2-0ubuntu2
 zfs-zed	2.2.2-0ubuntu2
 zfsutils-linux	2.2.2-0ubuntu2
 zip	3.0-13
-zlib1g:amd64	1:1.2.13.dfsg-1ubuntu5
+zlib1g:amd64	1:1.3.dfsg-3ubuntu1
 zstd	1.5.5+dfsg2-2
 snap:core22	stable	1033
 snap:snapd	stable	20290
