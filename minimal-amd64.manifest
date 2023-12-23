@@ -50,7 +50,7 @@ command-not-found	23.04.0
 console-setup	1.222ubuntu1
 console-setup-linux	1.222ubuntu1
 coreutils	9.4-2ubuntu1
-cpio	2.13+dfsg-7.1
+cpio	2.14+dfsg-1
 cpp	4:13.2.0-2ubuntu1
 cpp-13	13.2.0-9ubuntu1
 cron	3.0pl1-178ubuntu1
@@ -135,7 +135,7 @@ fonts-noto-core	20201225-2
 fonts-noto-hinted	20201225-2
 fonts-noto-mono	20201225-2
 fonts-noto-ui-core	20201225-2
-fonts-opensymbol	4:102.12+LibO7.6.4-0ubuntu1
+fonts-opensymbol	4:102.12+LibO7.6.4-0ubuntu3
 fonts-symbola	2.60-1.1
 fonts-ubuntu	0.869-0ubuntu1
 fonts-urw-base35	20200910-7
@@ -203,7 +203,7 @@ grub2-common	2.12~rc1-12ubuntu4
 gsettings-desktop-schemas	45.0-1ubuntu1
 gstreamer1.0-gl:amd64	1.22.8-1
 gstreamer1.0-plugins-base:amd64	1.22.8-1
-gstreamer1.0-plugins-good:amd64	1.22.6-1ubuntu2
+gstreamer1.0-plugins-good:amd64	1.22.8-3ubuntu1
 gstreamer1.0-x:amd64	1.22.8-1
 gtk-update-icon-cache	3.24.38-5ubuntu2
 gtk2-engines-murrine:amd64	0.98.2-3build2
@@ -229,7 +229,7 @@ init-system-helpers	1.65.2ubuntu1
 initramfs-tools	0.142ubuntu19
 initramfs-tools-bin	0.142ubuntu19
 initramfs-tools-core	0.142ubuntu19
-inputattach	1:1.8.1-1
+inputattach	1:1.8.1-2
 install-info	7.1-2
 intel-media-va-driver:amd64	23.4.2+dfsg1-1
 intel-microcode	3.20231114.1
@@ -503,7 +503,7 @@ libgsm1:amd64	1.0.22-1
 libgssapi-krb5-2:amd64	1.20.1-5build1
 libgstreamer-gl1.0-0:amd64	1.22.8-1
 libgstreamer-plugins-base1.0-0:amd64	1.22.8-1
-libgstreamer-plugins-good1.0-0:amd64	1.22.6-1ubuntu2
+libgstreamer-plugins-good1.0-0:amd64	1.22.8-3ubuntu1
 libgstreamer1.0-0:amd64	1.22.8-1
 libgtk-3-0:amd64	3.24.38-5ubuntu2
 libgtk-3-bin	3.24.38-5ubuntu2
