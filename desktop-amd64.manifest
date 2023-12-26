@@ -409,7 +409,7 @@ libatopology2:amd64	1.2.10-3
 libatrildocument3	1.26.0-2fakesync1
 libatrilview3	1.26.0-2fakesync1
 libatspi2.0-0:amd64	2.50.0-1
-libattr1:amd64	1:2.5.1-4
+libattr1:amd64	1:2.5.1-5
 libaudit-common	1:3.1.2-1
 libaudit1:amd64	1:3.1.2-1
 libauthen-sasl-perl	2.1700-1
@@ -664,7 +664,7 @@ libgpm2:amd64	1.20.7-10build1
 libgpod-common	0.8.3-19
 libgpod4:amd64	0.8.3-19
 libgraphene-1.0-0:amd64	1.10.8-2
-libgraphite2-3:amd64	1.3.14-1build2
+libgraphite2-3:amd64	1.3.14-2
 libgrilo-0.3-0:amd64	0.3.16-1
 libgs-common	10.02.1~dfsg1-0ubuntu1
 libgs10:amd64	10.02.1~dfsg1-0ubuntu1
