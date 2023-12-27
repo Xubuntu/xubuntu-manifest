@@ -224,8 +224,8 @@ hunspell-en-us	1:2020.12.07-2
 i965-va-driver:amd64	2.4.1+dfsg1-1build1
 inetutils-telnet	2:2.4-3ubuntu1
 info	7.1-2
-init	1.65.2ubuntu1
-init-system-helpers	1.65.2ubuntu1
+init	1.66ubuntu1
+init-system-helpers	1.66ubuntu1
 initramfs-tools	0.142ubuntu19
 initramfs-tools-bin	0.142ubuntu19
 initramfs-tools-core	0.142ubuntu19
@@ -725,7 +725,7 @@ libpython3.11-stdlib:amd64	3.11.7-2
 libqmi-glib5:amd64	1.32.4-2ubuntu1
 libqmi-proxy	1.32.4-2ubuntu1
 libqmi-utils	1.32.4-2ubuntu1
-libqpdf29:amd64	11.6.4-1
+libqpdf29:amd64	11.7.0-2
 libraqm0:amd64	0.10.1-1
 librav1e0:amd64	0.6.6-4
 libraw1394-11:amd64	2.1.2-2build2
