@@ -65,7 +65,7 @@ colord-data	1.4.6-4
 command-not-found	23.04.0
 console-setup	1.222ubuntu1
 console-setup-linux	1.222ubuntu1
-coreutils	9.4-2ubuntu1
+coreutils	9.4-2ubuntu2
 cpdb-backend-cups	2.0~b5-0ubuntu2
 cpio	2.14+dfsg-1
 cpp	4:13.2.0-2ubuntu1
@@ -465,7 +465,7 @@ libcairo-script-interpreter2:amd64	1.18.0-1
 libcairo2:amd64	1.18.0-1
 libcairomm-1.0-1v5:amd64	1.14.5-1
 libcairomm-1.16-1:amd64	1.18.0-1
-libcaja-extension1:amd64	1.26.1-1
+libcaja-extension1:amd64	1.26.3-1
 libcamd3:amd64	1:7.3.1+dfsg-2
 libcanberra-gtk3-0:amd64	0.30-10ubuntu4
 libcanberra-gtk3-module:amd64	0.30-10ubuntu4
@@ -523,7 +523,7 @@ libdbus-glib-1-2:amd64	0.112-3
 libdbusmenu-glib4:amd64	18.10.20180917~bzr492+repack1-3.1ubuntu1
 libdbusmenu-gtk3-4:amd64	18.10.20180917~bzr492+repack1-3.1ubuntu1
 libdconf1:amd64	0.40.0-4
-libde265-0:amd64	1.0.13-1
+libde265-0:amd64	1.0.15-1
 libdebconfclient0:amd64	0.271ubuntu1
 libdebian-installer4:amd64	0.124ubuntu1
 libdebuginfod-common	0.190-1
@@ -820,7 +820,7 @@ libmailtools-perl	2.21-2
 libmalcontent-0-0:amd64	0.11.1-1build1
 libmanette-0.2-0:amd64	0.2.6-3build1
 libmaxminddb0:amd64	1.8.0-1
-libmbedcrypto7:amd64	2.28.3-1
+libmbedcrypto7:amd64	2.28.6-1ubuntu1
 libmbim-glib4:amd64	1.30.0-1
 libmbim-proxy	1.30.0-1
 libmbim-utils	1.30.0-1
@@ -1429,7 +1429,7 @@ python3-httplib2	0.20.4-3
 python3-icu	2.12-1build1
 python3-idna	3.3-2
 python3-jwt	2.7.0-1
-python3-launchpadlib	1.11.0-1ubuntu1
+python3-launchpadlib	1.11.0-2
 python3-lazr.restfulclient	0.14.5-2
 python3-lazr.uri	1.0.6-3
 python3-mako	1.2.4+ds-2
