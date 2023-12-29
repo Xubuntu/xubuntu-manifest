@@ -1404,7 +1404,7 @@ python3-aptdaemon	1.1.1+bzr982-0ubuntu44
 python3-aptdaemon.gtk3widgets	1.1.1+bzr982-0ubuntu44
 python3-blinker	1.7.0-1
 python3-cairo:amd64	1.25.1-1
-python3-certifi	2023.7.22-1
+python3-certifi	2023.11.17-1
 python3-cffi	1.16.0-2
 python3-cffi-backend:amd64	1.16.0-2
 python3-chardet	5.2.0+dfsg-1
