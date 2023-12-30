@@ -150,9 +150,9 @@ gcr	3.41.1-4
 gettext-base	0.21-14
 ghostscript	10.02.1~dfsg1-0ubuntu1
 gir1.2-atk-1.0:amd64	2.50.0-1
-gir1.2-freedesktop:amd64	1.78.1-5
+gir1.2-freedesktop:amd64	1.78.1-6
 gir1.2-gdkpixbuf-2.0:amd64	2.42.10+dfsg-3
-gir1.2-glib-2.0:amd64	1.78.1-5
+gir1.2-glib-2.0:amd64	1.78.1-6
 gir1.2-goa-1.0:amd64	3.48.0-2
 gir1.2-gtk-3.0:amd64	3.24.38-5ubuntu2
 gir1.2-handy-1:amd64	1.8.2-3
@@ -466,7 +466,7 @@ libgdk-pixbuf-2.0-0:amd64	2.42.10+dfsg-3
 libgdk-pixbuf2.0-bin	2.42.10+dfsg-3
 libgdk-pixbuf2.0-common	2.42.10+dfsg-3
 libgif7:amd64	5.2.1-2.5
-libgirepository-1.0-1:amd64	1.78.1-5
+libgirepository-1.0-1:amd64	1.78.1-6
 libgl1:amd64	1.7.0-1
 libgl1-amber-dri:amd64	21.3.9-0ubuntu1
 libgl1-mesa-dri:amd64	23.3.0-2ubuntu3
@@ -821,7 +821,7 @@ libudev1:amd64	253.5-1ubuntu7
 libudisks2-0:amd64	2.10.1-1ubuntu2
 libunistring5:amd64	1.1-2
 libunwind8:amd64	1.6.2-3
-libupower-glib3:amd64	1.90.2-7
+libupower-glib3:amd64	1.90.2-8
 liburcu8:amd64	0.14.0-2
 liburi-perl	5.21-1
 libusb-1.0-0:amd64	2:1.0.26-1
@@ -1147,7 +1147,7 @@ systemd-resolved	253.5-1ubuntu7
 systemd-sysv	253.5-1ubuntu7
 systemd-timesyncd	253.5-1ubuntu7
 sysvinit-utils	3.08-3ubuntu1
-tar	1.34+dfsg-1.4
+tar	1.35+dfsg-2
 tcl	8.6.13
 tcl8.6	8.6.13+dfsg-2
 tcpdump	4.99.4-3ubuntu1
@@ -1186,7 +1186,7 @@ unattended-upgrades	2.9.1+nmu3ubuntu2
 unzip	6.0-28ubuntu1
 update-inetd	4.53
 update-manager-core	1:24.04.3
-upower	1.90.2-7
+upower	1.90.2-8
 usb-modeswitch	2.6.1-3ubuntu2
 usb-modeswitch-data	20191128-6
 usb.ids	2023.11.08-1
