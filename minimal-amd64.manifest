@@ -725,7 +725,7 @@ libpython3.11-stdlib:amd64	3.11.7-2
 libqmi-glib5:amd64	1.32.4-2ubuntu1
 libqmi-proxy	1.32.4-2ubuntu1
 libqmi-utils	1.32.4-2ubuntu1
-libqpdf29:amd64	11.7.0-3
+libqpdf29:amd64	11.7.0-4
 libraqm0:amd64	0.10.1-1
 librav1e0:amd64	0.6.6-4
 libraw1394-11:amd64	2.1.2-2build2
@@ -1137,7 +1137,7 @@ sound-theme-freedesktop	0.8-2ubuntu1
 spice-vdagent	0.22.1-4
 squashfs-tools	1:4.6.1-1
 ssl-cert	1.1.2ubuntu1
-strace	6.5-0.0ubuntu1
+strace	6.6-0ubuntu1
 sudo	1.9.14p2-1ubuntu1
 synaptic	0.91.3
 systemd	253.5-1ubuntu7
