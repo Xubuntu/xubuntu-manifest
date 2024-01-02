@@ -154,7 +154,7 @@ gir1.2-freedesktop:amd64	1.78.1-6
 gir1.2-gdkpixbuf-2.0:amd64	2.42.10+dfsg-3
 gir1.2-glib-2.0:amd64	1.78.1-6
 gir1.2-goa-1.0:amd64	3.48.0-2
-gir1.2-gtk-3.0:amd64	3.24.38-5ubuntu2
+gir1.2-gtk-3.0:amd64	3.24.39-1ubuntu1
 gir1.2-handy-1:amd64	1.8.2-3
 gir1.2-harfbuzz-0.0:amd64	8.0.1-1build1
 gir1.2-javascriptcoregtk-4.0:amd64	2.43.3-1
@@ -205,7 +205,7 @@ gstreamer1.0-gl:amd64	1.22.8-1
 gstreamer1.0-plugins-base:amd64	1.22.8-1
 gstreamer1.0-plugins-good:amd64	1.22.8-3ubuntu1
 gstreamer1.0-x:amd64	1.22.8-1
-gtk-update-icon-cache	3.24.38-5ubuntu2
+gtk-update-icon-cache	3.24.39-1ubuntu1
 gtk2-engines-murrine:amd64	0.98.2-3build2
 gtk2-engines-pixbuf:amd64	2.24.33-2ubuntu2
 gucharmap	1:15.1.2-1
@@ -505,9 +505,9 @@ libgstreamer-gl1.0-0:amd64	1.22.8-1
 libgstreamer-plugins-base1.0-0:amd64	1.22.8-1
 libgstreamer-plugins-good1.0-0:amd64	1.22.8-3ubuntu1
 libgstreamer1.0-0:amd64	1.22.8-1
-libgtk-3-0:amd64	3.24.38-5ubuntu2
-libgtk-3-bin	3.24.38-5ubuntu2
-libgtk-3-common	3.24.38-5ubuntu2
+libgtk-3-0:amd64	3.24.39-1ubuntu1
+libgtk-3-bin	3.24.39-1ubuntu1
+libgtk-3-common	3.24.39-1ubuntu1
 libgtk-layer-shell0	0.8.1-1
 libgtk2.0-0:amd64	2.24.33-2ubuntu2
 libgtk2.0-bin	2.24.33-2ubuntu2

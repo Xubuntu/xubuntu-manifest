@@ -193,7 +193,7 @@ gir1.2-gmenu-3.0:amd64	3.36.0-1.1ubuntu1
 gir1.2-goa-1.0:amd64	3.48.0-2
 gir1.2-gst-plugins-base-1.0:amd64	1.22.8-1
 gir1.2-gstreamer-1.0:amd64	1.22.8-1
-gir1.2-gtk-3.0:amd64	3.24.38-5ubuntu2
+gir1.2-gtk-3.0:amd64	3.24.39-1ubuntu1
 gir1.2-gtkclutter-1.0:amd64	1.8.4-4build2
 gir1.2-handy-1:amd64	1.8.2-3
 gir1.2-harfbuzz-0.0:amd64	8.0.1-1build1
@@ -269,7 +269,7 @@ gstreamer1.0-plugins-base:amd64	1.22.8-1
 gstreamer1.0-plugins-good:amd64	1.22.8-3ubuntu1
 gstreamer1.0-tools	1.22.8-1
 gstreamer1.0-x:amd64	1.22.8-1
-gtk-update-icon-cache	3.24.38-5ubuntu2
+gtk-update-icon-cache	3.24.39-1ubuntu1
 gtk2-engines-murrine:amd64	0.98.2-3build2
 gtk2-engines-pixbuf:amd64	2.24.33-2ubuntu2
 gucharmap	1:15.1.2-1
@@ -677,9 +677,9 @@ libgstreamer-gl1.0-0:amd64	1.22.8-1
 libgstreamer-plugins-base1.0-0:amd64	1.22.8-1
 libgstreamer-plugins-good1.0-0:amd64	1.22.8-3ubuntu1
 libgstreamer1.0-0:amd64	1.22.8-1
-libgtk-3-0:amd64	3.24.38-5ubuntu2
-libgtk-3-bin	3.24.38-5ubuntu2
-libgtk-3-common	3.24.38-5ubuntu2
+libgtk-3-0:amd64	3.24.39-1ubuntu1
+libgtk-3-bin	3.24.39-1ubuntu1
+libgtk-3-common	3.24.39-1ubuntu1
 libgtk-4-1:amd64	4.12.4+ds-3ubuntu1
 libgtk-4-bin	4.12.4+ds-3ubuntu1
 libgtk-4-common	4.12.4+ds-3ubuntu1
@@ -1330,9 +1330,9 @@ ntfs-3g	1:2022.10.3-1ubuntu1
 numix-gtk-theme	2.6.7-7
 numlockx	1.2-9
 ocl-icd-libopencl1:amd64	2.3.2-1
-onboard	1.4.1-5build7
-onboard-common	1.4.1-5build7
-onboard-data	1.4.1-5build7
+onboard	1.4.1-5ubuntu1
+onboard-common	1.4.1-5ubuntu1
+onboard-data	1.4.1-5ubuntu1
 openprinting-ppds	20230202-1
 openssh-client	1:9.4p1-1ubuntu1
 openssl	3.0.10-1ubuntu3
