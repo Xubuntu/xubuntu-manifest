@@ -331,8 +331,8 @@ libavahi-common3:amd64	0.8-13ubuntu2
 libavahi-core7:amd64	0.8-13ubuntu2
 libavahi-glib1:amd64	0.8-13ubuntu2
 libavc1394-0:amd64	0.5.4-5build2
-libavcodec60:amd64	7:6.1-5ubuntu1
-libavutil58:amd64	7:6.1-5ubuntu1
+libavcodec60:amd64	7:6.1.1-1ubuntu1
+libavutil58:amd64	7:6.1.1-1ubuntu1
 libayatana-appindicator3-1	0.5.93-1
 libayatana-ido3-0.4-0:amd64	0.10.1-1
 libayatana-indicator3-7:amd64	0.9.3-1.1
@@ -780,7 +780,7 @@ libstartup-notification0:amd64	0.12-6build2
 libstdc++6:amd64	13.2.0-9ubuntu1
 libstemmer0d:amd64	2.2.0-4
 libsvtav1enc1d1:amd64	1.7.0+dfsg-2
-libswresample4:amd64	7:6.1-5ubuntu1
+libswresample4:amd64	7:6.1.1-1ubuntu1
 libsystemd-shared:amd64	253.5-1ubuntu7
 libsystemd0:amd64	253.5-1ubuntu7
 libtag1v5:amd64	1.13.1-1
@@ -1153,7 +1153,7 @@ tcl8.6	8.6.13+dfsg-2
 tcpdump	4.99.4-3ubuntu1
 telnet	0.17+2.4-3ubuntu1
 thermald	2.5.4-3
-thin-provisioning-tools	0.9.0-2ubuntu1
+thin-provisioning-tools	0.9.0-2ubuntu2
 thunar	4.18.8-1
 thunar-data	4.18.8-1
 thunar-volman	4.18.0-1
@@ -1162,9 +1162,9 @@ tnftp	20230507-2
 tpm-udev	0.6ubuntu1
 tumbler:amd64	4.18.1-1
 tumbler-common	4.18.1-1
-tzdata	2023c-9ubuntu1
-tzdata-icu	2023c-9ubuntu1
-tzdata-legacy	2023c-9ubuntu1
+tzdata	2023d-1ubuntu1
+tzdata-icu	2023d-1ubuntu1
+tzdata-legacy	2023d-1ubuntu1
 ubiquity	24.04.2
 ubiquity-casper	1.490
 ubiquity-frontend-gtk	24.04.2

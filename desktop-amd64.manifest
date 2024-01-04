@@ -419,10 +419,10 @@ libavahi-common3:amd64	0.8-13ubuntu2
 libavahi-core7:amd64	0.8-13ubuntu2
 libavahi-glib1:amd64	0.8-13ubuntu2
 libavc1394-0:amd64	0.5.4-5build2
-libavcodec60:amd64	7:6.1-5ubuntu1
-libavfilter9:amd64	7:6.1-5ubuntu1
-libavformat60:amd64	7:6.1-5ubuntu1
-libavutil58:amd64	7:6.1-5ubuntu1
+libavcodec60:amd64	7:6.1.1-1ubuntu1
+libavfilter9:amd64	7:6.1.1-1ubuntu1
+libavformat60:amd64	7:6.1.1-1ubuntu1
+libavutil58:amd64	7:6.1.1-1ubuntu1
 libayatana-appindicator3-1	0.5.93-1
 libayatana-ido3-0.4-0:amd64	0.10.1-1
 libayatana-indicator3-7:amd64	0.9.3-1.1
@@ -573,8 +573,8 @@ libexo-2-0:amd64	4.18.0-1
 libexo-common	4.18.0-1
 libexpat1:amd64	2.5.0-2
 libext2fs2:amd64	1.47.0-2ubuntu1
-libexttextcat-2.0-0:amd64	3.4.6-1
-libexttextcat-data	3.4.6-1
+libexttextcat-2.0-0:amd64	3.4.7-1
+libexttextcat-data	3.4.7-1
 libextutils-depends-perl	0.8001-2
 libfastjson4:amd64	1.2304.0-1
 libfdisk1:amd64	2.39.2-6ubuntu1
@@ -946,7 +946,7 @@ libpoppler-glib8:amd64	23.12.0-1ubuntu2
 libpoppler133:amd64	23.12.0-1ubuntu2
 libpopt0:amd64	1.19+dfsg-1
 libportaudio2:amd64	19.6.0-1.2
-libpostproc57:amd64	7:6.1-5ubuntu1
+libpostproc57:amd64	7:6.1.1-1ubuntu1
 libppd2:amd64	2:2.0.0-0ubuntu1
 libppd2-common	2:2.0.0-0ubuntu1
 libproc2-0:amd64	2:4.0.4-2ubuntu1
@@ -1067,8 +1067,8 @@ libstdc++6:amd64	13.2.0-9ubuntu1
 libstemmer0d:amd64	2.2.0-4
 libsuitesparseconfig7:amd64	1:7.3.1+dfsg-2
 libsvtav1enc1d1:amd64	1.7.0+dfsg-2
-libswresample4:amd64	7:6.1-5ubuntu1
-libswscale7:amd64	7:6.1-5ubuntu1
+libswresample4:amd64	7:6.1.1-1ubuntu1
+libswscale7:amd64	7:6.1.1-1ubuntu1
 libsynctex2:amd64	2023.20230311.66589-8build1
 libsystemd-shared:amd64	253.5-1ubuntu7
 libsystemd0:amd64	253.5-1ubuntu7
@@ -1525,7 +1525,7 @@ tcl8.6	8.6.13+dfsg-2
 tcpdump	4.99.4-3ubuntu1
 telnet	0.17+2.4-3ubuntu1
 thermald	2.5.4-3
-thin-provisioning-tools	0.9.0-2ubuntu1
+thin-provisioning-tools	0.9.0-2ubuntu2
 thunar	4.18.8-1
 thunar-archive-plugin:amd64	0.5.2-1
 thunar-data	4.18.8-1
@@ -1540,9 +1540,9 @@ transmission-gtk	4.0.2-1ubuntu3
 tree	2.1.1-2
 tumbler:amd64	4.18.1-1
 tumbler-common	4.18.1-1
-tzdata	2023c-9ubuntu1
-tzdata-icu	2023c-9ubuntu1
-tzdata-legacy	2023c-9ubuntu1
+tzdata	2023d-1ubuntu1
+tzdata-icu	2023d-1ubuntu1
+tzdata-legacy	2023d-1ubuntu1
 ubiquity	24.04.2
 ubiquity-casper	1.490
 ubiquity-frontend-gtk	24.04.2
