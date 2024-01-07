@@ -209,10 +209,10 @@ gtk-update-icon-cache	3.24.39-1ubuntu1
 gtk2-engines-murrine:amd64	0.98.2-3build2
 gtk2-engines-pixbuf:amd64	2.24.33-2ubuntu2
 gucharmap	1:15.1.2-1
-gvfs:amd64	1.52.1-1build1
-gvfs-common	1.52.1-1build1
-gvfs-daemons	1.52.1-1build1
-gvfs-libs:amd64	1.52.1-1build1
+gvfs:amd64	1.52.2-1
+gvfs-common	1.52.2-1
+gvfs-daemons	1.52.2-1
+gvfs-libs:amd64	1.52.2-1
 gzip	1.12-1ubuntu1
 hdparm	9.65+ds-1
 hicolor-icon-theme	0.17-2
@@ -621,7 +621,7 @@ libmaxminddb0:amd64	1.8.0-1
 libmbim-glib4:amd64	1.30.0-1
 libmbim-proxy	1.30.0-1
 libmbim-utils	1.30.0-1
-libmd0:amd64	1.1.0-1
+libmd0:amd64	1.1.0-2
 libmm-glib0:amd64	1.20.6-1ubuntu2
 libmnl0:amd64	1.0.5-2
 libmount1:amd64	2.39.2-6ubuntu1
@@ -702,7 +702,7 @@ libpipewire-0.3-modules:amd64	1.0.0-1ubuntu1
 libpixman-1-0:amd64	0.42.2-1
 libplist3:amd64	2.2.0-6build3
 libplymouth5:amd64	22.02.122-4ubuntu2
-libpng16-16:amd64	1.6.40-2
+libpng16-16:amd64	1.6.40-3
 libpolkit-agent-1-0:amd64	123-3
 libpolkit-gobject-1-0:amd64	123-3
 libpoppler-cpp0v5:amd64	23.12.0-1ubuntu2
@@ -1174,10 +1174,10 @@ ubuntu-advantage-desktop-daemon	1.10
 ubuntu-advantage-tools	30.1
 ubuntu-drivers-common	1:0.9.7.6
 ubuntu-keyring	2023.11.28.1
-ubuntu-minimal	1.527
+ubuntu-minimal	1.528
 ubuntu-pro-client-l10n	30.1
 ubuntu-release-upgrader-core	1:24.04.4
-ubuntu-standard	1.527
+ubuntu-standard	1.528
 ucf	3.0043+nmu1
 udev	253.5-1ubuntu7
 udisks2	2.10.1-1ubuntu2
@@ -1198,8 +1198,8 @@ util-linux	2.39.2-6ubuntu1
 uuid-runtime	2.39.2-6ubuntu1
 va-driver-all:amd64	2.20.0-2
 vdpau-driver-all:amd64	1.5-2
-vim-common	2:9.0.2189-1ubuntu1
-vim-tiny	2:9.0.2189-1ubuntu1
+vim-common	2:9.1.0-1ubuntu1
+vim-tiny	2:9.1.0-1ubuntu1
 wamerican	2020.12.07-2
 wget	1.21.4-1ubuntu1
 whiptail	0.52.24-1ubuntu1
@@ -1278,7 +1278,7 @@ xubuntu-desktop-minimal	2.252
 xubuntu-docs	22.04
 xubuntu-live-settings	23.10.1
 xubuntu-wallpapers	23.10.1
-xxd	2:9.0.2189-1ubuntu1
+xxd	2:9.1.0-1ubuntu1
 xz-utils	5.4.5-0.3
 yelp	42.2-1
 yelp-xsl	42.1-2
