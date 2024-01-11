@@ -1,5 +1,5 @@
 accountsservice	23.13.9-2ubuntu2
-acl	2.3.1-3
+acl	2.3.1-4ubuntu1
 adduser	3.137ubuntu1
 adwaita-icon-theme	41.0-1ubuntu1
 adwaita-icon-theme-full	41.0-1ubuntu1
@@ -55,9 +55,9 @@ cpp	4:13.2.0-2ubuntu1
 cpp-13	13.2.0-9ubuntu1
 cron	3.0pl1-178ubuntu1
 cron-daemon-common	3.0pl1-178ubuntu1
-cryptsetup	2:2.6.1-5ubuntu1
-cryptsetup-bin	2:2.6.1-5ubuntu1
-cryptsetup-initramfs	2:2.6.1-5ubuntu1
+cryptsetup	2:2.6.1-6ubuntu1
+cryptsetup-bin	2:2.6.1-6ubuntu1
+cryptsetup-initramfs	2:2.6.1-6ubuntu1
 cups	2.4.6-0ubuntu3
 cups-browsed	2.0.0-0ubuntu2
 cups-bsd	2.4.6-0ubuntu3
@@ -102,7 +102,7 @@ dnsmasq-base	2.89-1
 doc-base	0.11.1
 docbook-xml	4.5-12
 dosfstools	4.2-1build3
-dpkg	1.22.1ubuntu5
+dpkg	1.22.2ubuntu2
 dpkg-repack	1.52
 dracut-install	059-4ubuntu2
 e2fsprogs	1.47.0-2ubuntu1
@@ -238,7 +238,7 @@ iproute2	6.1.0-1ubuntu2
 iptables	1.8.9-2ubuntu2
 iputils-ping	3:20221126-1
 iputils-tracepath	3:20221126-1
-irqbalance	1.9.3-2ubuntu1
+irqbalance	1.9.3-2ubuntu2
 isc-dhcp-client	4.4.3-P1-4ubuntu1
 isc-dhcp-common	4.4.3-P1-4ubuntu1
 iso-codes	4.15.0-1
@@ -299,7 +299,7 @@ laptop-detect	0.16
 less	590-2
 libaa1:amd64	1.4p5-50build1
 libaccountsservice0:amd64	23.13.9-2ubuntu2
-libacl1:amd64	2.3.1-3
+libacl1:amd64	2.3.1-4ubuntu1
 libaio1:amd64	0.3.113-5
 libaom3:amd64	3.7.1-1
 libapparmor1:amd64	4.0.0~alpha2-0ubuntu7
@@ -375,13 +375,13 @@ libcolord2:amd64	1.4.6-5
 libcolorhug2:amd64	1.4.6-5
 libcom-err2:amd64	1.47.0-2ubuntu1
 libcrypt1:amd64	1:4.4.36-2
-libcryptsetup12:amd64	2:2.6.1-5ubuntu1
+libcryptsetup12:amd64	2:2.6.1-6ubuntu1
 libcups2:amd64	2.4.6-0ubuntu3
 libcupsfilters2:amd64	2.0.0-0ubuntu1
 libcupsfilters2-common	2.0.0-0ubuntu1
 libcupsimage2:amd64	2.4.6-0ubuntu3
-libcurl3-gnutls:amd64	8.4.0-2ubuntu1
-libcurl4:amd64	8.4.0-2ubuntu1
+libcurl3-gnutls:amd64	8.5.0-2ubuntu1
+libcurl4:amd64	8.5.0-2ubuntu1
 libdaemon0:amd64	0.14-7.1ubuntu3
 libdata-dump-perl	1.25-1
 libdatrie1:amd64	0.2.13-3
@@ -399,7 +399,7 @@ libdeflate0:amd64	1.18-1
 libdevmapper-event1.02.1:amd64	2:1.02.185-2ubuntu1
 libdevmapper1.02.1:amd64	2:1.02.185-2ubuntu1
 libdmraid1.0.0.rc16:amd64	1.0.0.rc16-12ubuntu1
-libdpkg-perl	1.22.1ubuntu5
+libdpkg-perl	1.22.2ubuntu2
 libdrm-amdgpu1:amd64	2.4.117-1
 libdrm-common	2.4.117-1
 libdrm-intel1:amd64	2.4.117-1
@@ -606,7 +606,7 @@ liblouisutdml-bin	2.12.0-2
 liblouisutdml-data	2.12.0-2
 liblouisutdml9:amd64	2.12.0-2
 libltdl7:amd64	2.4.7-7
-liblua5.4-0:amd64	5.4.6-0ubuntu2
+liblua5.4-0:amd64	5.4.6-2
 liblvm2cmd2.03:amd64	2.03.16-2ubuntu1
 liblwp-mediatypes-perl	6.04-2
 liblwp-protocol-https-perl	6.11-1
@@ -622,7 +622,7 @@ libmbim-glib4:amd64	1.30.0-1
 libmbim-proxy	1.30.0-1
 libmbim-utils	1.30.0-1
 libmd0:amd64	1.1.0-2
-libmm-glib0:amd64	1.20.6-1ubuntu2
+libmm-glib0:amd64	1.22.0-2ubuntu2
 libmnl0:amd64	1.0.5-2
 libmount1:amd64	2.39.2-6ubuntu1
 libmp3lame0:amd64	3.100-6
@@ -722,10 +722,11 @@ libpython3-stdlib:amd64	3.11.4-5
 libpython3.11:amd64	3.11.7-2
 libpython3.11-minimal:amd64	3.11.7-2
 libpython3.11-stdlib:amd64	3.11.7-2
-libqmi-glib5:amd64	1.32.4-2ubuntu1
-libqmi-proxy	1.32.4-2ubuntu1
-libqmi-utils	1.32.4-2ubuntu1
+libqmi-glib5:amd64	1.34.0-2
+libqmi-proxy	1.34.0-2
+libqmi-utils	1.34.0-2
 libqpdf29:amd64	11.8.0-1
+libqrtr-glib0:amd64	1.2.2-1ubuntu2
 libraqm0:amd64	0.10.1-1
 librav1e0:amd64	0.6.6-4
 libraw1394-11:amd64	2.1.2-2build2
@@ -978,7 +979,7 @@ mesa-va-drivers:amd64	23.3.0-2ubuntu3
 mesa-vdpau-drivers:amd64	23.3.0-2ubuntu3
 mesa-vulkan-drivers:amd64	23.3.0-2ubuntu3
 mobile-broadband-provider-info	20230416-1
-modemmanager	1.20.6-1ubuntu2
+modemmanager	1.22.0-2ubuntu2
 mokutil	0.6.0-2
 mount	2.39.2-6ubuntu1
 mscompress	0.4-10
@@ -1082,7 +1083,7 @@ python3-icu	2.12-1build1
 python3-idna	3.3-2
 python3-jwt	2.7.0-1
 python3-launchpadlib	1.11.0-2
-python3-lazr.restfulclient	0.14.5-2
+python3-lazr.restfulclient	0.14.6-1
 python3-lazr.uri	1.0.6-3
 python3-markdown-it	3.0.0-2
 python3-mdurl	0.1.2-1
@@ -1104,6 +1105,7 @@ python3-rich	13.3.1-2
 python3-six	1.16.0-4
 python3-software-properties	0.99.40
 python3-systemd	235-1build3
+python3-typing-extensions	4.7.1-2
 python3-update-manager	1:24.04.3
 python3-urllib3	1.26.18-1
 python3-wadllib	1.3.6-5

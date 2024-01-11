@@ -1,5 +1,5 @@
 accountsservice	23.13.9-2ubuntu2
-acl	2.3.1-3
+acl	2.3.1-4ubuntu1
 adduser	3.137ubuntu1
 adwaita-icon-theme	41.0-1ubuntu1
 adwaita-icon-theme-full	41.0-1ubuntu1
@@ -73,9 +73,9 @@ cpp-13	13.2.0-9ubuntu1
 cracklib-runtime	2.9.6-5.1
 cron	3.0pl1-178ubuntu1
 cron-daemon-common	3.0pl1-178ubuntu1
-cryptsetup	2:2.6.1-5ubuntu1
-cryptsetup-bin	2:2.6.1-5ubuntu1
-cryptsetup-initramfs	2:2.6.1-5ubuntu1
+cryptsetup	2:2.6.1-6ubuntu1
+cryptsetup-bin	2:2.6.1-6ubuntu1
+cryptsetup-initramfs	2:2.6.1-6ubuntu1
 cups	2.4.6-0ubuntu3
 cups-browsed	2.0.0-0ubuntu2
 cups-bsd	2.4.6-0ubuntu3
@@ -121,7 +121,7 @@ dnsmasq-base	2.89-1
 doc-base	0.11.1
 docbook-xml	4.5-12
 dosfstools	4.2-1build3
-dpkg	1.22.1ubuntu5
+dpkg	1.22.2ubuntu2
 dpkg-repack	1.52
 dracut-install	059-4ubuntu2
 e2fsprogs	1.47.0-2ubuntu1
@@ -234,7 +234,7 @@ gnome-mines	1:40.1-1
 gnome-software	45.3-2ubuntu1
 gnome-software-common	45.3-2ubuntu1
 gnome-software-plugin-snap	45.3-2ubuntu1
-gnome-sudoku	1:45.3-1
+gnome-sudoku	1:45.4-1
 gnome-system-tools	3.0.0-9.1ubuntu1
 gnome-themes-extra:amd64	3.28-2ubuntu1
 gnome-themes-extra-data	3.28-2ubuntu1
@@ -314,7 +314,7 @@ iproute2	6.1.0-1ubuntu2
 iptables	1.8.9-2ubuntu2
 iputils-ping	3:20221126-1
 iputils-tracepath	3:20221126-1
-irqbalance	1.9.3-2ubuntu1
+irqbalance	1.9.3-2ubuntu2
 isc-dhcp-client	4.4.3-P1-4ubuntu1
 isc-dhcp-common	4.4.3-P1-4ubuntu1
 iso-codes	4.15.0-1
@@ -379,7 +379,7 @@ libaacs0:amd64	0.11.1-2
 libabsl20220623:amd64	20220623.1-3
 libabw-0.1-1:amd64	0.1.3-1build3
 libaccountsservice0:amd64	23.13.9-2ubuntu2
-libacl1:amd64	2.3.1-3
+libacl1:amd64	2.3.1-4ubuntu1
 libadwaita-1-0:amd64	1.4.2-1ubuntu1
 libaio1:amd64	0.3.113-5
 libamd3:amd64	1:7.3.1+dfsg-2
@@ -506,13 +506,13 @@ libcpdb-frontend2:amd64	2.0~b5-0ubuntu8
 libcpdb2:amd64	2.0~b5-0ubuntu8
 libcrack2:amd64	2.9.6-5.1
 libcrypt1:amd64	1:4.4.36-2
-libcryptsetup12:amd64	2:2.6.1-5ubuntu1
+libcryptsetup12:amd64	2:2.6.1-6ubuntu1
 libcups2:amd64	2.4.6-0ubuntu3
 libcupsfilters2:amd64	2.0.0-0ubuntu1
 libcupsfilters2-common	2.0.0-0ubuntu1
 libcupsimage2:amd64	2.4.6-0ubuntu3
-libcurl3-gnutls:amd64	8.4.0-2ubuntu1
-libcurl4:amd64	8.4.0-2ubuntu1
+libcurl3-gnutls:amd64	8.5.0-2ubuntu1
+libcurl4:amd64	8.5.0-2ubuntu1
 libdaemon0:amd64	0.14-7.1ubuntu3
 libdata-dump-perl	1.25-1
 libdatrie1:amd64	0.2.13-3
@@ -538,7 +538,7 @@ libdjvulibre21:amd64	3.5.28-2build3
 libdmapsharing-4.0-3:amd64	3.9.13-1
 libdmraid1.0.0.rc16:amd64	1.0.0.rc16-12ubuntu1
 libdotconf0:amd64	1.3-0.3fakesync1build2
-libdpkg-perl	1.22.1ubuntu5
+libdpkg-perl	1.22.2ubuntu2
 libdrm-amdgpu1:amd64	2.4.117-1
 libdrm-common	2.4.117-1
 libdrm-intel1:amd64	2.4.117-1
@@ -807,7 +807,7 @@ liblouisutdml-data	2.12.0-2
 liblouisutdml9:amd64	2.12.0-2
 libltdl7:amd64	2.4.7-7
 liblua5.3-0:amd64	5.3.6-2
-liblua5.4-0:amd64	5.4.6-0ubuntu2
+liblua5.4-0:amd64	5.4.6-2
 liblvm2cmd2.03:amd64	2.03.16-2ubuntu1
 liblwp-mediatypes-perl	6.04-2
 liblwp-protocol-https-perl	6.11-1
@@ -827,7 +827,7 @@ libmbim-utils	1.30.0-1
 libmd0:amd64	1.1.0-2
 libmhash2:amd64	0.9.9.9-9build2
 libminiupnpc17:amd64	2.2.5-1
-libmm-glib0:amd64	1.20.6-1ubuntu2
+libmm-glib0:amd64	1.22.0-2ubuntu2
 libmng2:amd64	2.0.3+dfsg-4
 libmnl0:amd64	1.0.5-2
 libmount1:amd64	2.39.2-6ubuntu1
@@ -838,9 +838,9 @@ libmpfr6:amd64	4.2.1-1
 libmpg123-0:amd64	1.32.3-1
 libmspub-0.1-1:amd64	0.1.4-3build6
 libmtdev1:amd64	1.1.6-1build4
-libmtp-common	1.1.21-1
-libmtp-runtime	1.1.21-1
-libmtp9:amd64	1.1.21-1
+libmtp-common	1.1.21-3
+libmtp-runtime	1.1.21-3
+libmtp9:amd64	1.1.21-3
 libmwaw-0.3-3:amd64	0.3.22-1
 libmypaint-1.5-1:amd64	1.6.0-2
 libmypaint-common	1.6.0-2
@@ -962,12 +962,13 @@ libpython3-stdlib:amd64	3.11.4-5
 libpython3.11:amd64	3.11.7-2
 libpython3.11-minimal:amd64	3.11.7-2
 libpython3.11-stdlib:amd64	3.11.7-2
-libqmi-glib5:amd64	1.32.4-2ubuntu1
-libqmi-proxy	1.32.4-2ubuntu1
-libqmi-utils	1.32.4-2ubuntu1
+libqmi-glib5:amd64	1.34.0-2
+libqmi-proxy	1.34.0-2
+libqmi-utils	1.34.0-2
 libqpdf29:amd64	11.8.0-1
 libqqwing2v5:amd64	1.3.4-1.1ubuntu3
 libqrencode4:amd64	4.1.1-1
+libqrtr-glib0:amd64	1.2.2-1ubuntu2
 librabbitmq4:amd64	0.11.0-1
 libraptor2-0:amd64	2.0.16-3build1
 libraqm0:amd64	0.10.1-1
@@ -1306,7 +1307,7 @@ mesa-va-drivers:amd64	23.3.0-2ubuntu3
 mesa-vdpau-drivers:amd64	23.3.0-2ubuntu3
 mesa-vulkan-drivers:amd64	23.3.0-2ubuntu3
 mobile-broadband-provider-info	20230416-1
-modemmanager	1.20.6-1ubuntu2
+modemmanager	1.22.0-2ubuntu2
 mokutil	0.6.0-2
 mount	2.39.2-6ubuntu1
 mousepad	0.6.1-1
@@ -1430,7 +1431,7 @@ python3-icu	2.12-1build1
 python3-idna	3.3-2
 python3-jwt	2.7.0-1
 python3-launchpadlib	1.11.0-2
-python3-lazr.restfulclient	0.14.5-2
+python3-lazr.restfulclient	0.14.6-1
 python3-lazr.uri	1.0.6-3
 python3-mako	1.2.4+ds-2
 python3-markdown-it	3.0.0-2
@@ -1457,6 +1458,7 @@ python3-rich	13.3.1-2
 python3-six	1.16.0-4
 python3-software-properties	0.99.40
 python3-systemd	235-1build3
+python3-typing-extensions	4.7.1-2
 python3-uno	4:24.2.0~rc1-0ubuntu1
 python3-update-manager	1:24.04.3
 python3-urllib3	1.26.18-1
@@ -1531,7 +1533,7 @@ thunar-archive-plugin:amd64	0.5.2-1
 thunar-data	4.18.8-1
 thunar-media-tags-plugin:amd64	0.4.0-1
 thunar-volman	4.18.0-1
-thunderbird	1:115.6.0+build2-0ubuntu1
+thunderbird	1:115.6.1+build1-0ubuntu1
 time	1.9-0.2
 tnftp	20230507-2
 tpm-udev	0.6ubuntu1
