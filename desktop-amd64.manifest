@@ -43,9 +43,9 @@ bind9-dnsutils	1:9.18.18-0ubuntu2
 bind9-host	1:9.18.18-0ubuntu2
 bind9-libs:amd64	1:9.18.18-0ubuntu2
 blueman	2.3.5-3
-bluez	5.71-1ubuntu2
-bluez-cups	5.71-1ubuntu2
-bluez-obexd	5.71-1ubuntu2
+bluez	5.71-1ubuntu3
+bluez-cups	5.71-1ubuntu3
+bluez-obexd	5.71-1ubuntu3
 bolt	0.9.6-2
 brltty	6.6-4ubuntu2
 brltty-x11	6.6-4ubuntu2
@@ -203,7 +203,7 @@ gir1.2-javascriptcoregtk-4.1:amd64	2.43.3-1
 gir1.2-json-1.0:amd64	1.8.0-2
 gir1.2-libxfce4ui-2.0:amd64	4.18.4-1
 gir1.2-libxfce4util-1.0:amd64	4.18.1-2
-gir1.2-nm-1.0:amd64	1.44.2-1ubuntu2
+gir1.2-nm-1.0:amd64	1.44.2-7ubuntu1
 gir1.2-nma-1.0:amd64	1.10.6-2
 gir1.2-notify-0.7:amd64	0.8.3-1
 gir1.2-packagekitglib-1.0	1.2.8-1build1
@@ -441,7 +441,7 @@ libblockdev-part3:amd64	3.0.4-1
 libblockdev-swap3:amd64	3.0.4-1
 libblockdev-utils3:amd64	3.0.4-1
 libblockdev3:amd64	3.0.4-1
-libbluetooth3:amd64	5.71-1ubuntu2
+libbluetooth3:amd64	5.71-1ubuntu3
 libbluray2:amd64	1:1.3.4-1
 libboost-iostreams1.83.0:amd64	1.83.0-2ubuntu1
 libboost-locale1.83.0:amd64	1.83.0-2ubuntu1
@@ -553,7 +553,7 @@ libe-book-0.1-1:amd64	0.1.3-2build5
 libedit2:amd64	3.1-20230828-1
 libefiboot1:amd64	38-3
 libefivar1:amd64	38-3
-libegl-mesa0:amd64	23.3.0-2ubuntu3
+libegl-mesa0:amd64	23.3.3-1ubuntu2
 libegl1:amd64	1.7.0-1
 libelf1:amd64	0.190-1
 libenchant-2-2:amd64	2.3.3-2
@@ -607,7 +607,7 @@ libgail18:amd64	2.24.33-2ubuntu2
 libgarcon-1-0:amd64	4.18.1-1
 libgarcon-common	4.18.1-1
 libgarcon-gtk3-1-0:amd64	4.18.1-1
-libgbm1:amd64	23.3.0-2ubuntu3
+libgbm1:amd64	23.3.3-1ubuntu2
 libgcc-s1:amd64	13.2.0-9ubuntu1
 libgck-1-0:amd64	3.41.1-4
 libgcr-base-3-1:amd64	3.41.1-4
@@ -631,8 +631,8 @@ libgimp2.0:amd64	2.10.36-2
 libgirepository-1.0-1:amd64	1.78.1-6
 libgl1:amd64	1.7.0-1
 libgl1-amber-dri:amd64	21.3.9-0ubuntu1
-libgl1-mesa-dri:amd64	23.3.0-2ubuntu3
-libglapi-mesa:amd64	23.3.0-2ubuntu3
+libgl1-mesa-dri:amd64	23.3.3-1ubuntu2
+libglapi-mesa:amd64	23.3.3-1ubuntu2
 libgles2:amd64	1.7.0-1
 libglib-object-introspection-perl	0.051-1
 libglib-perl:amd64	3:1.329.3-3
@@ -643,7 +643,7 @@ libglibmm-2.4-1v5:amd64	2.66.6-2
 libglibmm-2.68-1:amd64	2.78.0-1
 libglu1-mesa:amd64	9.0.2-1.1
 libglvnd0:amd64	1.7.0-1
-libglx-mesa0:amd64	23.3.0-2ubuntu3
+libglx-mesa0:amd64	23.3.3-1ubuntu2
 libglx0:amd64	1.7.0-1
 libgme0:amd64	0.6.3-7
 libgmp10:amd64	2:6.3.0+dfsg-2ubuntu4
@@ -865,7 +865,7 @@ libnghttp2-14:amd64	1.58.0-1
 libnl-3-200:amd64	3.7.0-0.2
 libnl-genl-3-200:amd64	3.7.0-0.2
 libnl-route-3-200:amd64	3.7.0-0.2
-libnm0:amd64	1.44.2-1ubuntu2
+libnm0:amd64	1.44.2-7ubuntu1
 libnma-common	1.10.6-2
 libnma-gtk4-0:amd64	1.10.6-2
 libnma0:amd64	1.10.6-2
@@ -935,7 +935,7 @@ libpipewire-0.3-modules:amd64	1.0.0-1ubuntu1
 libpixman-1-0:amd64	0.42.2-1
 libplacebo338:amd64	6.338.1-2
 libplist3:amd64	2.2.0-6build3
-libplymouth5:amd64	22.02.122-4ubuntu2
+libplymouth5:amd64	23.360.11-0ubuntu2
 libpng16-16:amd64	1.6.40-3
 libpocketsphinx3:amd64	0.8.0+real5prealpha+1-15ubuntu1
 libpolkit-agent-1-0:amd64	123-3
@@ -1186,7 +1186,7 @@ libx11-xcb1:amd64	2:1.8.7-1
 libx264-164:amd64	2:0.164.3095+gitbaee400-3build1
 libx265-199:amd64	3.5-2
 libxapian30:amd64	1.4.22-1
-libxatracker2:amd64	23.3.0-2ubuntu3
+libxatracker2:amd64	23.3.3-1ubuntu2
 libxau6:amd64	1:1.0.9-1build5
 libxaw7:amd64	2:1.0.14-1
 libxcb-damage0:amd64	1.15-1
@@ -1302,9 +1302,9 @@ memtest86+	7.00-1
 menulibre	2.2.2-2
 mesa-utils	9.0.0-1
 mesa-utils-bin:amd64	9.0.0-1
-mesa-va-drivers:amd64	23.3.0-2ubuntu3
-mesa-vdpau-drivers:amd64	23.3.0-2ubuntu3
-mesa-vulkan-drivers:amd64	23.3.0-2ubuntu3
+mesa-va-drivers:amd64	23.3.3-1ubuntu2
+mesa-vdpau-drivers:amd64	23.3.3-1ubuntu2
+mesa-vulkan-drivers:amd64	23.3.3-1ubuntu2
 mobile-broadband-provider-info	20230416-1
 modemmanager	1.22.0-2ubuntu2
 mokutil	0.6.0-2
@@ -1320,7 +1320,7 @@ netbase	6.4
 netcat-openbsd	1.226-1ubuntu1
 netplan-generator	0.107-5ubuntu2
 netplan.io	0.107-5ubuntu2
-network-manager	1.44.2-1ubuntu2
+network-manager	1.44.2-7ubuntu1
 network-manager-gnome	1.34.0-1ubuntu1
 network-manager-pptp	1.2.12-3
 network-manager-pptp-gnome	1.2.12-3
@@ -1362,9 +1362,9 @@ pipewire-bin	1.0.0-1ubuntu1
 pipewire-pulse	1.0.0-1ubuntu1
 pkexec	123-3
 plocate	1.1.19-2ubuntu1
-plymouth	22.02.122-4ubuntu2
-plymouth-label	22.02.122-4ubuntu2
-plymouth-theme-ubuntu-text	22.02.122-4ubuntu2
+plymouth	23.360.11-0ubuntu2
+plymouth-label	23.360.11-0ubuntu2
+plymouth-theme-ubuntu-text	23.360.11-0ubuntu2
 plymouth-theme-xubuntu-logo	23.10.1
 plymouth-theme-xubuntu-text	23.10.1
 pocketsphinx-en-us	0.8.0+real5prealpha+1-15ubuntu1
