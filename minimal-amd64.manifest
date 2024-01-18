@@ -982,7 +982,7 @@ mokutil	0.6.0-2
 mount	2.39.2-6ubuntu1
 mscompress	0.4-10
 mtr-tiny	0.95-1.1
-nano	7.2-1
+nano	7.2-2
 ncurses-base	6.4+20231209-1
 ncurses-bin	6.4+20231209-1
 netbase	6.4
@@ -1163,7 +1163,6 @@ tpm-udev	0.6ubuntu1
 tumbler:amd64	4.18.1-1
 tumbler-common	4.18.1-1
 tzdata	2023d-1ubuntu2
-tzdata-icu	2023d-1ubuntu2
 tzdata-legacy	2023d-1ubuntu2
 ubiquity	24.04.2
 ubiquity-casper	1.490
