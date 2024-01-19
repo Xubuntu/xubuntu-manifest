@@ -716,7 +716,7 @@ libpsl5:amd64	0.21.2-1build1
 libpulse-mainloop-glib0:amd64	1:16.1+dfsg1-2ubuntu6
 libpulse0:amd64	1:16.1+dfsg1-2ubuntu6
 libpulsedsp:amd64	1:16.1+dfsg1-2ubuntu6
-libpython3-stdlib:amd64	3.11.4-5
+libpython3-stdlib:amd64	3.11.4-5ubuntu1
 libpython3.11:amd64	3.11.7-2
 libpython3.11-minimal:amd64	3.11.7-2
 libpython3.11-stdlib:amd64	3.11.7-2
@@ -1055,7 +1055,7 @@ publicsuffix	20231001.0357-0.1
 pulseaudio	1:16.1+dfsg1-2ubuntu6
 pulseaudio-utils	1:16.1+dfsg1-2ubuntu6
 python-apt-common	2.7.0
-python3	3.11.4-5
+python3	3.11.4-5ubuntu1
 python3-apport	2.27.0-0ubuntu6
 python3-apt	2.7.0
 python3-blinker	1.7.0-1
@@ -1085,7 +1085,7 @@ python3-lazr.restfulclient	0.14.6-1
 python3-lazr.uri	1.0.6-3
 python3-markdown-it	3.0.0-2
 python3-mdurl	0.1.2-1
-python3-minimal	3.11.4-5
+python3-minimal	3.11.4-5ubuntu1
 python3-netifaces:amd64	0.11.0-2build2
 python3-netplan	0.107-5ubuntu2
 python3-oauthlib	3.2.2-1
@@ -1273,7 +1273,7 @@ xserver-xorg-video-vmware	1:13.4.0-1
 xterm	389-1ubuntu1
 xubuntu-artwork	23.10.1
 xubuntu-default-settings	23.10.1
-xubuntu-desktop-minimal	2.252
+xubuntu-desktop-minimal	2.253
 xubuntu-docs	22.04
 xubuntu-live-settings	23.10.1
 xubuntu-wallpapers	23.10.1
