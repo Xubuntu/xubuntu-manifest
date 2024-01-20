@@ -31,8 +31,8 @@ bc	1.07.1-3build1
 bind9-dnsutils	1:9.18.18-0ubuntu2
 bind9-host	1:9.18.18-0ubuntu2
 bind9-libs:amd64	1:9.18.18-0ubuntu2
-bluez	5.71-1ubuntu3
-bluez-cups	5.71-1ubuntu3
+bluez	5.72-0ubuntu1
+bluez-cups	5.72-0ubuntu1
 bolt	0.9.6-2
 bsdextrautils	2.39.2-6ubuntu1
 bsdutils	1:2.39.2-6ubuntu1
@@ -59,7 +59,7 @@ cryptsetup	2:2.6.1-6ubuntu1
 cryptsetup-bin	2:2.6.1-6ubuntu1
 cryptsetup-initramfs	2:2.6.1-6ubuntu1
 cups	2.4.6-0ubuntu3
-cups-browsed	2.0.0-0ubuntu2
+cups-browsed	2.0.0-0ubuntu3
 cups-bsd	2.4.6-0ubuntu3
 cups-client	2.4.6-0ubuntu3
 cups-common	2.4.6-0ubuntu3
@@ -346,7 +346,7 @@ libblockdev-part3:amd64	3.0.4-1
 libblockdev-swap3:amd64	3.0.4-1
 libblockdev-utils3:amd64	3.0.4-1
 libblockdev3:amd64	3.0.4-1
-libbluetooth3:amd64	5.71-1ubuntu3
+libbluetooth3:amd64	5.72-0ubuntu1
 libbpf1:amd64	1:1.3.0-2
 libbrotli1:amd64	1.1.0-2
 libbsd0:amd64	0.11.8-1
@@ -643,9 +643,9 @@ libnfnetlink0:amd64	1.0.2-2
 libnftables1:amd64	1.0.9-1
 libnftnl11:amd64	1.2.6-2
 libnghttp2-14:amd64	1.58.0-1
-libnl-3-200:amd64	3.7.0-0.2
-libnl-genl-3-200:amd64	3.7.0-0.2
-libnl-route-3-200:amd64	3.7.0-0.2
+libnl-3-200:amd64	3.7.0-0.3
+libnl-genl-3-200:amd64	3.7.0-0.3
+libnl-route-3-200:amd64	3.7.0-0.3
 libnm0:amd64	1.44.2-7ubuntu1
 libnma-common	1.10.6-2
 libnma0:amd64	1.10.6-2
@@ -821,7 +821,7 @@ libudisks2-0:amd64	2.10.1-1ubuntu2
 libunistring5:amd64	1.1-2
 libunwind8:amd64	1.6.2-3
 libupower-glib3:amd64	1.90.2-8
-liburcu8:amd64	0.14.0-2
+liburcu8:amd64	0.14.0-3
 liburi-perl	5.21-1
 libusb-1.0-0:amd64	2:1.0.26-1
 libusbmuxd6:amd64	2.0.2-4
@@ -1205,7 +1205,7 @@ whiptail	0.52.24-1ubuntu1
 wireless-regdb	2022.06.06-0ubuntu2
 wireless-tools	30~pre9-13.1ubuntu4
 wireplumber	0.4.17-1
-wpasupplicant	2:2.10-20
+wpasupplicant	2:2.10-21
 x11-apps	7.7+11
 x11-common	1:7.7+23ubuntu2
 x11-session-utils	7.7+6

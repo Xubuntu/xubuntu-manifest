@@ -44,9 +44,9 @@ bind9-dnsutils	1:9.18.18-0ubuntu2
 bind9-host	1:9.18.18-0ubuntu2
 bind9-libs:amd64	1:9.18.18-0ubuntu2
 blueman	2.3.5-3
-bluez	5.71-1ubuntu3
-bluez-cups	5.71-1ubuntu3
-bluez-obexd	5.71-1ubuntu3
+bluez	5.72-0ubuntu1
+bluez-cups	5.72-0ubuntu1
+bluez-obexd	5.72-0ubuntu1
 bolt	0.9.6-2
 brltty	6.6-4ubuntu2
 brltty-x11	6.6-4ubuntu2
@@ -79,7 +79,7 @@ cryptsetup	2:2.6.1-6ubuntu1
 cryptsetup-bin	2:2.6.1-6ubuntu1
 cryptsetup-initramfs	2:2.6.1-6ubuntu1
 cups	2.4.6-0ubuntu3
-cups-browsed	2.0.0-0ubuntu2
+cups-browsed	2.0.0-0ubuntu3
 cups-bsd	2.4.6-0ubuntu3
 cups-client	2.4.6-0ubuntu3
 cups-common	2.4.6-0ubuntu3
@@ -439,7 +439,7 @@ libblockdev-part3:amd64	3.0.4-1
 libblockdev-swap3:amd64	3.0.4-1
 libblockdev-utils3:amd64	3.0.4-1
 libblockdev3:amd64	3.0.4-1
-libbluetooth3:amd64	5.71-1ubuntu3
+libbluetooth3:amd64	5.72-0ubuntu1
 libbluray2:amd64	1:1.3.4-1
 libboost-iostreams1.83.0:amd64	1.83.0-2ubuntu1
 libboost-locale1.83.0:amd64	1.83.0-2ubuntu1
@@ -527,8 +527,8 @@ libdebconfclient0:amd64	0.271ubuntu1
 libdebian-installer4:amd64	0.124ubuntu1
 libdebuginfod-common	0.190-1
 libdebuginfod1:amd64	0.190-1
-libdecor-0-0:amd64	0.2.1-1
-libdecor-0-plugin-1-gtk:amd64	0.2.1-1
+libdecor-0-0:amd64	0.2.2-1
+libdecor-0-plugin-1-gtk:amd64	0.2.2-1
 libdeflate0:amd64	1.18-1
 libdevmapper-event1.02.1:amd64	2:1.02.185-2ubuntu1
 libdevmapper1.02.1:amd64	2:1.02.185-2ubuntu1
@@ -795,7 +795,7 @@ libldb2:amd64	2:2.7.2+samba4.18.6+dfsg-1ubuntu2.2
 liblerc4:amd64	4.0.0+ds-4ubuntu1
 liblightdm-gobject-1-0:amd64	1.30.0-0ubuntu8
 liblilv-0-0:amd64	0.24.22-1
-liblirc-client0:amd64	0.10.2-0.4
+liblirc-client0:amd64	0.10.2-0.5
 libllvm17:amd64	1:17.0.6-3
 liblmdb0:amd64	0.9.31-1
 liblocale-gettext-perl	1.07-6
@@ -859,9 +859,9 @@ libnfs14:amd64	5.0.2-1
 libnftables1:amd64	1.0.9-1
 libnftnl11:amd64	1.2.6-2
 libnghttp2-14:amd64	1.58.0-1
-libnl-3-200:amd64	3.7.0-0.2
-libnl-genl-3-200:amd64	3.7.0-0.2
-libnl-route-3-200:amd64	3.7.0-0.2
+libnl-3-200:amd64	3.7.0-0.3
+libnl-genl-3-200:amd64	3.7.0-0.3
+libnl-route-3-200:amd64	3.7.0-0.3
 libnm0:amd64	1.44.2-7ubuntu1
 libnma-common	1.10.6-2
 libnma-gtk4-0:amd64	1.10.6-2
@@ -971,7 +971,7 @@ libraqm0:amd64	0.10.1-1
 librasqal3:amd64	0.9.33-2
 librav1e0:amd64	0.6.6-4
 libraw1394-11:amd64	2.1.2-2build2
-libraw23:amd64	0.21.1-7ubuntu2
+libraw23:amd64	0.21.2-2
 librdf0:amd64	1.0.17-3ubuntu1
 libreadline8:amd64	8.2-3
 libreiserfscore0	1:3.6.27-7
@@ -1120,7 +1120,7 @@ libuno-sal3	4:24.2.0~rc1-0ubuntu1
 libuno-salhelpergcc3-3	4:24.2.0~rc1-0ubuntu1
 libunwind8:amd64	1.6.2-3
 libupower-glib3:amd64	1.90.2-8
-liburcu8:amd64	0.14.0-2
+liburcu8:amd64	0.14.0-3
 liburi-perl	5.21-1
 liburing2:amd64	2.5-1
 libusb-1.0-0:amd64	2:1.0.26-1
@@ -1588,7 +1588,7 @@ whoopsie-preferences	23
 wireless-regdb	2022.06.06-0ubuntu2
 wireless-tools	30~pre9-13.1ubuntu4
 wireplumber	0.4.17-1
-wpasupplicant	2:2.10-20
+wpasupplicant	2:2.10-21
 x11-apps	7.7+11
 x11-common	1:7.7+23ubuntu2
 x11-session-utils	7.7+6
