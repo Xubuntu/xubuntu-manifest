@@ -430,15 +430,15 @@ libbabl-0.1-0:amd64	1:0.1.106-3
 libbdplus0:amd64	0.2.0-3
 libblas3:amd64	3.11.0-2build1
 libblkid1:amd64	2.39.2-6ubuntu1
-libblockdev-crypto3:amd64	3.0.4-1
-libblockdev-fs3:amd64	3.0.4-1
-libblockdev-loop3:amd64	3.0.4-1
-libblockdev-mdraid3:amd64	3.0.4-1
-libblockdev-nvme3:amd64	3.0.4-1
-libblockdev-part3:amd64	3.0.4-1
-libblockdev-swap3:amd64	3.0.4-1
-libblockdev-utils3:amd64	3.0.4-1
-libblockdev3:amd64	3.0.4-1
+libblockdev-crypto3:amd64	3.1.0-1
+libblockdev-fs3:amd64	3.1.0-1
+libblockdev-loop3:amd64	3.1.0-1
+libblockdev-mdraid3:amd64	3.1.0-1
+libblockdev-nvme3:amd64	3.1.0-1
+libblockdev-part3:amd64	3.1.0-1
+libblockdev-swap3:amd64	3.1.0-1
+libblockdev-utils3:amd64	3.1.0-1
+libblockdev3:amd64	3.1.0-1
 libbluetooth3:amd64	5.72-0ubuntu1
 libbluray2:amd64	1:1.3.4-1
 libboost-iostreams1.83.0:amd64	1.83.0-2ubuntu1
@@ -1308,6 +1308,7 @@ mokutil	0.6.0-2
 mount	2.39.2-6ubuntu1
 mousepad	0.6.1-1
 mscompress	0.4-10
+mtools	4.0.43-1
 mtr-tiny	0.95-1.1
 mugshot	0.4.3-1
 nano	7.2-2
@@ -1362,8 +1363,8 @@ plocate	1.1.19-2ubuntu1
 plymouth	23.360.11-0ubuntu2
 plymouth-label	23.360.11-0ubuntu2
 plymouth-theme-ubuntu-text	23.360.11-0ubuntu2
-plymouth-theme-xubuntu-logo	23.10.1
-plymouth-theme-xubuntu-text	23.10.1
+plymouth-theme-xubuntu-logo	24.04
+plymouth-theme-xubuntu-text	24.04
 pocketsphinx-en-us	0.8.0+real5prealpha+1-15ubuntu1
 policykit-1	123-3
 policykit-1-gnome	0.105-7ubuntu3
@@ -1634,7 +1635,7 @@ xfce4-taskmanager	1.5.6-1
 xfce4-terminal	1.1.1-1
 xfce4-verve-plugin:amd64	2.0.3-1
 xfce4-weather-plugin:amd64	0.11.1-1
-xfce4-whiskermenu-plugin	2.8.2-1
+xfce4-whiskermenu-plugin	2.8.3-1
 xfce4-xkb-plugin:amd64	1:0.8.3-1
 xfconf	4.18.1-1
 xfdesktop4	4.18.1-1
@@ -1670,15 +1671,15 @@ xserver-xorg-video-radeon	1:22.0.0-1
 xserver-xorg-video-vesa	1:2.6.0-1
 xserver-xorg-video-vmware	1:13.4.0-1
 xterm	389-1ubuntu1
-xubuntu-artwork	23.10.1
+xubuntu-artwork	24.04
 xubuntu-community-wallpapers	22.04.0
 xubuntu-community-wallpapers-jammy	22.04.0
 xubuntu-default-settings	23.10.1
-xubuntu-desktop	2.253
-xubuntu-desktop-minimal	2.253
+xubuntu-desktop	2.254
+xubuntu-desktop-minimal	2.254
 xubuntu-docs	22.04
 xubuntu-live-settings	23.10.1
-xubuntu-wallpapers	23.10.1
+xubuntu-wallpapers	24.04
 xul-ext-ubufox	3.4-0ubuntu1.17.10.1
 xxd	2:9.1.0-1ubuntu1
 xz-utils	5.4.5-0.3
@@ -1696,6 +1697,7 @@ zstd	1.5.5+dfsg2-2
 snap:core22	stable	1033
 snap:snapd	stable	20671
 snap:firefox	stable/ubuntu-24.04	3626
+snap:firmware-updater	stable/ubuntu-24.04	109
 snap:gnome-42-2204	stable/ubuntu-24.04	141
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
