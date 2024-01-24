@@ -209,7 +209,7 @@ gir1.2-nma-1.0:amd64	1.10.6-2
 gir1.2-notify-0.7:amd64	0.8.3-1
 gir1.2-packagekitglib-1.0	1.2.8-1build1
 gir1.2-pango-1.0:amd64	1.51.0+ds-3
-gir1.2-peas-1.0:amd64	1.36.0-3
+gir1.2-peas-1.0:amd64	1.36.0-3build1
 gir1.2-polkit-1.0	123-3
 gir1.2-rb-3.0:amd64	3.4.7-2ubuntu1
 gir1.2-secret-1:amd64	0.21.2-1
@@ -229,8 +229,8 @@ glib-networking-services	2.78.0-1
 gnome-accessibility-themes	3.28-2ubuntu1
 gnome-disk-utility	45.1-1ubuntu1
 gnome-font-viewer	45.0-1
-gnome-keyring	42.1-1
-gnome-keyring-pkcs11:amd64	42.1-1
+gnome-keyring	42.1-2
+gnome-keyring-pkcs11:amd64	42.1-2
 gnome-menus	3.36.0-1.1ubuntu1
 gnome-mines	1:40.1-1
 gnome-sudoku	1:45.4-1
@@ -825,7 +825,7 @@ libmbim-utils	1.30.0-1
 libmd0:amd64	1.1.0-2
 libmhash2:amd64	0.9.9.9-9build2
 libminiupnpc17:amd64	2.2.6-1
-libmm-glib0:amd64	1.22.0-2ubuntu2
+libmm-glib0:amd64	1.22.0-3
 libmng2:amd64	2.0.3+dfsg-4
 libmnl0:amd64	1.0.5-2
 libmount1:amd64	2.39.2-6ubuntu1
@@ -899,7 +899,7 @@ libp11-kit0:amd64	0.25.3-2ubuntu2
 libpackagekit-glib2-18:amd64	1.2.8-1build1
 libpagemaker-0.0-0:amd64	0.0.4-1build3
 libpam-cap:amd64	1:2.66-4ubuntu1
-libpam-gnome-keyring:amd64	42.1-1
+libpam-gnome-keyring:amd64	42.1-2
 libpam-modules:amd64	1.5.2-9.1ubuntu1
 libpam-modules-bin	1.5.2-9.1ubuntu1
 libpam-runtime	1.5.2-9.1ubuntu1
@@ -923,8 +923,8 @@ libpciaccess0:amd64	0.17-3
 libpcre2-32-0:amd64	10.42-4ubuntu1
 libpcre2-8-0:amd64	10.42-4ubuntu1
 libpcsclite1:amd64	2.0.0-1
-libpeas-1.0-0:amd64	1.36.0-3
-libpeas-common	1.36.0-3
+libpeas-1.0-0:amd64	1.36.0-3build1
+libpeas-common	1.36.0-3build1
 libperl5.36:amd64	5.36.0-10ubuntu1
 libpgm-5.3-0:amd64	5.3.128~dfsg-2
 libpipeline1:amd64	1.5.7-1
@@ -960,6 +960,9 @@ libpython3-stdlib:amd64	3.11.4-5ubuntu1
 libpython3.11:amd64	3.11.7-2
 libpython3.11-minimal:amd64	3.11.7-2
 libpython3.11-stdlib:amd64	3.11.7-2
+libpython3.12:amd64	3.12.1-2
+libpython3.12-minimal:amd64	3.12.1-2
+libpython3.12-stdlib:amd64	3.12.1-2
 libqmi-glib5:amd64	1.34.0-2
 libqmi-proxy	1.34.0-2
 libqmi-utils	1.34.0-2
@@ -1261,8 +1264,8 @@ libzix-0-0:amd64	0.4.2-2
 libzmq5:amd64	4.3.5-1
 libzpool5linux	2.2.2-0ubuntu3
 libzstd1:amd64	1.5.5+dfsg2-2
-libzvbi-common	0.2.42-1
-libzvbi0:amd64	0.2.42-1
+libzvbi-common	0.2.42-1.1
+libzvbi0:amd64	0.2.42-1.1
 lightdm	1.30.0-0ubuntu8
 lightdm-gtk-greeter	2.0.8-2ubuntu2
 lightdm-gtk-greeter-settings	1.2.2-5
@@ -1305,7 +1308,7 @@ mesa-va-drivers:amd64	23.3.3-1ubuntu2
 mesa-vdpau-drivers:amd64	23.3.3-1ubuntu2
 mesa-vulkan-drivers:amd64	23.3.3-1ubuntu2
 mobile-broadband-provider-info	20230416-1
-modemmanager	1.22.0-2ubuntu2
+modemmanager	1.22.0-3
 mokutil	0.6.0-2
 mount	2.39.2-6ubuntu1
 mousepad	0.6.1-1
@@ -1476,7 +1479,7 @@ rhythmbox-plugin-alternative-toolbar	0.20.4-1
 rhythmbox-plugins	3.4.7-2ubuntu1
 ristretto	0.13.1-1
 rsync	3.2.7-1
-rsyslog	8.2306.0-2ubuntu2
+rsyslog	8.2312.0-3ubuntu1
 rtkit	0.13-5
 samba-libs:amd64	2:4.18.6+dfsg-1ubuntu2.2
 sane-airscan	0.99.27-1build1
@@ -1524,7 +1527,7 @@ tcl	8.6.13
 tcl8.6	8.6.13+dfsg-2
 tcpdump	4.99.4-3ubuntu1
 telnet	0.17+2.4-3ubuntu1
-thermald	2.5.4-4
+thermald	2.5.5-1
 thin-provisioning-tools	0.9.0-2ubuntu2
 thunar	4.18.8-1
 thunar-archive-plugin:amd64	0.5.2-1
@@ -1535,8 +1538,8 @@ thunderbird	1:115.6.1+build1-0ubuntu1
 time	1.9-0.2
 tnftp	20230507-2
 tpm-udev	0.6ubuntu1
-transmission-common	4.0.2-1ubuntu3
-transmission-gtk	4.0.2-1ubuntu3
+transmission-common	4.0.5-1
+transmission-gtk	4.0.5-1
 tree	2.1.1-2
 tumbler:amd64	4.18.1-1
 tumbler-common	4.18.1-1
@@ -1698,7 +1701,7 @@ zlib1g:amd64	1:1.3.dfsg-3ubuntu1
 zstd	1.5.5+dfsg2-2
 snap:core22	stable	1033
 snap:snapd	stable	20671
-snap:firefox	stable/ubuntu-24.04	3626
+snap:firefox	stable/ubuntu-24.04	3687
 snap:firmware-updater	stable/ubuntu-24.04	109
 snap:gnome-42-2204	stable/ubuntu-24.04	141
 snap:bare	stable	5

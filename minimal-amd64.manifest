@@ -174,8 +174,8 @@ glib-networking:amd64	2.78.0-1
 glib-networking-common	2.78.0-1
 glib-networking-services	2.78.0-1
 gnome-accessibility-themes	3.28-2ubuntu1
-gnome-keyring	42.1-1
-gnome-keyring-pkcs11:amd64	42.1-1
+gnome-keyring	42.1-2
+gnome-keyring-pkcs11:amd64	42.1-2
 gnome-themes-extra:amd64	3.28-2ubuntu1
 gnome-themes-extra-data	3.28-2ubuntu1
 gnupg	2.2.40-1.1ubuntu1
@@ -622,7 +622,7 @@ libmbim-glib4:amd64	1.30.0-1
 libmbim-proxy	1.30.0-1
 libmbim-utils	1.30.0-1
 libmd0:amd64	1.1.0-2
-libmm-glib0:amd64	1.22.0-2ubuntu2
+libmm-glib0:amd64	1.22.0-3
 libmnl0:amd64	1.0.5-2
 libmount1:amd64	2.39.2-6ubuntu1
 libmp3lame0:amd64	3.100-6
@@ -674,7 +674,7 @@ liborc-0.4-0:amd64	1:0.4.34-3
 libp11-kit0:amd64	0.25.3-2ubuntu2
 libpackagekit-glib2-18:amd64	1.2.8-1build1
 libpam-cap:amd64	1:2.66-4ubuntu1
-libpam-gnome-keyring:amd64	42.1-1
+libpam-gnome-keyring:amd64	42.1-2
 libpam-modules:amd64	1.5.2-9.1ubuntu1
 libpam-modules-bin	1.5.2-9.1ubuntu1
 libpam-runtime	1.5.2-9.1ubuntu1
@@ -944,8 +944,8 @@ libyelp0:amd64	42.2-1
 libzfs4linux	2.2.2-0ubuntu3
 libzpool5linux	2.2.2-0ubuntu3
 libzstd1:amd64	1.5.5+dfsg2-2
-libzvbi-common	0.2.42-1
-libzvbi0:amd64	0.2.42-1
+libzvbi-common	0.2.42-1.1
+libzvbi0:amd64	0.2.42-1.1
 lightdm	1.30.0-0ubuntu8
 lightdm-gtk-greeter	2.0.8-2ubuntu2
 linux-base	4.5ubuntu9
@@ -979,7 +979,7 @@ mesa-va-drivers:amd64	23.3.3-1ubuntu2
 mesa-vdpau-drivers:amd64	23.3.3-1ubuntu2
 mesa-vulkan-drivers:amd64	23.3.3-1ubuntu2
 mobile-broadband-provider-info	20230416-1
-modemmanager	1.22.0-2ubuntu2
+modemmanager	1.22.0-3
 mokutil	0.6.0-2
 mount	2.39.2-6ubuntu1
 mscompress	0.4-10
@@ -1119,7 +1119,7 @@ readline-common	8.2-3
 reiserfsprogs	1:3.6.27-7
 rfkill	2.39.2-6ubuntu1
 rsync	3.2.7-1
-rsyslog	8.2306.0-2ubuntu2
+rsyslog	8.2312.0-3ubuntu1
 rtkit	0.13-5
 sane-airscan	0.99.27-1build1
 sane-utils	1.2.1-7
@@ -1155,7 +1155,7 @@ tcl	8.6.13
 tcl8.6	8.6.13+dfsg-2
 tcpdump	4.99.4-3ubuntu1
 telnet	0.17+2.4-3ubuntu1
-thermald	2.5.4-4
+thermald	2.5.5-1
 thin-provisioning-tools	0.9.0-2ubuntu2
 thunar	4.18.8-1
 thunar-data	4.18.8-1
