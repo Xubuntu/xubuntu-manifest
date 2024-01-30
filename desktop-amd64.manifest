@@ -120,7 +120,7 @@ dmidecode	3.5-3
 dmraid	1.0.0.rc16-12ubuntu1
 dmsetup	2:1.02.185-2ubuntu1
 dmz-cursor-theme	0.4.5ubuntu1
-dns-root-data	2023010101
+dns-root-data	2023112702~willsync1
 dnsmasq-base	2.89-1
 doc-base	0.11.2
 docbook-xml	4.5-12
@@ -176,7 +176,7 @@ fuse3	3.14.0-5
 fwupd	1.9.12-4
 fwupd-signed	1.52+1.4-1
 gcc-13-base:amd64	13.2.0-11ubuntu1
-gcc-14-base:amd64	14-20240121-1ubuntu1
+gcc-14-base:amd64	14-20240126-2ubuntu1
 gcr	3.41.1-4
 gdb	14.1-0ubuntu1
 gettext-base	0.21-14
@@ -218,7 +218,7 @@ gir1.2-rb-3.0:amd64	3.4.7-2ubuntu1
 gir1.2-secret-1:amd64	0.21.2-1
 gir1.2-snapd-2:amd64	1.64-0ubuntu2
 gir1.2-soup-2.4:amd64	2.74.3-2
-gir1.2-soup-3.0:amd64	3.4.4-2
+gir1.2-soup-3.0:amd64	3.4.4-5
 gir1.2-timezonemap-1.0:amd64	0.4.6-6
 gir1.2-vte-2.91:amd64	0.74.2-1
 gir1.2-webkit2-4.0:amd64	2.43.3-1
@@ -406,7 +406,7 @@ libatk-bridge2.0-0:amd64	2.50.0-1
 libatk1.0-0:amd64	2.50.0-1
 libatkmm-1.6-1v5:amd64	2.28.3-2
 libatm1:amd64	1:2.5.1-5
-libatomic1:amd64	14-20240121-1ubuntu1
+libatomic1:amd64	14-20240126-2ubuntu1
 libatopology2:amd64	1.2.10-3build1
 libatrildocument3	1.26.1-4
 libatrilview3	1.26.1-4
@@ -609,7 +609,7 @@ libgarcon-1-0:amd64	4.18.1-1
 libgarcon-common	4.18.1-1
 libgarcon-gtk3-1-0:amd64	4.18.1-1
 libgbm1:amd64	23.3.3-1ubuntu2
-libgcc-s1:amd64	14-20240121-1ubuntu1
+libgcc-s1:amd64	14-20240126-2ubuntu1
 libgck-1-0:amd64	3.41.1-4
 libgcr-base-3-1:amd64	3.41.1-4
 libgcr-ui-3-1:amd64	3.41.1-4
@@ -626,7 +626,7 @@ libgee-0.8-2:amd64	0.20.6-1
 libgegl-0.4-0:amd64	1:0.4.44-3ubuntu1
 libgegl-common	1:0.4.44-3ubuntu1
 libgexiv2-2:amd64	0.14.2-2
-libgfortran5:amd64	14-20240121-1ubuntu1
+libgfortran5:amd64	14-20240126-2ubuntu1
 libgif7:amd64	5.2.1-2.5
 libgimp2.0:amd64	2.10.36-2
 libgirepository-1.0-1:amd64	1.78.1-6
@@ -654,7 +654,7 @@ libgnome-menu-3-0:amd64	3.36.0-1.1ubuntu1
 libgnutls30:amd64	3.8.1-4ubuntu7
 libgoa-1.0-0b:amd64	3.49.0-1
 libgoa-1.0-common	3.49.0-1
-libgomp1:amd64	14-20240121-1ubuntu1
+libgomp1:amd64	14-20240126-2ubuntu1
 libgpg-error-l10n	1.47-3build1
 libgpg-error0:amd64	1.47-3build1
 libgpgme11:amd64	1.18.0-4ubuntu1
@@ -821,7 +821,7 @@ libmagic1:amd64	1:5.45-2
 libmailtools-perl	2.21-2
 libmanette-0.2-0:amd64	0.2.6-3build1
 libmaxminddb0:amd64	1.9.1-1
-libmbedcrypto7:amd64	2.28.6-1ubuntu1
+libmbedcrypto7:amd64	2.28.7-1ubuntu1
 libmbim-glib4:amd64	1.30.0-1
 libmbim-proxy	1.30.0-1
 libmbim-utils	1.30.0-1
@@ -935,7 +935,7 @@ libpipewire-0.3-0:amd64	1.0.1-1ubuntu2
 libpipewire-0.3-common	1.0.1-1ubuntu2
 libpipewire-0.3-modules:amd64	1.0.1-1ubuntu2
 libpixman-1-0:amd64	0.42.2-1
-libplacebo338:amd64	6.338.1-2
+libplacebo338:amd64	6.338.2-1
 libplist3:amd64	2.2.0-6build3
 libplymouth5:amd64	23.360.11-0ubuntu2
 libpng16-16:amd64	1.6.40-3
@@ -1045,8 +1045,8 @@ libsnmp40:amd64	5.9.4+dfsg-1ubuntu1
 libsodium23:amd64	1.0.18-1build2
 libsonic0:amd64	0.2.0-13
 libsord-0-0:amd64	0.16.16-2
-libsoup-3.0-0:amd64	3.4.4-2
-libsoup-3.0-common	3.4.4-2
+libsoup-3.0-0:amd64	3.4.4-5
+libsoup-3.0-common	3.4.4-5
 libsoup-gnome2.4-1:amd64	2.74.3-2
 libsoup2.4-1:amd64	2.74.3-2
 libsoup2.4-common	2.74.3-2
@@ -1068,7 +1068,7 @@ libssh-4:amd64	0.10.6-2
 libssh-gcrypt-4:amd64	0.10.6-2
 libssl3:amd64	3.0.10-1ubuntu3
 libstartup-notification0:amd64	0.12-6build2
-libstdc++6:amd64	14-20240121-1ubuntu1
+libstdc++6:amd64	14-20240126-2ubuntu1
 libstemmer0d:amd64	2.2.0-4
 libsuitesparseconfig7:amd64	1:7.6.0+dfsg-1
 libsvtav1enc1d1:amd64	1.7.0+dfsg-2
@@ -1188,7 +1188,7 @@ libx11-6:amd64	2:1.8.7-1
 libx11-data	2:1.8.7-1
 libx11-protocol-perl	0.56-9
 libx11-xcb1:amd64	2:1.8.7-1
-libx264-164:amd64	2:0.164.3095+gitbaee400-3build1
+libx264-164:amd64	2:0.164.3108+git31e19f9-1
 libx265-199:amd64	3.5-2
 libxapian30:amd64	1.4.22-1
 libxatracker2:amd64	23.3.3-1ubuntu2
@@ -1557,11 +1557,11 @@ ubuntu-advantage-desktop-daemon	1.10
 ubuntu-advantage-tools	30.1
 ubuntu-drivers-common	1:0.9.7.6
 ubuntu-keyring	2023.11.28.1
-ubuntu-minimal	1.529
+ubuntu-minimal	1.530
 ubuntu-pro-client-l10n	30.1
 ubuntu-release-upgrader-core	1:24.04.4
 ubuntu-release-upgrader-gtk	1:24.04.4
-ubuntu-standard	1.529
+ubuntu-standard	1.530
 ucf	3.0043+nmu1
 udev	253.5-1ubuntu7
 udisks2	2.10.1-1ubuntu2
