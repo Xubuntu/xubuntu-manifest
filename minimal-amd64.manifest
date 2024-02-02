@@ -51,10 +51,10 @@ console-setup	1.223ubuntu1
 console-setup-linux	1.223ubuntu1
 coreutils	9.4-2ubuntu2
 cpio	2.15+dfsg-1
-cpp	4:13.2.0-4ubuntu2
-cpp-13	13.2.0-11ubuntu1
-cpp-13-x86-64-linux-gnu	13.2.0-11ubuntu1
-cpp-x86-64-linux-gnu	4:13.2.0-4ubuntu2
+cpp	4:13.2.0-7ubuntu1
+cpp-13	13.2.0-13ubuntu1
+cpp-13-x86-64-linux-gnu	13.2.0-13ubuntu1
+cpp-x86-64-linux-gnu	4:13.2.0-7ubuntu1
 cron	3.0pl1-178ubuntu1
 cron-daemon-common	3.0pl1-178ubuntu1
 cryptsetup	2:2.6.1-6ubuntu1
@@ -147,7 +147,7 @@ ftp	20230507-2
 fuse3	3.14.0-5
 fwupd	1.9.12-4
 fwupd-signed	1.52+1.4-1
-gcc-13-base:amd64	13.2.0-11ubuntu1
+gcc-13-base:amd64	13.2.0-13ubuntu1
 gcc-14-base:amd64	14-20240126-2ubuntu1
 gcr	3.41.1-4
 gettext-base	0.21-14
@@ -304,7 +304,7 @@ libaa1:amd64	1.4p5-51
 libaccountsservice0:amd64	23.13.9-2ubuntu2
 libacl1:amd64	2.3.1-4ubuntu1
 libaio1:amd64	0.3.113-5
-libaom3:amd64	3.7.1-1
+libaom3:amd64	3.8.1-1
 libapparmor1:amd64	4.0.0~alpha2-0ubuntu8
 libappstream5:amd64	1.0.1-3
 libapt-pkg6.0:amd64	2.7.10
@@ -521,7 +521,7 @@ libgtop-2.0-11:amd64	2.41.2-1
 libgtop2-common	2.41.2-1
 libgucharmap-2-90-7:amd64	1:15.1.2-1
 libgudev-1.0-0:amd64	1:238-3
-libgusb2:amd64	0.4.5-1.1
+libgusb2:amd64	0.4.8-1
 libhandy-1-0:amd64	1.8.2-3
 libharfbuzz-gobject0:amd64	8.3.0-2
 libharfbuzz-icu0:amd64	8.3.0-2
@@ -600,7 +600,7 @@ libldap-common	2.6.6+dfsg-1~exp1ubuntu1
 libldap2:amd64	2.6.6+dfsg-1~exp1ubuntu1
 liblerc4:amd64	4.0.0+ds-4ubuntu1
 liblightdm-gobject-1-0:amd64	1.30.0-0ubuntu8
-libllvm17:amd64	1:17.0.6-3
+libllvm17:amd64	1:17.0.6-5build1
 liblmdb0:amd64	0.9.31-1
 liblocale-gettext-perl	1.07-6
 liblouis-data	3.28.0-1
@@ -659,7 +659,7 @@ libnotify4:amd64	0.8.3-1
 libnpth0:amd64	1.6-3build2
 libnsl2:amd64	1.3.0-3
 libnspr4:amd64	2:4.35-1.1
-libnss-mdns:amd64	0.15.1-3
+libnss-mdns:amd64	0.15.1-4
 libnss-nis:amd64	3.1-0ubuntu6
 libnss-nisplus:amd64	1.3-0ubuntu6
 libnss-systemd:amd64	253.5-1ubuntu7
@@ -667,7 +667,7 @@ libnss3:amd64	2:3.96.1-1
 libntfs-3g89:amd64	1:2022.10.3-1ubuntu1
 libnuma1:amd64	2.0.16-1
 libnvme1	1.7.1-1
-libnvpair3linux	2.2.2-0ubuntu3
+libnvpair3linux	2.2.2-0ubuntu4
 libogg0:amd64	1.3.5-3
 libonig5:amd64	6.9.9-1
 libopengl0:amd64	1.7.0-1
@@ -704,8 +704,8 @@ libpipewire-0.3-common	1.0.1-1ubuntu3
 libpipewire-0.3-modules:amd64	1.0.1-1ubuntu3
 libpixman-1-0:amd64	0.42.2-1
 libplist3:amd64	2.2.0-6build3
-libplymouth5:amd64	23.360.11-0ubuntu2
-libpng16-16:amd64	1.6.40-3
+libplymouth5:amd64	23.360.11-0ubuntu3
+libpng16-16:amd64	1.6.42-1
 libpolkit-agent-1-0:amd64	124-1
 libpolkit-gobject-1-0:amd64	124-1
 libpoppler-cpp0v5:amd64	23.12.0-1ubuntu2
@@ -745,7 +745,7 @@ libsane1:amd64	1.2.1-7
 libsasl2-2:amd64	2.1.28+dfsg1-4
 libsasl2-modules:amd64	2.1.28+dfsg1-4
 libsasl2-modules-db:amd64	2.1.28+dfsg1-4
-libseccomp2:amd64	2.5.4-1ubuntu3
+libseccomp2:amd64	2.5.4-2ubuntu2
 libsecret-1-0:amd64	0.21.2-1
 libsecret-common	0.21.2-1
 libselinux1:amd64	3.5-1build2
@@ -833,7 +833,7 @@ libusbmuxd6:amd64	2.0.2-4
 libutempter0:amd64	1.2.1-3
 libuuid-perl	0.31-1
 libuuid1:amd64	2.39.2-6ubuntu1
-libuutil3linux	2.2.2-0ubuntu3
+libuutil3linux	2.2.2-0ubuntu4
 libuv1:amd64	1.46.0-3
 libv4l-0:amd64	1.26.1-3
 libv4lconvert0:amd64	1.26.1-3
@@ -850,7 +850,7 @@ libvpl2	2023.3.0-1
 libvpx8:amd64	1.13.1-2ubuntu1
 libvte-2.91-0:amd64	0.74.2-1
 libvte-2.91-common	0.74.2-1
-libvulkan1:amd64	1.3.268.0-1
+libvulkan1:amd64	1.3.275.0-1
 libwacom-common	2.9.0-2
 libwacom9:amd64	2.9.0-2
 libwavpack1:amd64	5.6.0-1
@@ -944,8 +944,8 @@ libxxhash0:amd64	0.8.2-2
 libyaml-0-2:amd64	0.2.5-1
 libyaml-tiny-perl	1.74-1
 libyelp0:amd64	42.2-1
-libzfs4linux	2.2.2-0ubuntu3
-libzpool5linux	2.2.2-0ubuntu3
+libzfs4linux	2.2.2-0ubuntu4
+libzpool5linux	2.2.2-0ubuntu4
 libzstd1:amd64	1.5.5+dfsg2-2
 libzvbi-common	0.2.42-1.1
 libzvbi0:amd64	0.2.42-1.1
@@ -1028,9 +1028,9 @@ pipewire:amd64	1.0.1-1ubuntu3
 pipewire-bin	1.0.1-1ubuntu3
 pipewire-pulse	1.0.1-1ubuntu3
 pkexec	124-1
-plymouth	23.360.11-0ubuntu2
-plymouth-label	23.360.11-0ubuntu2
-plymouth-theme-ubuntu-text	23.360.11-0ubuntu2
+plymouth	23.360.11-0ubuntu3
+plymouth-label	23.360.11-0ubuntu3
+plymouth-theme-ubuntu-text	23.360.11-0ubuntu3
 plymouth-theme-xubuntu-logo	24.04
 plymouth-theme-xubuntu-text	24.04
 policykit-1	124-1
@@ -1065,7 +1065,7 @@ python3	3.11.4-5ubuntu1
 python3-apport	2.27.0-0ubuntu6
 python3-apt	2.7.0
 python3-blinker	1.7.0-1
-python3-cairo:amd64	1.25.1-1
+python3-cairo	1.25.1-2
 python3-certifi	2023.11.17-1
 python3-cffi-backend:amd64	1.16.0-2
 python3-chardet	5.2.0+dfsg-1
@@ -1286,9 +1286,9 @@ xz-utils	5.4.5-0.3
 yelp	42.2-1
 yelp-xsl	42.1-2
 yudit-common	3.1.0-1
-zfs-initramfs	2.2.2-0ubuntu3
-zfs-zed	2.2.2-0ubuntu3
-zfsutils-linux	2.2.2-0ubuntu3
+zfs-initramfs	2.2.2-0ubuntu4
+zfs-zed	2.2.2-0ubuntu4
+zfsutils-linux	2.2.2-0ubuntu4
 zip	3.0-13
 zlib1g:amd64	1:1.3.dfsg-3ubuntu1
 zstd	1.5.5+dfsg2-2
