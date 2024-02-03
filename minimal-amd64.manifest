@@ -150,7 +150,7 @@ fwupd-signed	1.52+1.4-1
 gcc-13-base:amd64	13.2.0-13ubuntu1
 gcc-14-base:amd64	14-20240126-2ubuntu1
 gcr	3.41.1-4
-gettext-base	0.21-14
+gettext-base	0.21-14ubuntu1
 ghostscript	10.02.1~dfsg1-0ubuntu2
 gir1.2-atk-1.0:amd64	2.50.0-1
 gir1.2-freedesktop:amd64	1.78.1-6
@@ -377,7 +377,7 @@ libcodec2-1.2:amd64	1.2.0-2
 libcolord2:amd64	1.4.6-5
 libcolorhug2:amd64	1.4.6-5
 libcom-err2:amd64	1.47.0-2ubuntu1
-libcrypt1:amd64	1:4.4.36-2
+libcrypt1:amd64	1:4.4.36-4
 libcryptsetup12:amd64	2:2.6.1-6ubuntu1
 libcups2:amd64	2.4.6-0ubuntu3
 libcupsfilters2:amd64	2.0.0-0ubuntu1
@@ -398,7 +398,7 @@ libdconf1:amd64	0.40.0-4
 libde265-0:amd64	1.0.15-1
 libdebconfclient0:amd64	0.271ubuntu1
 libdebian-installer4:amd64	0.124ubuntu1
-libdeflate0:amd64	1.18-1
+libdeflate0:amd64	1.19-1
 libdevmapper-event1.02.1:amd64	2:1.02.185-2ubuntu1
 libdevmapper1.02.1:amd64	2:1.02.185-2ubuntu1
 libdmraid1.0.0.rc16:amd64	1.0.0.rc16-12ubuntu1
@@ -699,9 +699,9 @@ libpcre2-8-0:amd64	10.42-4ubuntu1
 libpcsclite1:amd64	2.0.0-1
 libperl5.36:amd64	5.36.0-10ubuntu1
 libpipeline1:amd64	1.5.7-1
-libpipewire-0.3-0:amd64	1.0.1-1ubuntu3
-libpipewire-0.3-common	1.0.1-1ubuntu3
-libpipewire-0.3-modules:amd64	1.0.1-1ubuntu3
+libpipewire-0.3-0:amd64	1.0.2-1ubuntu1
+libpipewire-0.3-common	1.0.2-1ubuntu1
+libpipewire-0.3-modules:amd64	1.0.2-1ubuntu1
 libpixman-1-0:amd64	0.42.2-1
 libplist3:amd64	2.2.0-6build3
 libplymouth5:amd64	23.360.11-0ubuntu3
@@ -772,7 +772,7 @@ libsoup-gnome2.4-1:amd64	2.74.3-3
 libsoup2.4-1:amd64	2.74.3-3
 libsoup2.4-common	2.74.3-3
 libsoxr0:amd64	0.1.3-4build2
-libspa-0.2-modules:amd64	1.0.1-1ubuntu3
+libspa-0.2-modules:amd64	1.0.2-1ubuntu1
 libspectre1:amd64	0.2.12-1build1
 libspeex1:amd64	1.2.1-2ubuntu1
 libspeexdsp1:amd64	1.2.1-1
@@ -1005,7 +1005,7 @@ numix-gtk-theme	2.6.7-7
 numlockx	1.2-9
 ocl-icd-libopencl1:amd64	2.3.2-1
 openprinting-ppds	20230202-1
-openssh-client	1:9.4p1-1ubuntu1
+openssh-client	1:9.6p1-3ubuntu1
 openssl	3.0.10-1ubuntu3
 os-prober	1.81ubuntu3
 p11-kit	0.25.3-2ubuntu2
@@ -1024,9 +1024,9 @@ perl-modules-5.36	5.36.0-10ubuntu1
 perl-openssl-defaults:amd64	7
 pinentry-gnome3	1.2.1-3ubuntu1
 pinentry-gtk2	1.2.1-3ubuntu1
-pipewire:amd64	1.0.1-1ubuntu3
-pipewire-bin	1.0.1-1ubuntu3
-pipewire-pulse	1.0.1-1ubuntu3
+pipewire:amd64	1.0.2-1ubuntu1
+pipewire-bin	1.0.2-1ubuntu1
+pipewire-pulse	1.0.2-1ubuntu1
 pkexec	124-1
 plymouth	23.360.11-0ubuntu3
 plymouth-label	23.360.11-0ubuntu3
@@ -1186,7 +1186,7 @@ ubuntu-standard	1.531
 ucf	3.0043+nmu1
 udev	253.5-1ubuntu7
 udisks2	2.10.1-1ubuntu2
-ufw	0.36.2-1
+ufw	0.36.2-3
 unattended-upgrades	2.9.1+nmu3ubuntu2
 unzip	6.0-28ubuntu1
 update-inetd	4.53
