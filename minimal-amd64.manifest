@@ -22,7 +22,7 @@ at-spi2-core	2.50.0-1
 avahi-autoipd	0.8-13ubuntu2
 avahi-daemon	0.8-13ubuntu2
 ayatana-indicator-application	22.2.0-1
-ayatana-indicator-common	0.9.9-1
+ayatana-indicator-common	0.9.10-1
 base-files	13ubuntu6
 base-passwd	3.6.3
 bash	5.2.21-2ubuntu1
@@ -50,7 +50,7 @@ command-not-found	23.04.0
 console-setup	1.223ubuntu1
 console-setup-linux	1.223ubuntu1
 coreutils	9.4-2ubuntu2
-cpio	2.15+dfsg-1
+cpio	2.15+dfsg-1ubuntu1
 cpp	4:13.2.0-7ubuntu1
 cpp-13	13.2.0-13ubuntu1
 cpp-13-x86-64-linux-gnu	13.2.0-13ubuntu1
@@ -674,7 +674,7 @@ libopengl0:amd64	1.7.0-1
 libopenjp2-7:amd64	2.5.0-2
 libopus0:amd64	1.4-1
 liborc-0.4-0:amd64	1:0.4.34-3
-libp11-kit0:amd64	0.25.3-2ubuntu2
+libp11-kit0:amd64	0.25.3-4ubuntu1
 libpackagekit-glib2-18:amd64	1.2.8-1build1
 libpam-cap:amd64	1:2.66-4ubuntu1
 libpam-gnome-keyring:amd64	42.1-2
@@ -952,7 +952,7 @@ libzvbi0:amd64	0.2.42-1.1
 lightdm	1.30.0-0ubuntu8
 lightdm-gtk-greeter	2.0.8-2ubuntu2
 linux-base	4.5ubuntu9
-linux-firmware	20230919.git3672ccab-0ubuntu2.2
+linux-firmware	20240202.git36777504-0ubuntu1
 linux-generic	6.6.0-14.14
 linux-headers-6.6.0-14	6.6.0-14.14
 linux-headers-6.6.0-14-generic	6.6.0-14.14
@@ -1008,8 +1008,8 @@ openprinting-ppds	20230202-1
 openssh-client	1:9.6p1-3ubuntu1
 openssl	3.0.10-1ubuntu3
 os-prober	1.81ubuntu3
-p11-kit	0.25.3-2ubuntu2
-p11-kit-modules:amd64	0.25.3-2ubuntu2
+p11-kit	0.25.3-4ubuntu1
+p11-kit-modules:amd64	0.25.3-4ubuntu1
 packagekit	1.2.8-1build1
 packagekit-tools	1.2.8-1build1
 parted	3.6-3
