@@ -262,7 +262,7 @@ language-pack-bn	1:24.04+20240203
 language-pack-bn-base	1:24.04+20231202
 language-pack-de	1:24.04+20240203
 language-pack-de-base	1:24.04+20231202
-language-pack-en	1:24.04+20240127
+language-pack-en	1:24.04+20240203
 language-pack-en-base	1:24.04+20231202
 language-pack-es	1:24.04+20240203
 language-pack-es-base	1:24.04+20231202
@@ -649,7 +649,7 @@ libnewt0.52:amd64	0.52.24-1ubuntu1
 libnfnetlink0:amd64	1.0.2-2
 libnftables1:amd64	1.0.9-1
 libnftnl11:amd64	1.2.6-2
-libnghttp2-14:amd64	1.58.0-1
+libnghttp2-14:amd64	1.59.0-1
 libnl-3-200:amd64	3.7.0-0.3
 libnl-genl-3-200:amd64	3.7.0-0.3
 libnl-route-3-200:amd64	3.7.0-0.3
@@ -750,7 +750,7 @@ libsasl2-modules-db:amd64	2.1.28+dfsg1-4
 libseccomp2:amd64	2.5.4-2ubuntu2
 libsecret-1-0:amd64	0.21.2-1
 libsecret-common	0.21.2-1
-libselinux1:amd64	3.5-1build2
+libselinux1:amd64	3.5-2build1
 libsemanage-common	3.5-1build1
 libsemanage2:amd64	3.5-1build1
 libsensors-config	1:3.6.0-8
@@ -1058,7 +1058,7 @@ printer-driver-pxljr	1.4+repack0-6build1
 printer-driver-sag-gdi	0.1-8
 printer-driver-splix	2.0.0+svn315-7fakesync1build4
 procps	2:4.0.4-2ubuntu1
-psmisc	23.6-1
+psmisc	23.6-2
 publicsuffix	20231001.0357-0.1
 pulseaudio	1:16.1+dfsg1-2ubuntu6
 pulseaudio-utils	1:16.1+dfsg1-2ubuntu6
@@ -1196,7 +1196,7 @@ update-manager-core	1:24.04.4
 upower	1.90.2-8
 usb-modeswitch	2.6.1-3ubuntu2
 usb-modeswitch-data	20191128-6
-usb.ids	2024.01.20-1
+usb.ids	2024.01.30-1
 usbmuxd	1.1.1-3ubuntu1
 usbutils	1:017-3
 user-setup	1.95ubuntu1
