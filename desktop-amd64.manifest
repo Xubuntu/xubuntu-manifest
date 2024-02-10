@@ -256,13 +256,13 @@ graphviz	2.42.2-7build3
 grep	3.11-4
 greybird-gtk-theme	3.23.3-1
 groff-base	1.23.0-3
-grub-common	2.12~rc1-12ubuntu4
+grub-common	2.12~rc1-12ubuntu5
 grub-efi-amd64-bin	2.12~rc1-12ubuntu2
 grub-efi-amd64-signed	1.199+2.12~rc1-12ubuntu2
 grub-gfxpayload-lists	0.7
-grub-pc	2.12~rc1-12ubuntu4
-grub-pc-bin	2.12~rc1-12ubuntu4
-grub2-common	2.12~rc1-12ubuntu4
+grub-pc	2.12~rc1-12ubuntu5
+grub-pc-bin	2.12~rc1-12ubuntu5
+grub2-common	2.12~rc1-12ubuntu5
 gsettings-desktop-schemas	45.0-1ubuntu1
 gstreamer1.0-gl:amd64	1.22.8-1
 gstreamer1.0-gtk3:amd64	1.22.8-3ubuntu1
@@ -432,7 +432,7 @@ libayatana-indicator3-7:amd64	0.9.3-1.1
 libbabeltrace1:amd64	1.5.11-3build1
 libbabl-0.1-0:amd64	1:0.1.106-3
 libbdplus0:amd64	0.2.0-3
-libblas3:amd64	3.11.0-2build1
+libblas3:amd64	3.12.0-2
 libblkid1:amd64	2.39.2-6ubuntu1
 libblockdev-crypto3:amd64	3.1.0-1
 libblockdev-fs3:amd64	3.1.0-1
@@ -788,7 +788,7 @@ libksba8:amd64	1.6.5-2
 liblab-gamut1:amd64	2.42.2-7build3
 liblangtag-common	0.6.7-1
 liblangtag1:amd64	0.6.7-1
-liblapack3:amd64	3.11.0-2build1
+liblapack3:amd64	3.12.0-2
 liblc3-1:amd64	1.0.4-2
 liblcms2-2:amd64	2.14-2
 liblcms2-utils	2.14-2
@@ -939,7 +939,7 @@ libpipewire-0.3-modules:amd64	1.0.2-1ubuntu1
 libpixman-1-0:amd64	0.42.2-1
 libplacebo338:amd64	6.338.2-1
 libplist3:amd64	2.2.0-6build3
-libplymouth5:amd64	23.360.11-0ubuntu3
+libplymouth5:amd64	24.004.60-1ubuntu1
 libpng16-16:amd64	1.6.42-1
 libpocketsphinx3:amd64	0.8.0+real5prealpha+1-15ubuntu1
 libpolkit-agent-1-0:amd64	124-1
@@ -1370,9 +1370,9 @@ pipewire-bin	1.0.2-1ubuntu1
 pipewire-pulse	1.0.2-1ubuntu1
 pkexec	124-1
 plocate	1.1.19-2ubuntu1
-plymouth	23.360.11-0ubuntu3
-plymouth-label	23.360.11-0ubuntu3
-plymouth-theme-ubuntu-text	23.360.11-0ubuntu3
+plymouth	24.004.60-1ubuntu1
+plymouth-label	24.004.60-1ubuntu1
+plymouth-theme-ubuntu-text	24.004.60-1ubuntu1
 plymouth-theme-xubuntu-logo	24.04
 plymouth-theme-xubuntu-text	24.04
 pocketsphinx-en-us	0.8.0+real5prealpha+1-15ubuntu1
