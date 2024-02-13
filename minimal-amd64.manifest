@@ -1189,7 +1189,7 @@ ucf	3.0043+nmu1
 udev	253.5-1ubuntu7
 udisks2	2.10.1-1ubuntu2
 ufw	0.36.2-4
-unattended-upgrades	2.9.1+nmu3ubuntu2
+unattended-upgrades	2.9.1+nmu4ubuntu1
 unzip	6.0-28ubuntu2
 update-inetd	4.53
 update-manager-core	1:24.04.4
@@ -1280,7 +1280,7 @@ xserver-xorg-video-vmware	1:13.4.0-1
 xterm	389-1ubuntu1
 xubuntu-artwork	24.04
 xubuntu-default-settings	23.10.1
-xubuntu-desktop-minimal	2.254
+xubuntu-desktop-minimal	2.255
 xubuntu-live-settings	23.10.1
 xubuntu-wallpapers	24.04
 xxd	2:9.1.0-1ubuntu1
