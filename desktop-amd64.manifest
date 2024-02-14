@@ -256,8 +256,8 @@ grep	3.11-4
 greybird-gtk-theme	3.23.3-1
 groff-base	1.23.0-3
 grub-common	2.12~rc1-12ubuntu5
-grub-efi-amd64-bin	2.12~rc1-12ubuntu2
-grub-efi-amd64-signed	1.199+2.12~rc1-12ubuntu2
+grub-efi-amd64-bin	2.12-1ubuntu1
+grub-efi-amd64-signed	1.201+2.12-1ubuntu1
 grub-gfxpayload-lists	0.7
 grub-pc	2.12~rc1-12ubuntu5
 grub-pc-bin	2.12~rc1-12ubuntu5
@@ -964,9 +964,9 @@ libpython3-stdlib:amd64	3.11.4-5ubuntu1
 libpython3.11:amd64	3.11.7-2
 libpython3.11-minimal:amd64	3.11.7-2
 libpython3.11-stdlib:amd64	3.11.7-2
-libpython3.12:amd64	3.12.1-2
-libpython3.12-minimal:amd64	3.12.1-2
-libpython3.12-stdlib:amd64	3.12.1-2
+libpython3.12:amd64	3.12.2-1
+libpython3.12-minimal:amd64	3.12.2-1
+libpython3.12-stdlib:amd64	3.12.2-1
 libqmi-glib5:amd64	1.34.0-2
 libqmi-proxy	1.34.0-2
 libqmi-utils	1.34.0-2
@@ -1427,7 +1427,7 @@ python3-debian	0.1.49ubuntu2
 python3-defer	1.0.6-2.1ubuntu1
 python3-distro	1.9.0-1
 python3-distro-info	1.7
-python3-distupgrade	1:24.04.4
+python3-distupgrade	1:24.04.7
 python3-gdbm:amd64	3.11.5-1
 python3-gi	3.46.0-3
 python3-gi-cairo	3.46.0-3
@@ -1463,7 +1463,7 @@ python3-rich	13.3.1-2
 python3-six	1.16.0-4
 python3-software-properties	0.99.40
 python3-systemd	235-1build3
-python3-typing-extensions	4.7.1-2
+python3-typing-extensions	4.9.0-1
 python3-uno	4:24.2.0~rc1-0ubuntu1
 python3-update-manager	1:24.04.4
 python3-urllib3	2.0.7-1
@@ -1561,8 +1561,8 @@ ubuntu-keyring	2023.11.28.1
 ubuntu-minimal	1.531
 ubuntu-mono	20.10-0ubuntu2
 ubuntu-pro-client-l10n	30.1
-ubuntu-release-upgrader-core	1:24.04.4
-ubuntu-release-upgrader-gtk	1:24.04.4
+ubuntu-release-upgrader-core	1:24.04.7
+ubuntu-release-upgrader-gtk	1:24.04.7
 ubuntu-standard	1.531
 ucf	3.0043+nmu1
 udev	253.5-1ubuntu7
