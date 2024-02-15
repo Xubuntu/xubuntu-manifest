@@ -56,7 +56,7 @@ bubblewrap	0.8.0-2
 busybox-initramfs	1:1.36.1-6ubuntu1
 busybox-static	1:1.36.1-6ubuntu1
 bzip2	1.0.8-5build1
-ca-certificates	20230311ubuntu1
+ca-certificates	20240203
 casper	1.490
 catfish	4.16.4-2
 cheese-common	44.1-1
@@ -231,8 +231,8 @@ glib-networking-services	2.78.0-1
 gnome-accessibility-themes	3.28-2ubuntu1
 gnome-disk-utility	45.1-1ubuntu1
 gnome-font-viewer	45.0-1
-gnome-keyring	42.1-2
-gnome-keyring-pkcs11:amd64	42.1-2
+gnome-keyring	46.1-1
+gnome-keyring-pkcs11:amd64	46.1-1
 gnome-menus	3.36.0-1.1ubuntu1
 gnome-mines	1:40.1-1
 gnome-sudoku	1:45.4-1
@@ -255,14 +255,14 @@ graphviz	2.42.2-7build3
 grep	3.11-4
 greybird-gtk-theme	3.23.3-1
 groff-base	1.23.0-3
-grub-common	2.12~rc1-12ubuntu5
+grub-common	2.12-1ubuntu2
 grub-efi-amd64-bin	2.12-1ubuntu1
 grub-efi-amd64-signed	1.201+2.12-1ubuntu1
 grub-gfxpayload-lists	0.7
-grub-pc	2.12~rc1-12ubuntu5
-grub-pc-bin	2.12~rc1-12ubuntu5
-grub2-common	2.12~rc1-12ubuntu5
-gsettings-desktop-schemas	45.0-1ubuntu1
+grub-pc	2.12-1ubuntu2
+grub-pc-bin	2.12-1ubuntu2
+grub2-common	2.12-1ubuntu2
+gsettings-desktop-schemas	46~beta-1ubuntu1
 gstreamer1.0-gl:amd64	1.22.8-1
 gstreamer1.0-gtk3:amd64	1.22.8-3ubuntu1
 gstreamer1.0-libav:amd64	1.22.8-1
@@ -881,7 +881,7 @@ libnspr4:amd64	2:4.35-1.1
 libnss-mdns:amd64	0.15.1-4
 libnss-nis:amd64	3.1-0ubuntu6
 libnss-nisplus:amd64	1.3-0ubuntu6
-libnss-systemd:amd64	253.5-1ubuntu7
+libnss-systemd:amd64	255.2-3ubuntu2
 libnss3:amd64	2:3.96.1-1
 libntfs-3g89:amd64	1:2022.10.3-1ubuntu1
 libnuma1:amd64	2.0.16-1
@@ -903,11 +903,11 @@ libp11-kit0:amd64	0.25.3-4ubuntu1
 libpackagekit-glib2-18:amd64	1.2.8-1build1
 libpagemaker-0.0-0:amd64	0.0.4-1build3
 libpam-cap:amd64	1:2.66-4ubuntu1
-libpam-gnome-keyring:amd64	42.1-2
+libpam-gnome-keyring:amd64	46.1-1
 libpam-modules:amd64	1.5.2-9.1ubuntu2
 libpam-modules-bin	1.5.2-9.1ubuntu2
 libpam-runtime	1.5.2-9.1ubuntu2
-libpam-systemd:amd64	253.5-1ubuntu7
+libpam-systemd:amd64	255.2-3ubuntu2
 libpam0g:amd64	1.5.2-9.1ubuntu2
 libpango-1.0-0:amd64	1.51.0+ds-4
 libpangocairo-1.0-0:amd64	1.51.0+ds-4
@@ -961,9 +961,9 @@ libpulsedsp:amd64	1:16.1+dfsg1-2ubuntu6
 libpwquality-common	1.4.5-1build1
 libpwquality1:amd64	1.4.5-1build1
 libpython3-stdlib:amd64	3.11.4-5ubuntu1
-libpython3.11:amd64	3.11.7-2
-libpython3.11-minimal:amd64	3.11.7-2
-libpython3.11-stdlib:amd64	3.11.7-2
+libpython3.11:amd64	3.11.8-1
+libpython3.11-minimal:amd64	3.11.8-1
+libpython3.11-stdlib:amd64	3.11.8-1
 libpython3.12:amd64	3.12.2-1
 libpython3.12-minimal:amd64	3.12.2-1
 libpython3.12-stdlib:amd64	3.12.2-1
@@ -1076,8 +1076,8 @@ libsvtav1enc1d1:amd64	1.7.0+dfsg-2
 libswresample4:amd64	7:6.1.1-1ubuntu1
 libswscale7:amd64	7:6.1.1-1ubuntu1
 libsynctex2:amd64	2023.20230311.66589-8build1
-libsystemd-shared:amd64	253.5-1ubuntu7
-libsystemd0:amd64	253.5-1ubuntu7
+libsystemd-shared:amd64	255.2-3ubuntu2
+libsystemd0:amd64	255.2-3ubuntu2
 libtag1v5:amd64	1.13.1-1
 libtag1v5-vanilla:amd64	1.13.1-1
 libtagc0:amd64	1.13.1-1
@@ -1116,7 +1116,7 @@ libtumbler-1-0:amd64	4.18.1-1
 libtwolame0:amd64	0.4.0-2build2
 libu2f-udev	1.1.10-3build2
 libuchardet0:amd64	0.0.8-1
-libudev1:amd64	253.5-1ubuntu7
+libudev1:amd64	255.2-3ubuntu2
 libudfread0:amd64	1.1.2-1
 libudisks2-0:amd64	2.10.1-1ubuntu2
 libumfpack6:amd64	1:7.6.0+dfsg-1
@@ -1402,10 +1402,10 @@ psmisc	23.6-2
 publicsuffix	20231001.0357-0.1
 pulseaudio	1:16.1+dfsg1-2ubuntu6
 pulseaudio-utils	1:16.1+dfsg1-2ubuntu6
-python-apt-common	2.7.0
+python-apt-common	2.7.5
 python3	3.11.4-5ubuntu1
 python3-apport	2.27.0-0ubuntu6
-python3-apt	2.7.0
+python3-apt	2.7.5
 python3-aptdaemon	1.1.1+bzr982-0ubuntu44
 python3-aptdaemon.gtk3widgets	1.1.1+bzr982-0ubuntu44
 python3-blinker	1.7.0-1
@@ -1461,7 +1461,7 @@ python3-pyparsing	3.1.1-1
 python3-requests	2.31.0+dfsg-1ubuntu1
 python3-rich	13.3.1-2
 python3-six	1.16.0-4
-python3-software-properties	0.99.40
+python3-software-properties	0.99.42
 python3-systemd	235-1build3
 python3-typing-extensions	4.9.0-1
 python3-uno	4:24.2.0~rc1-0ubuntu1
@@ -1471,8 +1471,8 @@ python3-wadllib	1.3.6-5
 python3-xcffib	0.11.1-4
 python3-xkit	0.5.0ubuntu6
 python3-yaml	6.0.1-1build1
-python3.11	3.11.7-2
-python3.11-minimal	3.11.7-2
+python3.11	3.11.8-1
+python3.11-minimal	3.11.8-1
 rdate	1:1.11-3ubuntu1
 readline-common	8.2-3
 reiserfsprogs	1:3.6.27-7
@@ -1502,8 +1502,8 @@ shim-signed	1.56+15.7-0ubuntu1
 shimmer-themes	2.1.3
 simple-scan	44.0+git20230905-0ubuntu1
 snapd	2.60.4+23.10
-software-properties-common	0.99.40
-software-properties-gtk	0.99.40
+software-properties-common	0.99.42
+software-properties-gtk	0.99.42
 sound-icons	0.1-8
 sound-theme-freedesktop	0.8-2ubuntu1
 speech-dispatcher	0.11.4-2ubuntu1
@@ -1519,12 +1519,12 @@ system-config-printer	1.5.18-1ubuntu3
 system-config-printer-common	1.5.18-1ubuntu3
 system-config-printer-udev	1.5.18-1ubuntu3
 system-tools-backends	2.10.2-3.1ubuntu1
-systemd	253.5-1ubuntu7
-systemd-dev	253.5-1ubuntu7
+systemd	255.2-3ubuntu2
+systemd-dev	255.2-3ubuntu2
 systemd-hwe-hwdb	255.1.3
-systemd-resolved	253.5-1ubuntu7
-systemd-sysv	253.5-1ubuntu7
-systemd-timesyncd	253.5-1ubuntu7
+systemd-resolved	255.2-3ubuntu2
+systemd-sysv	255.2-3ubuntu2
+systemd-timesyncd	255.2-3ubuntu2
 sysvinit-utils	3.08-3ubuntu1
 tar	1.35+dfsg-3
 tcl	8.6.13
@@ -1565,9 +1565,9 @@ ubuntu-release-upgrader-core	1:24.04.7
 ubuntu-release-upgrader-gtk	1:24.04.7
 ubuntu-standard	1.531
 ucf	3.0043+nmu1
-udev	253.5-1ubuntu7
+udev	255.2-3ubuntu2
 udisks2	2.10.1-1ubuntu2
-ufw	0.36.2-4
+ufw	0.36.2-5
 unattended-upgrades	2.9.1+nmu4ubuntu1
 uno-libs-private	4:24.2.0~rc1-0ubuntu1
 unzip	6.0-28ubuntu2
@@ -1703,7 +1703,7 @@ zfsutils-linux	2.2.2-0ubuntu4
 zip	3.0-13
 zlib1g:amd64	1:1.3.dfsg-3ubuntu1
 zstd	1.5.5+dfsg2-2
-snap:core22	stable	1033
+snap:core22	stable	1122
 snap:snapd	stable	20671
 snap:firefox	stable/ubuntu-24.04	3779
 snap:firmware-updater	stable/ubuntu-24.04	109
