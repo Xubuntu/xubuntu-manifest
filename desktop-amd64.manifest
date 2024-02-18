@@ -76,9 +76,6 @@ cpp-x86-64-linux-gnu	4:13.2.0-7ubuntu1
 cracklib-runtime	2.9.6-5.1
 cron	3.0pl1-178ubuntu1
 cron-daemon-common	3.0pl1-178ubuntu1
-cryptsetup	2:2.6.1-6ubuntu1
-cryptsetup-bin	2:2.6.1-6ubuntu1
-cryptsetup-initramfs	2:2.6.1-6ubuntu1
 cups	2.4.6-0ubuntu3
 cups-browsed	2.0.0-0ubuntu3
 cups-bsd	2.4.6-0ubuntu3
@@ -103,7 +100,6 @@ dbus-x11	1.14.10-3ubuntu1
 dc	1.07.1-3build1
 dconf-gsettings-backend:amd64	0.40.0-4
 dconf-service	0.40.0-4
-dctrl-tools	2.24-3build2
 debconf	1.5.82
 debconf-i18n	1.5.82
 debianutils	5.16
@@ -125,7 +121,6 @@ doc-base	0.11.2
 docbook-xml	4.5-12
 dosfstools	4.2-1build3
 dpkg	1.22.2ubuntu2
-dpkg-repack	1.52
 dracut-install	060+5-1ubuntu2
 e2fsprogs	1.47.0-2ubuntu1
 e2fsprogs-l10n	1.47.0-2ubuntu1
@@ -142,7 +137,6 @@ espeak-data:amd64	1.48.15+dfsg-3
 espeak-ng-data:amd64	1.51+dfsg-12
 exo-utils	4.18.0-1
 fdisk	2.39.2-6ubuntu1
-feh	3.10.1-1
 file	1:5.45-2
 finalrd	9build1
 findutils	4.9.0-5
@@ -201,13 +195,11 @@ gir1.2-gtk-3.0:amd64	3.24.40-2ubuntu1
 gir1.2-gtkclutter-1.0:amd64	1.8.4-4build2
 gir1.2-handy-1:amd64	1.8.2-3
 gir1.2-harfbuzz-0.0:amd64	8.3.0-2
-gir1.2-javascriptcoregtk-4.0:amd64	2.43.3-1
 gir1.2-javascriptcoregtk-4.1:amd64	2.43.3-1
 gir1.2-json-1.0:amd64	1.8.0-2
 gir1.2-libxfce4ui-2.0:amd64	4.18.4-1
 gir1.2-libxfce4util-1.0:amd64	4.18.1-2
 gir1.2-nm-1.0:amd64	1.44.2-7ubuntu1
-gir1.2-nma-1.0:amd64	1.10.6-2
 gir1.2-notify-0.7:amd64	0.8.3-1
 gir1.2-packagekitglib-1.0	1.2.8-1build1
 gir1.2-pango-1.0:amd64	1.51.0+ds-4
@@ -216,15 +208,11 @@ gir1.2-polkit-1.0	124-1
 gir1.2-rb-3.0:amd64	3.4.7-2ubuntu1
 gir1.2-secret-1:amd64	0.21.2-1
 gir1.2-snapd-2:amd64	1.64-0ubuntu2
-gir1.2-soup-2.4:amd64	2.74.3-3
 gir1.2-soup-3.0:amd64	3.4.4-5
-gir1.2-timezonemap-1.0:amd64	0.4.6-6
 gir1.2-vte-2.91:amd64	0.74.2-1
-gir1.2-webkit2-4.0:amd64	2.43.3-1
 gir1.2-webkit2-4.1:amd64	2.43.3-1
 gir1.2-wnck-3.0:amd64	43.0-3
 gir1.2-xfconf-0:amd64	4.18.1-1
-gir1.2-xkl-1.0:amd64	5.4-5
 glib-networking:amd64	2.78.0-1
 glib-networking-common	2.78.0-1
 glib-networking-services	2.78.0-1
@@ -527,7 +515,6 @@ libdbusmenu-gtk3-4:amd64	18.10.20180917~bzr492+repack1-3.1ubuntu1
 libdconf1:amd64	0.40.0-4
 libde265-0:amd64	1.0.15-1
 libdebconfclient0:amd64	0.271ubuntu1
-libdebian-installer4:amd64	0.124ubuntu1
 libdebuginfod-common	0.190-1
 libdebuginfod1:amd64	0.190-1
 libdecor-0-0:amd64	0.2.2-1
@@ -540,7 +527,6 @@ libdjvulibre21:amd64	3.5.28-2build3
 libdmapsharing-4.0-3:amd64	3.9.13-1
 libdmraid1.0.0.rc16:amd64	1.0.0.rc16-12ubuntu1
 libdotconf0:amd64	1.3-0.3fakesync1build2
-libdpkg-perl	1.22.2ubuntu2
 libdrm-amdgpu1:amd64	2.4.120-2
 libdrm-common	2.4.120-2
 libdrm-intel1:amd64	2.4.120-2
@@ -586,7 +572,6 @@ libfftw3-single3:amd64	3.3.10-1ubuntu1
 libfido2-1:amd64	1.14.0-1
 libfile-basedir-perl	0.09-2
 libfile-desktopentry-perl	0.22-3
-libfile-fcntllock-perl	0.22-4ubuntu3
 libfile-listing-perl	6.16-1
 libfile-mimeinfo-perl	0.34-1
 libflac12:amd64	1.4.3+ds-2ubuntu1
@@ -627,7 +612,6 @@ libgegl-0.4-0:amd64	1:0.4.46-4
 libgegl-common	1:0.4.46-4
 libgexiv2-2:amd64	0.14.2-2
 libgfortran5:amd64	14-20240201-3ubuntu1
-libgif7:amd64	5.2.1-2.5
 libgimp2.0:amd64	2.10.36-2
 libgirepository-1.0-1:amd64	1.78.1-6
 libgl1:amd64	1.7.0-1
@@ -734,7 +718,6 @@ libical3:amd64	3.0.17-1build1
 libice6:amd64	2:1.0.10-1build2
 libicu72:amd64	72.1-4ubuntu1
 libicu74:amd64	74.2-1ubuntu1
-libid3tag0:amd64	0.15.1b-14
 libidn12:amd64	1.42-1
 libidn2-0:amd64	2.3.7-2
 libiec61883-0:amd64	1.2.0-6
@@ -743,7 +726,6 @@ libigdgmm12:amd64	22.3.17+ds1-1
 libijs-0.35:amd64	0.35-15.1
 libimagequant0:amd64	2.18.0-1
 libimath-3-1-29:amd64	3.1.9-3ubuntu2
-libimlib2:amd64	1.12.1-1
 libimobiledevice6:amd64	1.3.0-7.1
 libinih1:amd64	55-1ubuntu1
 libinput-bin	1.25.0-1
@@ -760,15 +742,12 @@ libisofs6:amd64	1.5.6.pl01-1ubuntu1
 libiw30:amd64	30~pre9-13.1ubuntu4
 libjack-jackd2-0:amd64	1.9.21~dfsg-3
 libjansson4:amd64	2.14-2
-libjavascriptcoregtk-4.0-18:amd64	2.43.3-1
 libjavascriptcoregtk-4.1-0:amd64	2.43.3-1
 libjbig0:amd64	2.1-6.1ubuntu1
 libjbig2dec0:amd64	0.20-1
 libjcat1:amd64	0.2.0-2
-libjpeg-progs	1:9e-1
 libjpeg-turbo8:amd64	2.1.5-2ubuntu1
 libjpeg8:amd64	8c-2ubuntu11
-libjpeg9:amd64	1:9e-1
 libjq1:amd64	1.7.1-2
 libjs-mathjax	2.7.9+dfsg-1
 libjson-c5:amd64	0.17-1
@@ -1048,7 +1027,6 @@ libsonic0:amd64	0.2.0-13
 libsord-0-0:amd64	0.16.16-2
 libsoup-3.0-0:amd64	3.4.4-5
 libsoup-3.0-common	3.4.4-5
-libsoup-gnome2.4-1:amd64	2.74.3-3
 libsoup2.4-1:amd64	2.74.3-3
 libsoup2.4-common	2.74.3-3
 libsource-highlight-common	3.1.9-4.2build2
@@ -1097,8 +1075,6 @@ libthunarx-3-0:amd64	4.18.8-1
 libtie-ixhash-perl	1.23-4
 libtiff6:amd64	4.5.1+git230720-3ubuntu1
 libtimedate-perl	2.3300-2
-libtimezonemap-data	0.4.6-6
-libtimezonemap1:amd64	0.4.6-6
 libtinfo6:amd64	6.4+20231209-1
 libtirpc-common	1.3.4+ds-1build1
 libtirpc3:amd64	1.3.4+ds-1build1
@@ -1165,7 +1141,6 @@ libwayland-cursor0:amd64	1.22.0-2.1
 libwayland-egl1:amd64	1.22.0-2.1
 libwayland-server0:amd64	1.22.0-2.1
 libwbclient0:amd64	2:4.18.6+dfsg-1ubuntu2.2
-libwebkit2gtk-4.0-37:amd64	2.43.3-1
 libwebkit2gtk-4.1-0:amd64	2.43.3-1
 libwebp7:amd64	1.3.2-0.3
 libwebpdemux2:amd64	1.3.2-0.3
@@ -1432,7 +1407,6 @@ python3-gdbm:amd64	3.11.5-1
 python3-gi	3.46.0-3
 python3-gi-cairo	3.46.0-3
 python3-httplib2	0.20.4-3
-python3-icu	2.12-1build1
 python3-idna	3.6-2
 python3-jwt	2.7.0-1
 python3-launchpadlib	1.11.0-2ubuntu2
@@ -1447,7 +1421,6 @@ python3-netifaces:amd64	0.11.0-2build2
 python3-netplan	0.107.1-3
 python3-oauthlib	3.2.2-1
 python3-olefile	0.46-3
-python3-pam	0.4.2-18build1
 python3-pexpect	4.9-1ubuntu1
 python3-pil:amd64	10.2.0-1
 python3-pkg-resources	68.1.2-2
@@ -1473,7 +1446,6 @@ python3-xkit	0.5.0ubuntu6
 python3-yaml	6.0.1-1build1
 python3.11	3.11.8-1
 python3.11-minimal	3.11.8-1
-rdate	1:1.11-3ubuntu1
 readline-common	8.2-3
 reiserfsprogs	1:3.6.27-7
 rfkill	2.39.2-6ubuntu1
@@ -1499,7 +1471,7 @@ sgt-launcher	0.2.8-0ubuntu1
 sgt-puzzles	20230410.71cf891-2
 shared-mime-info	2.4-1
 shim-signed	1.56+15.7-0ubuntu1
-shimmer-themes	2.1.3
+shimmer-themes	2.1.3build1
 simple-scan	44.0+git20230905-0ubuntu1
 snapd	2.60.4+23.10
 software-properties-common	0.99.42
@@ -1548,12 +1520,6 @@ tree	2.1.1-2
 tumbler:amd64	4.18.1-1
 tumbler-common	4.18.1-1
 tzdata	2023d-1ubuntu2
-tzdata-legacy	2023d-1ubuntu2
-ubiquity	24.04.2
-ubiquity-casper	1.490
-ubiquity-frontend-gtk	24.04.2
-ubiquity-slideshow-xubuntu	196
-ubiquity-ubuntu-artwork	24.04.2
 ubuntu-advantage-desktop-daemon	1.10
 ubuntu-advantage-tools	30.1
 ubuntu-drivers-common	1:0.9.7.6
@@ -1694,7 +1660,6 @@ xxd	2:9.1.0016-1ubuntu2
 xz-utils	5.4.5-0.3
 yelp	42.2-1
 yelp-xsl	42.1-2
-yudit-common	3.1.0-1
 zenity	4.0.1-1
 zenity-common	4.0.1-1
 zfs-initramfs	2.2.2-0ubuntu4
@@ -1712,3 +1677,4 @@ snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
 snap:snap-store	stable/ubuntu-24.04	1046
 snap:snapd-desktop-integration	stable/ubuntu-24.04	83
+snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	6
