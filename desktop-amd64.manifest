@@ -740,7 +740,7 @@ libipc-system-simple-perl	1.30-2
 libipt2	2.0.6-1
 libisl23:amd64	0.26-3
 libisofs6:amd64	1.5.6.pl01-1ubuntu1
-libiw30:amd64	30~pre9-13.1ubuntu4
+libiw30:amd64	30~pre9-16ubuntu1
 libjack-jackd2-0:amd64	1.9.21~dfsg-3
 libjansson4:amd64	2.14-2
 libjavascriptcoregtk-4.1-0:amd64	2.43.3-1
@@ -1563,7 +1563,7 @@ whiptail	0.52.24-1ubuntu1
 whoopsie	0.2.77
 whoopsie-preferences	23
 wireless-regdb	2022.06.06-0ubuntu2
-wireless-tools	30~pre9-13.1ubuntu4
+wireless-tools	30~pre9-16ubuntu1
 wireplumber	0.4.17-1ubuntu1
 wpasupplicant	2:2.10-21
 x11-apps	7.7+11
@@ -1620,7 +1620,7 @@ xfonts-base	1:1.0.5+nmu1
 xfonts-encodings	1:1.0.5-0ubuntu2
 xfonts-scalable	1:1.0.3-1.3
 xfonts-utils	1:7.7+6build2
-xfsprogs	6.5.0-1ubuntu2
+xfsprogs	6.6.0-1ubuntu1
 xfwm4	4.18.0-1
 xiccd	0.3.0-2
 xinit	1.4.1-0ubuntu4
