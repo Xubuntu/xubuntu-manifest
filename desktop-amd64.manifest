@@ -90,7 +90,7 @@ cups-ipp-utils	2.4.6-0ubuntu3
 cups-pk-helper	0.2.6-1ubuntu5
 cups-ppdc	2.4.6-0ubuntu3
 cups-server-common	2.4.6-0ubuntu3
-dash	0.5.12-6ubuntu3
+dash	0.5.12-6ubuntu4
 dbus	1.14.10-3ubuntu1
 dbus-bin	1.14.10-3ubuntu1
 dbus-daemon	1.14.10-3ubuntu1
@@ -167,7 +167,7 @@ foomatic-db-compressed-ppds	20230202-1
 friendly-recovery	0.2.42
 ftp	20230507-2
 fuse3	3.14.0-5
-fwupd	1.9.13-1
+fwupd	1.9.14-1
 fwupd-signed	1.52+1.4-1
 gcc-13-base:amd64	13.2.0-13ubuntu1
 gcc-14-base:amd64	14-20240201-3ubuntu1
@@ -188,7 +188,7 @@ gir1.2-coglpango-1.0:amd64	1.22.8-4ubuntu1
 gir1.2-freedesktop:amd64	1.79.1-1
 gir1.2-gdkpixbuf-2.0:amd64	2.42.10+dfsg-3
 gir1.2-girepository-2.0:amd64	1.79.1-1
-gir1.2-glib-2.0:amd64	2.79.1-1
+gir1.2-glib-2.0:amd64	2.79.2-1~ubuntu1
 gir1.2-gmenu-3.0:amd64	3.36.0-1.1ubuntu1
 gir1.2-goa-1.0:amd64	3.49.0-1
 gir1.2-gst-plugins-base-1.0:amd64	1.22.10-1
@@ -244,13 +244,13 @@ graphviz	2.42.2-8build1
 grep	3.11-4
 greybird-gtk-theme	3.23.3-1
 groff-base	1.23.0-3
-grub-common	2.12-1ubuntu2
+grub-common	2.12-1ubuntu3
 grub-efi-amd64-bin	2.12-1ubuntu1
 grub-efi-amd64-signed	1.201+2.12-1ubuntu1
 grub-gfxpayload-lists	0.7build1
-grub-pc	2.12-1ubuntu2
-grub-pc-bin	2.12-1ubuntu2
-grub2-common	2.12-1ubuntu2
+grub-pc	2.12-1ubuntu3
+grub-pc-bin	2.12-1ubuntu3
+grub2-common	2.12-1ubuntu3
 gsettings-desktop-schemas	46~beta-3ubuntu1
 gstreamer1.0-gl:amd64	1.22.10-1
 gstreamer1.0-gtk3:amd64	1.22.9-1ubuntu1
@@ -284,7 +284,7 @@ hplip-data	3.22.10+dfsg0-2ubuntu2
 humanity-icon-theme	0.6.16
 hunspell-en-us	1:2020.12.07-2
 i965-va-driver:amd64	2.4.1+dfsg1-1build1
-ibverbs-providers:amd64	48.0-1.1
+ibverbs-providers:amd64	50.0-1
 im-config	0.57-2
 indicator-common	16.10.0+18.04.20180321.1-0ubuntu5
 indicator-messages	13.10.1+18.10.20180918-0ubuntu5
@@ -464,7 +464,7 @@ libcanberra0:amd64	0.30-10ubuntu4
 libcap-ng0:amd64	0.8.4-2
 libcap2:amd64	1:2.66-5ubuntu1
 libcap2-bin	1:2.66-5ubuntu1
-libcbor0.10:amd64	0.10.2-1.1ubuntu1
+libcbor0.10:amd64	0.10.2-1.2ubuntu1
 libccolamd3:amd64	1:7.6.0+dfsg-1
 libcdio-cdda2:amd64	10.2+2.0.1-1
 libcdio-paranoia2:amd64	10.2+2.0.1-1
@@ -588,7 +588,7 @@ libfribidi0:amd64	1.0.13-3
 libftdi1-2:amd64	1.5-6build3
 libfuse2:amd64	2.9.9-8
 libfuse3-3:amd64	3.14.0-5
-libfwupd2:amd64	1.9.13-1
+libfwupd2:amd64	1.9.14-1
 libgail-common:amd64	2.24.33-2ubuntu2
 libgail18:amd64	2.24.33-2ubuntu2
 libgarcon-1-0:amd64	4.18.1-1
@@ -622,9 +622,9 @@ libglapi-mesa:amd64	24.0.1-1ubuntu1
 libgles2:amd64	1.7.0-1
 libglib-object-introspection-perl	0.051-1build1
 libglib-perl:amd64	3:1.329.3-3build1
-libglib2.0-0:amd64	2.79.1-1
-libglib2.0-bin	2.79.1-1
-libglib2.0-data	2.79.1-1
+libglib2.0-0:amd64	2.79.2-1~ubuntu1
+libglib2.0-bin	2.79.2-1~ubuntu1
+libglib2.0-data	2.79.2-1~ubuntu1
 libglibmm-2.4-1v5:amd64	2.66.6-2
 libglibmm-2.68-1:amd64	2.78.1-1
 libglu1-mesa:amd64	9.0.2-1.1
@@ -714,10 +714,9 @@ libhttp-negotiate-perl	6.01-2
 libhunspell-1.7-0:amd64	1.7.2+really1.7.2-10
 libhwy1:amd64	1.0.7-8
 libhyphen0:amd64	2.8.8-7build2
-libibverbs1:amd64	48.0-1.1
+libibverbs1:amd64	50.0-1
 libical3:amd64	3.0.17-1build1
 libice6:amd64	2:1.0.10-1build2
-libicu72:amd64	72.1-4ubuntu1
 libicu74:amd64	74.2-1ubuntu1
 libidn12:amd64	1.42-1
 libidn2-0:amd64	2.3.7-2
@@ -800,7 +799,7 @@ liblzo2-2:amd64	2.10-2build3
 libmagic-mgc	1:5.45-2
 libmagic1:amd64	1:5.45-2
 libmailtools-perl	2.21-2
-libmanette-0.2-0:amd64	0.2.6-3build1
+libmanette-0.2-0:amd64	0.2.7-1
 libmaxminddb0:amd64	1.9.1-1
 libmbedcrypto7:amd64	2.28.7-1ubuntu1
 libmbim-glib4:amd64	1.30.0-1
@@ -917,7 +916,7 @@ libpixman-1-0:amd64	0.42.2-1
 libplacebo338:amd64	6.338.2-1
 libplist3:amd64	2.2.0-7
 libplymouth5:amd64	24.004.60-1ubuntu3
-libpng16-16:amd64	1.6.42-1
+libpng16-16:amd64	1.6.43-1
 libpocketsphinx3:amd64	0.8.0+real5prealpha+1-15ubuntu1
 libpolkit-agent-1-0:amd64	124-1
 libpolkit-gobject-1-0:amd64	124-1
@@ -1002,8 +1001,8 @@ libsecret-common	0.21.2-1
 libselinux1:amd64	3.5-2build1
 libsemanage-common	3.5-1build2
 libsemanage2:amd64	3.5-1build2
-libsensors-config	1:3.6.0-8
-libsensors5:amd64	1:3.6.0-8
+libsensors-config	1:3.6.0-9
+libsensors5:amd64	1:3.6.0-9
 libsepol2:amd64	3.5-2
 libserd-0-0:amd64	0.32.2-1
 libsgutils2-1.46-2:amd64	1.46-3ubuntu3
@@ -1258,7 +1257,7 @@ linux-image-generic	6.6.0-14.14
 linux-modules-6.6.0-14-generic	6.6.0-14.14
 linux-modules-extra-6.6.0-14-generic	6.6.0-14.14
 linux-sound-base	1.0.25+dfsg-0ubuntu7
-lm-sensors	1:3.6.0-8
+lm-sensors	1:3.6.0-9
 localechooser-data	2.89ubuntu6
 locales	2.39-0ubuntu2
 login	1:4.13+dfsg1-4ubuntu1
@@ -1407,7 +1406,7 @@ python3-gi-cairo	3.47.0-3
 python3-httplib2	0.20.4-3
 python3-idna	3.6-2
 python3-jwt	2.7.0-1
-python3-launchpadlib	1.11.0-2ubuntu2
+python3-launchpadlib	1.11.0-6
 python3-lazr.restfulclient	0.14.6-1
 python3-lazr.uri	1.0.6-3
 python3-mako	1.3.2-1
