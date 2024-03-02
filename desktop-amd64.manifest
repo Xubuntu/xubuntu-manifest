@@ -51,7 +51,7 @@ brltty	6.6-4ubuntu2
 brltty-x11	6.6-4ubuntu2
 bsdextrautils	2.39.3-6ubuntu2
 bsdutils	1:2.39.3-6ubuntu2
-btrfs-progs	6.6.3-1build1
+btrfs-progs	6.6.3-1.1
 bubblewrap	0.8.0-2
 busybox-initramfs	1:1.36.1-6ubuntu1
 busybox-static	1:1.36.1-6ubuntu1
@@ -283,7 +283,7 @@ hplip-data	3.22.10+dfsg0-2ubuntu2
 humanity-icon-theme	0.6.16
 hunspell-en-us	1:2020.12.07-2
 i965-va-driver:amd64	2.4.1+dfsg1-1build1
-ibverbs-providers:amd64	50.0-1
+ibverbs-providers:amd64	50.0-2
 im-config	0.57-2
 indicator-common	16.10.0+18.04.20180321.1-0ubuntu5
 indicator-messages	13.10.1+18.10.20180918-0ubuntu5
@@ -494,7 +494,7 @@ libcpdb-frontend2:amd64	2.0~b5-1
 libcpdb2:amd64	2.0~b5-1
 libcrack2:amd64	2.9.6-5.1
 libcrypt1:amd64	1:4.4.36-4
-libcryptsetup12:amd64	2:2.6.1-6ubuntu1
+libcryptsetup12:amd64	2:2.7.0-1ubuntu1
 libcups2:amd64	2.4.6-0ubuntu3
 libcupsfilters2:amd64	2.0.0-0ubuntu1
 libcupsfilters2-common	2.0.0-0ubuntu1
@@ -711,7 +711,7 @@ libhttp-negotiate-perl	6.01-2
 libhunspell-1.7-0:amd64	1.7.2+really1.7.2-10
 libhwy1:amd64	1.0.7-8
 libhyphen0:amd64	2.8.8-7build2
-libibverbs1:amd64	50.0-1
+libibverbs1:amd64	50.0-2
 libical3:amd64	3.0.17-1build1
 libice6:amd64	2:1.0.10-1build2
 libicu74:amd64	74.2-1ubuntu1
@@ -1265,7 +1265,7 @@ logsave	1.47.0-2ubuntu1
 lp-solve	5.5.2.5-2build3
 lsb-release	12.0-2
 lshw	02.19.git.2021.06.19.996aaad9c7-2build1
-lsof	4.95.0-1
+lsof	4.95.0-1build1
 lvm2	2.03.16-2ubuntu1
 man-db	2.12.0-3
 manpages	6.05.01-1
