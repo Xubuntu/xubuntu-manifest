@@ -102,7 +102,7 @@ dpkg	1.22.4ubuntu5
 dracut-install	060+5-1ubuntu2
 e2fsprogs	1.47.0-2ubuntu1
 e2fsprogs-l10n	1.47.0-2ubuntu1
-ed	1.20-1
+ed	1.20.1-1
 efibootmgr	18-1
 eject	2.39.3-6ubuntu2
 elementary-xfce-icon-theme	0.18-1
