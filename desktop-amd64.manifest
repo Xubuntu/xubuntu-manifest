@@ -2,7 +2,7 @@
 accountsservice	23.13.9-2ubuntu2
 acl	2.3.2-1
 adduser	3.137ubuntu1
-adwaita-icon-theme	46~beta-4
+adwaita-icon-theme	46~rc-1
 alsa-base	1.0.25+dfsg-0ubuntu7
 alsa-topology-conf	1.2.5.1-2
 alsa-ucm-conf	1.2.10-1ubuntu3
@@ -211,7 +211,7 @@ gir1.2-pango-1.0:amd64	1.51.0+ds-4
 gir1.2-peas-1.0:amd64	1.36.0-3build1
 gir1.2-polkit-1.0	124-1
 gir1.2-rb-3.0:amd64	3.4.7-2ubuntu2
-gir1.2-secret-1:amd64	0.21.2-1
+gir1.2-secret-1:amd64	0.21.4-1
 gir1.2-snapd-2:amd64	1.64-0ubuntu2
 gir1.2-soup-3.0:amd64	3.4.4-5
 gir1.2-vte-2.91:amd64	0.75.91-2
@@ -997,8 +997,8 @@ libsasl2-modules:amd64	2.1.28+dfsg1-4
 libsasl2-modules-db:amd64	2.1.28+dfsg1-4
 libsbc1:amd64	2.0-1
 libseccomp2:amd64	2.5.5-1ubuntu1
-libsecret-1-0:amd64	0.21.2-1
-libsecret-common	0.21.2-1
+libsecret-1-0:amd64	0.21.4-1
+libsecret-common	0.21.4-1
 libselinux1:amd64	3.5-2build1
 libsemanage-common	3.5-1build2
 libsemanage2:amd64	3.5-1build2
@@ -1691,6 +1691,6 @@ snap:firmware-updater	stable/ubuntu-24.04	121
 snap:gnome-42-2204	stable/ubuntu-24.04	141
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
-snap:snap-store	stable/ubuntu-24.04	1106
+snap:snap-store	stable/ubuntu-24.04	1110
 snap:snapd-desktop-integration	stable/ubuntu-24.04	83
-snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	6
+snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	29
