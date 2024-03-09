@@ -1484,7 +1484,7 @@ sgml-data	2.0.11+nmu1
 sgt-launcher	0.2.8-0ubuntu1
 sgt-puzzles	20230410.71cf891-2
 shared-mime-info	2.4-1
-shim-signed	1.56+15.7-0ubuntu1
+shim-signed	1.57+15.8-0ubuntu1
 shimmer-themes	2.1.3build1
 simple-scan	46~beta-0ubuntu1
 snapd	2.60.4+23.10
@@ -1666,11 +1666,11 @@ xterm	390-1ubuntu1
 xubuntu-artwork	24.04
 xubuntu-community-wallpapers	22.04.0
 xubuntu-community-wallpapers-jammy	22.04.0
-xubuntu-default-settings	24.04.0
+xubuntu-default-settings	24.04.1
 xubuntu-desktop	2.259
 xubuntu-desktop-minimal	2.259
 xubuntu-docs	22.04
-xubuntu-live-settings	24.04.0
+xubuntu-live-settings	24.04.1
 xubuntu-wallpapers	24.04
 xxd	2:9.1.0016-1ubuntu2
 xz-utils	5.4.5-0.3

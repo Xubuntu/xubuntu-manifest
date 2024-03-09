@@ -1105,7 +1105,7 @@ session-migration	0.3.6
 sgml-base	1.31
 sgml-data	2.0.11+nmu1
 shared-mime-info	2.4-1
-shim-signed	1.56+15.7-0ubuntu1
+shim-signed	1.57+15.8-0ubuntu1
 shimmer-themes	2.1.3build1
 snapd	2.60.4+23.10
 software-properties-common	0.99.42
@@ -1246,9 +1246,9 @@ xserver-xorg-video-vesa	1:2.6.0-1
 xserver-xorg-video-vmware	1:13.4.0-1
 xterm	390-1ubuntu1
 xubuntu-artwork	24.04
-xubuntu-default-settings	24.04.0
+xubuntu-default-settings	24.04.1
 xubuntu-desktop-minimal	2.259
-xubuntu-live-settings	24.04.0
+xubuntu-live-settings	24.04.1
 xubuntu-wallpapers	24.04
 xxd	2:9.1.0016-1ubuntu2
 xz-utils	5.4.5-0.3
