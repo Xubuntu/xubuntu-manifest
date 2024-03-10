@@ -128,7 +128,7 @@ e2fsprogs	1.47.0-2ubuntu1
 e2fsprogs-l10n	1.47.0-2ubuntu1
 eatmydata	131-1
 ed	1.20.1-1
-efibootmgr	18-1
+efibootmgr	18-1build1
 eject	2.39.3-6ubuntu2
 elementary-xfce-icon-theme	0.18-1
 emacsen-common	3.0.5
@@ -784,8 +784,8 @@ liblirc-client0:amd64	0.10.2-0.6
 libllvm17:amd64	1:17.0.6-5build1
 liblmdb0:amd64	0.9.31-1
 liblocale-gettext-perl	1.07-6build1
-liblouis-data	3.28.0-1
-liblouis20:amd64	3.28.0-1
+liblouis-data	3.29.0-1
+liblouis20:amd64	3.29.0-1
 liblouisutdml-bin	2.12.0-3
 liblouisutdml-data	2.12.0-3
 liblouisutdml9:amd64	2.12.0-3
@@ -1385,7 +1385,7 @@ python3-apport	2.28.0-0ubuntu1
 python3-apt	2.7.6
 python3-aptdaemon	1.1.1+bzr982-0ubuntu44
 python3-aptdaemon.gtk3widgets	1.1.1+bzr982-0ubuntu44
-python3-attr	23.2.0-1
+python3-attr	23.2.0-2
 python3-babel	2.10.3-3build1
 python3-blinker	1.7.0-1
 python3-cairo	1.25.1-2
@@ -1540,13 +1540,13 @@ ubuntu-advantage-desktop-daemon	1.10
 ubuntu-advantage-tools	31.1
 ubuntu-drivers-common	1:0.9.7.6
 ubuntu-keyring	2023.11.28.1
-ubuntu-minimal	1.534
+ubuntu-minimal	1.535
 ubuntu-mono	24.04-0ubuntu1
 ubuntu-pro-client	31.1
 ubuntu-pro-client-l10n	31.1
 ubuntu-release-upgrader-core	1:24.04.7
 ubuntu-release-upgrader-gtk	1:24.04.7
-ubuntu-standard	1.534
+ubuntu-standard	1.535
 ucf	3.0043+nmu1
 udev	255.2-3ubuntu2
 udisks2	2.10.1-1ubuntu2
