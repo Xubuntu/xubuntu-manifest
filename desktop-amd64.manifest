@@ -317,7 +317,7 @@ kerneloops	0.12+git20140509-6ubuntu5
 keyboard-configuration	1.223ubuntu2
 keyboxd	2.4.4-2ubuntu7
 keyutils	1.6.3-3
-klibc-utils	2.0.13-2ubuntu1
+klibc-utils	2.0.13-4
 kmod	30+20230601-2ubuntu1
 kpartx	0.9.4-5ubuntu3
 kpartx-boot	0.9.4-5ubuntu3
@@ -326,7 +326,7 @@ language-pack-bn	1:24.04+20240309
 language-pack-bn-base	1:24.04+20231202
 language-pack-de	1:24.04+20240309
 language-pack-de-base	1:24.04+20231202
-language-pack-en	1:24.04+20240224
+language-pack-en	1:24.04+20240309
 language-pack-en-base	1:24.04+20231202
 language-pack-es	1:24.04+20240309
 language-pack-es-base	1:24.04+20231202
@@ -759,7 +759,7 @@ libjxl0.7:amd64	0.7.0-10.2ubuntu1
 libk5crypto3:amd64	1.20.1-5build1
 libkeybinder-3.0-0:amd64	0.3.2-1.1
 libkeyutils1:amd64	1.6.3-3
-libklibc:amd64	2.0.13-2ubuntu1
+libklibc:amd64	2.0.13-4
 libkmod2:amd64	30+20230601-2ubuntu1
 libkpathsea6:amd64	2023.20230311.66589-9
 libkrb5-3:amd64	1.20.1-5build1
