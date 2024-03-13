@@ -5,7 +5,7 @@ adduser	3.137ubuntu1
 adwaita-icon-theme	46~rc-1
 alsa-base	1.0.25+dfsg-0ubuntu7
 alsa-topology-conf	1.2.5.1-2
-alsa-ucm-conf	1.2.10-1ubuntu3
+alsa-ucm-conf	1.2.10-1ubuntu4
 alsa-utils	1.2.9-1ubuntu1
 amd64-microcode	3.20231019.1ubuntu1
 anacron	2.3-39ubuntu1
@@ -145,7 +145,7 @@ file	1:5.45-2
 finalrd	9build1
 findutils	4.9.0-5
 firefox	1:1snap1-0ubuntu5
-firmware-sof-signed	2.2.6-1ubuntu4
+firmware-sof-signed	2023.12.1-1ubuntu1
 fontconfig	2.15.0-1ubuntu1
 fontconfig-config	2.15.0-1ubuntu1
 fonts-dejavu-core	2.37-8
@@ -853,7 +853,7 @@ libnm0:amd64	1.45.90-1ubuntu1
 libnma-common	1.10.6-2
 libnma-gtk4-0:amd64	1.10.6-2
 libnma0:amd64	1.10.6-2
-libnorm1:amd64	1.5.9+dfsg-3
+libnorm1t64:amd64	1.5.9+dfsg-3.1
 libnotify-bin	0.8.3-1
 libnotify4:amd64	0.8.3-1
 libnpth0:amd64	1.6-3build2
@@ -909,7 +909,7 @@ libpcsclite1:amd64	2.0.0-1
 libpeas-1.0-0:amd64	1.36.0-3build1
 libpeas-common	1.36.0-3build1
 libperl5.38:amd64	5.38.2-3
-libpgm-5.3-0:amd64	5.3.128~dfsg-2
+libpgm-5.3-0t64:amd64	5.3.128~dfsg-2.1
 libpipeline1:amd64	1.5.7-1
 libpipewire-0.3-0:amd64	1.0.3-1ubuntu2
 libpipewire-0.3-common	1.0.3-1ubuntu2
@@ -1242,7 +1242,7 @@ libyelp0:amd64	42.2-1
 libzfs4linux	2.2.2-0ubuntu4
 libzimg2:amd64	3.0.5+ds1-1
 libzix-0-0:amd64	0.4.2-2
-libzmq5:amd64	4.3.5-1
+libzmq5:amd64	4.3.5-1build1
 libzpool5linux	2.2.2-0ubuntu4
 libzstd1:amd64	1.5.5+dfsg2-2
 libzvbi-common	0.2.42-1.1
