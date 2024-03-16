@@ -1540,13 +1540,13 @@ ubuntu-advantage-desktop-daemon	1.10
 ubuntu-advantage-tools	31.1
 ubuntu-drivers-common	1:0.9.7.6
 ubuntu-keyring	2023.11.28.1
-ubuntu-minimal	1.535
+ubuntu-minimal	1.536
 ubuntu-mono	24.04-0ubuntu1
 ubuntu-pro-client	31.1
 ubuntu-pro-client-l10n	31.1
 ubuntu-release-upgrader-core	1:24.04.7
 ubuntu-release-upgrader-gtk	1:24.04.7
-ubuntu-standard	1.535
+ubuntu-standard	1.536
 ucf	3.0043+nmu1
 udev	255.2-3ubuntu2
 udisks2	2.10.1-1ubuntu2
