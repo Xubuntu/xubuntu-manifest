@@ -62,7 +62,7 @@ catfish	4.16.4-2
 cheese-common	44.1-1
 cifs-utils	2:7.0-2
 cloud-guest-utils	0.33-1
-cloud-init	24.1.1-0ubuntu1
+cloud-init	24.1.2-0ubuntu1
 colord	1.4.7-1
 colord-data	1.4.7-1
 command-not-found	23.04.0
@@ -104,7 +104,7 @@ dconf-gsettings-backend:amd64	0.40.0-4
 dconf-service	0.40.0-4
 debconf	1.5.86
 debconf-i18n	1.5.86
-debianutils	5.16
+debianutils	5.17
 desktop-file-utils	0.26-1ubuntu5
 dhcpcd-base	1:10.0.6-1ubuntu1
 dictionaries-common	1.29.7
@@ -163,7 +163,7 @@ fonts-noto-mono	20201225-2
 fonts-noto-ui-core	20201225-2
 fonts-opensymbol	4:102.12+LibO24.2.1~rc2-0ubuntu1
 fonts-symbola	2.60-1.1
-fonts-ubuntu	0.869-0ubuntu1
+fonts-ubuntu	0.869+git20240321-0ubuntu1
 fonts-urw-base35	20200910-8
 foomatic-db-compressed-ppds	20230202-1
 friendly-recovery	0.2.42
@@ -326,7 +326,7 @@ language-pack-bn	1:24.04+20240316
 language-pack-bn-base	1:24.04+20231202
 language-pack-de	1:24.04+20240316
 language-pack-de-base	1:24.04+20231202
-language-pack-en	1:24.04+20240309
+language-pack-en	1:24.04+20240316
 language-pack-en-base	1:24.04+20231202
 language-pack-es	1:24.04+20240316
 language-pack-es-base	1:24.04+20231202
@@ -1251,7 +1251,7 @@ lightdm	1.30.0-0ubuntu8
 lightdm-gtk-greeter	2.0.9-0ubuntu1
 lightdm-gtk-greeter-settings	1.2.3-0ubuntu1
 linux-base	4.5ubuntu9
-linux-firmware	20240202.git36777504-0ubuntu1
+linux-firmware	20240318.git3b128b60-0ubuntu1
 linux-generic	6.8.0-11.11+1
 linux-headers-6.8.0-11	6.8.0-11.11
 linux-headers-6.8.0-11-generic	6.8.0-11.11
@@ -1423,7 +1423,7 @@ python3-lazr.restfulclient	0.14.6-1
 python3-lazr.uri	1.0.6-3
 python3-mako	1.3.2-1
 python3-markdown-it	3.0.0-2
-python3-markupsafe	2.1.5-1
+python3-markupsafe	2.1.5-1build1
 python3-mdurl	0.1.2-1
 python3-minimal	3.12.1-0ubuntu2
 python3-netifaces:amd64	0.11.0-2build2
@@ -1691,6 +1691,7 @@ snap:firmware-updater	stable/ubuntu-24.04	121
 snap:gnome-42-2204	stable/ubuntu-24.04	172
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
-snap:snap-store	stable/ubuntu-24.04	1110
+snap:snap-store	stable/ubuntu-24.04	1122
 snap:snapd-desktop-integration	stable/ubuntu-24.04	83
-snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	63
+snap:thunderbird	stable/ubuntu-24.04	460
+snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	73
