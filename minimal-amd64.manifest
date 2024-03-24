@@ -337,12 +337,12 @@ libblockdev3:amd64	3.1.0-1
 libbluetooth3:amd64	5.72-0ubuntu1
 libbpf1:amd64	1:1.3.0-2
 libbrotli1:amd64	1.1.0-2
-libbsd0:amd64	0.11.8-1
+libbsd0:amd64	0.12.1-1
 libbytesize-common	2.10-1ubuntu1
 libbytesize1:amd64	2.10-1ubuntu1
 libbz2-1.0:amd64	1.0.8-5ubuntu1
-libc-bin	2.39-0ubuntu2
-libc6:amd64	2.39-0ubuntu2
+libc-bin	2.39-0ubuntu6
+libc6:amd64	2.39-0ubuntu6
 libcaca0:amd64	0.99.beta20-4
 libcairo-gobject-perl	1.005-4build1
 libcairo-gobject2:amd64	1.18.0-1
@@ -538,7 +538,7 @@ libip4tc2:amd64	1.8.10-3ubuntu1
 libip6tc2:amd64	1.8.10-3ubuntu1
 libipc-system-simple-perl	1.30-2
 libisl23:amd64	0.26-3
-libiw30:amd64	30~pre9-16ubuntu1
+libiw30t64:amd64	30~pre9-16.1ubuntu1
 libjack-jackd2-0:amd64	1.9.21~dfsg-3
 libjansson4:amd64	2.14-2
 libjavascriptcoregtk-4.1-0:amd64	2.43.3-1
@@ -571,9 +571,9 @@ liblmdb0:amd64	0.9.31-1
 liblocale-gettext-perl	1.07-6build1
 liblouis-data	3.29.0-1
 liblouis20:amd64	3.29.0-1
-liblouisutdml-bin	2.12.0-3
-liblouisutdml-data	2.12.0-3
-liblouisutdml9:amd64	2.12.0-3
+liblouisutdml-bin	2.12.0-3.1
+liblouisutdml-data	2.12.0-3.1
+liblouisutdml9t64:amd64	2.12.0-3.1
 libltdl7:amd64	2.4.7-7
 liblua5.4-0:amd64	5.4.6-3
 liblvm2cmd2.03:amd64	2.03.16-3ubuntu1
@@ -892,7 +892,7 @@ libxrandr2:amd64	2:1.5.2-2
 libxrender1:amd64	1:0.9.10-1.1
 libxres1:amd64	2:1.2.1-1
 libxshmfence1:amd64	1.3-1build4
-libxslt1.1:amd64	1.1.35-1
+libxslt1.1:amd64	1.1.39-0exp1
 libxss1:amd64	1:1.2.3-1build2
 libxt6:amd64	1:1.2.1-1.1
 libxtables12:amd64	1.8.10-3ubuntu1
@@ -925,7 +925,7 @@ linux-modules-6.8.0-11-generic	6.8.0-11.11
 linux-modules-extra-6.8.0-11-generic	6.8.0-11.11
 linux-sound-base	1.0.25+dfsg-0ubuntu7
 localechooser-data	2.89ubuntu6
-locales	2.39-0ubuntu2
+locales	2.39-0ubuntu6
 login	1:4.13+dfsg1-4ubuntu1
 logrotate	3.21.0-2
 logsave	1.47.0-2ubuntu1
@@ -1177,7 +1177,7 @@ wamerican	2020.12.07-2
 wget	1.21.4-1ubuntu1
 whiptail	0.52.24-2ubuntu1
 wireless-regdb	2022.06.06-0ubuntu2
-wireless-tools	30~pre9-16ubuntu1
+wireless-tools	30~pre9-16.1ubuntu1
 wireplumber	0.4.17-1ubuntu1
 wpasupplicant	2:2.10-21
 x11-apps	7.7+11
@@ -1246,9 +1246,9 @@ xserver-xorg-video-vesa	1:2.6.0-1
 xserver-xorg-video-vmware	1:13.4.0-1
 xterm	390-1ubuntu1
 xubuntu-artwork	24.04
-xubuntu-default-settings	24.04.1
-xubuntu-desktop-minimal	2.259
-xubuntu-live-settings	24.04.1
+xubuntu-default-settings	24.04.2
+xubuntu-desktop-minimal	2.260
+xubuntu-live-settings	24.04.2
 xubuntu-wallpapers	24.04
 xxd	2:9.1.0016-1ubuntu2
 xz-utils	5.4.5-0.3
