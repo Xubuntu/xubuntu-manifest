@@ -52,8 +52,8 @@ console-setup-linux	1.226ubuntu1
 coreutils	9.4-2ubuntu4
 cpio	2.15+dfsg-1ubuntu1
 cpp	4:13.2.0-7ubuntu1
-cpp-13	13.2.0-17ubuntu2
-cpp-13-x86-64-linux-gnu	13.2.0-17ubuntu2
+cpp-13	13.2.0-21ubuntu1
+cpp-13-x86-64-linux-gnu	13.2.0-21ubuntu1
 cpp-x86-64-linux-gnu	4:13.2.0-7ubuntu1
 cron	3.0pl1-184ubuntu1
 cron-daemon-common	3.0pl1-184ubuntu1
@@ -90,10 +90,10 @@ diffutils	1:3.10-1
 dirmngr	2.4.4-2ubuntu7
 distro-info	1.7
 distro-info-data	0.60
-dmeventd	2:1.02.185-3ubuntu1
+dmeventd	2:1.02.185-3ubuntu2
 dmidecode	3.5-3
 dmraid	1.0.0.rc16-12ubuntu1
-dmsetup	2:1.02.185-3ubuntu1
+dmsetup	2:1.02.185-3ubuntu2
 dmz-cursor-theme	0.4.5ubuntu1
 dns-root-data	2023112702~willsync1
 dnsmasq-base	2.90-2
@@ -118,8 +118,8 @@ file	1:5.45-2
 finalrd	9build1
 findutils	4.9.0-5
 firmware-sof-signed	2023.12.1-1ubuntu1
-fontconfig	2.15.0-1ubuntu1
-fontconfig-config	2.15.0-1ubuntu1
+fontconfig	2.15.0-1.1ubuntu1
+fontconfig-config	2.15.0-1.1ubuntu1
 fonts-dejavu-core	2.37-8
 fonts-dejavu-mono	2.37-8
 fonts-droid-fallback	1:6.0.1r16-1.1build1
@@ -141,8 +141,8 @@ ftp	20230507-2
 fuse3	3.14.0-5
 fwupd	1.9.14-1
 fwupd-signed	1.52+1.4-1
-gcc-13-base:amd64	13.2.0-17ubuntu2
-gcc-14-base:amd64	14-20240303-1ubuntu1
+gcc-13-base:amd64	13.2.0-21ubuntu1
+gcc-14-base:amd64	14-20240315-1ubuntu1
 gcr	3.41.1-4
 gdisk	1.0.10-1
 gettext-base	0.21-14ubuntu1
@@ -189,7 +189,7 @@ grub-gfxpayload-lists	0.7build1
 grub-pc	2.12-1ubuntu4
 grub-pc-bin	2.12-1ubuntu4
 grub2-common	2.12-1ubuntu4
-gsettings-desktop-schemas	46~beta-3ubuntu1
+gsettings-desktop-schemas	46.0-1ubuntu1
 gstreamer1.0-gl:amd64	1.22.10-1
 gstreamer1.0-plugins-base:amd64	1.22.10-1
 gstreamer1.0-plugins-good:amd64	1.22.9-1ubuntu1
@@ -216,9 +216,9 @@ inetutils-telnet	2:2.5-3ubuntu1
 info	7.1-3
 init	1.66ubuntu1
 init-system-helpers	1.66ubuntu1
-initramfs-tools	0.142ubuntu20
-initramfs-tools-bin	0.142ubuntu20
-initramfs-tools-core	0.142ubuntu20
+initramfs-tools	0.142ubuntu23
+initramfs-tools-bin	0.142ubuntu23
+initramfs-tools-core	0.142ubuntu23
 inputattach	1:1.8.1-2
 install-info	7.1-3
 intel-media-va-driver:amd64	24.1.0+dfsg1-1
@@ -231,7 +231,7 @@ iputils-tracepath	3:20240117-1
 iso-codes	4.16.0-1
 iucode-tool	2.3.1-3
 jfsutils	1.1.15-5build3
-jq	1.7.1-2
+jq	1.7.1-3
 kbd	2.6.4-2ubuntu1
 kerneloops	0.12+git20140509-6ubuntu5
 keyboard-configuration	1.226ubuntu1
@@ -289,6 +289,7 @@ libaa1:amd64	1.4p5-51
 libaccountsservice0:amd64	23.13.9-2ubuntu2
 libacl1:amd64	2.3.2-1
 libaio1:amd64	0.3.113-5
+libaio1t64:amd64	0.3.113-6
 libaom3:amd64	3.8.1-1
 libapparmor1:amd64	4.0.0~alpha4-0ubuntu1
 libappstream5:amd64	1.0.2-1
@@ -306,7 +307,7 @@ libatk-bridge2.0-0:amd64	2.50.0-1
 libatk1.0-0:amd64	2.50.0-1
 libatkmm-1.6-1v5:amd64	2.28.4-1
 libatm1:amd64	1:2.5.1-5
-libatomic1:amd64	14-20240303-1ubuntu1
+libatomic1:amd64	14-20240315-1ubuntu1
 libatopology2:amd64	1.2.10-3build1
 libatspi2.0-0:amd64	2.50.0-1
 libattr1:amd64	1:2.5.2-1
@@ -382,8 +383,8 @@ libdbusmenu-gtk3-4:amd64	18.10.20180917~bzr492+repack1-3.1ubuntu1
 libdconf1:amd64	0.40.0-4
 libdebconfclient0:amd64	0.271ubuntu1
 libdeflate0:amd64	1.19-1
-libdevmapper-event1.02.1:amd64	2:1.02.185-3ubuntu1
-libdevmapper1.02.1:amd64	2:1.02.185-3ubuntu1
+libdevmapper-event1.02.1:amd64	2:1.02.185-3ubuntu2
+libdevmapper1.02.1:amd64	2:1.02.185-3ubuntu2
 libdmraid1.0.0.rc16:amd64	1.0.0.rc16-12ubuntu1
 libdrm-amdgpu1:amd64	2.4.120-2
 libdrm-common	2.4.120-2
@@ -410,7 +411,7 @@ libevdev2:amd64	1.13.1+dfsg-1
 libexif12:amd64	0.6.24-1build1
 libexo-2-0:amd64	4.18.0-1
 libexo-common	4.18.0-1
-libexpat1:amd64	2.6.0-1
+libexpat1:amd64	2.6.1-2
 libext2fs2:amd64	1.47.0-2ubuntu1
 libextutils-depends-perl	0.8001-2
 libfastjson4:amd64	1.2304.0-1
@@ -425,11 +426,11 @@ libfile-mimeinfo-perl	0.34-1
 libflac12:amd64	1.4.3+ds-2ubuntu1
 libflashrom1:amd64	1.3.0-2.1ubuntu1
 libfont-afm-perl	1.20-4
-libfontconfig1:amd64	2.15.0-1ubuntu1
+libfontconfig1:amd64	2.15.0-1.1ubuntu1
 libfontenc1:amd64	1:1.1.8-1
 libfreetype6:amd64	2.13.2+dfsg-1
 libfribidi0:amd64	1.0.13-3
-libftdi1-2:amd64	1.5-6build3
+libftdi1-2:amd64	1.5-6build4
 libfuse2:amd64	2.9.9-8
 libfuse3-3:amd64	3.14.0-5
 libfwupd2:amd64	1.9.14-1
@@ -437,7 +438,7 @@ libgarcon-1-0:amd64	4.18.1-1
 libgarcon-common	4.18.1-1
 libgarcon-gtk3-1-0:amd64	4.18.1-1
 libgbm1:amd64	24.0.1-1ubuntu1
-libgcc-s1:amd64	14-20240303-1ubuntu1
+libgcc-s1:amd64	14-20240315-1ubuntu1
 libgck-1-0:amd64	3.41.1-4
 libgcr-base-3-1:amd64	3.41.1-4
 libgcr-ui-3-1:amd64	3.41.1-4
@@ -468,7 +469,7 @@ libgmp10:amd64	2:6.3.0+dfsg-2ubuntu4
 libgnutls30:amd64	3.8.3-1ubuntu1
 libgoa-1.0-0b:amd64	3.49.0-1
 libgoa-1.0-common	3.49.0-1
-libgomp1:amd64	14-20240303-1ubuntu1
+libgomp1:amd64	14-20240315-1ubuntu1
 libgpg-error-l10n	1.47-3build1
 libgpg-error0:amd64	1.47-3build1
 libgpgme11:amd64	1.18.0-4ubuntu1
@@ -547,7 +548,7 @@ libjbig2dec0:amd64	0.20-1
 libjcat1:amd64	0.2.0-2
 libjpeg-turbo8:amd64	2.1.5-2ubuntu1
 libjpeg8:amd64	8c-2ubuntu11
-libjq1:amd64	1.7.1-2
+libjq1:amd64	1.7.1-3
 libjson-c5:amd64	0.17-1
 libjson-glib-1.0-0:amd64	1.8.0-2
 libjson-glib-1.0-common	1.8.0-2
@@ -576,7 +577,7 @@ liblouisutdml-data	2.12.0-3.1
 liblouisutdml9t64:amd64	2.12.0-3.1
 libltdl7:amd64	2.4.7-7
 liblua5.4-0:amd64	5.4.6-3
-liblvm2cmd2.03:amd64	2.03.16-3ubuntu1
+liblvm2cmd2.03:amd64	2.03.16-3ubuntu2
 liblwp-mediatypes-perl	6.04-2
 liblwp-protocol-https-perl	6.13-1
 liblz4-1:amd64	1.9.4-1
@@ -642,11 +643,11 @@ libp11-kit0:amd64	0.25.3-4ubuntu1
 libpackagekit-glib2-18:amd64	1.2.8-2
 libpam-cap:amd64	1:2.66-5ubuntu1
 libpam-gnome-keyring:amd64	46.1-1
-libpam-modules:amd64	1.5.2-9.1ubuntu3
-libpam-modules-bin	1.5.2-9.1ubuntu3
-libpam-runtime	1.5.2-9.1ubuntu3
+libpam-modules:amd64	1.5.3-5ubuntu3
+libpam-modules-bin	1.5.3-5ubuntu3
+libpam-runtime	1.5.3-5ubuntu3
 libpam-systemd:amd64	255.2-3ubuntu2
-libpam0g:amd64	1.5.2-9.1ubuntu3
+libpam0g:amd64	1.5.3-5ubuntu3
 libpango-1.0-0:amd64	1.51.0+ds-4
 libpangocairo-1.0-0:amd64	1.51.0+ds-4
 libpangoft2-1.0-0:amd64	1.51.0+ds-4
@@ -709,7 +710,7 @@ libsane1:amd64	1.2.1-7
 libsasl2-2:amd64	2.1.28+dfsg1-4
 libsasl2-modules:amd64	2.1.28+dfsg1-4
 libsasl2-modules-db:amd64	2.1.28+dfsg1-4
-libseccomp2:amd64	2.5.5-1ubuntu1
+libseccomp2:amd64	2.5.5-1ubuntu2
 libsecret-1-0:amd64	0.21.4-1
 libsecret-common	0.21.4-1
 libselinux1:amd64	3.5-2build1
@@ -741,7 +742,7 @@ libss2:amd64	1.47.0-2ubuntu1
 libssh-4:amd64	0.10.6-2
 libssl3:amd64	3.0.10-1ubuntu4
 libstartup-notification0:amd64	0.12-6build2
-libstdc++6:amd64	14-20240303-1ubuntu1
+libstdc++6:amd64	14-20240315-1ubuntu1
 libstemmer0d:amd64	2.2.0-4
 libsvtav1enc1d1:amd64	1.7.0+dfsg-2
 libswresample4:amd64	7:6.1.1-1ubuntu1
@@ -789,7 +790,7 @@ libunwind8:amd64	1.6.2-3
 libupower-glib3:amd64	1.90.2-8
 liburcu8:amd64	0.14.0-3
 liburi-perl	5.27-1
-libusb-1.0-0:amd64	2:1.0.26-1
+libusb-1.0-0:amd64	2:1.0.27-1
 libusbmuxd6:amd64	2.0.2-4
 libutempter0:amd64	1.2.1-3
 libuuid-perl	0.31-1build1
@@ -930,7 +931,7 @@ logsave	1.47.0-2ubuntu1
 lsb-release	12.0-2
 lshw	02.19.git.2021.06.19.996aaad9c7-2build1
 lsof	4.95.0-1build1
-lvm2	2.03.16-3ubuntu1
+lvm2	2.03.16-3ubuntu2
 man-db	2.12.0-3
 manpages	6.05.01-1
 mate-polkit	1.26.1-4
@@ -1031,7 +1032,7 @@ python3-blinker	1.7.0-1
 python3-certifi	2023.11.17-1
 python3-cffi-backend:amd64	1.16.0-2
 python3-chardet	5.2.0+dfsg-1
-python3-click	8.1.6-1
+python3-click	8.1.6-2
 python3-colorama	0.4.6-4
 python3-commandnotfound	23.04.0
 python3-configobj	5.0.8-3
@@ -1082,7 +1083,7 @@ python3-update-manager	1:24.04.4
 python3-urllib3	2.0.7-1
 python3-wadllib	1.3.6-5
 python3-xkit	0.5.0ubuntu6
-python3-yaml	6.0.1-2
+python3-yaml	6.0.1-2build1
 python3.12	3.12.2-1
 python3.12-minimal	3.12.2-1
 readline-common	8.2-3
