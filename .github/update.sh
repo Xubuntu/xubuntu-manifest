@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RELEASE="noble"
+RELEASE="oracular"
 ARCHES="amd64"
 DATE=`date -u +%Y%m%d`
 URL=""
