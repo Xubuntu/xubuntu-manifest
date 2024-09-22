@@ -3,6 +3,10 @@ Manifest files for each Xubuntu release
 
 Use this repository to compare changes between releases.
 
+# Xubuntu 24.04 "Noble Numbat"
+- [23.10 to 24.04](https://github.com/Xubuntu/xubuntu-manifest/compare/23.10...24.04)
+- [22.04 to 24.04.1](https://github.com/Xubuntu/xubuntu-manifest/compare/22.04...24.04.1)
+
 # Xubuntu 23.10 "Mantic Minotaur"
 - [23.04 to 23.10](https://github.com/Xubuntu/xubuntu-manifest/compare/23.04...23.10)
 
