@@ -50,13 +50,12 @@ bluez	5.77-0ubuntu1
 bluez-cups	5.77-0ubuntu1
 bluez-obexd	5.77-0ubuntu1
 bolt	0.9.8-1
-bpfcc-tools	0.30.0+ds-1ubuntu3
+bpfcc-tools	0.30.0+ds-1ubuntu4
 bpftrace	0.21.2-1ubuntu1
 brltty	6.6-5ubuntu1
 brltty-x11	6.6-5ubuntu1
 bsdextrautils	2.40.2-1ubuntu1
 bsdutils	1:2.40.2-1ubuntu1
-bsdutils-dbgsym	1:2.40.2-1ubuntu1
 btrfs-progs	6.6.3-1.2
 bubblewrap	0.10.0-1
 build-essential	12.10ubuntu1
@@ -69,7 +68,7 @@ catfish	4.18.0-0ubuntu1
 cheese-common	44.1-2
 cifs-utils	2:7.0-2.1
 cloud-guest-utils	0.33-1
-cloud-init	24.4~3+really24.3.1-0ubuntu3
+cloud-init	24.4~3+really24.3.1-0ubuntu4
 colord	1.4.7-1build2
 colord-data	1.4.7-1build2
 command-not-found	23.04.0
@@ -268,7 +267,7 @@ gpgsm	2.4.4-2ubuntu18
 gpgv	2.4.4-2ubuntu18
 graphviz	2.42.4-2build2
 grep	3.11-4build1
-greybird-gtk-theme	3.23.3-1
+greybird-gtk-theme	3.23.3-1ubuntu1
 groff-base	1.23.0-5
 grub-common	2.12-5ubuntu4
 grub-efi-amd64-bin	2.12-5ubuntu4
@@ -321,9 +320,9 @@ inetutils-telnet	2:2.5-5ubuntu1
 info	7.1-3build2
 init	1.66ubuntu1
 init-system-helpers	1.66ubuntu1
-initramfs-tools	0.142ubuntu33
-initramfs-tools-bin	0.142ubuntu33
-initramfs-tools-core	0.142ubuntu33
+initramfs-tools	0.142ubuntu34
+initramfs-tools-bin	0.142ubuntu34
+initramfs-tools-core	0.142ubuntu34
 inputattach	1:1.8.1-2build1
 install-info	7.1-3build2
 intel-media-va-driver:amd64	24.2.5+dfsg1-1
@@ -459,7 +458,6 @@ libberkeleydb-perl:amd64	0.64-2build4
 libbinutils:amd64	2.43.1-4ubuntu1
 libblas3:amd64	3.12.0-3build2
 libblkid1:amd64	2.40.2-1ubuntu1
-libblkid1-dbgsym:amd64	2.40.2-1ubuntu1
 libblockdev-crypto3:amd64	3.1.1-2
 libblockdev-fs3:amd64	3.1.1-2
 libblockdev-loop3:amd64	3.1.1-2
@@ -475,7 +473,7 @@ libboost-iostreams1.83.0:amd64	1.83.0-3.2ubuntu2
 libboost-locale1.83.0:amd64	1.83.0-3.2ubuntu2
 libboost-thread1.83.0:amd64	1.83.0-3.2ubuntu2
 libbpf1:amd64	1:1.4.5-1
-libbpfcc:amd64	0.30.0+ds-1ubuntu3
+libbpfcc:amd64	0.30.0+ds-1ubuntu4
 libbrlapi0.8:amd64	6.6-5ubuntu1
 libbrotli1:amd64	1.1.0-2build2
 libbs2b0:amd64	3.1.0+dfsg-8
@@ -927,7 +925,6 @@ libmodule-runtime-perl	0.016-2
 libmoo-perl	2.005005-1
 libmoox-aliases-perl	0.001006-2
 libmount1:amd64	2.40.2-1ubuntu1
-libmount1-dbgsym:amd64	2.40.2-1ubuntu1
 libmouse-perl:amd64	2.5.11-1
 libmousepad0:amd64	0.6.2-1
 libmp3lame0:amd64	3.100-6build1
@@ -1048,7 +1045,7 @@ libpixman-1-0:amd64	0.42.2-1build1
 libplacebo349:amd64	7.349.0-2
 libplist-2.0-4:amd64	2.6.0-2
 libplymouth5:amd64	24.004.60-1ubuntu10
-libpng16-16t64:amd64	1.6.43-5build1
+libpng16-16t64:amd64	1.6.44-1
 libpocketsphinx3:amd64	0.8.0+real5prealpha+1-15ubuntu5
 libpolkit-agent-1-0:amd64	124-2ubuntu1
 libpolkit-gobject-1-0:amd64	124-2ubuntu1
@@ -1151,7 +1148,6 @@ libsigc++-3.0-0:amd64	3.6.0-2
 libslang2:amd64	2.3.3-5
 libsm6:amd64	2:1.2.3-1build3
 libsmartcols1:amd64	2.40.2-1ubuntu1
-libsmartcols1-dbgsym:amd64	2.40.2-1ubuntu1
 libsmbclient0:amd64	2:4.20.4+dfsg-1ubuntu1
 libsnapd-glib-2-1:amd64	1.65-0ubuntu2
 libsnappy1v5:amd64	1.2.1-1
@@ -1273,7 +1269,6 @@ libusbmuxd6:amd64	2.0.2-4build3
 libutempter0:amd64	1.2.1-3build1
 libuuid-perl	0.36-1
 libuuid1:amd64	2.40.2-1ubuntu1
-libuuid1-dbgsym:amd64	2.40.2-1ubuntu1
 libuutil3linux	2.2.6-1ubuntu1
 libuv1t64:amd64	1.48.0-5
 libv4l-0t64:amd64	1.28.1-1
@@ -1309,7 +1304,7 @@ libwebpdemux2:amd64	1.4.0-0.1
 libwebpmux3:amd64	1.4.0-0.1
 libwebrtc-audio-processing-1-3:amd64	1.3-0ubuntu4
 libwhoopsie-preferences0	23build3
-libwhoopsie0:amd64	0.2.77build3
+libwhoopsie0:amd64	0.2.78
 libwireplumber-0.5-0:amd64	0.5.6-1ubuntu1
 libwmf-0.2-7:amd64	0.2.13-1.1build3
 libwmflite-0.2-7:amd64	0.2.13-1.1build3
@@ -1423,19 +1418,19 @@ lightdm-gtk-greeter-settings	1.2.3-0ubuntu1
 lintian	2.118.0ubuntu1
 linux-base	4.5ubuntu9
 linux-firmware	20240913.gita34e7a5f-0ubuntu2
-linux-generic	6.11.0-7.7+2
-linux-headers-6.11.0-7	6.11.0-7.7
-linux-headers-6.11.0-7-generic	6.11.0-7.7
-linux-headers-generic	6.11.0-7.7+2
-linux-image-6.11.0-7-generic	6.11.0-7.7
-linux-image-generic	6.11.0-7.7+2
-linux-libc-dev:amd64	6.11.0-7.7
-linux-modules-6.11.0-7-generic	6.11.0-7.7
-linux-modules-extra-6.11.0-7-generic	6.11.0-7.7
+linux-generic	6.11.0-8.8
+linux-headers-6.11.0-8	6.11.0-8.8
+linux-headers-6.11.0-8-generic	6.11.0-8.8
+linux-headers-generic	6.11.0-8.8
+linux-image-6.11.0-8-generic	6.11.0-8.8
+linux-image-generic	6.11.0-8.8
+linux-libc-dev:amd64	6.11.0-8.8
+linux-modules-6.11.0-8-generic	6.11.0-8.8
+linux-modules-extra-6.11.0-8-generic	6.11.0-8.8
 linux-sound-base	1.0.25+dfsg-0ubuntu7
-linux-tools-6.11.0-7	6.11.0-7.7
-linux-tools-6.11.0-7-generic	6.11.0-7.7
-linux-tools-common	6.11.0-7.7
+linux-tools-6.11.0-8	6.11.0-8.8
+linux-tools-6.11.0-8-generic	6.11.0-8.8
+linux-tools-common	6.11.0-8.8
 lm-sensors	1:3.6.0-10
 localechooser-data	2.89ubuntu6
 locales	2.40-1ubuntu3
@@ -1474,7 +1469,6 @@ mobile-broadband-provider-info	20240407-1
 modemmanager	1.23.4-0ubuntu2
 mokutil	0.6.0-2build3
 mount	2.40.2-1ubuntu1
-mount-dbgsym	2.40.2-1ubuntu1
 mousepad	0.6.2-1
 mscompress	0.4-10build1
 mtools	4.0.43-1build1
@@ -1571,7 +1565,7 @@ python3-attr	23.2.0-2
 python3-autocommand	2.2.2-3
 python3-babel	2.14.0-1
 python3-blinker	1.8.2-1
-python3-bpfcc	0.30.0+ds-1ubuntu3
+python3-bpfcc	0.30.0+ds-1ubuntu4
 python3-cairo	1.26.1-2
 python3-certifi	2024.6.2-1
 python3-cffi	1.17.1-1
@@ -1591,7 +1585,7 @@ python3-debian	0.1.49ubuntu2
 python3-defer	1.0.6-2.1ubuntu1
 python3-distro	1.9.0-1
 python3-distro-info	1.7build1
-python3-distupgrade	1:24.10.9
+python3-distupgrade	1:24.10.10
 python3-gdbm:amd64	3.12.6-1
 python3-gi	3.48.2-1
 python3-gi-cairo	3.48.2-1
@@ -1599,7 +1593,7 @@ python3-httplib2	0.22.0-1
 python3-idna	3.6-2.1
 python3-importlib-metadata	8.2.0-2
 python3-importlib-resources	6.4.0-1ubuntu1
-python3-inflect	7.3.1-1
+python3-inflect	7.3.1-2
 python3-jaraco.context	6.0.0-1
 python3-jaraco.functools	4.0.2-1
 python3-jinja2	3.1.3-1ubuntu1
@@ -1738,8 +1732,8 @@ ubuntu-minimal	1.543
 ubuntu-mono	24.04-0ubuntu1
 ubuntu-pro-client	34
 ubuntu-pro-client-l10n	34
-ubuntu-release-upgrader-core	1:24.10.9
-ubuntu-release-upgrader-gtk	1:24.10.9
+ubuntu-release-upgrader-core	1:24.10.10
+ubuntu-release-upgrader-gtk	1:24.10.10
 ubuntu-standard	1.543
 ucf	3.0043+nmu1
 udev	256.5-2ubuntu2
@@ -1762,7 +1756,6 @@ usbmuxd	1.1.1-5~exp3ubuntu4
 usbutils	1:017-3build1
 user-setup	1.95ubuntu1
 util-linux	2.40.2-1ubuntu1
-util-linux-dbgsym	2.40.2-1ubuntu1
 uuid-runtime	2.40.2-1ubuntu1
 va-driver-all:amd64	2.22.0-1
 vdpau-driver-all:amd64	1.5-3
@@ -1771,7 +1764,7 @@ vim-tiny	2:9.1.0496-1ubuntu5
 wamerican	2020.12.07-2
 wget	1.24.5-1ubuntu2
 whiptail	0.52.24-2ubuntu2
-whoopsie	0.2.77build3
+whoopsie	0.2.78
 whoopsie-preferences	23build3
 wireless-regdb	2024.07.04-0ubuntu1
 wireplumber	0.5.6-1ubuntu1
@@ -1824,8 +1817,8 @@ xfce4-weather-plugin:amd64	0.11.2-1build2
 xfce4-whiskermenu-plugin	2.8.3-1build2
 xfce4-xkb-plugin:amd64	1:0.8.3-1build2
 xfconf	4.19.2-1
-xfdesktop4	4.19.3-1
-xfdesktop4-data	4.19.3-1
+xfdesktop4	4.19.3-1ubuntu1
+xfdesktop4-data	4.19.3-1ubuntu1
 xfonts-base	1:1.0.5+nmu1
 xfonts-encodings	1:1.0.5-0ubuntu2
 xfonts-scalable	1:1.0.3-1.3
@@ -1890,5 +1883,5 @@ snap:gtk-common-themes	stable/ubuntu-24.10	1535
 snap:mesa-2404	stable/ubuntu-24.10	143
 snap:snap-store	stable/ubuntu-24.10	1173
 snap:snapd-desktop-integration	stable/ubuntu-24.10	223
-snap:thunderbird	stable/ubuntu-24.10	512
+snap:thunderbird	stable/ubuntu-24.10	518
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.10	237
