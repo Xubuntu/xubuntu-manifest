@@ -187,14 +187,14 @@ gpgv	2.4.4-2ubuntu18
 grep	3.11-4build1
 greybird-gtk-theme	3.23.3-1ubuntu1
 groff-base	1.23.0-5
-grub-common	2.12-5ubuntu4
-grub-efi-amd64-bin	2.12-5ubuntu4
-grub-efi-amd64-signed	1.208+2.12-5ubuntu4
-grub-efi-amd64-unsigned	2.12-5ubuntu4
+grub-common	2.12-5ubuntu5
+grub-efi-amd64-bin	2.12-5ubuntu5
+grub-efi-amd64-signed	1.209+2.12-5ubuntu5
+grub-efi-amd64-unsigned	2.12-5ubuntu5
 grub-gfxpayload-lists	0.7build2
-grub-pc	2.12-5ubuntu4
-grub-pc-bin	2.12-5ubuntu4
-grub2-common	2.12-5ubuntu4
+grub-pc	2.12-5ubuntu5
+grub-pc-bin	2.12-5ubuntu5
+grub2-common	2.12-5ubuntu5
 gsettings-desktop-schemas	47.1-1ubuntu1
 gstreamer1.0-gl:amd64	1.24.7-4
 gstreamer1.0-plugins-base:amd64	1.24.7-4
@@ -414,7 +414,7 @@ libeatmydata1:amd64	131-2
 libedit2:amd64	3.1-20240517-1
 libefiboot1t64:amd64	38-3.1build1
 libefivar1t64:amd64	38-3.1build1
-libegl-mesa0:amd64	24.2.2-1ubuntu1
+libegl-mesa0:amd64	24.2.3-1ubuntu1
 libegl1:amd64	1.7.0-1build1
 libelf1t64:amd64	0.191-2
 libenchant-2-2:amd64	2.3.3-2build2
@@ -455,7 +455,7 @@ libgail18t64:amd64	2.24.33-5ubuntu2
 libgarcon-1-0:amd64	4.19.1-1
 libgarcon-common	4.19.1-1
 libgarcon-gtk3-1-0:amd64	4.19.1-1
-libgbm1:amd64	24.2.2-1ubuntu1
+libgbm1:amd64	24.2.3-1ubuntu1
 libgcc-s1:amd64	14.2.0-4ubuntu2
 libgck-1-0:amd64	3.41.2-1build3
 libgck-2-2:amd64	4.3.0-1
@@ -473,8 +473,8 @@ libgif7:amd64	5.2.2-1ubuntu1
 libgirepository-1.0-1:amd64	1.80.1-4
 libgl1:amd64	1.7.0-1build1
 libgl1-amber-dri:amd64	21.3.9-0ubuntu2
-libgl1-mesa-dri:amd64	24.2.2-1ubuntu1
-libglapi-mesa:amd64	24.2.2-1ubuntu1
+libgl1-mesa-dri:amd64	24.2.3-1ubuntu1
+libglapi-mesa:amd64	24.2.3-1ubuntu1
 libgles2:amd64	1.7.0-1build1
 libglib-object-introspection-perl	0.051-2
 libglib-perl:amd64	3:1.329.3-3build3
@@ -485,7 +485,7 @@ libglibmm-2.4-1t64:amd64	2.66.7-1build1
 libglibmm-2.68-1t64:amd64	2.82.0-1
 libglu1-mesa:amd64	9.0.2-1.1build1
 libglvnd0:amd64	1.7.0-1build1
-libglx-mesa0:amd64	24.2.2-1ubuntu1
+libglx-mesa0:amd64	24.2.3-1ubuntu1
 libglx0:amd64	1.7.0-1build1
 libgmp10:amd64	2:6.3.0+dfsg-2ubuntu6
 libgnutls30t64:amd64	3.8.6-2ubuntu1
@@ -600,6 +600,7 @@ libldap2:amd64	2.6.8+dfsg-1~exp4ubuntu1
 liblerc4:amd64	4.0.0+ds-4ubuntu2
 liblightdm-gobject-1-0:amd64	1.30.0-0ubuntu14
 libllvm18:amd64	1:18.1.8-11
+libllvm19:amd64	1:19.1.0-1ubuntu1
 liblmdb0:amd64	0.9.31-1build1
 liblocale-gettext-perl	1.07-7
 liblouis-data	3.30.0-2
@@ -733,8 +734,8 @@ libraw1394-11:amd64	2.1.2-2build3
 libreadline8t64:amd64	8.2-5
 libreiserfscore0t64	1:3.6.27-9
 libroc0.3:amd64	0.3.0+dfsg-7ubuntu2
-librsvg2-2:amd64	2.58.0+dfsg-1build2
-librsvg2-common:amd64	2.58.0+dfsg-1build2
+librsvg2-2:amd64	2.59.0+dfsg-3
+librsvg2-common:amd64	2.59.0+dfsg-3
 librtmp1:amd64	2.4+20151223.gitfa8646d.1-2build7
 libsamplerate0:amd64	0.2.2-4build1
 libsane-common	1.3.0-1
@@ -774,7 +775,7 @@ libspeexdsp1:amd64	1.2.1-1ubuntu3
 libsqlite3-0:amd64	3.46.1-1
 libss2:amd64	1.47.1-1ubuntu1
 libssh2-1t64:amd64	1.11.0-7
-libssl3t64:amd64	3.3.1-2ubuntu1
+libssl3t64:amd64	3.3.1-2ubuntu2
 libstartup-notification0:amd64	0.12-7
 libstdc++6:amd64	14.2.0-4ubuntu2
 libstemmer0d:amd64	2.2.0-4build1
@@ -846,7 +847,7 @@ libvpl2	2023.3.0-1build1
 libvpx9:amd64	1.14.1-1ubuntu1
 libvte-2.91-0:amd64	0.78.0-1
 libvte-2.91-common	0.78.0-1
-libvulkan1:amd64	1.3.283.0-1
+libvulkan1:amd64	1.3.290.0-1
 libwacom-common	2.10.0-2
 libwacom9:amd64	2.10.0-2
 libwavpack1:amd64	5.7.0-1
@@ -874,7 +875,7 @@ libx11-xcb1:amd64	2:1.8.7-1build1
 libx264-164:amd64	2:0.164.3108+git31e19f9-2build1
 libx265-209:amd64	3.6-3
 libxapian30:amd64	1.4.25-1
-libxatracker2:amd64	24.2.2-1ubuntu1
+libxatracker2:amd64	24.2.3-1ubuntu1
 libxau6:amd64	1:1.0.9-1build6
 libxaw7:amd64	2:1.0.14-1build2
 libxcb-damage0:amd64	1.17.0-2
@@ -969,7 +970,7 @@ login	1:4.15.3-3ubuntu2
 logrotate	3.22.0-1
 logsave	1.47.1-1ubuntu1
 lsb-release	12.1-1
-lshw	02.19.git.2021.06.19.996aaad9c7-2ubuntu1
+lshw	02.19.git.2021.06.19.996aaad9c7-2ubuntu2
 lsof	4.95.0-1.1
 luit	2.0.20221028-1
 lvm2	2.03.22-1ubuntu1
@@ -981,10 +982,10 @@ mate-polkit-common	1.26.1-4build3
 mawk	1.3.4.20240622-2
 media-types	10.1.0
 memtest86+	7.00-1build1
-mesa-libgallium:amd64	24.2.2-1ubuntu1
-mesa-va-drivers:amd64	24.2.2-1ubuntu1
-mesa-vdpau-drivers:amd64	24.2.2-1ubuntu1
-mesa-vulkan-drivers:amd64	24.2.2-1ubuntu1
+mesa-libgallium:amd64	24.2.3-1ubuntu1
+mesa-va-drivers:amd64	24.2.3-1ubuntu1
+mesa-vdpau-drivers:amd64	24.2.3-1ubuntu1
+mesa-vulkan-drivers:amd64	24.2.3-1ubuntu1
 mobile-broadband-provider-info	20240407-1
 modemmanager	1.23.4-0ubuntu2
 mokutil	0.6.0-2build3
@@ -1011,7 +1012,7 @@ numlockx	1.2-9build1
 ocl-icd-libopencl1:amd64	2.3.2-1build1
 openprinting-ppds	20240813-0ubuntu1
 openssh-client	1:9.7p1-7ubuntu3
-openssl	3.3.1-2ubuntu1
+openssl	3.3.1-2ubuntu2
 os-prober	1.83ubuntu1
 p11-kit	0.25.5-2ubuntu1
 p11-kit-modules:amd64	0.25.5-2ubuntu1
@@ -1129,7 +1130,7 @@ python3-software-properties	0.102
 python3-systemd	235-1build4
 python3-typeguard	4.3.0-1
 python3-typing-extensions	4.12.2-2
-python3-update-manager	1:24.10.5
+python3-update-manager	1:24.10.6
 python3-urllib3	2.0.7-2
 python3-wadllib	1.3.6-5
 python3-xkit	0.5.0ubuntu6
@@ -1210,7 +1211,7 @@ ufw	0.36.2-6
 unattended-upgrades	2.9.1+nmu4ubuntu1
 unzip	6.0-28ubuntu5
 update-inetd	4.53
-update-manager-core	1:24.10.5
+update-manager-core	1:24.10.6
 upower	1.90.5-1
 usb-modeswitch	2.6.1-4ubuntu1
 usb-modeswitch-data	20191128-7
