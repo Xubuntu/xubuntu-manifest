@@ -4,7 +4,7 @@ adduser	3.137ubuntu2
 adwaita-icon-theme	47.0-1
 alsa-base	1.0.25+dfsg-0ubuntu7
 alsa-topology-conf	1.2.5.1-3
-alsa-ucm-conf	1.2.10-1ubuntu5
+alsa-ucm-conf	1.2.10-1ubuntu6
 alsa-utils	1.2.11-1ubuntu1
 amd64-microcode	3.20240116.2+nmu1ubuntu1
 anacron	2.3-40ubuntu1
@@ -123,7 +123,7 @@ fdisk	2.40.2-1ubuntu1
 file	1:5.45-3build1
 finalrd	9build1
 findutils	4.10.0-3
-firmware-sof-signed	2023.12.1-1ubuntu1
+firmware-sof-signed	2024.06-1ubuntu1
 fontconfig	2.15.0-1.1ubuntu2
 fontconfig-config	2.15.0-1.1ubuntu2
 fonts-dejavu-core	2.37-8
@@ -157,7 +157,7 @@ gir1.2-atk-1.0:amd64	2.54.0-1
 gir1.2-freedesktop:amd64	1.80.1-4
 gir1.2-gdkpixbuf-2.0:amd64	2.42.12+dfsg-1
 gir1.2-girepository-2.0:amd64	1.80.1-4
-gir1.2-glib-2.0:amd64	2.82.0-1
+gir1.2-glib-2.0:amd64	2.82.1-0ubuntu1
 gir1.2-gtk-3.0:amd64	3.24.43-3ubuntu2
 gir1.2-handy-1:amd64	1.8.3-1build2
 gir1.2-harfbuzz-0.0:amd64	9.0.0-1
@@ -200,7 +200,7 @@ gstreamer1.0-gl:amd64	1.24.7-4
 gstreamer1.0-plugins-base:amd64	1.24.7-4
 gstreamer1.0-plugins-good:amd64	1.24.7-1ubuntu1
 gstreamer1.0-x:amd64	1.24.7-4
-gtk-update-icon-cache	4.16.1+ds-1
+gtk-update-icon-cache	4.16.2+ds-1
 gtk2-engines-murrine:amd64	0.98.2-4
 gtk2-engines-pixbuf:amd64	2.24.33-5ubuntu2
 gucharmap	1:15.1.5-1
@@ -241,28 +241,28 @@ iucode-tool	2.3.1-3build1
 iw	6.9-1
 jfsutils	1.1.15-6
 jq	1.7.1-3build1
-kbd	2.6.4-2ubuntu2
+kbd	2.6.4-2ubuntu3
 keyboard-configuration	1.226ubuntu2
 keyboxd	2.4.4-2ubuntu18
 keyutils	1.6.3-3build1
 klibc-utils	2.0.13-4ubuntu1
 kmod	31+20240202-2ubuntu7
 krb5-locales	1.21.3-3
-language-pack-bn	1:24.10+20240911
+language-pack-bn	1:24.10+20240925
 language-pack-bn-base	1:24.10+20240911
 language-pack-de	1:24.10+20240911
 language-pack-de-base	1:24.10+20240911
-language-pack-en	1:24.10+20240911
+language-pack-en	1:24.10+20240925
 language-pack-en-base	1:24.10+20240911
 language-pack-es	1:24.10+20240911
 language-pack-es-base	1:24.10+20240911
 language-pack-fr	1:24.10+20240911
 language-pack-fr-base	1:24.10+20240911
-language-pack-gnome-bn	1:24.10+20240911
+language-pack-gnome-bn	1:24.10+20240925
 language-pack-gnome-bn-base	1:24.10+20240911
 language-pack-gnome-de	1:24.10+20240911
 language-pack-gnome-de-base	1:24.10+20240911
-language-pack-gnome-en	1:24.10+20240911
+language-pack-gnome-en	1:24.10+20240925
 language-pack-gnome-en-base	1:24.10+20240911
 language-pack-gnome-es	1:24.10+20240911
 language-pack-gnome-es-base	1:24.10+20240911
@@ -270,23 +270,23 @@ language-pack-gnome-fr	1:24.10+20240911
 language-pack-gnome-fr-base	1:24.10+20240911
 language-pack-gnome-hi	1:24.10+20240911
 language-pack-gnome-hi-base	1:24.10+20240911
-language-pack-gnome-ja	1:24.10+20240911
+language-pack-gnome-ja	1:24.10+20240925
 language-pack-gnome-ja-base	1:24.10+20240911
-language-pack-gnome-pt	1:24.10+20240911
+language-pack-gnome-pt	1:24.10+20240925
 language-pack-gnome-pt-base	1:24.10+20240911
 language-pack-gnome-xh	1:17.10+20171012
 language-pack-gnome-xh-base	1:17.10+20171012
-language-pack-gnome-zh-hans	1:24.10+20240911
+language-pack-gnome-zh-hans	1:24.10+20240925
 language-pack-gnome-zh-hans-base	1:24.10+20240911
 language-pack-hi	1:24.10+20240911
 language-pack-hi-base	1:24.10+20240911
-language-pack-ja	1:24.10+20240911
+language-pack-ja	1:24.10+20240925
 language-pack-ja-base	1:24.10+20240911
-language-pack-pt	1:24.10+20240911
+language-pack-pt	1:24.10+20240925
 language-pack-pt-base	1:24.10+20240911
 language-pack-xh	1:17.10+20171012
 language-pack-xh-base	1:17.10+20171012
-language-pack-zh-hans	1:24.10+20240911
+language-pack-zh-hans	1:24.10+20240925
 language-pack-zh-hans-base	1:24.10+20240911
 language-selector-common	0.226
 laptop-detect	0.16
@@ -478,9 +478,9 @@ libglapi-mesa:amd64	24.2.3-1ubuntu1
 libgles2:amd64	1.7.0-1build1
 libglib-object-introspection-perl	0.051-2
 libglib-perl:amd64	3:1.329.3-3build3
-libglib2.0-0t64:amd64	2.82.0-1
-libglib2.0-bin	2.82.0-1
-libglib2.0-data	2.82.0-1
+libglib2.0-0t64:amd64	2.82.1-0ubuntu1
+libglib2.0-bin	2.82.1-0ubuntu1
+libglib2.0-data	2.82.1-0ubuntu1
 libglibmm-2.4-1t64:amd64	2.66.7-1build1
 libglibmm-2.68-1t64:amd64	2.82.0-1
 libglu1-mesa:amd64	9.0.2-1.1build1
@@ -511,10 +511,10 @@ libgstreamer1.0-0:amd64	1.24.7-1
 libgtk-3-0t64:amd64	3.24.43-3ubuntu2
 libgtk-3-bin	3.24.43-3ubuntu2
 libgtk-3-common	3.24.43-3ubuntu2
-libgtk-4-1:amd64	4.16.1+ds-1
-libgtk-4-bin	4.16.1+ds-1
-libgtk-4-common	4.16.1+ds-1
-libgtk-4-media-gstreamer	4.16.1+ds-1
+libgtk-4-1:amd64	4.16.2+ds-1
+libgtk-4-bin	4.16.2+ds-1
+libgtk-4-common	4.16.2+ds-1
+libgtk-4-media-gstreamer	4.16.2+ds-1
 libgtk-layer-shell0	0.8.2-1build2
 libgtk2.0-0t64:amd64	2.24.33-5ubuntu2
 libgtk2.0-bin	2.24.33-5ubuntu2
@@ -1087,7 +1087,7 @@ python3-debconf	1.5.86ubuntu1
 python3-distro	1.9.0-1
 python3-distro-info	1.7build1
 python3-distupgrade	1:24.10.10
-python3-gdbm:amd64	3.12.6-1
+python3-gdbm:amd64	3.12.6-1ubuntu1
 python3-gi	3.48.2-1
 python3-httplib2	0.22.0-1
 python3-idna	3.6-2.1
@@ -1139,7 +1139,6 @@ python3-zipp	3.20.0-1
 python3.12	3.12.6-1
 python3.12-gdbm	3.12.6-1
 python3.12-minimal	3.12.6-1
-python3.13-gdbm	3.13.0~rc2-1
 readline-common	8.2-5
 reiserfsprogs	1:3.6.27-9
 rfkill	2.40.2-1ubuntu1
@@ -1311,6 +1310,6 @@ zfsutils-linux	2.2.6-1ubuntu1
 zip	3.0-14
 zlib1g:amd64	1:1.3.dfsg+really1.3.1-1ubuntu1
 zstd	1.5.6+dfsg-1
-snap:core22	stable	1612
+snap:core22	stable	1621
 snap:snapd	stable	21759
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.10	237
