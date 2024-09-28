@@ -19,8 +19,8 @@ apt	2.9.8
 apt-config-icons	1.0.3-1
 apt-config-icons-hidpi	1.0.3-1
 apt-utils	2.9.8
-aptdaemon	1.1.1+bzr982-0ubuntu45
-aptdaemon-data	1.1.1+bzr982-0ubuntu45
+aptdaemon	1.1.1+bzr982-0ubuntu46
+aptdaemon-data	1.1.1+bzr982-0ubuntu46
 apturl	0.5.2ubuntu23
 apturl-common	0.5.2ubuntu23
 aspell	0.60.8.1-1build1
@@ -88,7 +88,7 @@ cryptsetup	2:2.7.2-2ubuntu1
 cryptsetup-bin	2:2.7.2-2ubuntu1
 cryptsetup-initramfs	2:2.7.2-2ubuntu1
 cups	2.4.10-1ubuntu1
-cups-browsed	2.0.1-0ubuntu1
+cups-browsed	2.0.1-0ubuntu2
 cups-bsd	2.4.10-1ubuntu1
 cups-client	2.4.10-1ubuntu1
 cups-common	2.4.10-1ubuntu1
@@ -222,7 +222,7 @@ gir1.2-gtk-3.0:amd64	3.24.43-3ubuntu2
 gir1.2-gtkclutter-1.0:amd64	1.8.4-4build5
 gir1.2-handy-1:amd64	1.8.3-1build2
 gir1.2-harfbuzz-0.0:amd64	9.0.0-1
-gir1.2-javascriptcoregtk-4.1:amd64	2.45.6-1ubuntu1
+gir1.2-javascriptcoregtk-4.1:amd64	2.46.0-2
 gir1.2-json-1.0:amd64	1.8.0-2build2
 gir1.2-libxfce4ui-2.0:amd64	4.19.5-1
 gir1.2-libxfce4util-1.0:amd64	4.19.3-1
@@ -237,7 +237,7 @@ gir1.2-secret-1:amd64	0.21.4-3
 gir1.2-snapd-2:amd64	1.65-0ubuntu2
 gir1.2-soup-3.0:amd64	3.6.0-2
 gir1.2-vte-2.91:amd64	0.78.0-1
-gir1.2-webkit2-4.1:amd64	2.45.6-1ubuntu1
+gir1.2-webkit2-4.1:amd64	2.46.0-2
 gir1.2-wnck-3.0:amd64	43.0-3build4
 gir1.2-xfconf-0:amd64	4.19.2-1
 glib-networking:amd64	2.80.0-1build1
@@ -279,22 +279,22 @@ grub-pc-bin	2.12-5ubuntu5
 grub2-common	2.12-5ubuntu5
 gsettings-desktop-schemas	47.1-1ubuntu1
 gstreamer1.0-gl:amd64	1.24.7-4
-gstreamer1.0-gtk3:amd64	1.24.7-1ubuntu1
-gstreamer1.0-libav:amd64	1.24.7-1
+gstreamer1.0-gtk3:amd64	1.24.8-1ubuntu1
+gstreamer1.0-libav:amd64	1.24.8-1
 gstreamer1.0-plugins-base:amd64	1.24.7-4
-gstreamer1.0-plugins-good:amd64	1.24.7-1ubuntu1
+gstreamer1.0-plugins-good:amd64	1.24.8-1ubuntu1
 gstreamer1.0-tools	1.24.7-1
 gstreamer1.0-x:amd64	1.24.7-4
 gtk-update-icon-cache	4.16.2+ds-1
 gtk2-engines-murrine:amd64	0.98.2-4
 gtk2-engines-pixbuf:amd64	2.24.33-5ubuntu2
 gucharmap	1:15.1.5-1
-gvfs:amd64	1.56.0-1
-gvfs-backends	1.56.0-1
-gvfs-common	1.56.0-1
-gvfs-daemons	1.56.0-1
-gvfs-fuse	1.56.0-1
-gvfs-libs:amd64	1.56.0-1
+gvfs:amd64	1.56.0-2
+gvfs-backends	1.56.0-2
+gvfs-common	1.56.0-2
+gvfs-daemons	1.56.0-2
+gvfs-fuse	1.56.0-2
+gvfs-libs:amd64	1.56.0-2
 gzip	1.12-1.1ubuntu1
 hdparm	9.65+ds-1.1
 hexchat	2.16.2-1build2
@@ -346,21 +346,21 @@ keyutils	1.6.3-3build1
 klibc-utils	2.0.13-4ubuntu1
 kmod	31+20240202-2ubuntu7
 krb5-locales	1.21.3-3
-language-pack-bn	1:24.10+20240911
+language-pack-bn	1:24.10+20240925
 language-pack-bn-base	1:24.10+20240911
 language-pack-de	1:24.10+20240911
 language-pack-de-base	1:24.10+20240911
-language-pack-en	1:24.10+20240911
+language-pack-en	1:24.10+20240925
 language-pack-en-base	1:24.10+20240911
 language-pack-es	1:24.10+20240911
 language-pack-es-base	1:24.10+20240911
 language-pack-fr	1:24.10+20240911
 language-pack-fr-base	1:24.10+20240911
-language-pack-gnome-bn	1:24.10+20240911
+language-pack-gnome-bn	1:24.10+20240925
 language-pack-gnome-bn-base	1:24.10+20240911
 language-pack-gnome-de	1:24.10+20240911
 language-pack-gnome-de-base	1:24.10+20240911
-language-pack-gnome-en	1:24.10+20240911
+language-pack-gnome-en	1:24.10+20240925
 language-pack-gnome-en-base	1:24.10+20240911
 language-pack-gnome-es	1:24.10+20240911
 language-pack-gnome-es-base	1:24.10+20240911
@@ -368,23 +368,23 @@ language-pack-gnome-fr	1:24.10+20240911
 language-pack-gnome-fr-base	1:24.10+20240911
 language-pack-gnome-hi	1:24.10+20240911
 language-pack-gnome-hi-base	1:24.10+20240911
-language-pack-gnome-ja	1:24.10+20240911
+language-pack-gnome-ja	1:24.10+20240925
 language-pack-gnome-ja-base	1:24.10+20240911
-language-pack-gnome-pt	1:24.10+20240911
+language-pack-gnome-pt	1:24.10+20240925
 language-pack-gnome-pt-base	1:24.10+20240911
 language-pack-gnome-xh	1:17.10+20171012
 language-pack-gnome-xh-base	1:17.10+20171012
-language-pack-gnome-zh-hans	1:24.10+20240911
+language-pack-gnome-zh-hans	1:24.10+20240925
 language-pack-gnome-zh-hans-base	1:24.10+20240911
 language-pack-hi	1:24.10+20240911
 language-pack-hi-base	1:24.10+20240911
-language-pack-ja	1:24.10+20240911
+language-pack-ja	1:24.10+20240925
 language-pack-ja-base	1:24.10+20240911
-language-pack-pt	1:24.10+20240911
+language-pack-pt	1:24.10+20240925
 language-pack-pt-base	1:24.10+20240911
 language-pack-xh	1:17.10+20171012
 language-pack-xh-base	1:17.10+20171012
-language-pack-zh-hans	1:24.10+20240911
+language-pack-zh-hans	1:24.10+20240925
 language-pack-zh-hans-base	1:24.10+20240911
 language-selector-common	0.226
 language-selector-gnome	0.226
@@ -555,8 +555,8 @@ libcryptsetup12:amd64	2:2.7.2-2ubuntu1
 libctf-nobfd0:amd64	2.43.1-4ubuntu1
 libctf0:amd64	2.43.1-4ubuntu1
 libcups2t64:amd64	2.4.10-1ubuntu1
-libcupsfilters2-common	2.1~b1-0ubuntu2
-libcupsfilters2t64:amd64	2.1~b1-0ubuntu2
+libcupsfilters2-common	2.1~b1-0ubuntu3
+libcupsfilters2t64:amd64	2.1~b1-0ubuntu3
 libcupsimage2t64:amd64	2.4.10-1ubuntu1
 libcurl3t64-gnutls:amd64	8.9.1-2ubuntu2
 libcurl4t64:amd64	8.9.1-2ubuntu2
@@ -754,7 +754,7 @@ libgspell-1-common	1.12.2-1build4
 libgssapi-krb5-2:amd64	1.21.3-3
 libgstreamer-gl1.0-0:amd64	1.24.7-4
 libgstreamer-plugins-base1.0-0:amd64	1.24.7-4
-libgstreamer-plugins-good1.0-0:amd64	1.24.7-1ubuntu1
+libgstreamer-plugins-good1.0-0:amd64	1.24.8-1ubuntu1
 libgstreamer1.0-0:amd64	1.24.7-1
 libgtk-3-0t64:amd64	3.24.43-3ubuntu2
 libgtk-3-bin	3.24.43-3ubuntu2
@@ -842,7 +842,7 @@ libiterator-util-perl	0.02+ds1-2
 libitm1:amd64	14.2.0-4ubuntu2
 libjack-jackd2-0:amd64	1.9.21~dfsg-3ubuntu3
 libjansson4:amd64	2.14-2build2
-libjavascriptcoregtk-4.1-0:amd64	2.45.6-1ubuntu1
+libjavascriptcoregtk-4.1-0:amd64	2.46.0-2
 libjbig0:amd64	2.1-6.1ubuntu2
 libjbig2dec0:amd64	0.20-1build3
 libjcat1:amd64	0.2.0-2build3
@@ -885,7 +885,7 @@ liblist-someutils-perl	0.59-1
 liblist-someutils-xs-perl:amd64	0.58-3build4
 liblist-utilsby-perl	0.12-2
 libllvm18:amd64	1:18.1.8-11
-libllvm19:amd64	1:19.1.0-1ubuntu1
+libllvm19:amd64	1:19.1.0-4ubuntu1
 liblmdb0:amd64	0.9.31-1build1
 liblocale-gettext-perl	1.07-7
 liblouis-data	3.30.0-2
@@ -1056,8 +1056,8 @@ libpoppler140:amd64	24.08.0-1
 libpopt0:amd64	1.19+dfsg-1build1
 libportaudio2:amd64	19.6.0-1.2build3
 libpostproc58:amd64	7:7.0.2-3ubuntu1
-libppd2:amd64	2:2.1~b1-0ubuntu1
-libppd2-common	2:2.1~b1-0ubuntu1
+libppd2:amd64	2:2.1~b1-0ubuntu2
+libppd2-common	2:2.1~b1-0ubuntu2
 libproc-processtable-perl:amd64	0.636-1build3
 libproc2-0:amd64	2:4.0.4-4ubuntu5
 libprotobuf-c1:amd64	1.4.1-1ubuntu4
@@ -1299,7 +1299,7 @@ libwayland-cursor0:amd64	1.23.0-1
 libwayland-egl1:amd64	1.23.0-1
 libwayland-server0:amd64	1.23.0-1
 libwbclient0:amd64	2:4.20.4+dfsg-1ubuntu1
-libwebkit2gtk-4.1-0:amd64	2.45.6-1ubuntu1
+libwebkit2gtk-4.1-0:amd64	2.46.0-2
 libwebp7:amd64	1.4.0-0.1
 libwebpdemux2:amd64	1.4.0-0.1
 libwebpmux3:amd64	1.4.0-0.1
@@ -1362,7 +1362,7 @@ libxfconf-0-3:amd64	4.19.2-1
 libxfixes3:amd64	1:6.0.0-2build1
 libxfont2:amd64	1:2.0.6-1build1
 libxft2:amd64	2.3.6-1build1
-libxi6:amd64	2:1.8.1-1build1
+libxi6:amd64	2:1.8.2-1
 libxinerama1:amd64	2:1.1.4-3build1
 libxkbcommon-x11-0:amd64	1.6.0-1build1
 libxkbcommon0:amd64	1.6.0-1build1
@@ -1560,8 +1560,8 @@ python-babel-localedata	2.14.0-1
 python3	3.12.6-0ubuntu1
 python3-apport	2.30.0-0ubuntu2
 python3-apt	2.9.0
-python3-aptdaemon	1.1.1+bzr982-0ubuntu45
-python3-aptdaemon.gtk3widgets	1.1.1+bzr982-0ubuntu45
+python3-aptdaemon	1.1.1+bzr982-0ubuntu46
+python3-aptdaemon.gtk3widgets	1.1.1+bzr982-0ubuntu46
 python3-attr	23.2.0-2
 python3-autocommand	2.2.2-3
 python3-babel	2.14.0-1
@@ -1769,6 +1769,7 @@ whoopsie-preferences	23build3
 wireless-regdb	2024.07.04-0ubuntu1
 wireplumber	0.5.6-1ubuntu1
 wpasupplicant	2:2.10-22
+wsdd	2:0.8-2ubuntu3
 x11-apps	7.7+11build3
 x11-common	1:7.7+23ubuntu3
 x11-session-utils	7.7+6build2
@@ -1881,7 +1882,7 @@ snap:gnome-46-2404	stable/ubuntu-24.10	48
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.10	1535
 snap:mesa-2404	stable/ubuntu-24.10	143
-snap:snap-store	stable/ubuntu-24.10	1173
+snap:snap-store	stable/ubuntu-24.10	1216
 snap:snapd-desktop-integration	stable/ubuntu-24.10	223
 snap:thunderbird	stable/ubuntu-24.10	518
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.10	237

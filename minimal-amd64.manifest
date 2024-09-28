@@ -64,7 +64,7 @@ cryptsetup	2:2.7.2-2ubuntu1
 cryptsetup-bin	2:2.7.2-2ubuntu1
 cryptsetup-initramfs	2:2.7.2-2ubuntu1
 cups	2.4.10-1ubuntu1
-cups-browsed	2.0.1-0ubuntu1
+cups-browsed	2.0.1-0ubuntu2
 cups-bsd	2.4.10-1ubuntu1
 cups-client	2.4.10-1ubuntu1
 cups-common	2.4.10-1ubuntu1
@@ -380,8 +380,8 @@ libcrypt-dev:amd64	1:4.4.36-4build1
 libcrypt1:amd64	1:4.4.36-4build1
 libcryptsetup12:amd64	2:2.7.2-2ubuntu1
 libcups2t64:amd64	2.4.10-1ubuntu1
-libcupsfilters2-common	2.1~b1-0ubuntu2
-libcupsfilters2t64:amd64	2.1~b1-0ubuntu2
+libcupsfilters2-common	2.1~b1-0ubuntu3
+libcupsfilters2t64:amd64	2.1~b1-0ubuntu3
 libcupsimage2t64:amd64	2.4.10-1ubuntu1
 libcurl3t64-gnutls:amd64	8.9.1-2ubuntu2
 libcurl4t64:amd64	8.9.1-2ubuntu2
@@ -574,7 +574,7 @@ libipc-system-simple-perl	1.30-2
 libisl23:amd64	0.27-1
 libjack-jackd2-0:amd64	1.9.21~dfsg-3ubuntu3
 libjansson4:amd64	2.14-2build2
-libjavascriptcoregtk-4.1-0:amd64	2.45.6-1ubuntu1
+libjavascriptcoregtk-4.1-0:amd64	2.46.0-2
 libjbig0:amd64	2.1-6.1ubuntu2
 libjbig2dec0:amd64	0.20-1build3
 libjcat1:amd64	0.2.0-2build3
@@ -600,7 +600,7 @@ libldap2:amd64	2.6.8+dfsg-1~exp4ubuntu1
 liblerc4:amd64	4.0.0+ds-4ubuntu2
 liblightdm-gobject-1-0:amd64	1.30.0-0ubuntu14
 libllvm18:amd64	1:18.1.8-11
-libllvm19:amd64	1:19.1.0-1ubuntu1
+libllvm19:amd64	1:19.1.0-4ubuntu1
 liblmdb0:amd64	0.9.31-1build1
 liblocale-gettext-perl	1.07-7
 liblouis-data	3.30.0-2
@@ -711,8 +711,8 @@ libpoppler-cpp1:amd64	24.08.0-1
 libpoppler-glib8t64:amd64	24.08.0-1
 libpoppler140:amd64	24.08.0-1
 libpopt0:amd64	1.19+dfsg-1build1
-libppd2:amd64	2:2.1~b1-0ubuntu1
-libppd2-common	2:2.1~b1-0ubuntu1
+libppd2:amd64	2:2.1~b1-0ubuntu2
+libppd2-common	2:2.1~b1-0ubuntu2
 libproc2-0:amd64	2:4.0.4-4ubuntu5
 libprotobuf-c1:amd64	1.4.1-1ubuntu4
 libproxy1v5:amd64	0.5.8-1
@@ -856,7 +856,7 @@ libwayland-cursor0:amd64	1.23.0-1
 libwayland-egl1:amd64	1.23.0-1
 libwayland-server0:amd64	1.23.0-1
 libwbclient0:amd64	2:4.20.4+dfsg-1ubuntu1
-libwebkit2gtk-4.1-0:amd64	2.45.6-1ubuntu1
+libwebkit2gtk-4.1-0:amd64	2.46.0-2
 libwebp7:amd64	1.4.0-0.1
 libwebpdemux2:amd64	1.4.0-0.1
 libwebpmux3:amd64	1.4.0-0.1
@@ -910,7 +910,7 @@ libxfconf-0-3:amd64	4.19.2-1
 libxfixes3:amd64	1:6.0.0-2build1
 libxfont2:amd64	1:2.0.6-1build1
 libxft2:amd64	2.3.6-1build1
-libxi6:amd64	2:1.8.1-1build1
+libxi6:amd64	2:1.8.2-1
 libxinerama1:amd64	2:1.1.4-3build1
 libxkbcommon0:amd64	1.6.0-1build1
 libxkbfile1:amd64	1:1.1.0-1build4
