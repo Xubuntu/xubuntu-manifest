@@ -106,7 +106,7 @@ doc-base	0.11.2
 docbook-xml	4.5-13
 dosfstools	4.2-1.1build1
 dpkg	1.22.11ubuntu1
-dracut-install	103-1ubuntu2
+dracut-install	103-1ubuntu3
 e2fsprogs	1.47.1-1ubuntu1
 e2fsprogs-l10n	1.47.1-1ubuntu1
 eatmydata	131-2
@@ -561,8 +561,8 @@ libijs-0.35:amd64	0.35-15.1build1
 libimagequant0:amd64	2.18.0-1build1
 libimobiledevice6:amd64	1.3.0-8.1build3
 libinih1:amd64	55-1ubuntu2
-libinput-bin	1.26.0-1
-libinput10:amd64	1.26.0-1
+libinput-bin	1.26.2-1
+libinput10:amd64	1.26.2-1
 libio-html-perl	1.004-3
 libio-socket-ssl-perl	2.088-1
 libio-stringy-perl	2.113-2
@@ -732,8 +732,8 @@ libraw1394-11:amd64	2.1.2-2build3
 libreadline8t64:amd64	8.2-5
 libreiserfscore0t64	1:3.6.27-9
 libroc0.3:amd64	0.3.0+dfsg-7ubuntu2
-librsvg2-2:amd64	2.59.0+dfsg-3
-librsvg2-common:amd64	2.59.0+dfsg-3
+librsvg2-2:amd64	2.59.1+dfsg-1
+librsvg2-common:amd64	2.59.1+dfsg-1
 librtmp1:amd64	2.4+20151223.gitfa8646d.1-2build7
 libsamplerate0:amd64	0.2.2-4build1
 libsane-common	1.3.0-1
