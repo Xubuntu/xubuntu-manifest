@@ -122,9 +122,9 @@ diffutils	1:3.10-1build1
 dirmngr	2.4.4-2ubuntu18
 distro-info	1.9
 distro-info-data	0.62
-dmeventd	2:1.02.196-1ubuntu1
+dmeventd	2:1.02.196-1ubuntu2
 dmidecode	3.6-1
-dmsetup	2:1.02.196-1ubuntu1
+dmsetup	2:1.02.196-1ubuntu2
 dmz-cursor-theme	0.4.5ubuntu1
 dns-root-data	2024041801
 dnsmasq-base	2.90-4
@@ -167,7 +167,7 @@ fonts-liberation	1:2.1.5-3
 fonts-liberation-sans-narrow	1:1.07.6-4
 fonts-mathjax	2.7.9+dfsg-1
 fonts-noto-cjk	1:20240730+repack1-1
-fonts-noto-color-emoji	2.042-1
+fonts-noto-color-emoji	2.047-1
 fonts-noto-core	20201225-2
 fonts-noto-hinted	20201225-2
 fonts-noto-mono	20201225-2
@@ -345,46 +345,46 @@ keyutils	1.6.3-3build1
 klibc-utils	2.0.13-4ubuntu1
 kmod	31+20240202-2ubuntu8
 krb5-locales	1.21.3-3
-language-pack-bn	1:24.10+20240925
-language-pack-bn-base	1:24.10+20240911
-language-pack-de	1:24.10+20240911
-language-pack-de-base	1:24.10+20240911
-language-pack-en	1:24.10+20240925
-language-pack-en-base	1:24.10+20240911
-language-pack-es	1:24.10+20240911
-language-pack-es-base	1:24.10+20240911
-language-pack-fr	1:24.10+20240911
-language-pack-fr-base	1:24.10+20240911
-language-pack-gnome-bn	1:24.10+20240925
-language-pack-gnome-bn-base	1:24.10+20240911
-language-pack-gnome-de	1:24.10+20240911
-language-pack-gnome-de-base	1:24.10+20240911
-language-pack-gnome-en	1:24.10+20240925
-language-pack-gnome-en-base	1:24.10+20240911
-language-pack-gnome-es	1:24.10+20240911
-language-pack-gnome-es-base	1:24.10+20240911
-language-pack-gnome-fr	1:24.10+20240911
-language-pack-gnome-fr-base	1:24.10+20240911
-language-pack-gnome-hi	1:24.10+20240911
-language-pack-gnome-hi-base	1:24.10+20240911
-language-pack-gnome-ja	1:24.10+20240925
-language-pack-gnome-ja-base	1:24.10+20240911
-language-pack-gnome-pt	1:24.10+20240925
-language-pack-gnome-pt-base	1:24.10+20240911
+language-pack-bn	1:24.10+20241003
+language-pack-bn-base	1:24.10+20241003
+language-pack-de	1:24.10+20241003
+language-pack-de-base	1:24.10+20241003
+language-pack-en	1:24.10+20241003
+language-pack-en-base	1:24.10+20241003
+language-pack-es	1:24.10+20241003
+language-pack-es-base	1:24.10+20241003
+language-pack-fr	1:24.10+20241003
+language-pack-fr-base	1:24.10+20241003
+language-pack-gnome-bn	1:24.10+20241003
+language-pack-gnome-bn-base	1:24.10+20241003
+language-pack-gnome-de	1:24.10+20241003
+language-pack-gnome-de-base	1:24.10+20241003
+language-pack-gnome-en	1:24.10+20241003
+language-pack-gnome-en-base	1:24.10+20241003
+language-pack-gnome-es	1:24.10+20241003
+language-pack-gnome-es-base	1:24.10+20241003
+language-pack-gnome-fr	1:24.10+20241003
+language-pack-gnome-fr-base	1:24.10+20241003
+language-pack-gnome-hi	1:24.10+20241003
+language-pack-gnome-hi-base	1:24.10+20241003
+language-pack-gnome-ja	1:24.10+20241003
+language-pack-gnome-ja-base	1:24.10+20241003
+language-pack-gnome-pt	1:24.10+20241003
+language-pack-gnome-pt-base	1:24.10+20241003
 language-pack-gnome-xh	1:17.10+20171012
 language-pack-gnome-xh-base	1:17.10+20171012
-language-pack-gnome-zh-hans	1:24.10+20240925
-language-pack-gnome-zh-hans-base	1:24.10+20240911
-language-pack-hi	1:24.10+20240911
-language-pack-hi-base	1:24.10+20240911
-language-pack-ja	1:24.10+20240925
-language-pack-ja-base	1:24.10+20240911
-language-pack-pt	1:24.10+20240925
-language-pack-pt-base	1:24.10+20240911
+language-pack-gnome-zh-hans	1:24.10+20241003
+language-pack-gnome-zh-hans-base	1:24.10+20241003
+language-pack-hi	1:24.10+20241003
+language-pack-hi-base	1:24.10+20241003
+language-pack-ja	1:24.10+20241003
+language-pack-ja-base	1:24.10+20241003
+language-pack-pt	1:24.10+20241003
+language-pack-pt-base	1:24.10+20241003
 language-pack-xh	1:17.10+20171012
 language-pack-xh-base	1:17.10+20171012
-language-pack-zh-hans	1:24.10+20240925
-language-pack-zh-hans-base	1:24.10+20240911
+language-pack-zh-hans	1:24.10+20241003
+language-pack-zh-hans-base	1:24.10+20241003
 language-selector-common	0.226
 language-selector-gnome	0.226
 laptop-detect	0.16
@@ -584,8 +584,8 @@ libdeflate0:amd64	1.21-1
 libdevel-callchecker-perl:amd64	0.009-1
 libdevel-size-perl	0.84-1
 libdevel-stacktrace-perl	2.0500-1
-libdevmapper-event1.02.1:amd64	2:1.02.196-1ubuntu1
-libdevmapper1.02.1:amd64	2:1.02.196-1ubuntu1
+libdevmapper-event1.02.1:amd64	2:1.02.196-1ubuntu2
+libdevmapper1.02.1:amd64	2:1.02.196-1ubuntu2
 libdisplay-info2:amd64	0.2.0-2
 libdjvulibre-text	3.5.28-2build4
 libdjvulibre21:amd64	3.5.28-2build4
@@ -686,7 +686,7 @@ libgck-2-2:amd64	4.3.0-1
 libgcr-4-4:amd64	4.3.0-1
 libgcr-base-3-1:amd64	3.41.2-1build3
 libgcr-ui-3-1:amd64	3.41.2-1build3
-libgcrypt20:amd64	1.11.0-6
+libgcrypt20:amd64	1.11.0-6ubuntu1
 libgd3:amd64	2.3.3-12ubuntu3
 libgdata-common	0.18.1-8
 libgdata22:amd64	0.18.1-8
@@ -894,7 +894,7 @@ liblsan0:amd64	14.2.0-4ubuntu2
 libltdl7:amd64	2.4.7-7build1
 liblua5.3-0:amd64	5.3.6-2build2
 liblua5.4-0:amd64	5.4.6-3build2
-liblvm2cmd2.03:amd64	2.03.22-1ubuntu1
+liblvm2cmd2.03:amd64	2.03.22-1ubuntu2
 liblwp-mediatypes-perl	6.04-2
 liblwp-protocol-https-perl	6.14-1
 liblz4-1:amd64	1.9.4-3
@@ -989,7 +989,7 @@ libonig5:amd64	6.9.9-1build1
 liboobs-1-5:amd64	3.0.0-4build2
 libopenexr-3-1-30:amd64	3.1.5-5.1build3
 libopengl0:amd64	1.7.0-1build1
-libopenjp2-7:amd64	2.5.0-2build3
+libopenjp2-7:amd64	2.5.0-2ubuntu1
 libopenmpt0t64:amd64	0.7.9-1
 libopus0:amd64	1.5.2-2
 liborc-0.4-0t64:amd64	1:0.4.40-1
@@ -1066,9 +1066,9 @@ libpulse0:amd64	1:16.1+dfsg1-5.1ubuntu1
 libpwquality-common	1.4.5-3build1
 libpwquality1:amd64	1.4.5-3build1
 libpython3-stdlib:amd64	3.12.6-0ubuntu1
-libpython3.12-minimal:amd64	3.12.7-0ubuntu1
-libpython3.12-stdlib:amd64	3.12.7-0ubuntu1
-libpython3.12t64:amd64	3.12.7-0ubuntu1
+libpython3.12-minimal:amd64	3.12.7-1
+libpython3.12-stdlib:amd64	3.12.7-1
+libpython3.12t64:amd64	3.12.7-1
 libqmi-glib5:amd64	1.35.2-0ubuntu2
 libqmi-proxy	1.35.2-0ubuntu2
 libqmi-utils	1.35.2-0ubuntu2
@@ -1441,7 +1441,7 @@ lshw	02.19.git.2021.06.19.996aaad9c7-2ubuntu2
 lsof	4.95.0-1.1
 lto-disabled-list	53
 luit	2.0.20221028-1
-lvm2	2.03.22-1ubuntu1
+lvm2	2.03.22-1ubuntu2
 lzip	1.24.1-2
 lzop	1.04-2build3
 make	4.3-4.1build2
@@ -1524,8 +1524,8 @@ plocate	1.1.19-2ubuntu2
 plymouth	24.004.60-1ubuntu10
 plymouth-label	24.004.60-1ubuntu10
 plymouth-theme-ubuntu-text	24.004.60-1ubuntu10
-plymouth-theme-xubuntu-logo	24.10
-plymouth-theme-xubuntu-text	24.10
+plymouth-theme-xubuntu-logo	24.10.1
+plymouth-theme-xubuntu-text	24.10.1
 pocketsphinx-en-us	0.8.0+real5prealpha+1-15ubuntu5
 policykit-1	124-2ubuntu1
 policykit-1-gnome	0.105-7ubuntu5
@@ -1642,9 +1642,9 @@ python3-xcffib	1.5.0-1
 python3-xkit	0.5.0ubuntu6
 python3-yaml	6.0.2-1
 python3-zipp	3.20.0-1
-python3.12	3.12.7-0ubuntu1
-python3.12-gdbm	3.12.7-0ubuntu1
-python3.12-minimal	3.12.7-0ubuntu1
+python3.12	3.12.7-1
+python3.12-gdbm	3.12.7-1
+python3.12-minimal	3.12.7-1
 readline-common	8.2-5
 reiserfsprogs	1:3.6.27-9
 rfkill	2.40.2-1ubuntu1
@@ -1683,7 +1683,7 @@ speech-dispatcher-espeak-ng	0.12.0~rc3-2
 spice-vdagent	0.22.1-4.1
 squashfs-tools	1:4.6.1-1build1
 ssl-cert	1.1.2ubuntu2
-strace	6.8-2
+strace	6.11-0ubuntu1
 sudo	1.9.15p5-3ubuntu5
 synaptic	0.91.3build4
 sysstat	12.7.5-2ubuntu1
@@ -1849,7 +1849,7 @@ xserver-xorg-video-radeon	1:22.0.0-1build1
 xserver-xorg-video-vesa	1:2.6.0-1ubuntu1
 xserver-xorg-video-vmware	1:13.4.0-1build1
 xterm	394-1ubuntu1
-xubuntu-artwork	24.10
+xubuntu-artwork	24.10.1
 xubuntu-community-wallpapers	22.04.0
 xubuntu-community-wallpapers-jammy	22.04.0
 xubuntu-default-settings	24.04.4
@@ -1857,7 +1857,7 @@ xubuntu-desktop	2.263
 xubuntu-desktop-minimal	2.263
 xubuntu-docs	22.04
 xubuntu-live-settings	24.04.4
-xubuntu-wallpapers	24.10
+xubuntu-wallpapers	24.10.1
 xxd	2:9.1.0496-1ubuntu6
 xz-utils	5.6.2-2
 yelp	42.2-1build2
@@ -1875,11 +1875,8 @@ snap:snapd	stable	21759
 snap:firefox	stable/ubuntu-24.10	5014
 snap:firmware-updater	stable/ubuntu-24.10	127
 snap:gnome-42-2204	stable/ubuntu-24.10	176
-snap:core24	stable	490
-snap:gnome-46-2404	stable/ubuntu-24.10	48
 snap:bare	stable	5
-snap:gtk-common-themes	stable/ubuntu-24.10	1535
-snap:mesa-2404	stable/ubuntu-24.10	143
+snap:gtk-common-themes	stable/ubuntu-24.10	1536
 snap:snap-store	stable/ubuntu-24.10	1216
 snap:snapd-desktop-integration	stable/ubuntu-24.10	178
 snap:thunderbird	stable/ubuntu-24.10	526
