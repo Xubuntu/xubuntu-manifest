@@ -395,7 +395,7 @@ libabsl20230802:amd64	20230802.1-4ubuntu1
 libabw-0.1-1:amd64	0.1.3-1build4
 libaccountsservice0:amd64	23.13.9-2ubuntu6
 libacl1:amd64	2.3.2-2
-libadwaita-1-0:amd64	1.6.0-1ubuntu1
+libadwaita-1-0:amd64	1.6.0-1ubuntu2
 libaio1t64:amd64	0.3.113-8
 libalgorithm-diff-perl	1.201-1
 libalgorithm-diff-xs-perl:amd64	0.04-8build3
@@ -1589,8 +1589,6 @@ python3-gi	3.48.2-1
 python3-gi-cairo	3.48.2-1
 python3-httplib2	0.22.0-1
 python3-idna	3.6-2.1
-python3-importlib-metadata	8.2.0-2
-python3-importlib-resources	6.4.0-1ubuntu1
 python3-inflect	7.3.1-2
 python3-jaraco.context	6.0.0-1
 python3-jaraco.functools	4.0.2-1
@@ -1622,7 +1620,7 @@ python3-problem-report	2.30.0-0ubuntu4
 python3-psutil	5.9.8-2build2
 python3-ptyprocess	0.7.0-5
 python3-pycparser	2.22-2
-python3-pygments	2.18.0+dfsg-1
+python3-pygments	2.18.0+dfsg-1ubuntu1
 python3-pyparsing	3.1.2-1
 python3-referencing	0.35.1-1ubuntu1
 python3-requests	2.32.3+dfsg-1ubuntu1
@@ -1641,7 +1639,6 @@ python3-wadllib	1.3.6-5
 python3-xcffib	1.5.0-1
 python3-xkit	0.5.0ubuntu6
 python3-yaml	6.0.2-1
-python3-zipp	3.20.0-1
 python3.12	3.12.7-1
 python3.12-gdbm	3.12.7-1
 python3.12-minimal	3.12.7-1
@@ -1728,8 +1725,8 @@ ubuntu-kernel-accessories	1.543
 ubuntu-keyring	2023.11.28.1
 ubuntu-minimal	1.543
 ubuntu-mono	24.04-0ubuntu1
-ubuntu-pro-client	34
-ubuntu-pro-client-l10n	34
+ubuntu-pro-client	34.1.2
+ubuntu-pro-client-l10n	34.1.2
 ubuntu-release-upgrader-core	1:24.10.13
 ubuntu-release-upgrader-gtk	1:24.10.13
 ubuntu-standard	1.543
@@ -1873,11 +1870,11 @@ zstd	1.5.6+dfsg-1
 snap:core22	stable	1621
 snap:snapd	stable	21759
 snap:firefox	stable/ubuntu-24.10	5014
-snap:firmware-updater	stable/ubuntu-24.10	127
+snap:firmware-updater	1/stable/ubuntu-24.10	127
 snap:gnome-42-2204	stable/ubuntu-24.10	176
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.10	1536
-snap:snap-store	stable/ubuntu-24.10	1216
+snap:snap-store	2/stable/ubuntu-24.10	1218
 snap:snapd-desktop-integration	stable/ubuntu-24.10	178
 snap:thunderbird	stable/ubuntu-24.10	526
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.10	237
