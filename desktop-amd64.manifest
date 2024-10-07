@@ -34,7 +34,7 @@ avahi-utils	0.8-13ubuntu6
 ayatana-indicator-application	22.2.0-2
 ayatana-indicator-common	0.9.10-3
 baobab	47.0-1
-base-files	13.3ubuntu5
+base-files	13.3ubuntu6
 base-passwd	3.6.4
 bash	5.2.32-1ubuntu1
 bash-completion	1:2.14.0-1
@@ -1874,6 +1874,6 @@ snap:gnome-42-2204	stable/ubuntu-24.10	176
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.10	1536
 snap:snap-store	2/stable/ubuntu-24.10	1218
-snap:snapd-desktop-integration	stable/ubuntu-24.10	178
+snap:snapd-desktop-integration	stable/ubuntu-24.10	247
 snap:thunderbird	stable/ubuntu-24.10	526
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.10	237

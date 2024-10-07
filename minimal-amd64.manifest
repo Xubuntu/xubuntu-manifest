@@ -22,7 +22,7 @@ at-spi2-core	2.54.0-1
 avahi-daemon	0.8-13ubuntu6
 ayatana-indicator-application	22.2.0-2
 ayatana-indicator-common	0.9.10-3
-base-files	13.3ubuntu5
+base-files	13.3ubuntu6
 base-passwd	3.6.4
 bash	5.2.32-1ubuntu1
 bash-completion	1:2.14.0-1
