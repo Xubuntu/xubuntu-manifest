@@ -882,7 +882,7 @@ liblist-someutils-perl	0.59-1
 liblist-someutils-xs-perl:amd64	0.58-3build4
 liblist-utilsby-perl	0.12-2
 libllvm18:amd64	1:18.1.8-11
-libllvm19:amd64	1:19.1.0-4ubuntu1
+libllvm19:amd64	1:19.1.1-1ubuntu1
 liblmdb0:amd64	0.9.31-1build1
 liblocale-gettext-perl	1.07-7
 liblouis-data	3.30.0-2
@@ -976,7 +976,7 @@ libnpth0t64:amd64	1.6-3.1build1
 libnsl2:amd64	1.3.0-3build3
 libnspr4:amd64	2:4.35-1.1ubuntu1
 libnss-mdns:amd64	0.15.1-4build1
-libnss-systemd:amd64	256.5-2ubuntu2
+libnss-systemd:amd64	256.5-2ubuntu3
 libnss3:amd64	2:3.103-1
 libntfs-3g89t64:amd64	1:2022.10.3-1.2ubuntu3
 libnuma1:amd64	2.0.18-1build1
@@ -1005,7 +1005,7 @@ libpam-gnome-keyring:amd64	46.2-1
 libpam-modules:amd64	1.5.3-7ubuntu2
 libpam-modules-bin	1.5.3-7ubuntu2
 libpam-runtime	1.5.3-7ubuntu2
-libpam-systemd:amd64	256.5-2ubuntu2
+libpam-systemd:amd64	256.5-2ubuntu3
 libpam0g:amd64	1.5.3-7ubuntu2
 libpango-1.0-0:amd64	1.54.0+ds-2
 libpangocairo-1.0-0:amd64	1.54.0+ds-2
@@ -1195,8 +1195,8 @@ libswresample5:amd64	7:7.0.2-3ubuntu1
 libswscale8:amd64	7:7.0.2-3ubuntu1
 libsynctex2:amd64	2024.20240313.70630+ds-4
 libsyntax-keyword-try-perl	0.29-2
-libsystemd-shared:amd64	256.5-2ubuntu2
-libsystemd0:amd64	256.5-2ubuntu2
+libsystemd-shared:amd64	256.5-2ubuntu3
+libsystemd0:amd64	256.5-2ubuntu3
 libtag1v5:amd64	1.13.1-1build1
 libtag1v5-vanilla:amd64	1.13.1-1build1
 libtagc0:amd64	1.13.1-1build1
@@ -1245,7 +1245,7 @@ libtwolame0:amd64	0.4.0-2build3
 libu2f-udev	1.1.10-3.2
 libubsan1:amd64	14.2.0-4ubuntu2
 libuchardet0:amd64	0.0.8-1build1
-libudev1:amd64	256.5-2ubuntu2
+libudev1:amd64	256.5-2ubuntu3
 libudfread0:amd64	1.1.2-1build1
 libudisks2-0:amd64	2.10.1-9ubuntu2
 libumfpack6:amd64	1:7.8.0+dfsg-1
@@ -1688,12 +1688,11 @@ system-config-printer	1.5.18-3ubuntu1
 system-config-printer-common	1.5.18-3ubuntu1
 system-config-printer-udev	1.5.18-3ubuntu1
 system-tools-backends	2.10.2-3.1ubuntu4
-systemd	256.5-2ubuntu2
-systemd-cryptsetup	256.5-2ubuntu2
+systemd	256.5-2ubuntu3
 systemd-hwe-hwdb	256.4.1
-systemd-resolved	256.5-2ubuntu2
-systemd-sysv	256.5-2ubuntu2
-systemd-timesyncd	256.5-2ubuntu2
+systemd-resolved	256.5-2ubuntu3
+systemd-sysv	256.5-2ubuntu3
+systemd-timesyncd	256.5-2ubuntu3
 sysvinit-utils	3.08-6ubuntu3
 t1utils	1.41-4build3
 tar	1.35+dfsg-3build1
@@ -1731,7 +1730,7 @@ ubuntu-release-upgrader-core	1:24.10.13
 ubuntu-release-upgrader-gtk	1:24.10.13
 ubuntu-standard	1.543
 ucf	3.0043+nmu1
-udev	256.5-2ubuntu2
+udev	256.5-2ubuntu3
 udisks2	2.10.1-9ubuntu2
 ufw	0.36.2-6
 unattended-upgrades	2.9.1+nmu4ubuntu1
