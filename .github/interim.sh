@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RELEASE="oracular"
+RELEASE="plucky"
 ARCHES="amd64"
 DATE=`date -u +%Y%m%d`
 URL=""
