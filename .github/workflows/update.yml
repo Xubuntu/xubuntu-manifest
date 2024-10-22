@@ -1,12 +1,11 @@
-name: Update daily-live manifest
+name: Update daily-live manifests
 on:
   schedule:
     - cron: "0 12,18 * * *"
 jobs:
-  update:
+  update-interim-release:
     runs-on: ubuntu-latest
     steps:
-      # Checkout the branch
       - name: checkout
         uses: actions/checkout@v2
         with:
@@ -15,8 +14,26 @@ jobs:
 
       - name: update manifest files
         run: |
-          chmod +x "${GITHUB_WORKSPACE}/.github/update.sh"
-          "${GITHUB_WORKSPACE}/.github/update.sh"
+          chmod +x "${GITHUB_WORKSPACE}/.github/interim.sh"
+          "${GITHUB_WORKSPACE}/.github/interim.sh"
+
+      - name: commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update daily-live manifest
+  update-lts-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+        with:
+          ref: noble-daily-live
+          token: ${{ secrets.PAT }}
+
+      - name: update manifest files
+        run: |
+          chmod +x "${GITHUB_WORKSPACE}/.github/lts.sh"
+          "${GITHUB_WORKSPACE}/.github/lts.sh"
 
       - name: commit
         uses: stefanzweifel/git-auto-commit-action@v4
