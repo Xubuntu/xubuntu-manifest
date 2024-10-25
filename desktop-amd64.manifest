@@ -328,7 +328,7 @@ intel-media-va-driver:amd64	24.1.0+dfsg1-1
 intel-microcode	3.20240910.0ubuntu0.24.04.1
 intltool-debian	0.35.0+20060710.6
 inxi	3.3.34-1-1
-ipp-usb	0.9.24-0ubuntu3.1
+ipp-usb	0.9.24-0ubuntu3.2
 iproute2	6.1.0-1ubuntu6
 iptables	1.8.10-3ubuntu2
 iputils-ping	3:20240117-1build1
