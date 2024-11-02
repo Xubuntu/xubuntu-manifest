@@ -413,7 +413,7 @@ libappstream5:amd64	1.0.2-1build6
 libapt-pkg-perl	0.1.40build7
 libapt-pkg6.0t64:amd64	2.7.14build2
 libarchive-zip-perl	1.68-1
-libarchive13t64:amd64	3.7.2-2ubuntu0.2
+libarchive13t64:amd64	3.7.2-2ubuntu0.3
 libargon2-1:amd64	0~20190702+dfsg-4build1
 libasan8:amd64	14.2.0-4ubuntu2~24.04
 libasound2-data	1.2.11-1build2
@@ -1856,5 +1856,5 @@ snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
 snap:snap-store	stable/ubuntu-24.04	1218
 snap:snapd-desktop-integration	stable/ubuntu-24.04	253
-snap:thunderbird	stable/ubuntu-24.04	532
+snap:thunderbird	stable/ubuntu-24.04	546
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	237
