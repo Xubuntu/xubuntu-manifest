@@ -1479,7 +1479,7 @@ onboard	1.4.1-5ubuntu6
 onboard-common	1.4.1-5ubuntu6
 onboard-data	1.4.1-5ubuntu6
 openprinting-ppds	20230202-1
-openssh-client	1:9.6p1-3ubuntu13.7
+openssh-client	1:9.6p1-3ubuntu13.5
 openssl	3.0.13-0ubuntu3.4
 os-prober	1.81ubuntu4
 p11-kit	0.25.3-4ubuntu2.1
@@ -1856,5 +1856,5 @@ snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
 snap:snap-store	stable/ubuntu-24.04	1218
 snap:snapd-desktop-integration	stable/ubuntu-24.04	253
-snap:thunderbird	stable/ubuntu-24.04	553
+snap:thunderbird	stable/ubuntu-24.04	562
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	237
