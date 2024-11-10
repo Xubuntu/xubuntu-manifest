@@ -1000,7 +1000,7 @@ numix-gtk-theme	2.6.7-7
 numlockx	1.2-9build1
 ocl-icd-libopencl1:amd64	2.3.2-1build1
 openprinting-ppds	20230202-1
-openssh-client	1:9.6p1-3ubuntu13.7
+openssh-client	1:9.6p1-3ubuntu13.5
 openssl	3.0.13-0ubuntu3.4
 os-prober	1.81ubuntu4
 p11-kit	0.25.3-4ubuntu2.1
