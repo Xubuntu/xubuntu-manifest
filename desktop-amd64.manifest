@@ -5,7 +5,7 @@ adduser	3.137ubuntu1
 adwaita-icon-theme	46.0-1
 alsa-base	1.0.25+dfsg-0ubuntu7
 alsa-topology-conf	1.2.5.1-2
-alsa-ucm-conf	1.2.10-1ubuntu5
+alsa-ucm-conf	1.2.10-1ubuntu5.2
 alsa-utils	1.2.9-1ubuntu5
 amd64-microcode	3.20231019.1ubuntu2.1
 anacron	2.3-39ubuntu2
@@ -1402,7 +1402,7 @@ lightdm-gtk-greeter	2.0.9-0ubuntu3
 lightdm-gtk-greeter-settings	1.2.3-0ubuntu1
 lintian	2.117.0ubuntu1.2
 linux-base	4.5ubuntu9
-linux-firmware	20240318.git3b128b60-0ubuntu2.4
+linux-firmware	20240318.git3b128b60-0ubuntu2.5
 linux-generic	6.8.0-49.49
 linux-headers-6.8.0-49	6.8.0-49.49
 linux-headers-6.8.0-49-generic	6.8.0-49.49
@@ -1608,7 +1608,7 @@ python3-requests	2.31.0+dfsg-1ubuntu1
 python3-rich	13.7.1-1
 python3-serial	3.5-2
 python3-six	1.16.0-4
-python3-software-properties	0.99.48
+python3-software-properties	0.99.49.1
 python3-systemd	235-1build4
 python3-typing-extensions	4.10.0-1
 python3-tz	2024.1-2
@@ -1650,8 +1650,8 @@ shim-signed	1.58+15.8-0ubuntu1
 shimmer-themes	2.1.3build1
 simple-scan	46.0-0ubuntu2
 snapd	2.65.3+24.04
-software-properties-common	0.99.48
-software-properties-gtk	0.99.48
+software-properties-common	0.99.49.1
+software-properties-gtk	0.99.49.1
 sound-icons	0.1-8
 sound-theme-freedesktop	0.8-2ubuntu1
 speech-dispatcher	0.12.0~rc2-2build3
