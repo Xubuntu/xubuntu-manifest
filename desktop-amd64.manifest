@@ -122,7 +122,7 @@ dirmngr	2.4.4-2ubuntu17
 distro-info	1.7build1
 distro-info-data	0.60ubuntu0.2
 dmeventd	2:1.02.185-3ubuntu3.1
-dmidecode	3.5-3build1
+dmidecode	3.5-3ubuntu0.1
 dmraid	1.0.0.rc16-12ubuntu2
 dmsetup	2:1.02.185-3ubuntu3.1
 dmz-cursor-theme	0.4.5ubuntu1
@@ -1856,5 +1856,5 @@ snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
 snap:snap-store	stable/ubuntu-24.04	1218
 snap:snapd-desktop-integration	stable/ubuntu-24.04	253
-snap:thunderbird	stable/ubuntu-24.04	571
+snap:thunderbird	stable/ubuntu-24.04	581
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	237
