@@ -9,8 +9,8 @@ alsa-utils	1.2.9-1ubuntu5
 amd64-microcode	3.20231019.1ubuntu2.1
 anacron	2.3-39ubuntu2
 apparmor	4.0.1really4.0.1-0ubuntu0.24.04.3
-apport	2.28.1-0ubuntu3.1
-apport-core-dump-handler	2.28.1-0ubuntu3.1
+apport	2.28.1-0ubuntu3.3
+apport-core-dump-handler	2.28.1-0ubuntu3.3
 apport-symptoms	0.25
 appstream	1.0.2-1build6
 apt	2.7.14build2
@@ -162,7 +162,7 @@ gir1.2-gtk-3.0:amd64	3.24.41-4ubuntu1.2
 gir1.2-handy-1:amd64	1.8.3-1build2
 gir1.2-harfbuzz-0.0:amd64	8.3.0-2build2
 gir1.2-libxfce4util-1.0:amd64	4.18.1-2build3
-gir1.2-packagekitglib-1.0	1.2.8-2build3
+gir1.2-packagekitglib-1.0	1.2.8-2ubuntu1
 gir1.2-pango-1.0:amd64	1.52.1+ds-1build1
 gir1.2-xfconf-0:amd64	4.18.1-1build3
 glib-networking:amd64	2.80.0-1build1
@@ -668,7 +668,7 @@ libopenjp2-7:amd64	2.5.0-2ubuntu0.2
 libopus0:amd64	1.4-1build1
 liborc-0.4-0t64:amd64	1:0.4.38-1ubuntu0.1
 libp11-kit0:amd64	0.25.3-4ubuntu2.1
-libpackagekit-glib2-18:amd64	1.2.8-2build3
+libpackagekit-glib2-18:amd64	1.2.8-2ubuntu1
 libpam-cap:amd64	1:2.66-5ubuntu2
 libpam-gnome-keyring:amd64	46.1-2build1
 libpam-modules:amd64	1.5.3-5ubuntu5.1
@@ -812,7 +812,7 @@ libtwolame0:amd64	0.4.0-2build3
 libu2f-udev	1.1.10-3build3
 libuchardet0:amd64	0.0.8-1build1
 libudev1:amd64	255.4-1ubuntu8.4
-libudisks2-0:amd64	2.10.1-6build1
+libudisks2-0:amd64	2.10.1-6ubuntu1
 libunistring5:amd64	1.1-2build1
 libunwind8:amd64	1.6.2-3build1
 libupower-glib3:amd64	1.90.3-1
@@ -1005,8 +1005,8 @@ openssl	3.0.13-0ubuntu3.4
 os-prober	1.81ubuntu4
 p11-kit	0.25.3-4ubuntu2.1
 p11-kit-modules:amd64	0.25.3-4ubuntu2.1
-packagekit	1.2.8-2build3
-packagekit-tools	1.2.8-2build3
+packagekit	1.2.8-2ubuntu1
+packagekit-tools	1.2.8-2ubuntu1
 parted	3.6-4build1
 passwd	1:4.13+dfsg1-4ubuntu3.2
 pavucontrol	5.0-2build3
@@ -1057,7 +1057,7 @@ pulseaudio-utils	1:16.1+dfsg1-2ubuntu10
 python-apt-common	2.7.7ubuntu3
 python-babel-localedata	2.10.3-3build1
 python3	3.12.3-0ubuntu2
-python3-apport	2.28.1-0ubuntu3.1
+python3-apport	2.28.1-0ubuntu3.3
 python3-apt	2.7.7ubuntu3
 python3-attr	23.2.0-2
 python3-babel	2.10.3-3build1
@@ -1101,7 +1101,7 @@ python3-olefile	0.46-3
 python3-pexpect	4.9-2
 python3-pil:amd64	10.2.0-1ubuntu1
 python3-pkg-resources	68.1.2-2ubuntu1.1
-python3-problem-report	2.28.1-0ubuntu3.1
+python3-problem-report	2.28.1-0ubuntu3.3
 python3-ptyprocess	0.7.0-5
 python3-pygments	2.17.2+dfsg-1
 python3-pyparsing	3.1.1-1
@@ -1187,7 +1187,7 @@ ubuntu-release-upgrader-core	1:24.04.23
 ubuntu-standard	1.539.1
 ucf	3.0043+nmu1
 udev	255.4-1ubuntu8.4
-udisks2	2.10.1-6build1
+udisks2	2.10.1-6ubuntu1
 ufw	0.36.2-6
 unattended-upgrades	2.9.1+nmu4ubuntu1
 unzip	6.0-28ubuntu4.1
