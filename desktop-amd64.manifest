@@ -77,8 +77,8 @@ console-setup-linux	1.226ubuntu1
 coreutils	9.4-3ubuntu6
 cpio	2.15+dfsg-1ubuntu2
 cpp	4:13.2.0-7ubuntu1
-cpp-13	13.2.0-23ubuntu4
-cpp-13-x86-64-linux-gnu	13.2.0-23ubuntu4
+cpp-13	13.3.0-6ubuntu2~24.04
+cpp-13-x86-64-linux-gnu	13.3.0-6ubuntu2~24.04
 cpp-x86-64-linux-gnu	4:13.2.0-7ubuntu1
 cracklib-runtime	2.9.6-5.1build2
 cron	3.0pl1-184ubuntu2
@@ -183,13 +183,13 @@ fuse3	3.14.0-5build1
 fwupd	1.9.24-1~24.04.1
 fwupd-signed	1.52+1.4-1
 g++	4:13.2.0-7ubuntu1
-g++-13	13.2.0-23ubuntu4
-g++-13-x86-64-linux-gnu	13.2.0-23ubuntu4
+g++-13	13.3.0-6ubuntu2~24.04
+g++-13-x86-64-linux-gnu	13.3.0-6ubuntu2~24.04
 g++-x86-64-linux-gnu	4:13.2.0-7ubuntu1
 gcc	4:13.2.0-7ubuntu1
-gcc-13	13.2.0-23ubuntu4
-gcc-13-base:amd64	13.2.0-23ubuntu4
-gcc-13-x86-64-linux-gnu	13.2.0-23ubuntu4
+gcc-13	13.3.0-6ubuntu2~24.04
+gcc-13-base:amd64	13.3.0-6ubuntu2~24.04
+gcc-13-x86-64-linux-gnu	13.3.0-6ubuntu2~24.04
 gcc-14-base:amd64	14.2.0-4ubuntu2~24.04
 gcc-x86-64-linux-gnu	4:13.2.0-7ubuntu1
 gcr	3.41.2-1build3
@@ -226,7 +226,7 @@ gir1.2-javascriptcoregtk-4.1:amd64	2.46.4-0ubuntu0.24.04.1
 gir1.2-json-1.0:amd64	1.8.0-2build2
 gir1.2-libxfce4ui-2.0:amd64	4.18.4-1build4
 gir1.2-libxfce4util-1.0:amd64	4.18.1-2build3
-gir1.2-nm-1.0:amd64	1.46.0-1ubuntu2
+gir1.2-nm-1.0:amd64	1.46.0-1ubuntu2.2
 gir1.2-notify-0.7:amd64	0.8.3-1build2
 gir1.2-packagekitglib-1.0	1.2.8-2ubuntu1
 gir1.2-pango-1.0:amd64	1.52.1+ds-1build1
@@ -671,7 +671,7 @@ libgarcon-1-0:amd64	4.18.1-1build3
 libgarcon-common	4.18.1-1build3
 libgarcon-gtk3-1-0:amd64	4.18.1-1build3
 libgbm1:amd64	24.0.9-0ubuntu0.3
-libgcc-13-dev:amd64	13.2.0-23ubuntu4
+libgcc-13-dev:amd64	13.3.0-6ubuntu2~24.04
 libgcc-s1:amd64	14.2.0-4ubuntu2~24.04
 libgck-1-0:amd64	3.41.2-1build3
 libgck-2-2:amd64	4.2.0-5
@@ -957,7 +957,7 @@ libnghttp2-14:amd64	1.59.0-1ubuntu0.1
 libnl-3-200:amd64	3.7.0-0.3build1
 libnl-genl-3-200:amd64	3.7.0-0.3build1
 libnl-route-3-200:amd64	3.7.0-0.3build1
-libnm0:amd64	1.46.0-1ubuntu2
+libnm0:amd64	1.46.0-1ubuntu2.2
 libnma-common	1.10.6-3build2
 libnma-gtk4-0:amd64	1.10.6-3build2
 libnma0:amd64	1.10.6-3build2
@@ -1168,7 +1168,7 @@ libssh-4:amd64	0.10.6-2build2
 libssh-gcrypt-4:amd64	0.10.6-2build2
 libssl3t64:amd64	3.0.13-0ubuntu3.4
 libstartup-notification0:amd64	0.12-6build3
-libstdc++-13-dev:amd64	13.2.0-23ubuntu4
+libstdc++-13-dev:amd64	13.3.0-6ubuntu2~24.04
 libstdc++6:amd64	14.2.0-4ubuntu2~24.04
 libstemmer0d:amd64	2.2.0-4build1
 libstrictures-perl	2.000006-1
@@ -1422,7 +1422,7 @@ locales	2.39-0ubuntu8.3
 login	1:4.13+dfsg1-4ubuntu3.2
 logrotate	3.21.0-2build1
 logsave	1.47.0-2.4~exp1ubuntu4.1
-lp-solve	5.5.2.5-2build4
+lp-solve	5.5.2.5-2ubuntu0.1
 lsb-release	12.0-2
 lshw	02.19.git.2021.06.19.996aaad9c7-2build3
 lsof	4.95.0-1build3
@@ -1464,7 +1464,7 @@ netbase	6.4
 netcat-openbsd	1.226-1ubuntu2
 netplan-generator	1.0.1-1ubuntu2~24.04.1
 netplan.io	1.0.1-1ubuntu2~24.04.1
-network-manager	1.46.0-1ubuntu2
+network-manager	1.46.0-1ubuntu2.2
 network-manager-gnome	1.34.0-1ubuntu3
 network-manager-pptp	1.2.12-3build2
 network-manager-pptp-gnome	1.2.12-3build2
