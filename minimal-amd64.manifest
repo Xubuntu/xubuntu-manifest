@@ -45,7 +45,7 @@ ca-certificates	20240203
 casper	1.498
 cifs-utils	2:7.0-2build1
 cloud-guest-utils	0.33-1
-cloud-init	24.3.1-0ubuntu0~24.04.2
+cloud-init	24.4-0ubuntu1~24.04.2
 colord	1.4.7-1build2
 colord-data	1.4.7-1build2
 command-not-found	23.04.0
@@ -144,7 +144,7 @@ foomatic-db-compressed-ppds	20230202-1
 friendly-recovery	0.2.42
 ftp	20230507-2build3
 fuse3	3.14.0-5build1
-fwupd	1.9.24-1~24.04.1
+fwupd	1.9.27-0ubuntu1~24.04.1
 fwupd-signed	1.52+1.4-1
 gcc-13-base:amd64	13.3.0-6ubuntu2~24.04
 gcc-14-base:amd64	14.2.0-4ubuntu2~24.04
@@ -162,7 +162,7 @@ gir1.2-gtk-3.0:amd64	3.24.41-4ubuntu1.2
 gir1.2-handy-1:amd64	1.8.3-1build2
 gir1.2-harfbuzz-0.0:amd64	8.3.0-2build2
 gir1.2-libxfce4util-1.0:amd64	4.18.1-2build3
-gir1.2-packagekitglib-1.0	1.2.8-2ubuntu1
+gir1.2-packagekitglib-1.0	1.2.8-2ubuntu1.1
 gir1.2-pango-1.0:amd64	1.52.1+ds-1build1
 gir1.2-xfconf-0:amd64	4.18.1-1build3
 glib-networking:amd64	2.80.0-1build1
@@ -448,7 +448,7 @@ libfribidi0:amd64	1.0.13-3build1
 libftdi1-2:amd64	1.5-6build5
 libfuse2t64:amd64	2.9.9-8.1build1
 libfuse3-3:amd64	3.14.0-5build1
-libfwupd2:amd64	1.9.24-1~24.04.1
+libfwupd2:amd64	1.9.27-0ubuntu1~24.04.1
 libgail-common:amd64	2.24.33-4ubuntu1.1
 libgail18t64:amd64	2.24.33-4ubuntu1.1
 libgarcon-1-0:amd64	4.18.1-1build3
@@ -668,7 +668,7 @@ libopenjp2-7:amd64	2.5.0-2ubuntu0.2
 libopus0:amd64	1.4-1build1
 liborc-0.4-0t64:amd64	1:0.4.38-1ubuntu0.1
 libp11-kit0:amd64	0.25.3-4ubuntu2.1
-libpackagekit-glib2-18:amd64	1.2.8-2ubuntu1
+libpackagekit-glib2-18:amd64	1.2.8-2ubuntu1.1
 libpam-cap:amd64	1:2.66-5ubuntu2
 libpam-gnome-keyring:amd64	46.1-2build1
 libpam-modules:amd64	1.5.3-5ubuntu5.1
@@ -941,7 +941,7 @@ libzvbi0t64:amd64	0.2.42-2
 lightdm	1.30.0-0ubuntu14
 lightdm-gtk-greeter	2.0.9-0ubuntu3
 linux-base	4.5ubuntu9
-linux-firmware	20240318.git3b128b60-0ubuntu2.5
+linux-firmware	20240318.git3b128b60-0ubuntu2.6
 linux-generic	6.8.0-51.52
 linux-headers-6.8.0-51	6.8.0-51.52
 linux-headers-6.8.0-51-generic	6.8.0-51.52
@@ -1005,8 +1005,8 @@ openssl	3.0.13-0ubuntu3.4
 os-prober	1.81ubuntu4
 p11-kit	0.25.3-4ubuntu2.1
 p11-kit-modules:amd64	0.25.3-4ubuntu2.1
-packagekit	1.2.8-2ubuntu1
-packagekit-tools	1.2.8-2ubuntu1
+packagekit	1.2.8-2ubuntu1.1
+packagekit-tools	1.2.8-2ubuntu1.1
 parted	3.6-4build1
 passwd	1:4.13+dfsg1-4ubuntu3.2
 pavucontrol	5.0-2build3
