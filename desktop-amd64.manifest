@@ -1854,7 +1854,7 @@ snap:firmware-updater	stable/ubuntu-24.04	147
 snap:gnome-42-2204	stable/ubuntu-24.04	176
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
-snap:snap-store	stable/ubuntu-24.04	1244
+snap:snap-store	stable/ubuntu-24.04	1248
 snap:snapd-desktop-integration	stable/ubuntu-24.04	253
-snap:thunderbird	stable/ubuntu-24.04	601
+snap:thunderbird	stable/ubuntu-24.04	609
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	237
