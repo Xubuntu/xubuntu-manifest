@@ -27,9 +27,9 @@ base-passwd	3.6.3build1
 bash	5.2.21-2ubuntu4
 bash-completion	1:2.11-8
 bc	1.07.1-3ubuntu4
-bind9-dnsutils	1:9.18.28-0ubuntu0.24.04.1
-bind9-host	1:9.18.28-0ubuntu0.24.04.1
-bind9-libs:amd64	1:9.18.28-0ubuntu0.24.04.1
+bind9-dnsutils	1:9.18.30-0ubuntu0.24.04.1
+bind9-host	1:9.18.30-0ubuntu0.24.04.1
+bind9-libs:amd64	1:9.18.30-0ubuntu0.24.04.1
 bluez	5.72-0ubuntu5
 bluez-cups	5.72-0ubuntu5
 bolt	0.9.7-1
@@ -637,7 +637,7 @@ libnet-http-perl	6.23-1
 libnet-smtp-ssl-perl	1.04-2
 libnet-ssleay-perl:amd64	1.94-1build4
 libnetfilter-conntrack3:amd64	1.0.9-6build1
-libnetplan1:amd64	1.0.1-1ubuntu2~24.04.1
+libnetplan1:amd64	1.1.1-1~ubuntu24.04.1
 libnettle8t64:amd64	3.9.1-2.2build1.1
 libnewt0.52:amd64	0.52.24-2ubuntu2
 libnfnetlink0:amd64	1.0.2-2build1
@@ -987,8 +987,8 @@ ncurses-base	6.4+20240113-1ubuntu2
 ncurses-bin	6.4+20240113-1ubuntu2
 netbase	6.4
 netcat-openbsd	1.226-1ubuntu2
-netplan-generator	1.0.1-1ubuntu2~24.04.1
-netplan.io	1.0.1-1ubuntu2~24.04.1
+netplan-generator	1.1.1-1~ubuntu24.04.1
+netplan.io	1.1.1-1~ubuntu24.04.1
 network-manager	1.46.0-1ubuntu2.2
 network-manager-gnome	1.34.0-1ubuntu3
 network-manager-pptp	1.2.12-3build2
@@ -1095,7 +1095,7 @@ python3-mdurl	0.1.2-1
 python3-minimal	3.12.3-0ubuntu2
 python3-netaddr	0.8.0-2ubuntu1
 python3-netifaces:amd64	0.11.0-2build3
-python3-netplan	1.0.1-1ubuntu2~24.04.1
+python3-netplan	1.1.1-1~ubuntu24.04.1
 python3-oauthlib	3.2.2-1
 python3-olefile	0.46-3
 python3-pexpect	4.9-2
