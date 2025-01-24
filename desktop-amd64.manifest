@@ -5,7 +5,7 @@ adduser	3.137ubuntu1
 adwaita-icon-theme	46.0-1
 alsa-base	1.0.25+dfsg-0ubuntu7
 alsa-topology-conf	1.2.5.1-2
-alsa-ucm-conf	1.2.10-1ubuntu5.3
+alsa-ucm-conf	1.2.10-1ubuntu5.4
 alsa-utils	1.2.9-1ubuntu5
 amd64-microcode	3.20231019.1ubuntu2.1
 anacron	2.3-39ubuntu2
@@ -54,8 +54,8 @@ bpfcc-tools	0.29.1+ds-1ubuntu7
 bpftrace	0.20.2-1ubuntu4
 brltty	6.6-4ubuntu5
 brltty-x11	6.6-4ubuntu5
-bsdextrautils	2.39.3-9ubuntu6.1
-bsdutils	1:2.39.3-9ubuntu6.1
+bsdextrautils	2.39.3-9ubuntu6.2
+bsdutils	1:2.39.3-9ubuntu6.2
 btrfs-progs	6.6.3-1.1build2
 bubblewrap	0.9.0-1ubuntu0.1
 build-essential	12.10ubuntu1
@@ -139,7 +139,7 @@ e2fsprogs-l10n	1.47.0-2.4~exp1ubuntu4.1
 eatmydata	131-1ubuntu1
 ed	1.20.1-1
 efibootmgr	18-1build2
-eject	2.39.3-9ubuntu6.1
+eject	2.39.3-9ubuntu6.2
 elementary-xfce-icon-theme	0.19-1
 emacsen-common	3.0.5
 enchant-2	2.3.3-2build2
@@ -151,12 +151,12 @@ espeak-ng-data:amd64	1.51+dfsg-12build1
 ethtool	1:6.7-1build1
 exo-utils	4.18.0-1build4
 fakeroot	1.33-1
-fdisk	2.39.3-9ubuntu6.1
+fdisk	2.39.3-9ubuntu6.2
 file	1:5.45-3build1
 finalrd	9build1
 findutils	4.9.0-5build1
 firefox	1:1snap1-0ubuntu5
-firmware-sof-signed	2023.12.1-1ubuntu1.3
+firmware-sof-signed	2023.12.1-1ubuntu1.4
 fontconfig	2.15.0-1.1ubuntu2
 fontconfig-config	2.15.0-1.1ubuntu2
 fonts-dejavu-core	2.37-8
@@ -458,7 +458,7 @@ libbdplus0:amd64	0.2.0-3build1
 libberkeleydb-perl:amd64	0.64-2build4
 libbinutils:amd64	2.42-4ubuntu2.3
 libblas3:amd64	3.12.0-3build1.1
-libblkid1:amd64	2.39.3-9ubuntu6.1
+libblkid1:amd64	2.39.3-9ubuntu6.2
 libblockdev-crypto3:amd64	3.1.1-1
 libblockdev-fs3:amd64	3.1.1-1
 libblockdev-loop3:amd64	3.1.1-1
@@ -638,7 +638,7 @@ libfastjson4:amd64	1.2304.0-1build1
 libfcgi-bin	2.4.2-2.1build1
 libfcgi-perl	0.82+ds-3build2
 libfcgi0t64:amd64	2.4.2-2.1build1
-libfdisk1:amd64	2.39.3-9ubuntu6.1
+libfdisk1:amd64	2.39.3-9ubuntu6.2
 libffi8:amd64	3.4.6-1build1
 libfftw3-double3:amd64	3.3.10-1ubuntu3
 libfftw3-single3:amd64	3.3.10-1ubuntu3
@@ -914,7 +914,7 @@ libmodule-implementation-perl	0.09-2
 libmodule-runtime-perl	0.016-2
 libmoo-perl	2.005005-1
 libmoox-aliases-perl	0.001006-2
-libmount1:amd64	2.39.3-9ubuntu6.1
+libmount1:amd64	2.39.3-9ubuntu6.2
 libmouse-perl	2.5.10-1build8
 libmousepad0:amd64	0.6.1-1build2
 libmp3lame0:amd64	3.100-6build1
@@ -980,7 +980,7 @@ libonig5:amd64	6.9.9-1build1
 liboobs-1-5:amd64	3.0.0-4build2
 libopenexr-3-1-30:amd64	3.1.5-5.1build3
 libopengl0:amd64	1.7.0-1build1
-libopenjp2-7:amd64	2.5.0-2ubuntu0.2
+libopenjp2-7:amd64	2.5.0-2ubuntu0.3
 libopenmpt0t64:amd64	0.7.3-1.1build3
 libopus0:amd64	1.4-1build1
 liborc-0.4-0t64:amd64	1:0.4.38-1ubuntu0.1
@@ -1134,7 +1134,7 @@ libsigc++-2.0-0v5:amd64	2.12.1-2
 libsigc++-3.0-0:amd64	3.6.0-2
 libslang2:amd64	2.3.3-3build2
 libsm6:amd64	2:1.2.3-1build3
-libsmartcols1:amd64	2.39.3-9ubuntu6.1
+libsmartcols1:amd64	2.39.3-9ubuntu6.2
 libsmbclient0:amd64	2:4.19.5+dfsg-4ubuntu9
 libsnapd-glib-2-1:amd64	1.64-0ubuntu5
 libsnappy1v5:amd64	1.1.10-1build1
@@ -1255,7 +1255,7 @@ libusb-1.0-0:amd64	2:1.0.27-1
 libusbmuxd6:amd64	2.0.2-4build3
 libutempter0:amd64	1.2.1-3build1
 libuuid-perl	0.31-1build3
-libuuid1:amd64	2.39.3-9ubuntu6.1
+libuuid1:amd64	2.39.3-9ubuntu6.2
 libuutil3linux	2.2.2-0ubuntu9.1
 libuv1t64:amd64	1.48.0-1.1build1
 libv4l-0t64:amd64	1.26.1-4build3
@@ -1402,7 +1402,7 @@ lightdm-gtk-greeter	2.0.9-0ubuntu3
 lightdm-gtk-greeter-settings	1.2.3-0ubuntu1
 lintian	2.117.0ubuntu1.2
 linux-base	4.5ubuntu9
-linux-firmware	20240318.git3b128b60-0ubuntu2.6
+linux-firmware	20240318.git3b128b60-0ubuntu2.7
 linux-generic	6.8.0-51.52
 linux-headers-6.8.0-51	6.8.0-51.52
 linux-headers-6.8.0-51-generic	6.8.0-51.52
@@ -1451,7 +1451,7 @@ mesa-vulkan-drivers:amd64	24.0.9-0ubuntu0.3
 mobile-broadband-provider-info	20230416-1
 modemmanager	1.23.4-0ubuntu2
 mokutil	0.6.0-2build3
-mount	2.39.3-9ubuntu6.1
+mount	2.39.3-9ubuntu6.2
 mousepad	0.6.1-1build2
 mscompress	0.4-10build1
 mtools	4.0.43-1build1
@@ -1623,7 +1623,7 @@ python3.12	3.12.3-1ubuntu0.4
 python3.12-minimal	3.12.3-1ubuntu0.4
 readline-common	8.2-4build1
 reiserfsprogs	1:3.6.27-7.1build1
-rfkill	2.39.3-9ubuntu6.1
+rfkill	2.39.3-9ubuntu6.2
 rhythmbox	3.4.7-2ubuntu6
 rhythmbox-data	3.4.7-2ubuntu6
 rhythmbox-plugin-alternative-toolbar	0.20.4-1
@@ -1730,8 +1730,8 @@ usb.ids	2024.03.18-1
 usbmuxd	1.1.1-5~exp3ubuntu2
 usbutils	1:017-3build1
 user-setup	1.95ubuntu1
-util-linux	2.39.3-9ubuntu6.1
-uuid-runtime	2.39.3-9ubuntu6.1
+util-linux	2.39.3-9ubuntu6.2
+uuid-runtime	2.39.3-9ubuntu6.2
 va-driver-all:amd64	2.20.0-2build1
 vdpau-driver-all:amd64	1.5-2build1
 vim-common	2:9.1.0016-1ubuntu7.6
@@ -1799,7 +1799,7 @@ xfonts-base	1:1.0.5+nmu1
 xfonts-encodings	1:1.0.5-0ubuntu2
 xfonts-scalable	1:1.0.3-1.3
 xfonts-utils	1:7.7+6build3
-xfsprogs	6.6.0-1ubuntu2
+xfsprogs	6.6.0-1ubuntu2.1
 xfwm4	4.18.0-1build3
 xiccd	0.3.0-2build2
 xinit	1.4.1-0ubuntu5
@@ -1851,10 +1851,10 @@ snap:core22	stable	1722
 snap:snapd	stable	23545
 snap:firefox	stable/ubuntu-24.04	5647
 snap:firmware-updater	stable/ubuntu-24.04	147
-snap:gnome-42-2204	stable/ubuntu-24.04	176
+snap:gnome-42-2204	stable/ubuntu-24.04	202
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
 snap:snap-store	stable/ubuntu-24.04	1248
 snap:snapd-desktop-integration	stable/ubuntu-24.04	253
-snap:thunderbird	stable/ubuntu-24.04	609
+snap:thunderbird	stable/ubuntu-24.04	631
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	237
