@@ -27,9 +27,9 @@ base-passwd	3.6.3build1
 bash	5.2.21-2ubuntu4
 bash-completion	1:2.11-8
 bc	1.07.1-3ubuntu4
-bind9-dnsutils	1:9.18.30-0ubuntu0.24.04.1
-bind9-host	1:9.18.30-0ubuntu0.24.04.1
-bind9-libs:amd64	1:9.18.30-0ubuntu0.24.04.1
+bind9-dnsutils	1:9.18.30-0ubuntu0.24.04.2
+bind9-host	1:9.18.30-0ubuntu0.24.04.2
+bind9-libs:amd64	1:9.18.30-0ubuntu0.24.04.2
 bluez	5.72-0ubuntu5
 bluez-cups	5.72-0ubuntu5
 bolt	0.9.7-1
@@ -655,7 +655,7 @@ libnotify4:amd64	0.8.3-1build2
 libnpth0t64:amd64	1.6-3.1build1
 libnspr4:amd64	2:4.35-1.1build1
 libnss-mdns:amd64	0.15.1-4build1
-libnss-systemd:amd64	255.4-1ubuntu8.4
+libnss-systemd:amd64	255.4-1ubuntu8.5
 libnss3:amd64	2:3.98-1build1
 libntfs-3g89t64:amd64	1:2022.10.3-1.2ubuntu3
 libnuma1:amd64	2.0.18-1build1
@@ -674,7 +674,7 @@ libpam-gnome-keyring:amd64	46.1-2build1
 libpam-modules:amd64	1.5.3-5ubuntu5.1
 libpam-modules-bin	1.5.3-5ubuntu5.1
 libpam-runtime	1.5.3-5ubuntu5.1
-libpam-systemd:amd64	255.4-1ubuntu8.4
+libpam-systemd:amd64	255.4-1ubuntu8.5
 libpam0g:amd64	1.5.3-5ubuntu5.1
 libpango-1.0-0:amd64	1.52.1+ds-1build1
 libpangocairo-1.0-0:amd64	1.52.1+ds-1build1
@@ -774,8 +774,8 @@ libstdc++6:amd64	14.2.0-4ubuntu2~24.04
 libstemmer0d:amd64	2.2.0-4build1
 libsvtav1enc1d1:amd64	1.7.0+dfsg-2build1
 libswresample4:amd64	7:6.1.1-3ubuntu5
-libsystemd-shared:amd64	255.4-1ubuntu8.4
-libsystemd0:amd64	255.4-1ubuntu8.4
+libsystemd-shared:amd64	255.4-1ubuntu8.5
+libsystemd0:amd64	255.4-1ubuntu8.5
 libtag1v5:amd64	1.13.1-1build1
 libtag1v5-vanilla:amd64	1.13.1-1build1
 libtalloc2:amd64	2.4.2-1build2
@@ -811,7 +811,7 @@ libtumbler-1-0t64:amd64	4.18.1-1.1build4
 libtwolame0:amd64	0.4.0-2build3
 libu2f-udev	1.1.10-3build3
 libuchardet0:amd64	0.0.8-1build1
-libudev1:amd64	255.4-1ubuntu8.4
+libudev1:amd64	255.4-1ubuntu8.5
 libudisks2-0:amd64	2.10.1-6ubuntu1
 libunistring5:amd64	1.1-2build1.1
 libunwind8:amd64	1.6.2-3build1
@@ -909,7 +909,7 @@ libxklavier16:amd64	5.4-5build2
 libxml-parser-perl	2.47-1build3
 libxml-twig-perl	1:3.52-2
 libxml-xpathengine-perl	0.14-2
-libxml2:amd64	2.9.14+dfsg-1.3ubuntu3
+libxml2:amd64	2.9.14+dfsg-1.3ubuntu3.1
 libxmlb2:amd64	0.3.18-1
 libxmu6:amd64	2:1.1.3-3build2
 libxmuu1:amd64	2:1.1.3-3build2
@@ -1081,7 +1081,7 @@ python3-gdbm:amd64	3.12.3-0ubuntu1
 python3-gi	3.48.2-1
 python3-httplib2	0.20.4-3
 python3-idna	3.6-2ubuntu0.1
-python3-jinja2	3.1.2-1ubuntu1.1
+python3-jinja2	3.1.2-1ubuntu1.2
 python3-json-pointer	2.0-0ubuntu1
 python3-jsonpatch	1.32-3
 python3-jsonschema	4.10.3-2ubuntu1
@@ -1151,12 +1151,12 @@ strace	6.8-0ubuntu2
 sudo	1.9.15p5-3ubuntu5
 synaptic	0.91.3build4
 sysstat	12.6.1-2
-systemd	255.4-1ubuntu8.4
-systemd-dev	255.4-1ubuntu8.4
+systemd	255.4-1ubuntu8.5
+systemd-dev	255.4-1ubuntu8.5
 systemd-hwe-hwdb	255.1.4
-systemd-resolved	255.4-1ubuntu8.4
-systemd-sysv	255.4-1ubuntu8.4
-systemd-timesyncd	255.4-1ubuntu8.4
+systemd-resolved	255.4-1ubuntu8.5
+systemd-sysv	255.4-1ubuntu8.5
+systemd-timesyncd	255.4-1ubuntu8.5
 sysvinit-utils	3.08-6ubuntu3
 tar	1.35+dfsg-3build1
 tcl	8.6.14build1
@@ -1174,7 +1174,7 @@ tpm-udev	0.6ubuntu1
 trace-cmd	3.2-1ubuntu2
 tumbler:amd64	4.18.1-1.1build4
 tumbler-common	4.18.1-1.1build4
-tzdata	2024a-3ubuntu1.1
+tzdata	2024b-0ubuntu0.24.04
 ubuntu-advantage-desktop-daemon	1.11ubuntu0.1
 ubuntu-drivers-common	1:0.9.7.6ubuntu3.1
 ubuntu-kernel-accessories	1.539.1
@@ -1186,7 +1186,7 @@ ubuntu-pro-client-l10n	34~24.04
 ubuntu-release-upgrader-core	1:24.04.23
 ubuntu-standard	1.539.1
 ucf	3.0043+nmu1
-udev	255.4-1ubuntu8.4
+udev	255.4-1ubuntu8.5
 udisks2	2.10.1-6ubuntu1
 ufw	0.36.2-6
 unattended-upgrades	2.9.1+nmu4ubuntu1
