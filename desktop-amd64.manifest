@@ -1540,11 +1540,11 @@ psmisc	23.7-1build1
 publicsuffix	20231001.0357-0.1
 pulseaudio	1:16.1+dfsg1-2ubuntu10.1
 pulseaudio-utils	1:16.1+dfsg1-2ubuntu10.1
-python-apt-common	2.7.7ubuntu3
+python-apt-common	2.7.7ubuntu4
 python-babel-localedata	2.10.3-3build1
 python3	3.12.3-0ubuntu2
 python3-apport	2.28.1-0ubuntu3.3
-python3-apt	2.7.7ubuntu3
+python3-apt	2.7.7ubuntu4
 python3-aptdaemon	1.1.1+bzr982-0ubuntu44
 python3-aptdaemon.gtk3widgets	1.1.1+bzr982-0ubuntu44
 python3-attr	23.2.0-2
@@ -1570,7 +1570,7 @@ python3-debian	0.1.49ubuntu2
 python3-defer	1.0.6-2.1ubuntu1
 python3-distro	1.9.0-1
 python3-distro-info	1.7build1
-python3-distupgrade	1:24.04.23
+python3-distupgrade	1:24.04.26
 python3-gdbm:amd64	3.12.3-0ubuntu1
 python3-gi	3.48.2-1
 python3-gi-cairo	3.48.2-1
@@ -1708,8 +1708,8 @@ ubuntu-minimal	1.539.1
 ubuntu-mono	24.04-0ubuntu1
 ubuntu-pro-client	34~24.04
 ubuntu-pro-client-l10n	34~24.04
-ubuntu-release-upgrader-core	1:24.04.23
-ubuntu-release-upgrader-gtk	1:24.04.23
+ubuntu-release-upgrader-core	1:24.04.26
+ubuntu-release-upgrader-gtk	1:24.04.26
 ubuntu-standard	1.539.1
 ucf	3.0043+nmu1
 udev	255.4-1ubuntu8.5
@@ -1845,12 +1845,12 @@ zenity-common	4.0.1-1build3
 zfs-initramfs	2.2.2-0ubuntu9.1
 zfs-zed	2.2.2-0ubuntu9.1
 zfsutils-linux	2.2.2-0ubuntu9.1
-zip	3.0-13ubuntu0.1
+zip	3.0-13ubuntu0.2
 zlib1g:amd64	1:1.3.dfsg-3.1ubuntu2.1
 zstd	1.5.5+dfsg2-2build1.1
 snap:core22	stable	1748
 snap:snapd	stable	23545
-snap:firefox	stable/ubuntu-24.04	5647
+snap:firefox	stable/ubuntu-24.04	5701
 snap:firmware-updater	stable/ubuntu-24.04	147
 snap:gnome-42-2204	stable/ubuntu-24.04	202
 snap:bare	stable	5
