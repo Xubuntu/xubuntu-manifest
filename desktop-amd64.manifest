@@ -87,7 +87,7 @@ cryptsetup	2:2.7.0-1ubuntu4.1
 cryptsetup-bin	2:2.7.0-1ubuntu4.1
 cryptsetup-initramfs	2:2.7.0-1ubuntu4.1
 cups	2.4.7-1.2ubuntu7.3
-cups-browsed	2.0.0-0ubuntu10.2
+cups-browsed	2.0.0-0ubuntu10.3
 cups-bsd	2.4.7-1.2ubuntu7.3
 cups-client	2.4.7-1.2ubuntu7.3
 cups-common	2.4.7-1.2ubuntu7.3
@@ -1851,7 +1851,7 @@ zstd	1.5.5+dfsg2-2build1.1
 snap:core22	stable	1748
 snap:snapd	stable	23545
 snap:firefox	stable/ubuntu-24.04	5701
-snap:firmware-updater	stable/ubuntu-24.04	147
+snap:firmware-updater	stable/ubuntu-24.04	167
 snap:gnome-42-2204	stable/ubuntu-24.04	202
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
