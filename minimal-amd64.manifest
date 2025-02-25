@@ -229,7 +229,7 @@ initramfs-tools-core	0.142ubuntu25.4
 inputattach	1:1.8.1-2build1
 install-info	7.1-3build2
 intel-media-va-driver:amd64	24.1.0+dfsg1-1
-intel-microcode	3.20241112.0ubuntu0.24.04.1
+intel-microcode	3.20250211.0ubuntu0.24.04.1
 ipp-usb	0.9.24-0ubuntu3.2
 iproute2	6.1.0-1ubuntu6
 iptables	1.8.10-3ubuntu2
@@ -365,8 +365,8 @@ libcanberra-gtk3-0t64:amd64	0.30-10ubuntu10
 libcanberra-gtk3-module:amd64	0.30-10ubuntu10
 libcanberra0t64:amd64	0.30-10ubuntu10
 libcap-ng0:amd64	0.8.4-2build2
-libcap2:amd64	1:2.66-5ubuntu2.1
-libcap2-bin	1:2.66-5ubuntu2.1
+libcap2:amd64	1:2.66-5ubuntu2.2
+libcap2-bin	1:2.66-5ubuntu2.2
 libcbor0.10:amd64	0.10.2-1.2ubuntu2
 libcdparanoia0:amd64	3.10.2+debian-14build3
 libclang-cpp18	1:18.1.3-1ubuntu1
@@ -669,7 +669,7 @@ libopus0:amd64	1.4-1build1
 liborc-0.4-0t64:amd64	1:0.4.38-1ubuntu0.1
 libp11-kit0:amd64	0.25.3-4ubuntu2.1
 libpackagekit-glib2-18:amd64	1.2.8-2ubuntu1.1
-libpam-cap:amd64	1:2.66-5ubuntu2.1
+libpam-cap:amd64	1:2.66-5ubuntu2.2
 libpam-gnome-keyring:amd64	46.1-2build1
 libpam-modules:amd64	1.5.3-5ubuntu5.1
 libpam-modules-bin	1.5.3-5ubuntu5.1
@@ -949,12 +949,12 @@ linux-hwe-6.11-headers-6.11.0-17	6.11.0-17.17~24.04.2
 linux-hwe-6.11-tools-6.11.0-17	6.11.0-17.17~24.04.2
 linux-image-6.11.0-17-generic	6.11.0-17.17~24.04.2
 linux-image-generic-hwe-24.04	6.11.0-17.17~24.04.2+2
-linux-libc-dev:amd64	6.8.0-53.55
+linux-libc-dev:amd64	6.8.0-54.56
 linux-modules-6.11.0-17-generic	6.11.0-17.17~24.04.2
 linux-modules-extra-6.11.0-17-generic	6.11.0-17.17~24.04.2
 linux-sound-base	1.0.25+dfsg-0ubuntu7
 linux-tools-6.11.0-17-generic	6.11.0-17.17~24.04.2
-linux-tools-common	6.8.0-53.55
+linux-tools-common	6.8.0-54.56
 localechooser-data	2.89ubuntu6
 locales	2.39-0ubuntu8.4
 login	1:4.13+dfsg1-4ubuntu3.2

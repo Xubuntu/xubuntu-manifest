@@ -325,7 +325,7 @@ initramfs-tools-core	0.142ubuntu25.4
 inputattach	1:1.8.1-2build1
 install-info	7.1-3build2
 intel-media-va-driver:amd64	24.1.0+dfsg1-1
-intel-microcode	3.20241112.0ubuntu0.24.04.1
+intel-microcode	3.20250211.0ubuntu0.24.04.1
 intltool-debian	0.35.0+20060710.6
 inxi	3.3.34-1-1
 ipp-usb	0.9.24-0ubuntu3.2
@@ -503,8 +503,8 @@ libcanberra-gtk3-0t64:amd64	0.30-10ubuntu10
 libcanberra-gtk3-module:amd64	0.30-10ubuntu10
 libcanberra0t64:amd64	0.30-10ubuntu10
 libcap-ng0:amd64	0.8.4-2build2
-libcap2:amd64	1:2.66-5ubuntu2.1
-libcap2-bin	1:2.66-5ubuntu2.1
+libcap2:amd64	1:2.66-5ubuntu2.2
+libcap2-bin	1:2.66-5ubuntu2.2
 libcapture-tiny-perl	0.48-2
 libcbor0.10:amd64	0.10.2-1.2ubuntu2
 libcc1-0:amd64	14.2.0-4ubuntu2~24.04
@@ -991,7 +991,7 @@ libpackage-stash-perl	0.40-1
 libpackage-stash-xs-perl:amd64	0.30-1build4
 libpackagekit-glib2-18:amd64	1.2.8-2ubuntu1.1
 libpagemaker-0.0-0:amd64	0.0.4-1build4
-libpam-cap:amd64	1:2.66-5ubuntu2.1
+libpam-cap:amd64	1:2.66-5ubuntu2.2
 libpam-gnome-keyring:amd64	46.1-2build1
 libpam-modules:amd64	1.5.3-5ubuntu5.1
 libpam-modules-bin	1.5.3-5ubuntu5.1
@@ -1410,12 +1410,12 @@ linux-hwe-6.11-headers-6.11.0-17	6.11.0-17.17~24.04.2
 linux-hwe-6.11-tools-6.11.0-17	6.11.0-17.17~24.04.2
 linux-image-6.11.0-17-generic	6.11.0-17.17~24.04.2
 linux-image-generic-hwe-24.04	6.11.0-17.17~24.04.2+2
-linux-libc-dev:amd64	6.8.0-53.55
+linux-libc-dev:amd64	6.8.0-54.56
 linux-modules-6.11.0-17-generic	6.11.0-17.17~24.04.2
 linux-modules-extra-6.11.0-17-generic	6.11.0-17.17~24.04.2
 linux-sound-base	1.0.25+dfsg-0ubuntu7
 linux-tools-6.11.0-17-generic	6.11.0-17.17~24.04.2
-linux-tools-common	6.8.0-53.55
+linux-tools-common	6.8.0-54.56
 lm-sensors	1:3.6.0-9build1
 localechooser-data	2.89ubuntu6
 locales	2.39-0ubuntu8.4
