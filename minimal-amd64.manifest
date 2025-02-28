@@ -45,7 +45,7 @@ ca-certificates	20240203
 casper	1.498
 cifs-utils	2:7.0-2build1
 cloud-guest-utils	0.33-1
-cloud-init	24.4-0ubuntu1~24.04.2
+cloud-init	24.4.1-0ubuntu0~24.04.1
 colord	1.4.7-1build2
 colord-data	1.4.7-1build2
 command-not-found	23.04.0
@@ -59,9 +59,9 @@ cpp-13-x86-64-linux-gnu	13.3.0-6ubuntu2~24.04
 cpp-x86-64-linux-gnu	4:13.2.0-7ubuntu1
 cron	3.0pl1-184ubuntu2
 cron-daemon-common	3.0pl1-184ubuntu2
-cryptsetup	2:2.7.0-1ubuntu4.1
-cryptsetup-bin	2:2.7.0-1ubuntu4.1
-cryptsetup-initramfs	2:2.7.0-1ubuntu4.1
+cryptsetup	2:2.7.0-1ubuntu4.2
+cryptsetup-bin	2:2.7.0-1ubuntu4.2
+cryptsetup-initramfs	2:2.7.0-1ubuntu4.2
 cups	2.4.7-1.2ubuntu7.3
 cups-browsed	2.0.0-0ubuntu10.3
 cups-bsd	2.4.7-1.2ubuntu7.3
@@ -162,7 +162,7 @@ gir1.2-gtk-3.0:amd64	3.24.41-4ubuntu1.2
 gir1.2-handy-1:amd64	1.8.3-1build2
 gir1.2-harfbuzz-0.0:amd64	8.3.0-2build2
 gir1.2-libxfce4util-1.0:amd64	4.18.1-2build3
-gir1.2-packagekitglib-1.0	1.2.8-2ubuntu1.1
+gir1.2-packagekitglib-1.0	1.2.8-2ubuntu1.2
 gir1.2-pango-1.0:amd64	1.52.1+ds-1build1
 gir1.2-xfconf-0:amd64	4.18.1-1build3
 glib-networking:amd64	2.80.0-1build1
@@ -378,7 +378,7 @@ libcolorhug2:amd64	1.4.7-1build2
 libcom-err2:amd64	1.47.0-2.4~exp1ubuntu4.1
 libcrypt-dev:amd64	1:4.4.36-4build1
 libcrypt1:amd64	1:4.4.36-4build1
-libcryptsetup12:amd64	2:2.7.0-1ubuntu4.1
+libcryptsetup12:amd64	2:2.7.0-1ubuntu4.2
 libcups2t64:amd64	2.4.7-1.2ubuntu7.3
 libcupsfilters2-common	2.0.0-0ubuntu7.1
 libcupsfilters2t64:amd64	2.0.0-0ubuntu7.1
@@ -558,8 +558,8 @@ libijs-0.35:amd64	0.35-15.1build1
 libimagequant0:amd64	2.18.0-1build1
 libimobiledevice6:amd64	1.3.0-8.1build3
 libinih1:amd64	55-1ubuntu2
-libinput-bin	1.25.0-1ubuntu2
-libinput10:amd64	1.25.0-1ubuntu2
+libinput-bin	1.25.0-1ubuntu3
+libinput10:amd64	1.25.0-1ubuntu3
 libio-html-perl	1.004-3
 libio-socket-ssl-perl	2.085-1
 libio-stringy-perl	2.111-3
@@ -668,7 +668,7 @@ libopenjp2-7:amd64	2.5.0-2ubuntu0.3
 libopus0:amd64	1.4-1build1
 liborc-0.4-0t64:amd64	1:0.4.38-1ubuntu0.1
 libp11-kit0:amd64	0.25.3-4ubuntu2.1
-libpackagekit-glib2-18:amd64	1.2.8-2ubuntu1.1
+libpackagekit-glib2-18:amd64	1.2.8-2ubuntu1.2
 libpam-cap:amd64	1:2.66-5ubuntu2.2
 libpam-gnome-keyring:amd64	46.1-2build1
 libpam-modules:amd64	1.5.3-5ubuntu5.1
@@ -1006,8 +1006,8 @@ openssl	3.0.13-0ubuntu3.5
 os-prober	1.81ubuntu4
 p11-kit	0.25.3-4ubuntu2.1
 p11-kit-modules:amd64	0.25.3-4ubuntu2.1
-packagekit	1.2.8-2ubuntu1.1
-packagekit-tools	1.2.8-2ubuntu1.1
+packagekit	1.2.8-2ubuntu1.2
+packagekit-tools	1.2.8-2ubuntu1.2
 parted	3.6-4build1
 passwd	1:4.13+dfsg1-4ubuntu3.2
 pavucontrol	5.0-2build3
