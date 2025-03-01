@@ -228,7 +228,7 @@ gir1.2-libxfce4ui-2.0:amd64	4.18.4-1build4
 gir1.2-libxfce4util-1.0:amd64	4.18.1-2build3
 gir1.2-nm-1.0:amd64	1.46.0-1ubuntu2.2
 gir1.2-notify-0.7:amd64	0.8.3-1build2
-gir1.2-packagekitglib-1.0	1.2.8-2ubuntu1.1
+gir1.2-packagekitglib-1.0	1.2.8-2ubuntu1.2
 gir1.2-pango-1.0:amd64	1.52.1+ds-1build1
 gir1.2-peas-1.0:amd64	1.36.0-3build4
 gir1.2-polkit-1.0	124-2ubuntu1.24.04.2
@@ -989,7 +989,7 @@ liborcus-parser-0.18-0:amd64	0.19.2-3build3
 libp11-kit0:amd64	0.25.3-4ubuntu2.1
 libpackage-stash-perl	0.40-1
 libpackage-stash-xs-perl:amd64	0.30-1build4
-libpackagekit-glib2-18:amd64	1.2.8-2ubuntu1.1
+libpackagekit-glib2-18:amd64	1.2.8-2ubuntu1.2
 libpagemaker-0.0-0:amd64	0.0.4-1build4
 libpam-cap:amd64	1:2.66-5ubuntu2.2
 libpam-gnome-keyring:amd64	46.1-2build1
@@ -1485,8 +1485,8 @@ openssl	3.0.13-0ubuntu3.5
 os-prober	1.81ubuntu4
 p11-kit	0.25.3-4ubuntu2.1
 p11-kit-modules:amd64	0.25.3-4ubuntu2.1
-packagekit	1.2.8-2ubuntu1.1
-packagekit-tools	1.2.8-2ubuntu1.1
+packagekit	1.2.8-2ubuntu1.2
+packagekit-tools	1.2.8-2ubuntu1.2
 parole	4.18.1-1build2
 parted	3.6-4build1
 passwd	1:4.13+dfsg1-4ubuntu3.2
