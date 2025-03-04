@@ -248,7 +248,7 @@ klibc-utils	2.0.13-4ubuntu0.1
 kmod	31+20240202-2ubuntu7.1
 kpartx	0.9.4-5ubuntu8
 kpartx-boot	0.9.4-5ubuntu8
-krb5-locales	1.20.1-6ubuntu2.4
+krb5-locales	1.20.1-6ubuntu2.5
 language-pack-bn	1:24.04+20250130
 language-pack-bn-base	1:24.04+20250130
 language-pack-de	1:24.04+20250130
@@ -500,7 +500,7 @@ libgs-common	10.02.1~dfsg1-0ubuntu7.4
 libgs10:amd64	10.02.1~dfsg1-0ubuntu7.4
 libgs10-common	10.02.1~dfsg1-0ubuntu7.4
 libgsm1:amd64	1.0.22-1build1
-libgssapi-krb5-2:amd64	1.20.1-6ubuntu2.4
+libgssapi-krb5-2:amd64	1.20.1-6ubuntu2.5
 libgstreamer-gl1.0-0:amd64	1.24.2-1ubuntu0.2
 libgstreamer-plugins-base1.0-0:amd64	1.24.2-1ubuntu0.2
 libgstreamer-plugins-good1.0-0:amd64	1.24.2-1ubuntu1.1
@@ -581,13 +581,13 @@ libjson-c5:amd64	0.17-1build1
 libjson-glib-1.0-0:amd64	1.8.0-2build2
 libjson-glib-1.0-common	1.8.0-2build2
 libjxl0.7:amd64	0.7.0-10.2ubuntu6
-libk5crypto3:amd64	1.20.1-6ubuntu2.4
+libk5crypto3:amd64	1.20.1-6ubuntu2.5
 libkeybinder-3.0-0:amd64	0.3.2-1.1build2
 libkeyutils1:amd64	1.6.3-3build1
 libklibc:amd64	2.0.13-4ubuntu0.1
 libkmod2:amd64	31+20240202-2ubuntu7.1
-libkrb5-3:amd64	1.20.1-6ubuntu2.4
-libkrb5support0:amd64	1.20.1-6ubuntu2.4
+libkrb5-3:amd64	1.20.1-6ubuntu2.5
+libkrb5support0:amd64	1.20.1-6ubuntu2.5
 libksba8:amd64	1.6.6-1build1
 liblcms2-2:amd64	2.14-2build1
 liblcms2-utils	2.14-2build1
@@ -1213,7 +1213,7 @@ whiptail	0.52.24-2ubuntu2
 wireless-regdb	2024.07.04-0ubuntu1~24.04.1
 wireless-tools	30~pre9-16.1ubuntu2
 wireplumber	0.4.17-1ubuntu4
-wpasupplicant	2:2.10-21ubuntu0.1
+wpasupplicant	2:2.10-21ubuntu0.2
 x11-apps	7.7+11build3
 x11-common	1:7.7+23ubuntu3
 x11-session-utils	7.7+6build2
