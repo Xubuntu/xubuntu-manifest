@@ -30,8 +30,8 @@ bc	1.07.1-3ubuntu4
 bind9-dnsutils	1:9.18.30-0ubuntu0.24.04.2
 bind9-host	1:9.18.30-0ubuntu0.24.04.2
 bind9-libs:amd64	1:9.18.30-0ubuntu0.24.04.2
-bluez	5.72-0ubuntu5
-bluez-cups	5.72-0ubuntu5
+bluez	5.72-0ubuntu5.1
+bluez-cups	5.72-0ubuntu5.1
 bolt	0.9.7-1
 bpfcc-tools	0.29.1+ds-1ubuntu7
 bpftrace	0.20.2-1ubuntu4.3
@@ -341,7 +341,7 @@ libblockdev-part3:amd64	3.1.1-1
 libblockdev-swap3:amd64	3.1.1-1
 libblockdev-utils3:amd64	3.1.1-1
 libblockdev3:amd64	3.1.1-1
-libbluetooth3:amd64	5.72-0ubuntu5
+libbluetooth3:amd64	5.72-0ubuntu5.1
 libbpf1:amd64	1:1.3.0-2build2
 libbpfcc:amd64	0.29.1+ds-1ubuntu7
 libbrotli1:amd64	1.1.0-2build2
@@ -941,7 +941,7 @@ libzvbi0t64:amd64	0.2.42-2
 lightdm	1.30.0-0ubuntu14
 lightdm-gtk-greeter	2.0.9-0ubuntu3
 linux-base	4.5ubuntu9
-linux-firmware	20240318.git3b128b60-0ubuntu2.9
+linux-firmware	20240318.git3b128b60-0ubuntu2.10
 linux-generic-hwe-24.04	6.11.0-19.19~24.04.1
 linux-headers-6.11.0-19-generic	6.11.0-19.19~24.04.1
 linux-headers-generic-hwe-24.04	6.11.0-19.19~24.04.1
@@ -1082,7 +1082,7 @@ python3-gdbm:amd64	3.12.3-0ubuntu1
 python3-gi	3.48.2-1
 python3-httplib2	0.20.4-3
 python3-idna	3.6-2ubuntu0.1
-python3-jinja2	3.1.2-1ubuntu1.2
+python3-jinja2	3.1.2-1ubuntu1.3
 python3-json-pointer	2.0-0ubuntu1
 python3-jsonpatch	1.32-3
 python3-jsonschema	4.10.3-2ubuntu1
