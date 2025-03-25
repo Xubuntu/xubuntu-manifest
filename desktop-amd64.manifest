@@ -576,8 +576,8 @@ libdbusmenu-gtk3-4:amd64	18.10.20180917~bzr492+repack1-3.1ubuntu5
 libdconf1:amd64	0.40.0-4build2
 libde265-0:amd64	1.0.15-1build3
 libdebconfclient0:amd64	0.271ubuntu3
-libdebuginfod-common	0.190-1.1build4.1
-libdebuginfod1t64:amd64	0.190-1.1build4.1
+libdebuginfod-common	0.190-1.1ubuntu0.1
+libdebuginfod1t64:amd64	0.190-1.1ubuntu0.1
 libdecor-0-0:amd64	0.2.2-1build2
 libdecor-0-plugin-1-gtk:amd64	0.2.2-1build2
 libdeflate0:amd64	1.19-1build1.1
@@ -600,7 +600,7 @@ libdrm-radeon1:amd64	2.4.122-1~ubuntu0.24.04.1
 libdrm2:amd64	2.4.122-1~ubuntu0.24.04.1
 libduktape207:amd64	2.7.0+tests-0ubuntu3
 libdv4t64:amd64	1.0.0-17.1build1
-libdw1t64:amd64	0.190-1.1build4.1
+libdw1t64:amd64	0.190-1.1ubuntu0.1
 libdynaloader-functions-perl	0.003-3
 libe-book-0.1-1:amd64	0.1.3-2build6
 libeatmydata1:amd64	131-1ubuntu1
@@ -609,7 +609,7 @@ libefiboot1t64:amd64	38-3.1build1
 libefivar1t64:amd64	38-3.1build1
 libegl-mesa0:amd64	24.2.8-1ubuntu1~24.04.1
 libegl1:amd64	1.7.0-1build1
-libelf1t64:amd64	0.190-1.1build4.1
+libelf1t64:amd64	0.190-1.1ubuntu0.1
 libemail-address-xs-perl	1.05-1build4
 libenchant-2-2:amd64	2.3.3-2build2
 libencode-locale-perl	1.05-3
@@ -1410,12 +1410,12 @@ linux-hwe-6.11-headers-6.11.0-19	6.11.0-19.19~24.04.1
 linux-hwe-6.11-tools-6.11.0-19	6.11.0-19.19~24.04.1
 linux-image-6.11.0-19-generic	6.11.0-19.19~24.04.1
 linux-image-generic-hwe-24.04	6.11.0-19.19~24.04.1
-linux-libc-dev:amd64	6.8.0-55.57
+linux-libc-dev:amd64	6.8.0-56.58
 linux-modules-6.11.0-19-generic	6.11.0-19.19~24.04.1
 linux-modules-extra-6.11.0-19-generic	6.11.0-19.19~24.04.1
 linux-sound-base	1.0.25+dfsg-0ubuntu7
 linux-tools-6.11.0-19-generic	6.11.0-19.19~24.04.1
-linux-tools-common	6.8.0-55.57
+linux-tools-common	6.8.0-56.58
 lm-sensors	1:3.6.0-9build1
 localechooser-data	2.89ubuntu6
 locales	2.39-0ubuntu8.4
