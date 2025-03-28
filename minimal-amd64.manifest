@@ -152,7 +152,7 @@ gcr	3.41.2-1build3
 gcr4	4.2.0-5
 gdisk	1.0.10-1build1
 gettext-base	0.21-14ubuntu2
-ghostscript	10.02.1~dfsg1-0ubuntu7.4
+ghostscript	10.02.1~dfsg1-0ubuntu7.5
 gir1.2-atk-1.0:amd64	2.52.0-1build1
 gir1.2-freedesktop:amd64	1.80.1-1
 gir1.2-gdkpixbuf-2.0:amd64	2.42.10+dfsg-3ubuntu3.1
@@ -496,9 +496,9 @@ libgphoto2-port12t64:amd64	2.5.31-2.1build2
 libgpm2:amd64	1.20.7-11
 libgraphene-1.0-0:amd64	1.10.8-3build2
 libgraphite2-3:amd64	1.3.14-2build1
-libgs-common	10.02.1~dfsg1-0ubuntu7.4
-libgs10:amd64	10.02.1~dfsg1-0ubuntu7.4
-libgs10-common	10.02.1~dfsg1-0ubuntu7.4
+libgs-common	10.02.1~dfsg1-0ubuntu7.5
+libgs10:amd64	10.02.1~dfsg1-0ubuntu7.5
+libgs10-common	10.02.1~dfsg1-0ubuntu7.5
 libgsm1:amd64	1.0.22-1build1
 libgssapi-krb5-2:amd64	1.20.1-6ubuntu2.5
 libgstreamer-gl1.0-0:amd64	1.24.2-1ubuntu0.2
@@ -508,10 +508,10 @@ libgstreamer1.0-0:amd64	1.24.2-1ubuntu0.1
 libgtk-3-0t64:amd64	3.24.41-4ubuntu1.2
 libgtk-3-bin	3.24.41-4ubuntu1.2
 libgtk-3-common	3.24.41-4ubuntu1.2
-libgtk-4-1:amd64	4.14.2+ds-1ubuntu1
-libgtk-4-bin	4.14.2+ds-1ubuntu1
-libgtk-4-common	4.14.2+ds-1ubuntu1
-libgtk-4-media-gstreamer	4.14.2+ds-1ubuntu1
+libgtk-4-1:amd64	4.14.2+ds-1ubuntu2
+libgtk-4-bin	4.14.2+ds-1ubuntu2
+libgtk-4-common	4.14.2+ds-1ubuntu2
+libgtk-4-media-gstreamer	4.14.2+ds-1ubuntu2
 libgtk-layer-shell0	0.8.2-1build2
 libgtk2.0-0t64:amd64	2.24.33-4ubuntu1.1
 libgtk2.0-bin	2.24.33-4ubuntu1.1
@@ -1001,7 +1001,7 @@ numix-gtk-theme	2.6.7-7
 numlockx	1.2-9build1
 ocl-icd-libopencl1:amd64	2.3.2-1build1
 openprinting-ppds	20230202-1
-openssh-client	1:9.6p1-3ubuntu13.8
+openssh-client	1:9.6p1-3ubuntu13.9
 openssl	3.0.13-0ubuntu3.5
 os-prober	1.81ubuntu4
 p11-kit	0.25.3-4ubuntu2.1
@@ -1175,7 +1175,7 @@ tpm-udev	0.6ubuntu1
 trace-cmd	3.2-1ubuntu2
 tumbler:amd64	4.18.1-1.1build4
 tumbler-common	4.18.1-1.1build4
-tzdata	2024b-0ubuntu0.24.04.1
+tzdata	2025a-0ubuntu0.24.04
 ubuntu-advantage-desktop-daemon	1.11ubuntu0.1
 ubuntu-drivers-common	1:0.9.7.6ubuntu3.2
 ubuntu-kernel-accessories	1.539.2
@@ -1294,6 +1294,6 @@ zfsutils-linux	2.2.2-0ubuntu9.1
 zip	3.0-13ubuntu0.2
 zlib1g:amd64	1:1.3.dfsg-3.1ubuntu2.1
 zstd	1.5.5+dfsg2-2build1.1
-snap:core22	stable	1748
+snap:core22	stable	1802
 snap:snapd	stable	23771
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	237
