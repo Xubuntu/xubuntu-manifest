@@ -1205,8 +1205,8 @@ util-linux	2.39.3-9ubuntu6.2
 uuid-runtime	2.39.3-9ubuntu6.2
 va-driver-all:amd64	2.20.0-2build1
 vdpau-driver-all:amd64	1.5-2build1
-vim-common	2:9.1.0016-1ubuntu7.6
-vim-tiny	2:9.1.0016-1ubuntu7.6
+vim-common	2:9.1.0016-1ubuntu7.7
+vim-tiny	2:9.1.0016-1ubuntu7.7
 wamerican	2020.12.07-2
 wget	1.21.4-1ubuntu4.1
 whiptail	0.52.24-2ubuntu2
@@ -1261,13 +1261,13 @@ xkb-data	2.41-2ubuntu1.1
 xml-core	0.19
 xorg	1:7.7+23ubuntu3
 xorg-docs-core	1:1.7.1-1.2
-xserver-common	2:21.1.12-1ubuntu1.2
+xserver-common	2:21.1.12-1ubuntu1.3
 xserver-xorg	1:7.7+23ubuntu3
-xserver-xorg-core	2:21.1.12-1ubuntu1.2
+xserver-xorg-core	2:21.1.12-1ubuntu1.3
 xserver-xorg-input-all	1:7.7+23ubuntu3
 xserver-xorg-input-libinput	1.4.0-1build1
 xserver-xorg-input-wacom	1:1.2.0-1ubuntu2
-xserver-xorg-legacy	2:21.1.12-1ubuntu1.2
+xserver-xorg-legacy	2:21.1.12-1ubuntu1.3
 xserver-xorg-video-all	1:7.7+23ubuntu3
 xserver-xorg-video-amdgpu	23.0.0-1build1
 xserver-xorg-video-ati	1:22.0.0-1build1
@@ -1284,7 +1284,7 @@ xubuntu-default-settings	24.04.4
 xubuntu-desktop-minimal	2.262
 xubuntu-live-settings	24.04.4
 xubuntu-wallpapers	24.04.1
-xxd	2:9.1.0016-1ubuntu7.6
+xxd	2:9.1.0016-1ubuntu7.7
 xz-utils	5.6.1+really5.4.5-1build0.1
 yelp	42.2-1build2
 yelp-xsl	42.1-2
