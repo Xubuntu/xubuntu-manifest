@@ -973,7 +973,7 @@ libntfs-3g89t64:amd64	1:2022.10.3-1.2ubuntu3
 libnuma1:amd64	2.0.18-1build1
 libnumber-compare-perl	0.03-3
 libnvme1t64	1.8-3ubuntu1
-libnvpair3linux	2.2.2-0ubuntu9.1
+libnvpair3linux	2.2.2-0ubuntu9.2
 libodfgen-0.1-1:amd64	0.1.8-2build3
 libogg0:amd64	1.3.5-3build1
 libonig5:amd64	6.9.9-1build1
@@ -1256,7 +1256,7 @@ libusbmuxd6:amd64	2.0.2-4build3
 libutempter0:amd64	1.2.1-3build1
 libuuid-perl	0.31-1build3
 libuuid1:amd64	2.39.3-9ubuntu6.2
-libuutil3linux	2.2.2-0ubuntu9.1
+libuutil3linux	2.2.2-0ubuntu9.2
 libuv1t64:amd64	1.48.0-1.1build1
 libv4l-0t64:amd64	1.26.1-4build3
 libv4lconvert0t64:amd64	1.26.1-4build3
@@ -1389,11 +1389,11 @@ libyaml-0-2:amd64	0.2.5-1build1
 libyaml-libyaml-perl	0.89+ds-1build2
 libyaml-tiny-perl	1.74-1
 libyelp0:amd64	42.2-1build2
-libzfs4linux	2.2.2-0ubuntu9.1
+libzfs4linux	2.2.2-0ubuntu9.2
 libzimg2:amd64	3.0.5+ds1-1build1
 libzix-0-0:amd64	0.4.2-2build1
 libzmq5:amd64	4.3.5-1build2
-libzpool5linux	2.2.2-0ubuntu9.1
+libzpool5linux	2.2.2-0ubuntu9.2
 libzstd1:amd64	1.5.5+dfsg2-2build1.1
 libzvbi-common	0.2.42-2
 libzvbi0t64:amd64	0.2.42-2
@@ -1632,7 +1632,7 @@ rhythmbox-plugins	3.4.7-2ubuntu6
 ristretto	0.13.1-1build2
 rpcsvc-proto	1.4.2-0ubuntu7
 rsync	3.2.7-1ubuntu1.2
-rsyslog	8.2312.0-3ubuntu9
+rsyslog	8.2312.0-3ubuntu9.1
 rtkit	0.13-5build1
 samba-libs:amd64	2:4.19.5+dfsg-4ubuntu9
 sane-airscan	0.99.29-0ubuntu4
@@ -1699,7 +1699,7 @@ transmission-gtk	4.0.5-1build5
 tree	2.1.1-2ubuntu3
 tumbler:amd64	4.18.1-1.1build4
 tumbler-common	4.18.1-1.1build4
-tzdata	2025a-0ubuntu0.24.04
+tzdata	2025b-0ubuntu0.24.04
 ubuntu-advantage-desktop-daemon	1.11ubuntu0.1
 ubuntu-drivers-common	1:0.9.7.6ubuntu3.2
 ubuntu-kernel-accessories	1.539.2
@@ -1721,8 +1721,8 @@ unzip	6.0-28ubuntu4.1
 update-inetd	4.53
 update-manager	1:24.04.9
 update-manager-core	1:24.04.9
-update-notifier	3.192.68build3
-update-notifier-common	3.192.68build3
+update-notifier	3.192.68.1
+update-notifier-common	3.192.68.1
 upower	1.90.3-1
 ure	4:24.2.7-0ubuntu0.24.04.3
 usb-modeswitch	2.6.1-3ubuntu3
@@ -1842,9 +1842,9 @@ yelp	42.2-1build2
 yelp-xsl	42.1-2
 zenity	4.0.1-1build3
 zenity-common	4.0.1-1build3
-zfs-initramfs	2.2.2-0ubuntu9.1
-zfs-zed	2.2.2-0ubuntu9.1
-zfsutils-linux	2.2.2-0ubuntu9.1
+zfs-initramfs	2.2.2-0ubuntu9.2
+zfs-zed	2.2.2-0ubuntu9.2
+zfsutils-linux	2.2.2-0ubuntu9.2
 zip	3.0-13ubuntu0.2
 zlib1g:amd64	1:1.3.dfsg-3.1ubuntu2.1
 zstd	1.5.5+dfsg2-2build1.1
@@ -1855,7 +1855,7 @@ snap:firmware-updater	stable/ubuntu-24.04	167
 snap:gnome-42-2204	stable/ubuntu-24.04	202
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
-snap:snap-store	stable/ubuntu-24.04	1248
+snap:snap-store	stable/ubuntu-24.04	1270
 snap:snapd-desktop-integration	stable/ubuntu-24.04	253
 snap:thunderbird	stable/ubuntu-24.04	684
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	237
