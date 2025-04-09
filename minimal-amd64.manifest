@@ -426,7 +426,7 @@ libevdev2:amd64	1.13.1+dfsg-1build1
 libexif12:amd64	0.6.24-1build2
 libexo-2-0:amd64	4.18.0-1build4
 libexo-common	4.18.0-1build4
-libexpat1:amd64	2.6.1-2ubuntu0.2
+libexpat1:amd64	2.6.1-2ubuntu0.3
 libext2fs2t64:amd64	1.47.0-2.4~exp1ubuntu4.1
 libextutils-depends-perl	0.8001-2
 libfastjson4:amd64	1.2304.0-1build1
@@ -701,9 +701,9 @@ libplymouth5:amd64	24.004.60-1ubuntu7.1
 libpng16-16t64:amd64	1.6.43-5build1
 libpolkit-agent-1-0:amd64	124-2ubuntu1.24.04.2
 libpolkit-gobject-1-0:amd64	124-2ubuntu1.24.04.2
-libpoppler-cpp0t64:amd64	24.02.0-1ubuntu9.2
-libpoppler-glib8t64:amd64	24.02.0-1ubuntu9.2
-libpoppler134:amd64	24.02.0-1ubuntu9.2
+libpoppler-cpp0t64:amd64	24.02.0-1ubuntu9.3
+libpoppler-glib8t64:amd64	24.02.0-1ubuntu9.3
+libpoppler134:amd64	24.02.0-1ubuntu9.3
 libpopt0:amd64	1.19+dfsg-1build1
 libppd2:amd64	2:2.0.0-0ubuntu4.1
 libppd2-common	2:2.0.0-0ubuntu4.1
@@ -757,8 +757,8 @@ libsmartcols1:amd64	2.39.3-9ubuntu6.2
 libsnapd-glib-2-1:amd64	1.64-0ubuntu5
 libsnappy1v5:amd64	1.1.10-1build1
 libsndfile1:amd64	1.2.2-1ubuntu5.24.04.1
-libsnmp-base	5.9.4+dfsg-1.1ubuntu3
-libsnmp40t64:amd64	5.9.4+dfsg-1.1ubuntu3
+libsnmp-base	5.9.4+dfsg-1.1ubuntu3.1
+libsnmp40t64:amd64	5.9.4+dfsg-1.1ubuntu3.1
 libsoup-3.0-0:amd64	3.4.4-5ubuntu0.1
 libsoup-3.0-common	3.4.4-5ubuntu0.1
 libsoxr0:amd64	0.1.3-4build3
@@ -940,8 +940,8 @@ libzvbi-common	0.2.42-2
 libzvbi0t64:amd64	0.2.42-2
 lightdm	1.30.0-0ubuntu14
 lightdm-gtk-greeter	2.0.9-0ubuntu3
-linux-base	4.5ubuntu9
-linux-firmware	20240318.git3b128b60-0ubuntu2.10
+linux-base	4.5ubuntu9+24.04.1
+linux-firmware	20240318.git3b128b60-0ubuntu2.11
 linux-generic-hwe-24.04	6.11.0-21.21~24.04.1
 linux-headers-6.11.0-21-generic	6.11.0-21.21~24.04.1
 linux-headers-generic-hwe-24.04	6.11.0-21.21~24.04.1
@@ -1011,7 +1011,7 @@ packagekit-tools	1.2.8-2ubuntu1.2
 parted	3.6-4build1
 passwd	1:4.13+dfsg1-4ubuntu3.2
 pavucontrol	5.0-2build3
-pci.ids	0.0~2024.03.31-1
+pci.ids	0.0~2024.03.31-1ubuntu0.1
 pciutils	1:3.10.0-2build1
 pcmciautils	018-14build1
 perl	5.38.2-3.2build2.1
@@ -1033,7 +1033,7 @@ policykit-1-gnome	0.105-7ubuntu5
 policykit-desktop-privileges	0.22
 polkitd	124-2ubuntu1.24.04.2
 poppler-data	0.4.12-1
-poppler-utils	24.02.0-1ubuntu9.2
+poppler-utils	24.02.0-1ubuntu9.3
 powermgmt-base	1.37
 ppp	2.4.9-1+1.1ubuntu4
 pptp-linux	1.10.0-1build4
@@ -1111,7 +1111,7 @@ python3-requests	2.31.0+dfsg-1ubuntu1
 python3-rich	13.7.1-1
 python3-serial	3.5-2
 python3-six	1.16.0-4
-python3-software-properties	0.99.49.1
+python3-software-properties	0.99.49.2
 python3-systemd	235-1build4
 python3-typing-extensions	4.10.0-1
 python3-tz	2024.1-2
@@ -1142,8 +1142,8 @@ shared-mime-info	2.4-4
 shim-signed	1.58+15.8-0ubuntu1
 shimmer-themes	2.1.3build1
 snapd	2.67.1+24.04
-software-properties-common	0.99.49.1
-software-properties-gtk	0.99.49.1
+software-properties-common	0.99.49.2
+software-properties-gtk	0.99.49.2
 sound-theme-freedesktop	0.8-2ubuntu1
 spice-vdagent	0.22.1-4build3
 squashfs-tools	1:4.6.1-1build1
