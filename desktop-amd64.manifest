@@ -1480,7 +1480,7 @@ onboard	1.4.1-5ubuntu6
 onboard-common	1.4.1-5ubuntu6
 onboard-data	1.4.1-5ubuntu6
 openprinting-ppds	20230202-1
-openssh-client	1:9.6p1-3ubuntu13.9
+openssh-client	1:9.6p1-3ubuntu13.11
 openssl	3.0.13-0ubuntu3.5
 os-prober	1.81ubuntu4
 p11-kit	0.25.3-4ubuntu2.1
