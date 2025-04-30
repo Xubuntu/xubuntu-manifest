@@ -8,7 +8,7 @@ alsa-ucm-conf	1.2.10-1ubuntu5.4
 alsa-utils	1.2.9-1ubuntu5
 amd64-microcode	3.20231019.1ubuntu2.1
 anacron	2.3-39ubuntu2
-apparmor	4.0.1really4.0.1-0ubuntu0.24.04.3
+apparmor	4.0.1really4.0.1-0ubuntu0.24.04.4
 apport	2.28.1-0ubuntu3.5
 apport-core-dump-handler	2.28.1-0ubuntu3.5
 apport-symptoms	0.25
@@ -45,7 +45,7 @@ ca-certificates	20240203
 casper	1.498
 cifs-utils	2:7.0-2build1
 cloud-guest-utils	0.33-1
-cloud-init	24.4.1-0ubuntu0~24.04.2
+cloud-init	24.4.1-0ubuntu0~24.04.3
 colord	1.4.7-1build2
 colord-data	1.4.7-1build2
 command-not-found	23.04.0
@@ -94,7 +94,7 @@ dictionaries-common	1.29.7
 diffutils	1:3.10-1build1
 dirmngr	2.4.4-2ubuntu17.2
 distro-info	1.7build1
-distro-info-data	0.60ubuntu0.2
+distro-info-data	0.60ubuntu0.3
 dmeventd	2:1.02.185-3ubuntu3.2
 dmidecode	3.5-3ubuntu0.1
 dmraid	1.0.0.rc16-12ubuntu2
@@ -144,7 +144,7 @@ foomatic-db-compressed-ppds	20230202-1
 friendly-recovery	0.2.42
 ftp	20230507-2build3
 fuse3	3.14.0-5build1
-fwupd	1.9.28-0ubuntu1~24.04.1
+fwupd	1.9.29-0ubuntu1~24.04.1ubuntu1
 fwupd-signed	1.52+1.4-1
 gcc-13-base:amd64	13.3.0-6ubuntu2~24.04
 gcc-14-base:amd64	14.2.0-4ubuntu2~24.04
@@ -187,13 +187,13 @@ gpgv	2.4.4-2ubuntu17.2
 grep	3.11-4build1
 greybird-gtk-theme	3.23.3-1
 groff-base	1.23.0-3build2
-grub-common	2.12-1ubuntu7.1
-grub-efi-amd64-bin	2.12-1ubuntu7.1
-grub-efi-amd64-signed	1.202.2+2.12-1ubuntu7.1
+grub-common	2.12-1ubuntu7.3
+grub-efi-amd64-bin	2.12-1ubuntu7.3
+grub-efi-amd64-signed	1.202.5+2.12-1ubuntu7.3
 grub-gfxpayload-lists	0.7build2
-grub-pc	2.12-1ubuntu7.1
-grub-pc-bin	2.12-1ubuntu7.1
-grub2-common	2.12-1ubuntu7.1
+grub-pc	2.12-1ubuntu7.3
+grub-pc-bin	2.12-1ubuntu7.3
+grub2-common	2.12-1ubuntu7.3
 gsettings-desktop-schemas	46.1-0ubuntu1
 gstreamer1.0-gl:amd64	1.24.2-1ubuntu0.2
 gstreamer1.0-plugins-base:amd64	1.24.2-1ubuntu0.2
@@ -297,7 +297,7 @@ libaccountsservice0:amd64	23.13.9-2ubuntu6
 libacl1:amd64	2.3.2-1build1.1
 libaio1t64:amd64	0.3.113-6build1.1
 libaom3:amd64	3.8.2-2ubuntu0.1
-libapparmor1:amd64	4.0.1really4.0.1-0ubuntu0.24.04.3
+libapparmor1:amd64	4.0.1really4.0.1-0ubuntu0.24.04.4
 libappstream5:amd64	1.0.2-1build6
 libapt-pkg6.0t64:amd64	2.7.14build2
 libarchive13t64:amd64	3.7.2-2ubuntu0.4
@@ -448,7 +448,7 @@ libfribidi0:amd64	1.0.13-3build1
 libftdi1-2:amd64	1.5-6build5
 libfuse2t64:amd64	2.9.9-8.1build1
 libfuse3-3:amd64	3.14.0-5build1
-libfwupd2:amd64	1.9.28-0ubuntu1~24.04.1
+libfwupd2:amd64	1.9.29-0ubuntu1~24.04.1ubuntu1
 libgail-common:amd64	2.24.33-4ubuntu1.1
 libgail18t64:amd64	2.24.33-4ubuntu1.1
 libgarcon-1-0:amd64	4.18.1-1build3
@@ -701,9 +701,9 @@ libplymouth5:amd64	24.004.60-1ubuntu7.1
 libpng16-16t64:amd64	1.6.43-5build1
 libpolkit-agent-1-0:amd64	124-2ubuntu1.24.04.2
 libpolkit-gobject-1-0:amd64	124-2ubuntu1.24.04.2
-libpoppler-cpp0t64:amd64	24.02.0-1ubuntu9.3
-libpoppler-glib8t64:amd64	24.02.0-1ubuntu9.3
-libpoppler134:amd64	24.02.0-1ubuntu9.3
+libpoppler-cpp0t64:amd64	24.02.0-1ubuntu9.4
+libpoppler-glib8t64:amd64	24.02.0-1ubuntu9.4
+libpoppler134:amd64	24.02.0-1ubuntu9.4
 libpopt0:amd64	1.19+dfsg-1build1
 libppd2:amd64	2:2.0.0-0ubuntu4.1
 libppd2-common	2:2.0.0-0ubuntu4.1
@@ -909,7 +909,7 @@ libxklavier16:amd64	5.4-5build2
 libxml-parser-perl	2.47-1build3
 libxml-twig-perl	1:3.52-2
 libxml-xpathengine-perl	0.14-2
-libxml2:amd64	2.9.14+dfsg-1.3ubuntu3.2
+libxml2:amd64	2.9.14+dfsg-1.3ubuntu3.3
 libxmlb2:amd64	0.3.18-1
 libxmu6:amd64	2:1.1.3-3build2
 libxmuu1:amd64	2:1.1.3-3build2
@@ -1033,7 +1033,7 @@ policykit-1-gnome	0.105-7ubuntu5
 policykit-desktop-privileges	0.22
 polkitd	124-2ubuntu1.24.04.2
 poppler-data	0.4.12-1
-poppler-utils	24.02.0-1ubuntu9.3
+poppler-utils	24.02.0-1ubuntu9.4
 powermgmt-base	1.37
 ppp	2.4.9-1+1.1ubuntu4
 pptp-linux	1.10.0-1build4
@@ -1265,7 +1265,7 @@ xserver-common	2:21.1.12-1ubuntu1.3
 xserver-xorg	1:7.7+23ubuntu3
 xserver-xorg-core	2:21.1.12-1ubuntu1.3
 xserver-xorg-input-all	1:7.7+23ubuntu3
-xserver-xorg-input-libinput	1.4.0-1build1
+xserver-xorg-input-libinput	1.4.0-1ubuntu24.04.1
 xserver-xorg-input-wacom	1:1.2.0-1ubuntu2
 xserver-xorg-legacy	2:21.1.12-1ubuntu1.3
 xserver-xorg-video-all	1:7.7+23ubuntu3
