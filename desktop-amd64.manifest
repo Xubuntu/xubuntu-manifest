@@ -1706,8 +1706,8 @@ ubuntu-kernel-accessories	1.539.2
 ubuntu-keyring	2023.11.28.1
 ubuntu-minimal	1.539.2
 ubuntu-mono	24.04-0ubuntu1
-ubuntu-pro-client	34~24.04
-ubuntu-pro-client-l10n	34~24.04
+ubuntu-pro-client	35.1ubuntu0~24.04
+ubuntu-pro-client-l10n	35.1ubuntu0~24.04
 ubuntu-release-upgrader-core	1:24.04.26
 ubuntu-release-upgrader-gtk	1:24.04.26
 ubuntu-standard	1.539.2
@@ -1849,7 +1849,7 @@ zip	3.0-13ubuntu0.2
 zlib1g:amd64	1:1.3.dfsg-3.1ubuntu2.1
 zstd	1.5.5+dfsg2-2build1.1
 snap:core22	stable	1908
-snap:snapd	stable	23771
+snap:snapd	stable	24505
 snap:firefox	stable/ubuntu-24.04	6073
 snap:firmware-updater	stable/ubuntu-24.04	167
 snap:gnome-42-2204	stable/ubuntu-24.04	202
@@ -1857,5 +1857,5 @@ snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
 snap:snap-store	stable/ubuntu-24.04	1270
 snap:snapd-desktop-integration	stable/ubuntu-24.04	253
-snap:thunderbird	stable/ubuntu-24.04	706
+snap:thunderbird	stable/ubuntu-24.04	721
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	237
