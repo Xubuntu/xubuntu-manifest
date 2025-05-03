@@ -1294,6 +1294,6 @@ zfsutils-linux	2.2.2-0ubuntu9.2
 zip	3.0-13ubuntu0.2
 zlib1g:amd64	1:1.3.dfsg-3.1ubuntu2.1
 zstd	1.5.5+dfsg2-2build1.1
-snap:core22	stable	1908
+snap:core22	stable	1963
 snap:snapd	stable	24505
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	237
