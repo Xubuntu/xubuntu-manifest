@@ -1160,7 +1160,7 @@ libspeechd2:amd64	0.12.0~rc2-2build3
 libspeex1:amd64	1.2.1-2ubuntu2.24.04.1
 libspeexdsp1:amd64	1.2.1-1ubuntu3
 libsphinxbase3t64:amd64	0.8+5prealpha+1-17build2
-libsqlite3-0:amd64	3.45.1-1ubuntu2.1
+libsqlite3-0:amd64	3.45.1-1ubuntu2.3
 libsratom-0-0:amd64	0.6.16-1build1
 libsrt1.5-gnutls:amd64	1.5.3-1build2
 libss2:amd64	1.47.0-2.4~exp1ubuntu4.1
