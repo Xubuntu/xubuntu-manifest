@@ -66,7 +66,7 @@ ca-certificates	20240203
 casper	1.498
 catfish	4.16.4-2
 cheese-common	44.1-1build4
-cifs-utils	2:7.0-2build1
+cifs-utils	2:7.0-2ubuntu0.1
 cloud-guest-utils	0.33-1
 cloud-init	24.4.1-0ubuntu0~24.04.3
 colord	1.4.7-1build2
@@ -325,7 +325,7 @@ initramfs-tools-core	0.142ubuntu25.5
 inputattach	1:1.8.1-2build1
 install-info	7.1-3build2
 intel-media-va-driver:amd64	24.1.0+dfsg1-1
-intel-microcode	3.20250211.0ubuntu0.24.04.1
+intel-microcode	3.20250512.0ubuntu0.24.04.1
 intltool-debian	0.35.0+20060710.6
 inxi	3.3.34-1-1
 ipp-usb	0.9.24-0ubuntu3.2
@@ -1850,7 +1850,7 @@ zlib1g:amd64	1:1.3.dfsg-3.1ubuntu2.1
 zstd	1.5.5+dfsg2-2build1.1
 snap:core22	stable	1963
 snap:snapd	stable	24505
-snap:firefox	stable/ubuntu-24.04	6198
+snap:firefox	stable/ubuntu-24.04	6227
 snap:firmware-updater	stable/ubuntu-24.04	167
 snap:gnome-42-2204	stable/ubuntu-24.04	202
 snap:bare	stable	5

@@ -43,7 +43,7 @@ busybox-initramfs	1:1.36.1-6ubuntu3.1
 busybox-static	1:1.36.1-6ubuntu3.1
 ca-certificates	20240203
 casper	1.498
-cifs-utils	2:7.0-2build1
+cifs-utils	2:7.0-2ubuntu0.1
 cloud-guest-utils	0.33-1
 cloud-init	24.4.1-0ubuntu0~24.04.3
 colord	1.4.7-1build2
@@ -229,7 +229,7 @@ initramfs-tools-core	0.142ubuntu25.5
 inputattach	1:1.8.1-2build1
 install-info	7.1-3build2
 intel-media-va-driver:amd64	24.1.0+dfsg1-1
-intel-microcode	3.20250211.0ubuntu0.24.04.1
+intel-microcode	3.20250512.0ubuntu0.24.04.1
 ipp-usb	0.9.24-0ubuntu3.2
 iproute2	6.1.0-1ubuntu6
 iptables	1.8.10-3ubuntu2
