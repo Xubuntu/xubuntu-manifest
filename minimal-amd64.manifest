@@ -9,12 +9,12 @@ alsa-utils	1.2.9-1ubuntu5
 amd64-microcode	3.20231019.1ubuntu2.1
 anacron	2.3-39ubuntu2
 apparmor	4.0.1really4.0.1-0ubuntu0.24.04.4
-apport	2.28.1-0ubuntu3.5
-apport-core-dump-handler	2.28.1-0ubuntu3.5
+apport	2.28.1-0ubuntu3.6
+apport-core-dump-handler	2.28.1-0ubuntu3.6
 apport-symptoms	0.25
 appstream	1.0.2-1build6
-apt	2.7.14build2
-apt-utils	2.7.14build2
+apt	2.8.3
+apt-utils	2.8.3
 aspell	0.60.8.1-1build1
 aspell-en	2020.12.07-0-1
 at-spi2-common	2.52.0-1build1
@@ -248,7 +248,7 @@ klibc-utils	2.0.13-4ubuntu0.1
 kmod	31+20240202-2ubuntu7.1
 kpartx	0.9.4-5ubuntu8
 kpartx-boot	0.9.4-5ubuntu8
-krb5-locales	1.20.1-6ubuntu2.5
+krb5-locales	1.20.1-6ubuntu2.6
 language-pack-bn	1:24.04+20250130
 language-pack-bn-base	1:24.04+20250130
 language-pack-de	1:24.04+20250130
@@ -299,7 +299,7 @@ libaio1t64:amd64	0.3.113-6build1.1
 libaom3:amd64	3.8.2-2ubuntu0.1
 libapparmor1:amd64	4.0.1really4.0.1-0ubuntu0.24.04.4
 libappstream5:amd64	1.0.2-1build6
-libapt-pkg6.0t64:amd64	2.7.14build2
+libapt-pkg6.0t64:amd64	2.8.3
 libarchive13t64:amd64	3.7.2-2ubuntu0.4
 libargon2-1:amd64	0~20190702+dfsg-4build1
 libasound2-data	1.2.11-1build2
@@ -500,7 +500,7 @@ libgs-common	10.02.1~dfsg1-0ubuntu7.6
 libgs10:amd64	10.02.1~dfsg1-0ubuntu7.6
 libgs10-common	10.02.1~dfsg1-0ubuntu7.6
 libgsm1:amd64	1.0.22-1build1
-libgssapi-krb5-2:amd64	1.20.1-6ubuntu2.5
+libgssapi-krb5-2:amd64	1.20.1-6ubuntu2.6
 libgstreamer-gl1.0-0:amd64	1.24.2-1ubuntu0.2
 libgstreamer-plugins-base1.0-0:amd64	1.24.2-1ubuntu0.2
 libgstreamer-plugins-good1.0-0:amd64	1.24.2-1ubuntu1.1
@@ -558,8 +558,8 @@ libijs-0.35:amd64	0.35-15.1build1
 libimagequant0:amd64	2.18.0-1build1
 libimobiledevice6:amd64	1.3.0-8.1build3
 libinih1:amd64	55-1ubuntu2
-libinput-bin	1.25.0-1ubuntu3
-libinput10:amd64	1.25.0-1ubuntu3
+libinput-bin	1.25.0-1ubuntu3.1
+libinput10:amd64	1.25.0-1ubuntu3.1
 libio-html-perl	1.004-3
 libio-socket-ssl-perl	2.085-1
 libio-stringy-perl	2.111-3
@@ -581,13 +581,13 @@ libjson-c5:amd64	0.17-1build1
 libjson-glib-1.0-0:amd64	1.8.0-2build2
 libjson-glib-1.0-common	1.8.0-2build2
 libjxl0.7:amd64	0.7.0-10.2ubuntu6
-libk5crypto3:amd64	1.20.1-6ubuntu2.5
+libk5crypto3:amd64	1.20.1-6ubuntu2.6
 libkeybinder-3.0-0:amd64	0.3.2-1.1build2
 libkeyutils1:amd64	1.6.3-3build1
 libklibc:amd64	2.0.13-4ubuntu0.1
 libkmod2:amd64	31+20240202-2ubuntu7.1
-libkrb5-3:amd64	1.20.1-6ubuntu2.5
-libkrb5support0:amd64	1.20.1-6ubuntu2.5
+libkrb5-3:amd64	1.20.1-6ubuntu2.6
+libkrb5support0:amd64	1.20.1-6ubuntu2.6
 libksba8:amd64	1.6.6-1build1
 liblcms2-2:amd64	2.14-2build1
 liblcms2-utils	2.14-2build1
@@ -759,8 +759,8 @@ libsnappy1v5:amd64	1.1.10-1build1
 libsndfile1:amd64	1.2.2-1ubuntu5.24.04.1
 libsnmp-base	5.9.4+dfsg-1.1ubuntu3.1
 libsnmp40t64:amd64	5.9.4+dfsg-1.1ubuntu3.1
-libsoup-3.0-0:amd64	3.4.4-5ubuntu0.3
-libsoup-3.0-common	3.4.4-5ubuntu0.3
+libsoup-3.0-0:amd64	3.4.4-5ubuntu0.4
+libsoup-3.0-common	3.4.4-5ubuntu0.4
 libsoxr0:amd64	0.1.3-4build3
 libspa-0.2-modules:amd64	1.0.5-1ubuntu3
 libspeex1:amd64	1.2.1-2ubuntu2.24.04.1
@@ -941,7 +941,7 @@ libzvbi0t64:amd64	0.2.42-2
 lightdm	1.30.0-0ubuntu14
 lightdm-gtk-greeter	2.0.9-0ubuntu3
 linux-base	4.5ubuntu9+24.04.1
-linux-firmware	20240318.git3b128b60-0ubuntu2.11
+linux-firmware	20240318.git3b128b60-0ubuntu2.12
 linux-generic-hwe-24.04	6.11.0-26.26~24.04.1
 linux-headers-6.11.0-26-generic	6.11.0-26.26~24.04.1
 linux-headers-generic-hwe-24.04	6.11.0-26.26~24.04.1
@@ -1058,7 +1058,7 @@ pulseaudio-utils	1:16.1+dfsg1-2ubuntu10.1
 python-apt-common	2.7.7ubuntu4
 python-babel-localedata	2.10.3-3build1
 python3	3.12.3-0ubuntu2
-python3-apport	2.28.1-0ubuntu3.5
+python3-apport	2.28.1-0ubuntu3.6
 python3-apt	2.7.7ubuntu4
 python3-attr	23.2.0-2
 python3-babel	2.10.3-3build1
@@ -1101,8 +1101,8 @@ python3-oauthlib	3.2.2-1
 python3-olefile	0.46-3
 python3-pexpect	4.9-2
 python3-pil:amd64	10.2.0-1ubuntu1
-python3-pkg-resources	68.1.2-2ubuntu1.1
-python3-problem-report	2.28.1-0ubuntu3.5
+python3-pkg-resources	68.1.2-2ubuntu1.2
+python3-problem-report	2.28.1-0ubuntu3.6
 python3-ptyprocess	0.7.0-5
 python3-pygments	2.17.2+dfsg-1
 python3-pyparsing	3.1.1-1
@@ -1115,7 +1115,7 @@ python3-software-properties	0.99.49.2
 python3-systemd	235-1build4
 python3-typing-extensions	4.10.0-1
 python3-tz	2024.1-2
-python3-update-manager	1:24.04.9
+python3-update-manager	1:24.04.12
 python3-urllib3	2.0.7-1ubuntu0.1
 python3-wadllib	1.3.6-5
 python3-xkit	0.5.0ubuntu6
@@ -1175,7 +1175,7 @@ tpm-udev	0.6ubuntu1
 trace-cmd	3.2-1ubuntu2
 tumbler:amd64	4.18.1-1.1build4
 tumbler-common	4.18.1-1.1build4
-tzdata	2025b-0ubuntu0.24.04
+tzdata	2025b-0ubuntu0.24.04.1
 ubuntu-advantage-desktop-daemon	1.11ubuntu0.1
 ubuntu-drivers-common	1:0.9.7.6ubuntu3.2
 ubuntu-kernel-accessories	1.539.2
@@ -1193,7 +1193,7 @@ ufw	0.36.2-6
 unattended-upgrades	2.9.1+nmu4ubuntu1
 unzip	6.0-28ubuntu4.1
 update-inetd	4.53
-update-manager-core	1:24.04.9
+update-manager-core	1:24.04.12
 upower	1.90.3-1
 usb-modeswitch	2.6.1-3ubuntu3
 usb-modeswitch-data	20191128-6
@@ -1210,7 +1210,7 @@ vim-tiny	2:9.1.0016-1ubuntu7.8
 wamerican	2020.12.07-2
 wget	1.21.4-1ubuntu4.1
 whiptail	0.52.24-2ubuntu2
-wireless-regdb	2024.07.04-0ubuntu1~24.04.1
+wireless-regdb	2024.10.07-0ubuntu2~24.04.1
 wireless-tools	30~pre9-16.1ubuntu2
 wireplumber	0.4.17-1ubuntu4
 wpasupplicant	2:2.10-21ubuntu0.2
