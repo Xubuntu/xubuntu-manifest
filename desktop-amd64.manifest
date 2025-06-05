@@ -310,7 +310,7 @@ humanity-icon-theme	0.6.16
 hunspell-en-us	1:2020.12.07-2
 hwdata	0.379-1
 i965-va-driver:amd64	2.4.1+dfsg1-1build2
-ibverbs-providers:amd64	50.0-2build2
+ibverbs-providers:amd64	50.0-2ubuntu0.2
 ieee-data	20220827.1
 im-config	0.57-2
 indicator-common	16.10.0+18.04.20180321.1-0ubuntu8
@@ -796,7 +796,7 @@ libhunspell-1.7-0:amd64	1.7.2+really1.7.2-10build3
 libhwasan0:amd64	14.2.0-4ubuntu2~24.04
 libhwy1t64:amd64	1.0.7-8.1build1
 libhyphen0:amd64	2.8.8-7build3
-libibverbs1:amd64	50.0-2build2
+libibverbs1:amd64	50.0-2ubuntu0.2
 libical3t64:amd64	3.0.17-1.1build3
 libice6:amd64	2:1.0.10-1build3
 libicu74:amd64	74.2-1ubuntu3.1
