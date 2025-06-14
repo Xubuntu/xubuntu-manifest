@@ -1857,5 +1857,5 @@ snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
 snap:snap-store	stable/ubuntu-24.04	1270
 snap:snapd-desktop-integration	stable/ubuntu-24.04	253
-snap:thunderbird	stable/ubuntu-24.04	735
+snap:thunderbird	stable/ubuntu-24.04	737
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	237
