@@ -1261,13 +1261,13 @@ xkb-data	2.41-2ubuntu1.1
 xml-core	0.19
 xorg	1:7.7+23ubuntu3
 xorg-docs-core	1:1.7.1-1.2
-xserver-common	2:21.1.12-1ubuntu1.3
+xserver-common	2:21.1.12-1ubuntu1.4
 xserver-xorg	1:7.7+23ubuntu3
-xserver-xorg-core	2:21.1.12-1ubuntu1.3
+xserver-xorg-core	2:21.1.12-1ubuntu1.4
 xserver-xorg-input-all	1:7.7+23ubuntu3
 xserver-xorg-input-libinput	1.4.0-1ubuntu24.04.1
 xserver-xorg-input-wacom	1:1.2.0-1ubuntu2
-xserver-xorg-legacy	2:21.1.12-1ubuntu1.3
+xserver-xorg-legacy	2:21.1.12-1ubuntu1.4
 xserver-xorg-video-all	1:7.7+23ubuntu3
 xserver-xorg-video-amdgpu	23.0.0-1build1
 xserver-xorg-video-ati	1:22.0.0-1build1
