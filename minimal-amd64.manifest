@@ -4,7 +4,7 @@ adduser	3.137ubuntu1
 adwaita-icon-theme	46.0-1
 alsa-base	1.0.25+dfsg-0ubuntu7
 alsa-topology-conf	1.2.5.1-2
-alsa-ucm-conf	1.2.10-1ubuntu5.4
+alsa-ucm-conf	1.2.10-1ubuntu5.7
 alsa-utils	1.2.9-1ubuntu5
 amd64-microcode	3.20250311.1ubuntu0.24.04.1
 anacron	2.3-39ubuntu2
@@ -122,7 +122,7 @@ fdisk	2.39.3-9ubuntu6.2
 file	1:5.45-3build1
 finalrd	9build1
 findutils	4.9.0-5build1
-firmware-sof-signed	2023.12.1-1ubuntu1.4
+firmware-sof-signed	2023.12.1-1ubuntu1.5
 fontconfig	2.15.0-1.1ubuntu2
 fontconfig-config	2.15.0-1.1ubuntu2
 fonts-dejavu-core	2.37-8
