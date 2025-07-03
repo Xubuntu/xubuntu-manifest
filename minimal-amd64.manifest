@@ -101,7 +101,7 @@ dmraid	1.0.0.rc16-12ubuntu2
 dmsetup	2:1.02.185-3ubuntu3.2
 dmz-cursor-theme	0.4.5ubuntu1
 dns-root-data	2024071801~ubuntu0.24.04.1
-dnsmasq-base	2.90-2build2
+dnsmasq-base	2.90-2ubuntu0.1
 doc-base	0.11.2
 docbook-xml	4.5-12
 dosfstools	4.2-1.1build1
@@ -207,7 +207,7 @@ gvfs:amd64	1.54.0-1ubuntu2
 gvfs-common	1.54.0-1ubuntu2
 gvfs-daemons	1.54.0-1ubuntu2
 gvfs-libs:amd64	1.54.0-1ubuntu2
-gzip	1.12-1ubuntu3
+gzip	1.12-1ubuntu3.1
 hdparm	9.65+ds-1build1
 hicolor-icon-theme	0.17-2
 hostname	3.23+nmu2ubuntu2
@@ -941,7 +941,7 @@ libzvbi0t64:amd64	0.2.42-2
 lightdm	1.30.0-0ubuntu14
 lightdm-gtk-greeter	2.0.9-0ubuntu3
 linux-base	4.5ubuntu9+24.04.1
-linux-firmware	20240318.git3b128b60-0ubuntu2.13
+linux-firmware	20240318.git3b128b60-0ubuntu2.14
 linux-generic-hwe-24.04	6.11.0-29.29~24.04.1
 linux-headers-6.11.0-29-generic	6.11.0-29.29~24.04.1
 linux-headers-generic-hwe-24.04	6.11.0-29.29~24.04.1

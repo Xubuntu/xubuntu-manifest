@@ -127,7 +127,7 @@ dmraid	1.0.0.rc16-12ubuntu2
 dmsetup	2:1.02.185-3ubuntu3.2
 dmz-cursor-theme	0.4.5ubuntu1
 dns-root-data	2024071801~ubuntu0.24.04.1
-dnsmasq-base	2.90-2build2
+dnsmasq-base	2.90-2ubuntu0.1
 doc-base	0.11.2
 docbook-xml	4.5-12
 dosfstools	4.2-1.1build1
@@ -294,7 +294,7 @@ gvfs-common	1.54.0-1ubuntu2
 gvfs-daemons	1.54.0-1ubuntu2
 gvfs-fuse	1.54.0-1ubuntu2
 gvfs-libs:amd64	1.54.0-1ubuntu2
-gzip	1.12-1ubuntu3
+gzip	1.12-1ubuntu3.1
 hdparm	9.65+ds-1build1
 hexchat	2.16.2-1build2
 hexchat-common	2.16.2-1build2
@@ -1402,7 +1402,7 @@ lightdm-gtk-greeter	2.0.9-0ubuntu3
 lightdm-gtk-greeter-settings	1.2.3-0ubuntu1
 lintian	2.117.0ubuntu1.3
 linux-base	4.5ubuntu9+24.04.1
-linux-firmware	20240318.git3b128b60-0ubuntu2.13
+linux-firmware	20240318.git3b128b60-0ubuntu2.14
 linux-generic-hwe-24.04	6.11.0-29.29~24.04.1
 linux-headers-6.11.0-29-generic	6.11.0-29.29~24.04.1
 linux-headers-generic-hwe-24.04	6.11.0-29.29~24.04.1
@@ -1857,5 +1857,5 @@ snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
 snap:snap-store	stable/ubuntu-24.04	1270
 snap:snapd-desktop-integration	stable/ubuntu-24.04	315
-snap:thunderbird	stable/ubuntu-24.04	737
+snap:thunderbird	stable/ubuntu-24.04	751
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	237
