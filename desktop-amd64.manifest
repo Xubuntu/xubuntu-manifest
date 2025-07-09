@@ -200,7 +200,7 @@ gdebi-core	0.9.5.7+nmu7
 gdisk	1.0.10-1build1
 gettext	0.21-14ubuntu2
 gettext-base	0.21-14ubuntu2
-ghostscript	10.02.1~dfsg1-0ubuntu7.6
+ghostscript	10.02.1~dfsg1-0ubuntu7.7
 gigolo	0.5.3-1build2
 gimp	2.10.36-3ubuntu0.24.04.1
 gimp-data	2.10.36-3ubuntu0.24.04.1
@@ -733,9 +733,9 @@ libgprofng0:amd64	2.42-4ubuntu2.5
 libgraphene-1.0-0:amd64	1.10.8-3build2
 libgraphite2-3:amd64	1.3.14-2build1
 libgrilo-0.3-0:amd64	0.3.16-1build3
-libgs-common	10.02.1~dfsg1-0ubuntu7.6
-libgs10:amd64	10.02.1~dfsg1-0ubuntu7.6
-libgs10-common	10.02.1~dfsg1-0ubuntu7.6
+libgs-common	10.02.1~dfsg1-0ubuntu7.7
+libgs10:amd64	10.02.1~dfsg1-0ubuntu7.7
+libgs10-common	10.02.1~dfsg1-0ubuntu7.7
 libgsm1:amd64	1.0.22-1build1
 libgspell-1-2:amd64	1.12.2-1build4
 libgspell-1-common	1.12.2-1build4
@@ -1706,8 +1706,8 @@ ubuntu-kernel-accessories	1.539.2
 ubuntu-keyring	2023.11.28.1
 ubuntu-minimal	1.539.2
 ubuntu-mono	24.04-0ubuntu1
-ubuntu-pro-client	35.1ubuntu0~24.04
-ubuntu-pro-client-l10n	35.1ubuntu0~24.04
+ubuntu-pro-client	36ubuntu0~24.04
+ubuntu-pro-client-l10n	36ubuntu0~24.04
 ubuntu-release-upgrader-core	1:24.04.26
 ubuntu-release-upgrader-gtk	1:24.04.26
 ubuntu-standard	1.539.2
