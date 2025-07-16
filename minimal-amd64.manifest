@@ -655,7 +655,7 @@ libnotify4:amd64	0.8.3-1build2
 libnpth0t64:amd64	1.6-3.1build1
 libnspr4:amd64	2:4.35-1.1build1
 libnss-mdns:amd64	0.15.1-4build1
-libnss-systemd:amd64	255.4-1ubuntu8.8
+libnss-systemd:amd64	255.4-1ubuntu8.10
 libnss3:amd64	2:3.98-1build1
 libntfs-3g89t64:amd64	1:2022.10.3-1.2ubuntu3
 libnuma1:amd64	2.0.18-1build1
@@ -674,7 +674,7 @@ libpam-gnome-keyring:amd64	46.1-2build1
 libpam-modules:amd64	1.5.3-5ubuntu5.4
 libpam-modules-bin	1.5.3-5ubuntu5.4
 libpam-runtime	1.5.3-5ubuntu5.4
-libpam-systemd:amd64	255.4-1ubuntu8.8
+libpam-systemd:amd64	255.4-1ubuntu8.10
 libpam0g:amd64	1.5.3-5ubuntu5.4
 libpango-1.0-0:amd64	1.52.1+ds-1build1
 libpangocairo-1.0-0:amd64	1.52.1+ds-1build1
@@ -774,8 +774,8 @@ libstdc++6:amd64	14.2.0-4ubuntu2~24.04
 libstemmer0d:amd64	2.2.0-4build1
 libsvtav1enc1d1:amd64	1.7.0+dfsg-2build1
 libswresample4:amd64	7:6.1.1-3ubuntu5
-libsystemd-shared:amd64	255.4-1ubuntu8.8
-libsystemd0:amd64	255.4-1ubuntu8.8
+libsystemd-shared:amd64	255.4-1ubuntu8.10
+libsystemd0:amd64	255.4-1ubuntu8.10
 libtag1v5:amd64	1.13.1-1build1
 libtag1v5-vanilla:amd64	1.13.1-1build1
 libtalloc2:amd64	2.4.2-1build2
@@ -811,7 +811,7 @@ libtumbler-1-0t64:amd64	4.18.1-1.1build4
 libtwolame0:amd64	0.4.0-2build3
 libu2f-udev	1.1.10-3build3
 libuchardet0:amd64	0.0.8-1build1
-libudev1:amd64	255.4-1ubuntu8.8
+libudev1:amd64	255.4-1ubuntu8.10
 libudisks2-0:amd64	2.10.1-6ubuntu1.2
 libunistring5:amd64	1.1-2build1.1
 libunwind8:amd64	1.6.2-3build1.1
@@ -1152,12 +1152,12 @@ strace	6.8-0ubuntu2
 sudo	1.9.15p5-3ubuntu5.24.04.1
 synaptic	0.91.3build4
 sysstat	12.6.1-2
-systemd	255.4-1ubuntu8.8
-systemd-dev	255.4-1ubuntu8.8
+systemd	255.4-1ubuntu8.10
+systemd-dev	255.4-1ubuntu8.10
 systemd-hwe-hwdb	255.1.4
-systemd-resolved	255.4-1ubuntu8.8
-systemd-sysv	255.4-1ubuntu8.8
-systemd-timesyncd	255.4-1ubuntu8.8
+systemd-resolved	255.4-1ubuntu8.10
+systemd-sysv	255.4-1ubuntu8.10
+systemd-timesyncd	255.4-1ubuntu8.10
 sysvinit-utils	3.08-6ubuntu3
 tar	1.35+dfsg-3build1
 tcl	8.6.14build1
@@ -1187,7 +1187,7 @@ ubuntu-pro-client-l10n	36ubuntu0~24.04
 ubuntu-release-upgrader-core	1:24.04.26
 ubuntu-standard	1.539.2
 ucf	3.0043+nmu1
-udev	255.4-1ubuntu8.8
+udev	255.4-1ubuntu8.10
 udisks2	2.10.1-6ubuntu1.2
 ufw	0.36.2-6
 unattended-upgrades	2.9.1+nmu4ubuntu1
