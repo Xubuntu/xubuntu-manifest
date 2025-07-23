@@ -212,7 +212,7 @@ gir1.2-clutter-1.0:amd64	1.26.4+git2779b932+dfsg-7build3
 gir1.2-cogl-1.0:amd64	1.22.8-4ubuntu4
 gir1.2-coglpango-1.0:amd64	1.22.8-4ubuntu4
 gir1.2-freedesktop:amd64	1.80.1-1
-gir1.2-gdkpixbuf-2.0:amd64	2.42.10+dfsg-3ubuntu3.1
+gir1.2-gdkpixbuf-2.0:amd64	2.42.10+dfsg-3ubuntu3.2
 gir1.2-girepository-2.0:amd64	1.80.1-1
 gir1.2-glib-2.0:amd64	2.80.0-6ubuntu3.4
 gir1.2-gmenu-3.0:amd64	3.36.0-1.1ubuntu3
@@ -684,9 +684,9 @@ libgdata-common	0.18.1-6build2
 libgdata22:amd64	0.18.1-6build2
 libgdbm-compat4t64:amd64	1.23-5.1build1
 libgdbm6t64:amd64	1.23-5.1build1
-libgdk-pixbuf-2.0-0:amd64	2.42.10+dfsg-3ubuntu3.1
-libgdk-pixbuf2.0-bin	2.42.10+dfsg-3ubuntu3.1
-libgdk-pixbuf2.0-common	2.42.10+dfsg-3ubuntu3.1
+libgdk-pixbuf-2.0-0:amd64	2.42.10+dfsg-3ubuntu3.2
+libgdk-pixbuf2.0-bin	2.42.10+dfsg-3ubuntu3.2
+libgdk-pixbuf2.0-common	2.42.10+dfsg-3ubuntu3.2
 libgee-0.8-2:amd64	0.20.6-1build2
 libgegl-0.4-0t64:amd64	1:0.4.48-2.4build2
 libgegl-common	1:0.4.48-2.4build2

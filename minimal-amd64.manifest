@@ -155,7 +155,7 @@ gettext-base	0.21-14ubuntu2
 ghostscript	10.02.1~dfsg1-0ubuntu7.7
 gir1.2-atk-1.0:amd64	2.52.0-1build1
 gir1.2-freedesktop:amd64	1.80.1-1
-gir1.2-gdkpixbuf-2.0:amd64	2.42.10+dfsg-3ubuntu3.1
+gir1.2-gdkpixbuf-2.0:amd64	2.42.10+dfsg-3ubuntu3.2
 gir1.2-girepository-2.0:amd64	1.80.1-1
 gir1.2-glib-2.0:amd64	2.80.0-6ubuntu3.4
 gir1.2-gtk-3.0:amd64	3.24.41-4ubuntu1.3
@@ -465,9 +465,9 @@ libgcrypt20:amd64	1.10.3-2build1
 libgd3:amd64	2.3.3-9ubuntu5
 libgdbm-compat4t64:amd64	1.23-5.1build1
 libgdbm6t64:amd64	1.23-5.1build1
-libgdk-pixbuf-2.0-0:amd64	2.42.10+dfsg-3ubuntu3.1
-libgdk-pixbuf2.0-bin	2.42.10+dfsg-3ubuntu3.1
-libgdk-pixbuf2.0-common	2.42.10+dfsg-3ubuntu3.1
+libgdk-pixbuf-2.0-0:amd64	2.42.10+dfsg-3ubuntu3.2
+libgdk-pixbuf2.0-bin	2.42.10+dfsg-3ubuntu3.2
+libgdk-pixbuf2.0-common	2.42.10+dfsg-3ubuntu3.2
 libgirepository-1.0-1:amd64	1.80.1-1
 libgl1:amd64	1.7.0-1build1
 libgl1-amber-dri:amd64	21.3.9-0ubuntu2
