@@ -508,10 +508,10 @@ libgstreamer1.0-0:amd64	1.24.2-1ubuntu0.1
 libgtk-3-0t64:amd64	3.24.41-4ubuntu1.3
 libgtk-3-bin	3.24.41-4ubuntu1.3
 libgtk-3-common	3.24.41-4ubuntu1.3
-libgtk-4-1:amd64	4.14.2+ds-1ubuntu3
-libgtk-4-bin	4.14.2+ds-1ubuntu3
-libgtk-4-common	4.14.2+ds-1ubuntu3
-libgtk-4-media-gstreamer	4.14.2+ds-1ubuntu3
+libgtk-4-1:amd64	4.14.5+ds-0ubuntu0.1
+libgtk-4-bin	4.14.5+ds-0ubuntu0.1
+libgtk-4-common	4.14.5+ds-0ubuntu0.1
+libgtk-4-media-gstreamer	4.14.5+ds-0ubuntu0.1
 libgtk-layer-shell0	0.8.2-1build2
 libgtk2.0-0t64:amd64	2.24.33-4ubuntu1.1
 libgtk2.0-bin	2.24.33-4ubuntu1.1
