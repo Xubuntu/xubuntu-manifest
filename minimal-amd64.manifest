@@ -233,8 +233,8 @@ intel-microcode	3.20250512.0ubuntu0.24.04.1
 ipp-usb	0.9.24-0ubuntu3.3
 iproute2	6.1.0-1ubuntu6
 iptables	1.8.10-3ubuntu2
-iputils-ping	3:20240117-1build1
-iputils-tracepath	3:20240117-1build1
+iputils-ping	3:20240117-1ubuntu0.1
+iputils-tracepath	3:20240117-1ubuntu0.1
 iso-codes	4.16.0-1
 iucode-tool	2.3.1-3build1
 jfsutils	1.1.15-5build4
@@ -1001,7 +1001,7 @@ numix-gtk-theme	2.6.7-7
 numlockx	1.2-9build1
 ocl-icd-libopencl1:amd64	2.3.2-1build1
 openprinting-ppds	20230202-1
-openssh-client	1:9.6p1-3ubuntu13.12
+openssh-client	1:9.6p1-3ubuntu13.13
 openssl	3.0.13-0ubuntu3.5
 os-prober	1.81ubuntu4
 p11-kit	0.25.3-4ubuntu2.1
