@@ -1848,7 +1848,7 @@ zlib1g:amd64	1:1.3.dfsg-3.1ubuntu2.1
 zstd	1.5.5+dfsg2-2build1.1
 snap:core22	stable	2045
 snap:snapd	stable	24792
-snap:firefox	stable/ubuntu-24.04	6626
+snap:firefox	stable/ubuntu-24.04	6638
 snap:firmware-updater	stable/ubuntu-24.04	167
 snap:gnome-42-2204	stable/ubuntu-24.04	202
 snap:bare	stable	5
