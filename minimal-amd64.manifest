@@ -1109,7 +1109,7 @@ python3-requests	2.31.0+dfsg-1ubuntu1.1
 python3-rich	13.7.1-1
 python3-serial	3.5-2
 python3-six	1.16.0-4
-python3-software-properties	0.99.49.2
+python3-software-properties	0.99.49.3
 python3-systemd	235-1build4
 python3-typing-extensions	4.10.0-1
 python3-tz	2024.1-2
@@ -1140,8 +1140,8 @@ shared-mime-info	2.4-4
 shim-signed	1.58+15.8-0ubuntu1
 shimmer-themes	2.1.3build1
 snapd	2.68.5+ubuntu24.04.1
-software-properties-common	0.99.49.2
-software-properties-gtk	0.99.49.2
+software-properties-common	0.99.49.3
+software-properties-gtk	0.99.49.3
 sound-theme-freedesktop	0.8-2ubuntu1
 spice-vdagent	0.22.1-4build3
 squashfs-tools	1:4.6.1-1build1
