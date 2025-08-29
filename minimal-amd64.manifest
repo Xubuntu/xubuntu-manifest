@@ -144,7 +144,7 @@ foomatic-db-compressed-ppds	20230202-1
 friendly-recovery	0.2.42
 ftp	20230507-2build3
 fuse3	3.14.0-5build1
-fwupd	1.9.30-0ubuntu1~24.04.1
+fwupd	1.9.31-0ubuntu1~24.04.1
 fwupd-signed	1.52+1.4-1
 gcc-13-base:amd64	13.3.0-6ubuntu2~24.04
 gcc-14-base:amd64	14.2.0-4ubuntu2~24.04
@@ -448,7 +448,7 @@ libfribidi0:amd64	1.0.13-3build1
 libftdi1-2:amd64	1.5-6build5
 libfuse2t64:amd64	2.9.9-8.1build1
 libfuse3-3:amd64	3.14.0-5build1
-libfwupd2:amd64	1.9.30-0ubuntu1~24.04.1
+libfwupd2:amd64	1.9.31-0ubuntu1~24.04.1
 libgail-common:amd64	2.24.33-4ubuntu1.1
 libgail18t64:amd64	2.24.33-4ubuntu1.1
 libgarcon-1-0:amd64	4.18.1-1build3
@@ -810,7 +810,7 @@ libtwolame0:amd64	0.4.0-2build3
 libu2f-udev	1.1.10-3build3
 libuchardet0:amd64	0.0.8-1build1
 libudev1:amd64	255.4-1ubuntu8.10
-libudisks2-0:amd64	2.10.1-6ubuntu1.2
+libudisks2-0:amd64	2.10.1-6ubuntu1.3
 libunistring5:amd64	1.1-2build1.1
 libunwind8:amd64	1.6.2-3build1.1
 libupower-glib3:amd64	1.90.3-1
@@ -1186,7 +1186,7 @@ ubuntu-release-upgrader-core	1:24.04.27
 ubuntu-standard	1.539.2
 ucf	3.0043+nmu1
 udev	255.4-1ubuntu8.10
-udisks2	2.10.1-6ubuntu1.2
+udisks2	2.10.1-6ubuntu1.3
 ufw	0.36.2-6
 unattended-upgrades	2.9.1+nmu4ubuntu1
 unzip	6.0-28ubuntu4.1
