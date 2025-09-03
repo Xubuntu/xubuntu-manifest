@@ -180,7 +180,7 @@ foomatic-db-compressed-ppds	20230202-1
 friendly-recovery	0.2.42
 ftp	20230507-2build3
 fuse3	3.14.0-5build1
-fwupd	1.9.30-0ubuntu1~24.04.1
+fwupd	1.9.31-0ubuntu1~24.04.1
 fwupd-signed	1.52+1.4-1
 g++	4:13.2.0-7ubuntu1
 g++-13	13.3.0-6ubuntu2~24.04
@@ -664,7 +664,7 @@ libfribidi0:amd64	1.0.13-3build1
 libftdi1-2:amd64	1.5-6build5
 libfuse2t64:amd64	2.9.9-8.1build1
 libfuse3-3:amd64	3.14.0-5build1
-libfwupd2:amd64	1.9.30-0ubuntu1~24.04.1
+libfwupd2:amd64	1.9.31-0ubuntu1~24.04.1
 libgail-common:amd64	2.24.33-4ubuntu1.1
 libgail18t64:amd64	2.24.33-4ubuntu1.1
 libgarcon-1-0:amd64	4.18.1-1build3
@@ -1234,7 +1234,7 @@ libubsan1:amd64	14.2.0-4ubuntu2~24.04
 libuchardet0:amd64	0.0.8-1build1
 libudev1:amd64	255.4-1ubuntu8.10
 libudfread0:amd64	1.1.2-1build1
-libudisks2-0:amd64	2.10.1-6ubuntu1.2
+libudisks2-0:amd64	2.10.1-6ubuntu1.3
 libumfpack6:amd64	1:7.6.1+dfsg-1build1
 libunibreak5:amd64	5.1-2build1
 libunicode-utf8-perl	0.62-2build3
@@ -1401,19 +1401,19 @@ lightdm-gtk-greeter-settings	1.2.3-0ubuntu1
 lintian	2.117.0ubuntu1.3
 linux-base	4.5ubuntu9+24.04.1
 linux-firmware	20240318.git3b128b60-0ubuntu2.15
-linux-generic-hwe-24.04	6.14.0-28.28~24.04.1
-linux-headers-6.14.0-28-generic	6.14.0-28.28~24.04.1
-linux-headers-generic-hwe-24.04	6.14.0-28.28~24.04.1
-linux-hwe-6.14-headers-6.14.0-28	6.14.0-28.28~24.04.1
-linux-hwe-6.14-tools-6.14.0-28	6.14.0-28.28~24.04.1
-linux-image-6.14.0-28-generic	6.14.0-28.28~24.04.1
-linux-image-generic-hwe-24.04	6.14.0-28.28~24.04.1
-linux-libc-dev:amd64	6.8.0-78.78
-linux-modules-6.14.0-28-generic	6.14.0-28.28~24.04.1
-linux-modules-extra-6.14.0-28-generic	6.14.0-28.28~24.04.1
+linux-generic-hwe-24.04	6.14.0-29.29~24.04.1
+linux-headers-6.14.0-29-generic	6.14.0-29.29~24.04.1
+linux-headers-generic-hwe-24.04	6.14.0-29.29~24.04.1
+linux-hwe-6.14-headers-6.14.0-29	6.14.0-29.29~24.04.1
+linux-hwe-6.14-tools-6.14.0-29	6.14.0-29.29~24.04.1
+linux-image-6.14.0-29-generic	6.14.0-29.29~24.04.1
+linux-image-generic-hwe-24.04	6.14.0-29.29~24.04.1
+linux-libc-dev:amd64	6.8.0-79.79
+linux-modules-6.14.0-29-generic	6.14.0-29.29~24.04.1
+linux-modules-extra-6.14.0-29-generic	6.14.0-29.29~24.04.1
 linux-sound-base	1.0.25+dfsg-0ubuntu7
-linux-tools-6.14.0-28-generic	6.14.0-28.28~24.04.1
-linux-tools-common	6.8.0-78.78
+linux-tools-6.14.0-29-generic	6.14.0-29.29~24.04.1
+linux-tools-common	6.8.0-79.79
 lm-sensors	1:3.6.0-9build1
 localechooser-data	2.89ubuntu6
 locales	2.39-0ubuntu8.5
@@ -1711,7 +1711,7 @@ ubuntu-release-upgrader-gtk	1:24.04.27
 ubuntu-standard	1.539.2
 ucf	3.0043+nmu1
 udev	255.4-1ubuntu8.10
-udisks2	2.10.1-6ubuntu1.2
+udisks2	2.10.1-6ubuntu1.3
 ufw	0.36.2-6
 unattended-upgrades	2.9.1+nmu4ubuntu1
 uno-libs-private	4:24.2.7-0ubuntu0.24.04.4
@@ -1846,14 +1846,14 @@ zfsutils-linux	2.2.2-0ubuntu9.4
 zip	3.0-13ubuntu0.2
 zlib1g:amd64	1:1.3.dfsg-3.1ubuntu2.1
 zstd	1.5.5+dfsg2-2build1.1
-snap:core22	stable	2082
+snap:core22	stable	2111
 snap:snapd	stable	25202
-snap:firefox	stable/ubuntu-24.04	6700
+snap:firefox	stable/ubuntu-24.04	6738
 snap:firmware-updater	stable/ubuntu-24.04	167
 snap:gnome-42-2204	stable/ubuntu-24.04	202
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
 snap:snap-store	stable/ubuntu-24.04	1270
 snap:snapd-desktop-integration	stable/ubuntu-24.04	315
-snap:thunderbird	stable/ubuntu-24.04	769
+snap:thunderbird	stable/ubuntu-24.04	796
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	237
