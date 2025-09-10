@@ -74,7 +74,7 @@ colord-data	1.4.7-1build2
 command-not-found	23.04.0
 console-setup	1.226ubuntu1
 console-setup-linux	1.226ubuntu1
-coreutils	9.4-3ubuntu6
+coreutils	9.4-3ubuntu6.1
 cpio	2.15+dfsg-1ubuntu2
 cpp	4:13.2.0-7ubuntu1
 cpp-13	13.3.0-6ubuntu2~24.04
@@ -1478,7 +1478,7 @@ onboard	1.4.1-5ubuntu6
 onboard-common	1.4.1-5ubuntu6
 onboard-data	1.4.1-5ubuntu6
 openprinting-ppds	20230202-1
-openssh-client	1:9.6p1-3ubuntu13.13
+openssh-client	1:9.6p1-3ubuntu13.14
 openssl	3.0.13-0ubuntu3.5
 os-prober	1.81ubuntu4
 p11-kit	0.25.3-4ubuntu2.1
