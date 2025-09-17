@@ -108,8 +108,8 @@ dbus-system-bus-common	1.14.10-4ubuntu4.1
 dbus-user-session	1.14.10-4ubuntu4.1
 dbus-x11	1.14.10-4ubuntu4.1
 dc	1.07.1-3ubuntu4
-dconf-gsettings-backend:amd64	0.40.0-4build2
-dconf-service	0.40.0-4build2
+dconf-gsettings-backend:amd64	0.40.0-4ubuntu0.1
+dconf-service	0.40.0-4ubuntu0.1
 debconf	1.5.86ubuntu1
 debconf-i18n	1.5.86ubuntu1
 debianutils	5.17build1
@@ -573,7 +573,7 @@ libdbus-1-3:amd64	1.14.10-4ubuntu4.1
 libdbus-glib-1-2:amd64	0.112-3build2
 libdbusmenu-glib4:amd64	18.10.20180917~bzr492+repack1-3.1ubuntu5
 libdbusmenu-gtk3-4:amd64	18.10.20180917~bzr492+repack1-3.1ubuntu5
-libdconf1:amd64	0.40.0-4build2
+libdconf1:amd64	0.40.0-4ubuntu0.1
 libde265-0:amd64	1.0.15-1build3
 libdebconfclient0:amd64	0.271ubuntu3
 libdebuginfod-common	0.190-1.1ubuntu0.1
@@ -1408,12 +1408,12 @@ linux-hwe-6.14-headers-6.14.0-29	6.14.0-29.29~24.04.1
 linux-hwe-6.14-tools-6.14.0-29	6.14.0-29.29~24.04.1
 linux-image-6.14.0-29-generic	6.14.0-29.29~24.04.1
 linux-image-generic-hwe-24.04	6.14.0-29.29~24.04.1
-linux-libc-dev:amd64	6.8.0-79.79
+linux-libc-dev:amd64	6.8.0-83.83
 linux-modules-6.14.0-29-generic	6.14.0-29.29~24.04.1
 linux-modules-extra-6.14.0-29-generic	6.14.0-29.29~24.04.1
 linux-sound-base	1.0.25+dfsg-0ubuntu7
 linux-tools-6.14.0-29-generic	6.14.0-29.29~24.04.1
-linux-tools-common	6.8.0-79.79
+linux-tools-common	6.8.0-83.83
 lm-sensors	1:3.6.0-9build1
 localechooser-data	2.89ubuntu6
 locales	2.39-0ubuntu8.5
@@ -1669,7 +1669,7 @@ system-config-printer-udev	1.5.18-1ubuntu9
 system-tools-backends	2.10.2-3.1ubuntu4
 systemd	255.4-1ubuntu8.10
 systemd-dev	255.4-1ubuntu8.10
-systemd-hwe-hwdb	255.1.4
+systemd-hwe-hwdb	255.1.5
 systemd-resolved	255.4-1ubuntu8.10
 systemd-sysv	255.4-1ubuntu8.10
 systemd-timesyncd	255.4-1ubuntu8.10
