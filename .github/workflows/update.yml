@@ -2,6 +2,7 @@ name: Update daily-live manifests
 on:
   schedule:
     - cron: "0 12,18 * * *"
+  workflow_dispatch:
 jobs:
   update-interim-release:
     runs-on: ubuntu-latest
