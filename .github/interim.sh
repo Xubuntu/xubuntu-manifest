@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RELEASE="plucky"
+RELEASE="questing"
 ARCHES="amd64"
 DATE=`date -u +%Y%m%d`
 URL=""

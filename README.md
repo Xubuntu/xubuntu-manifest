@@ -3,6 +3,9 @@ Manifest files for each Xubuntu release
 
 Use this repository to compare changes between releases.
 
+# Xubuntu 25.10 "Questing Quokka"
+- [25.04 to daily-live](https://github.com/Xubuntu/xubuntu-manifest/compare/25.04...daily-live)
+
 # Xubuntu 25.04 "Plucky Puffin"
 - [24.10 to 25.04](https://github.com/Xubuntu/xubuntu-manifest/compare/24.10...25.04)
 - [24.04 to 25.04](https://github.com/Xubuntu/xubuntu-manifest/compare/24.04...25.04)
