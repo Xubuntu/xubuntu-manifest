@@ -1211,7 +1211,7 @@ whiptail	0.52.24-2ubuntu2
 wireless-regdb	2024.10.07-0ubuntu2~24.04.1
 wireless-tools	30~pre9-16.1ubuntu2
 wireplumber	0.4.17-1ubuntu4
-wpasupplicant	2:2.10-21ubuntu0.2
+wpasupplicant	2:2.10-21ubuntu0.3
 x11-apps	7.7+11build3
 x11-common	1:7.7+23ubuntu3
 x11-session-utils	7.7+6build2
