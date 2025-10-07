@@ -1035,9 +1035,9 @@ libpng16-16t64:amd64	1.6.43-5build1
 libpocketsphinx3:amd64	0.8.0+real5prealpha+1-15ubuntu5
 libpolkit-agent-1-0:amd64	124-2ubuntu1.24.04.2
 libpolkit-gobject-1-0:amd64	124-2ubuntu1.24.04.2
-libpoppler-cpp0t64:amd64	24.02.0-1ubuntu9.6
-libpoppler-glib8t64:amd64	24.02.0-1ubuntu9.6
-libpoppler134:amd64	24.02.0-1ubuntu9.6
+libpoppler-cpp0t64:amd64	24.02.0-1ubuntu9.7
+libpoppler-glib8t64:amd64	24.02.0-1ubuntu9.7
+libpoppler134:amd64	24.02.0-1ubuntu9.7
 libpopt0:amd64	1.19+dfsg-1build1
 libportaudio2:amd64	19.6.0-1.2build3
 libpostproc57:amd64	7:6.1.1-3ubuntu5
@@ -1516,7 +1516,7 @@ policykit-1-gnome	0.105-7ubuntu5
 policykit-desktop-privileges	0.22
 polkitd	124-2ubuntu1.24.04.2
 poppler-data	0.4.12-1
-poppler-utils	24.02.0-1ubuntu9.6
+poppler-utils	24.02.0-1ubuntu9.7
 powermgmt-base	1.37ubuntu0.1
 ppp	2.4.9-1+1.1ubuntu4
 pptp-linux	1.10.0-1build4
@@ -1853,7 +1853,7 @@ snap:firmware-updater	stable/ubuntu-24.04	167
 snap:gnome-42-2204	stable/ubuntu-24.04	226
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
-snap:snap-store	stable/ubuntu-24.04	1270
+snap:snap-store	stable/ubuntu-24.04	1300
 snap:snapd-desktop-integration	stable/ubuntu-24.04	315
 snap:thunderbird	stable/ubuntu-24.04	812
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	237
