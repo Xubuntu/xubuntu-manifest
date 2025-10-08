@@ -122,7 +122,7 @@ fdisk	2.39.3-9ubuntu6.3
 file	1:5.45-3build1
 finalrd	9build1
 findutils	4.9.0-5build1
-firmware-sof-signed	2023.12.1-1ubuntu1.9
+firmware-sof-signed	2023.12.1-1ubuntu1.10
 fontconfig	2.15.0-1.1ubuntu2
 fontconfig-config	2.15.0-1.1ubuntu2
 fonts-dejavu-core	2.37-8

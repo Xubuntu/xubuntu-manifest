@@ -156,7 +156,7 @@ file	1:5.45-3build1
 finalrd	9build1
 findutils	4.9.0-5build1
 firefox	1:1snap1-0ubuntu5
-firmware-sof-signed	2023.12.1-1ubuntu1.9
+firmware-sof-signed	2023.12.1-1ubuntu1.10
 fontconfig	2.15.0-1.1ubuntu2
 fontconfig-config	2.15.0-1.1ubuntu2
 fonts-dejavu-core	2.37-8
@@ -1855,5 +1855,5 @@ snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
 snap:snap-store	stable/ubuntu-24.04	1300
 snap:snapd-desktop-integration	stable/ubuntu-24.04	315
-snap:thunderbird	stable/ubuntu-24.04	812
+snap:thunderbird	stable/ubuntu-24.04	825
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	237
