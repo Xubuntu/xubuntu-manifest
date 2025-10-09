@@ -965,7 +965,7 @@ libnotify4:amd64	0.8.3-1build2
 libnpth0t64:amd64	1.6-3.1build1
 libnspr4:amd64	2:4.35-1.1build1
 libnss-mdns:amd64	0.15.1-4build1
-libnss-systemd:amd64	255.4-1ubuntu8.10
+libnss-systemd:amd64	255.4-1ubuntu8.11
 libnss3:amd64	2:3.98-1build1
 libntfs-3g89t64:amd64	1:2022.10.3-1.2ubuntu3
 libnuma1:amd64	2.0.18-1build1
@@ -994,7 +994,7 @@ libpam-gnome-keyring:amd64	46.1-2build1
 libpam-modules:amd64	1.5.3-5ubuntu5.5
 libpam-modules-bin	1.5.3-5ubuntu5.5
 libpam-runtime	1.5.3-5ubuntu5.5
-libpam-systemd:amd64	255.4-1ubuntu8.10
+libpam-systemd:amd64	255.4-1ubuntu8.11
 libpam0g:amd64	1.5.3-5ubuntu5.5
 libpango-1.0-0:amd64	1.52.1+ds-1build1
 libpangocairo-1.0-0:amd64	1.52.1+ds-1build1
@@ -1182,8 +1182,8 @@ libswresample4:amd64	7:6.1.1-3ubuntu5
 libswscale7:amd64	7:6.1.1-3ubuntu5
 libsynctex2:amd64	2023.20230311.66589-9build3
 libsyntax-keyword-try-perl	0.29-1build3
-libsystemd-shared:amd64	255.4-1ubuntu8.10
-libsystemd0:amd64	255.4-1ubuntu8.10
+libsystemd-shared:amd64	255.4-1ubuntu8.11
+libsystemd0:amd64	255.4-1ubuntu8.11
 libtag1v5:amd64	1.13.1-1build1
 libtag1v5-vanilla:amd64	1.13.1-1build1
 libtagc0:amd64	1.13.1-1build1
@@ -1232,7 +1232,7 @@ libtwolame0:amd64	0.4.0-2build3
 libu2f-udev	1.1.10-3build3
 libubsan1:amd64	14.2.0-4ubuntu2~24.04
 libuchardet0:amd64	0.0.8-1build1
-libudev1:amd64	255.4-1ubuntu8.10
+libudev1:amd64	255.4-1ubuntu8.11
 libudfread0:amd64	1.1.2-1build1
 libudisks2-0:amd64	2.10.1-6ubuntu1.3
 libumfpack6:amd64	1:7.6.1+dfsg-1build1
@@ -1648,7 +1648,7 @@ shared-mime-info	2.4-4
 shim-signed	1.58+15.8-0ubuntu1
 shimmer-themes	2.1.3build1
 simple-scan	46.0-0ubuntu2.1
-snapd	2.68.5+ubuntu24.04.1
+snapd	2.71+ubuntu24.04
 software-properties-common	0.99.49.3
 software-properties-gtk	0.99.49.3
 sound-icons	0.1-8
@@ -1667,12 +1667,12 @@ system-config-printer	1.5.18-1ubuntu9
 system-config-printer-common	1.5.18-1ubuntu9
 system-config-printer-udev	1.5.18-1ubuntu9
 system-tools-backends	2.10.2-3.1ubuntu4
-systemd	255.4-1ubuntu8.10
-systemd-dev	255.4-1ubuntu8.10
+systemd	255.4-1ubuntu8.11
+systemd-dev	255.4-1ubuntu8.11
 systemd-hwe-hwdb	255.1.5
-systemd-resolved	255.4-1ubuntu8.10
-systemd-sysv	255.4-1ubuntu8.10
-systemd-timesyncd	255.4-1ubuntu8.10
+systemd-resolved	255.4-1ubuntu8.11
+systemd-sysv	255.4-1ubuntu8.11
+systemd-timesyncd	255.4-1ubuntu8.11
 sysvinit-utils	3.08-6ubuntu3
 t1utils	1.41-4build3
 tar	1.35+dfsg-3build1
@@ -1710,7 +1710,7 @@ ubuntu-release-upgrader-core	1:24.04.27
 ubuntu-release-upgrader-gtk	1:24.04.27
 ubuntu-standard	1.539.2
 ucf	3.0043+nmu1
-udev	255.4-1ubuntu8.10
+udev	255.4-1ubuntu8.11
 udisks2	2.10.1-6ubuntu1.3
 ufw	0.36.2-6
 unattended-upgrades	2.9.1+nmu4ubuntu1
