@@ -222,7 +222,7 @@ gir1.2-gtk-3.0:amd64	3.24.41-4ubuntu1.3
 gir1.2-gtkclutter-1.0:amd64	1.8.4-4build5
 gir1.2-handy-1:amd64	1.8.3-1build2
 gir1.2-harfbuzz-0.0:amd64	8.3.0-2build2
-gir1.2-javascriptcoregtk-4.1:amd64	2.48.5-0ubuntu0.24.04.1
+gir1.2-javascriptcoregtk-4.1:amd64	2.48.7-0ubuntu0.24.04.2
 gir1.2-json-1.0:amd64	1.8.0-2build2
 gir1.2-libxfce4ui-2.0:amd64	4.18.4-1build4
 gir1.2-libxfce4util-1.0:amd64	4.18.1-2build3
@@ -237,7 +237,7 @@ gir1.2-secret-1:amd64	0.21.4-1build3
 gir1.2-snapd-2:amd64	1.64-0ubuntu5
 gir1.2-soup-3.0:amd64	3.4.4-5ubuntu0.5
 gir1.2-vte-2.91:amd64	0.76.0-1ubuntu0.1
-gir1.2-webkit2-4.1:amd64	2.48.5-0ubuntu0.24.04.1
+gir1.2-webkit2-4.1:amd64	2.48.7-0ubuntu0.24.04.2
 gir1.2-wnck-3.0:amd64	43.0-3build4
 gir1.2-xfconf-0:amd64	4.18.1-1build3
 glib-networking:amd64	2.80.0-1build1
@@ -829,7 +829,7 @@ libitm1:amd64	14.2.0-4ubuntu2~24.04
 libiw30t64:amd64	30~pre9-16.1ubuntu2
 libjack-jackd2-0:amd64	1.9.21~dfsg-3ubuntu3
 libjansson4:amd64	2.14-2build2
-libjavascriptcoregtk-4.1-0:amd64	2.48.5-0ubuntu0.24.04.1
+libjavascriptcoregtk-4.1-0:amd64	2.48.7-0ubuntu0.24.04.2
 libjbig0:amd64	2.1-6.1ubuntu2
 libjbig2dec0:amd64	0.20-1build3
 libjcat1:amd64	0.2.0-2build3
@@ -1283,14 +1283,14 @@ libwayland-cursor0:amd64	1.22.0-2.1build1
 libwayland-egl1:amd64	1.22.0-2.1build1
 libwayland-server0:amd64	1.22.0-2.1build1
 libwbclient0:amd64	2:4.19.5+dfsg-4ubuntu9.3
-libwebkit2gtk-4.1-0:amd64	2.48.5-0ubuntu0.24.04.1
+libwebkit2gtk-4.1-0:amd64	2.48.7-0ubuntu0.24.04.2
 libwebp7:amd64	1.3.2-0.4build3
 libwebpdemux2:amd64	1.3.2-0.4build3
 libwebpmux3:amd64	1.3.2-0.4build3
 libwebrtc-audio-processing1:amd64	0.3.1-0ubuntu6
 libwhoopsie-preferences0	23build3
 libwhoopsie0:amd64	0.2.77build3
-libwireplumber-0.4-0:amd64	0.4.17-1ubuntu4
+libwireplumber-0.4-0:amd64	0.4.17-1ubuntu4.1
 libwmf-0.2-7:amd64	0.2.13-1.1build3
 libwmflite-0.2-7:amd64	0.2.13-1.1build3
 libwnck-3-0:amd64	43.0-3build4
@@ -1669,7 +1669,7 @@ system-config-printer-udev	1.5.18-1ubuntu9
 system-tools-backends	2.10.2-3.1ubuntu4
 systemd	255.4-1ubuntu8.11
 systemd-dev	255.4-1ubuntu8.11
-systemd-hwe-hwdb	255.1.5
+systemd-hwe-hwdb	255.1.6
 systemd-resolved	255.4-1ubuntu8.11
 systemd-sysv	255.4-1ubuntu8.11
 systemd-timesyncd	255.4-1ubuntu8.11
@@ -1678,7 +1678,7 @@ t1utils	1.41-4build3
 tar	1.35+dfsg-3build1
 tcl	8.6.14build1
 tcl8.6	8.6.14+dfsg-1build1
-tcpdump	4.99.4-3ubuntu4
+tcpdump	4.99.4-3ubuntu4.24.04.1
 telnet	0.17+2.5-3ubuntu4
 thermald	2.5.6-2ubuntu0.24.04.2
 thin-provisioning-tools	0.9.0-2ubuntu5.1
@@ -1742,7 +1742,7 @@ whoopsie	0.2.77build3
 whoopsie-preferences	23build3
 wireless-regdb	2024.10.07-0ubuntu2~24.04.1
 wireless-tools	30~pre9-16.1ubuntu2
-wireplumber	0.4.17-1ubuntu4
+wireplumber	0.4.17-1ubuntu4.1
 wpasupplicant	2:2.10-21ubuntu0.3
 x11-apps	7.7+11build3
 x11-common	1:7.7+23ubuntu3
@@ -1853,7 +1853,7 @@ snap:firmware-updater	stable/ubuntu-24.04	167
 snap:gnome-42-2204	stable/ubuntu-24.04	226
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
-snap:snap-store	stable/ubuntu-24.04	1300
+snap:snap-store	stable/ubuntu-24.04	1270
 snap:snapd-desktop-integration	stable/ubuntu-24.04	315
 snap:thunderbird	stable/ubuntu-24.04	825
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	237
