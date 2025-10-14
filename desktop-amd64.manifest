@@ -1849,7 +1849,7 @@ zstd	1.5.5+dfsg2-2build1.1
 snap:core22	stable	2133
 snap:snapd	stable	25202
 snap:firefox	stable/ubuntu-24.04	6966
-snap:firmware-updater	stable/ubuntu-24.04	167
+snap:firmware-updater	stable/ubuntu-24.04	210
 snap:gnome-42-2204	stable/ubuntu-24.04	226
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
