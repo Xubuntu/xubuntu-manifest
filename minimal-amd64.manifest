@@ -939,7 +939,7 @@ libzvbi0t64:amd64	0.2.42-2
 lightdm	1.30.0-0ubuntu14
 lightdm-gtk-greeter	2.0.9-0ubuntu3
 linux-base	4.5ubuntu9+24.04.1
-linux-firmware	20240318.git3b128b60-0ubuntu2.17
+linux-firmware	20240318.git3b128b60-0ubuntu2.19
 linux-generic-hwe-24.04	6.14.0-33.33~24.04.1
 linux-headers-6.14.0-33-generic	6.14.0-33.33~24.04.1
 linux-headers-generic-hwe-24.04	6.14.0-33.33~24.04.1
