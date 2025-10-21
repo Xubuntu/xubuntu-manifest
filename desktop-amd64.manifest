@@ -120,7 +120,7 @@ diffstat	1.66-1build1
 diffutils	1:3.10-1build1
 dirmngr	2.4.4-2ubuntu17.3
 distro-info	1.7build1
-distro-info-data	0.60ubuntu0.3
+distro-info-data	0.60ubuntu0.5
 dmeventd	2:1.02.185-3ubuntu3.2
 dmidecode	3.5-3ubuntu0.1
 dmraid	1.0.0.rc16-12ubuntu2
@@ -1408,12 +1408,12 @@ linux-hwe-6.14-headers-6.14.0-33	6.14.0-33.33~24.04.1
 linux-hwe-6.14-tools-6.14.0-33	6.14.0-33.33~24.04.1
 linux-image-6.14.0-33-generic	6.14.0-33.33~24.04.1
 linux-image-generic-hwe-24.04	6.14.0-33.33~24.04.1
-linux-libc-dev:amd64	6.8.0-85.85
+linux-libc-dev:amd64	6.8.0-86.87
 linux-modules-6.14.0-33-generic	6.14.0-33.33~24.04.1
 linux-modules-extra-6.14.0-33-generic	6.14.0-33.33~24.04.1
 linux-sound-base	1.0.25+dfsg-0ubuntu7
 linux-tools-6.14.0-33-generic	6.14.0-33.33~24.04.1
-linux-tools-common	6.8.0-85.85
+linux-tools-common	6.8.0-86.87
 lm-sensors	1:3.6.0-9build1
 localechooser-data	2.89ubuntu6
 locales	2.39-0ubuntu8.6
