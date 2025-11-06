@@ -699,9 +699,9 @@ libplymouth5:amd64	24.004.60-1ubuntu7.1
 libpng16-16t64:amd64	1.6.43-5build1
 libpolkit-agent-1-0:amd64	124-2ubuntu1.24.04.2
 libpolkit-gobject-1-0:amd64	124-2ubuntu1.24.04.2
-libpoppler-cpp0t64:amd64	24.02.0-1ubuntu9.7
-libpoppler-glib8t64:amd64	24.02.0-1ubuntu9.7
-libpoppler134:amd64	24.02.0-1ubuntu9.7
+libpoppler-cpp0t64:amd64	24.02.0-1ubuntu9.8
+libpoppler-glib8t64:amd64	24.02.0-1ubuntu9.8
+libpoppler134:amd64	24.02.0-1ubuntu9.8
 libpopt0:amd64	1.19+dfsg-1build1
 libppd2:amd64	2:2.0.0-0ubuntu4.1
 libppd2-common	2:2.0.0-0ubuntu4.1
@@ -1031,7 +1031,7 @@ policykit-1-gnome	0.105-7ubuntu5
 policykit-desktop-privileges	0.22
 polkitd	124-2ubuntu1.24.04.2
 poppler-data	0.4.12-1
-poppler-utils	24.02.0-1ubuntu9.7
+poppler-utils	24.02.0-1ubuntu9.8
 powermgmt-base	1.37ubuntu0.1
 ppp	2.4.9-1+1.1ubuntu4
 pptp-linux	1.10.0-1build4
