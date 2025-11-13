@@ -711,7 +711,7 @@ libproxy1v5:amd64	0.5.4-4build1
 libpsl5t64:amd64	0.21.2-1.1build1
 libpulse-mainloop-glib0:amd64	1:16.1+dfsg1-2ubuntu10.1
 libpulse0:amd64	1:16.1+dfsg1-2ubuntu10.1
-libpython3-stdlib:amd64	3.12.3-0ubuntu2
+libpython3-stdlib:amd64	3.12.3-0ubuntu2.1
 libpython3.12-minimal:amd64	3.12.3-1ubuntu0.8
 libpython3.12-stdlib:amd64	3.12.3-1ubuntu0.8
 libpython3.12t64:amd64	3.12.3-1ubuntu0.8
@@ -1055,7 +1055,7 @@ pulseaudio	1:16.1+dfsg1-2ubuntu10.1
 pulseaudio-utils	1:16.1+dfsg1-2ubuntu10.1
 python-apt-common	2.7.7ubuntu5
 python-babel-localedata	2.10.3-3build1
-python3	3.12.3-0ubuntu2
+python3	3.12.3-0ubuntu2.1
 python3-apport	2.28.1-0ubuntu3.8
 python3-apt	2.7.7ubuntu5
 python3-attr	23.2.0-2
@@ -1091,7 +1091,7 @@ python3-lazr.uri	1.0.6-3
 python3-markdown-it	3.0.0-2
 python3-markupsafe	2.1.5-1build2
 python3-mdurl	0.1.2-1
-python3-minimal	3.12.3-0ubuntu2
+python3-minimal	3.12.3-0ubuntu2.1
 python3-netaddr	0.8.0-2ubuntu1
 python3-netifaces:amd64	0.11.0-2build3
 python3-netplan	1.1.2-2~ubuntu24.04.2
@@ -1139,7 +1139,7 @@ sgml-data	2.0.11+nmu1
 shared-mime-info	2.4-4
 shim-signed	1.58+15.8-0ubuntu1
 shimmer-themes	2.1.3build1
-snapd	2.71+ubuntu24.04
+snapd	2.72+ubuntu24.04
 software-properties-common	0.99.49.3
 software-properties-gtk	0.99.49.3
 sound-theme-freedesktop	0.8-2ubuntu1
