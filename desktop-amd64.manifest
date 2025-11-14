@@ -1052,7 +1052,7 @@ libpulse-mainloop-glib0:amd64	1:16.1+dfsg1-2ubuntu10.1
 libpulse0:amd64	1:16.1+dfsg1-2ubuntu10.1
 libpwquality-common	1.4.5-3build1
 libpwquality1:amd64	1.4.5-3build1
-libpython3-stdlib:amd64	3.12.3-0ubuntu2
+libpython3-stdlib:amd64	3.12.3-0ubuntu2.1
 libpython3.12-minimal:amd64	3.12.3-1ubuntu0.8
 libpython3.12-stdlib:amd64	3.12.3-1ubuntu0.8
 libpython3.12t64:amd64	3.12.3-1ubuntu0.8
@@ -1540,7 +1540,7 @@ pulseaudio	1:16.1+dfsg1-2ubuntu10.1
 pulseaudio-utils	1:16.1+dfsg1-2ubuntu10.1
 python-apt-common	2.7.7ubuntu5
 python-babel-localedata	2.10.3-3build1
-python3	3.12.3-0ubuntu2
+python3	3.12.3-0ubuntu2.1
 python3-apport	2.28.1-0ubuntu3.8
 python3-apt	2.7.7ubuntu5
 python3-aptdaemon	1.1.1+bzr982-0ubuntu44
@@ -1586,7 +1586,7 @@ python3-mako	1.3.2-1
 python3-markdown-it	3.0.0-2
 python3-markupsafe	2.1.5-1build2
 python3-mdurl	0.1.2-1
-python3-minimal	3.12.3-0ubuntu2
+python3-minimal	3.12.3-0ubuntu2.1
 python3-netaddr	0.8.0-2ubuntu1
 python3-netifaces:amd64	0.11.0-2build3
 python3-netplan	1.1.2-2~ubuntu24.04.2
@@ -1648,7 +1648,7 @@ shared-mime-info	2.4-4
 shim-signed	1.58+15.8-0ubuntu1
 shimmer-themes	2.1.3build1
 simple-scan	46.0-0ubuntu2.1
-snapd	2.71+ubuntu24.04
+snapd	2.72+ubuntu24.04
 software-properties-common	0.99.49.3
 software-properties-gtk	0.99.49.3
 sound-icons	0.1-8
@@ -1694,7 +1694,7 @@ tpm-udev	0.6ubuntu1
 trace-cmd	3.2-1ubuntu2
 transmission-common	4.0.5-1build5
 transmission-gtk	4.0.5-1build5
-tree	2.1.1-2ubuntu3
+tree	2.1.1-2ubuntu3.24.04.2
 tumbler:amd64	4.18.1-1.1build4
 tumbler-common	4.18.1-1.1build4
 tzdata	2025b-0ubuntu0.24.04.1
@@ -1848,7 +1848,7 @@ zlib1g:amd64	1:1.3.dfsg-3.1ubuntu2.1
 zstd	1.5.5+dfsg2-2build1.1
 snap:core22	stable	2139
 snap:snapd	stable	25577
-snap:firefox	stable/ubuntu-24.04	7177
+snap:firefox	stable/ubuntu-24.04	7298
 snap:firmware-updater	stable/ubuntu-24.04	210
 snap:gnome-42-2204	stable/ubuntu-24.04	226
 snap:bare	stable	5
