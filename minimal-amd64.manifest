@@ -162,7 +162,7 @@ gir1.2-gtk-3.0:amd64	3.24.41-4ubuntu1.3
 gir1.2-handy-1:amd64	1.8.3-1build2
 gir1.2-harfbuzz-0.0:amd64	8.3.0-2build2
 gir1.2-libxfce4util-1.0:amd64	4.18.1-2build3
-gir1.2-packagekitglib-1.0	1.2.8-2ubuntu1.2
+gir1.2-packagekitglib-1.0	1.2.8-2ubuntu1.4
 gir1.2-pango-1.0:amd64	1.52.1+ds-1build1
 gir1.2-xfconf-0:amd64	4.18.1-1build3
 glib-networking:amd64	2.80.0-1build1
@@ -401,12 +401,12 @@ libdeflate0:amd64	1.19-1build1.1
 libdevmapper-event1.02.1:amd64	2:1.02.185-3ubuntu3.2
 libdevmapper1.02.1:amd64	2:1.02.185-3ubuntu3.2
 libdmraid1.0.0.rc16:amd64	1.0.0.rc16-12ubuntu2
-libdrm-amdgpu1:amd64	2.4.122-1~ubuntu0.24.04.1
-libdrm-common	2.4.122-1~ubuntu0.24.04.1
-libdrm-intel1:amd64	2.4.122-1~ubuntu0.24.04.1
-libdrm-nouveau2:amd64	2.4.122-1~ubuntu0.24.04.1
-libdrm-radeon1:amd64	2.4.122-1~ubuntu0.24.04.1
-libdrm2:amd64	2.4.122-1~ubuntu0.24.04.1
+libdrm-amdgpu1:amd64	2.4.122-1~ubuntu0.24.04.2
+libdrm-common	2.4.122-1~ubuntu0.24.04.2
+libdrm-intel1:amd64	2.4.122-1~ubuntu0.24.04.2
+libdrm-nouveau2:amd64	2.4.122-1~ubuntu0.24.04.2
+libdrm-radeon1:amd64	2.4.122-1~ubuntu0.24.04.2
+libdrm2:amd64	2.4.122-1~ubuntu0.24.04.2
 libduktape207:amd64	2.7.0+tests-0ubuntu3
 libdv4t64:amd64	1.0.0-17.1build1
 libdw1t64:amd64	0.190-1.1ubuntu0.1
@@ -506,10 +506,10 @@ libgstreamer1.0-0:amd64	1.24.2-1ubuntu0.1
 libgtk-3-0t64:amd64	3.24.41-4ubuntu1.3
 libgtk-3-bin	3.24.41-4ubuntu1.3
 libgtk-3-common	3.24.41-4ubuntu1.3
-libgtk-4-1:amd64	4.14.5+ds-0ubuntu0.5
-libgtk-4-bin	4.14.5+ds-0ubuntu0.5
-libgtk-4-common	4.14.5+ds-0ubuntu0.5
-libgtk-4-media-gstreamer	4.14.5+ds-0ubuntu0.5
+libgtk-4-1:amd64	4.14.5+ds-0ubuntu0.6
+libgtk-4-bin	4.14.5+ds-0ubuntu0.6
+libgtk-4-common	4.14.5+ds-0ubuntu0.6
+libgtk-4-media-gstreamer	4.14.5+ds-0ubuntu0.6
 libgtk-layer-shell0	0.8.2-1build2
 libgtk2.0-0t64:amd64	2.24.33-4ubuntu1.1
 libgtk2.0-bin	2.24.33-4ubuntu1.1
@@ -645,7 +645,7 @@ libnghttp2-14:amd64	1.59.0-1ubuntu0.2
 libnl-3-200:amd64	3.7.0-0.3build1.1
 libnl-genl-3-200:amd64	3.7.0-0.3build1.1
 libnl-route-3-200:amd64	3.7.0-0.3build1.1
-libnm0:amd64	1.46.0-1ubuntu2.3
+libnm0:amd64	1.46.0-1ubuntu2.4
 libnma-common	1.10.6-3build2
 libnma0:amd64	1.10.6-3build2
 libnotify-bin	0.8.3-1build2
@@ -666,7 +666,7 @@ libopenjp2-7:amd64	2.5.0-2ubuntu0.4
 libopus0:amd64	1.4-1build1
 liborc-0.4-0t64:amd64	1:0.4.38-1ubuntu0.1
 libp11-kit0:amd64	0.25.3-4ubuntu2.1
-libpackagekit-glib2-18:amd64	1.2.8-2ubuntu1.2
+libpackagekit-glib2-18:amd64	1.2.8-2ubuntu1.4
 libpam-cap:amd64	1:2.66-5ubuntu2.2
 libpam-gnome-keyring:amd64	46.1-2build1
 libpam-modules:amd64	1.5.3-5ubuntu5.5
@@ -939,7 +939,7 @@ libzvbi0t64:amd64	0.2.42-2
 lightdm	1.30.0-0ubuntu14
 lightdm-gtk-greeter	2.0.9-0ubuntu3
 linux-base	4.5ubuntu9+24.04.1
-linux-firmware	20240318.git3b128b60-0ubuntu2.19
+linux-firmware	20240318.git3b128b60-0ubuntu2.21
 linux-generic-hwe-24.04	6.14.0-35.35~24.04.1
 linux-headers-6.14.0-35-generic	6.14.0-35.35~24.04.1
 linux-headers-generic-hwe-24.04	6.14.0-35.35~24.04.1
@@ -988,7 +988,7 @@ netbase	6.4
 netcat-openbsd	1.226-1ubuntu2
 netplan-generator	1.1.2-2~ubuntu24.04.2
 netplan.io	1.1.2-2~ubuntu24.04.2
-network-manager	1.46.0-1ubuntu2.3
+network-manager	1.46.0-1ubuntu2.4
 network-manager-gnome	1.34.0-1ubuntu3
 network-manager-pptp	1.2.12-3build2
 networkd-dispatcher	2.2.4-1
@@ -1004,8 +1004,8 @@ openssl	3.0.13-0ubuntu3.6
 os-prober	1.81ubuntu4
 p11-kit	0.25.3-4ubuntu2.1
 p11-kit-modules:amd64	0.25.3-4ubuntu2.1
-packagekit	1.2.8-2ubuntu1.2
-packagekit-tools	1.2.8-2ubuntu1.2
+packagekit	1.2.8-2ubuntu1.4
+packagekit-tools	1.2.8-2ubuntu1.4
 parted	3.6-4build1
 passwd	1:4.13+dfsg1-4ubuntu3.2
 pavucontrol	5.0-2build3
@@ -1175,7 +1175,7 @@ tumbler:amd64	4.18.1-1.1build4
 tumbler-common	4.18.1-1.1build4
 tzdata	2025b-0ubuntu0.24.04.1
 ubuntu-advantage-desktop-daemon	1.11ubuntu0.1
-ubuntu-drivers-common	1:0.9.7.6ubuntu3.4
+ubuntu-drivers-common	1:0.9.7.6ubuntu3.5
 ubuntu-kernel-accessories	1.539.2
 ubuntu-keyring	2023.11.28.1
 ubuntu-minimal	1.539.2
@@ -1222,7 +1222,7 @@ xauth	1:1.1.2-1build1
 xbitmaps	1.1.1-2.2
 xcape	1.2-3build1
 xcvt	0.1.2-1build1
-xdg-dbus-proxy	0.1.5-1build2
+xdg-dbus-proxy	0.1.5-1ubuntu0.1
 xdg-desktop-portal	1.18.4-1ubuntu2.24.04.1
 xdg-desktop-portal-gtk	1.15.1-1build2
 xdg-user-dirs	0.18-1build1
@@ -1292,6 +1292,6 @@ zfsutils-linux	2.2.2-0ubuntu9.4
 zip	3.0-13ubuntu0.2
 zlib1g:amd64	1:1.3.dfsg-3.1ubuntu2.1
 zstd	1.5.5+dfsg2-2build1.1
-snap:core22	stable	2139
+snap:core22	stable	2163
 snap:snapd	stable	25577
 snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	433
