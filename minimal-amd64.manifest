@@ -89,7 +89,7 @@ debconf	1.5.86ubuntu1
 debconf-i18n	1.5.86ubuntu1
 debianutils	5.17build1
 desktop-file-utils	0.27-2build1
-dhcpcd-base	1:10.0.6-1ubuntu3.1
+dhcpcd-base	1:10.0.6-1ubuntu3.2
 dictionaries-common	1.29.7
 diffutils	1:3.10-1build1
 dirmngr	2.4.4-2ubuntu17.3
