@@ -235,7 +235,7 @@ gir1.2-polkit-1.0	124-2ubuntu1.24.04.2
 gir1.2-rb-3.0:amd64	3.4.7-2ubuntu6
 gir1.2-secret-1:amd64	0.21.4-1build3
 gir1.2-snapd-2:amd64	1.64-0ubuntu5
-gir1.2-soup-3.0:amd64	3.4.4-5ubuntu0.5
+gir1.2-soup-3.0:amd64	3.4.4-5ubuntu0.6
 gir1.2-vte-2.91:amd64	0.76.0-1ubuntu0.1
 gir1.2-webkit2-4.1:amd64	2.50.2-0ubuntu0.24.04.2
 gir1.2-wnck-3.0:amd64	43.0-3build4
@@ -1145,8 +1145,8 @@ libsonic0:amd64	0.2.0-13build1
 libsord-0-0:amd64	0.16.16-2build1
 libsort-versions-perl	1.62-3
 libsoup-2.4-1:amd64	2.74.3-6ubuntu1.6
-libsoup-3.0-0:amd64	3.4.4-5ubuntu0.5
-libsoup-3.0-common	3.4.4-5ubuntu0.5
+libsoup-3.0-0:amd64	3.4.4-5ubuntu0.6
+libsoup-3.0-common	3.4.4-5ubuntu0.6
 libsoup2.4-common	2.74.3-6ubuntu1.6
 libsource-highlight-common	3.1.9-4.3build1
 libsource-highlight4t64:amd64	3.1.9-4.3build1
@@ -1726,7 +1726,7 @@ ure	4:24.2.7-0ubuntu0.24.04.4
 usb-modeswitch	2.6.1-3ubuntu3
 usb-modeswitch-data	20191128-6
 usb.ids	2024.03.18-1
-usbmuxd	1.1.1-5~exp3ubuntu2
+usbmuxd	1.1.1-5~exp3ubuntu2.1
 usbutils	1:017-3build1
 user-setup	1.95ubuntu1
 util-linux	2.39.3-9ubuntu6.3
