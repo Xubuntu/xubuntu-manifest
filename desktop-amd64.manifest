@@ -54,8 +54,8 @@ bpfcc-tools	0.29.1+ds-1ubuntu7
 bpftrace	0.20.2-1ubuntu4.3
 brltty	6.6-4ubuntu5
 brltty-x11	6.6-4ubuntu5
-bsdextrautils	2.39.3-9ubuntu6.3
-bsdutils	1:2.39.3-9ubuntu6.3
+bsdextrautils	2.39.3-9ubuntu6.4
+bsdutils	1:2.39.3-9ubuntu6.4
 btrfs-progs	6.6.3-1.1build2
 bubblewrap	0.9.0-1ubuntu0.1
 build-essential	12.10ubuntu1
@@ -139,7 +139,7 @@ e2fsprogs-l10n	1.47.0-2.4~exp1ubuntu4.1
 eatmydata	131-1ubuntu1
 ed	1.20.1-1
 efibootmgr	18-1build2
-eject	2.39.3-9ubuntu6.3
+eject	2.39.3-9ubuntu6.4
 elementary-xfce-icon-theme	0.19-1
 emacsen-common	3.0.5
 enchant-2	2.3.3-2build2
@@ -151,7 +151,7 @@ espeak-ng-data:amd64	1.51+dfsg-12build1
 ethtool	1:6.7-1build1
 exo-utils	4.18.0-1build4
 fakeroot	1.33-1
-fdisk	2.39.3-9ubuntu6.3
+fdisk	2.39.3-9ubuntu6.4
 file	1:5.45-3build1
 finalrd	9build1
 findutils	4.9.0-5build1
@@ -458,7 +458,7 @@ libbdplus0:amd64	0.2.0-3build1
 libberkeleydb-perl:amd64	0.64-2build4
 libbinutils:amd64	2.42-4ubuntu2.8
 libblas3:amd64	3.12.0-3build1.1
-libblkid1:amd64	2.39.3-9ubuntu6.3
+libblkid1:amd64	2.39.3-9ubuntu6.4
 libblockdev-crypto3:amd64	3.1.1-1ubuntu0.1
 libblockdev-fs3:amd64	3.1.1-1ubuntu0.1
 libblockdev-loop3:amd64	3.1.1-1ubuntu0.1
@@ -638,7 +638,7 @@ libfastjson4:amd64	1.2304.0-1build1
 libfcgi-bin	2.4.2-2.1ubuntu0.24.04.1
 libfcgi-perl	0.82+ds-3build2
 libfcgi0t64:amd64	2.4.2-2.1ubuntu0.24.04.1
-libfdisk1:amd64	2.39.3-9ubuntu6.3
+libfdisk1:amd64	2.39.3-9ubuntu6.4
 libffi8:amd64	3.4.6-1build1
 libfftw3-double3:amd64	3.3.10-1ubuntu3
 libfftw3-single3:amd64	3.3.10-1ubuntu3
@@ -898,9 +898,9 @@ libmarkdown2:amd64	2.2.7-2build1
 libmath-base85-perl	0.5+dfsg-2
 libmaxminddb0:amd64	1.9.1-1build1
 libmbedcrypto7t64:amd64	2.28.8-1
-libmbim-glib4:amd64	1.31.2-0ubuntu3
-libmbim-proxy	1.31.2-0ubuntu3
-libmbim-utils	1.31.2-0ubuntu3
+libmbim-glib4:amd64	1.31.2-0ubuntu3.1
+libmbim-proxy	1.31.2-0ubuntu3.1
+libmbim-utils	1.31.2-0ubuntu3.1
 libmd0:amd64	1.1.0-2build1.1
 libmhash2:amd64	0.9.9.9-9build3
 libminiupnpc17:amd64	2.2.6-1build2
@@ -912,7 +912,7 @@ libmodule-implementation-perl	0.09-2
 libmodule-runtime-perl	0.016-2
 libmoo-perl	2.005005-1
 libmoox-aliases-perl	0.001006-2
-libmount1:amd64	2.39.3-9ubuntu6.3
+libmount1:amd64	2.39.3-9ubuntu6.4
 libmouse-perl	2.5.10-1build8
 libmousepad0:amd64	0.6.1-1build2
 libmp3lame0:amd64	3.100-6build1
@@ -965,7 +965,7 @@ libnotify4:amd64	0.8.3-1build2
 libnpth0t64:amd64	1.6-3.1build1
 libnspr4:amd64	2:4.35-1.1build1
 libnss-mdns:amd64	0.15.1-4build1
-libnss-systemd:amd64	255.4-1ubuntu8.11
+libnss-systemd:amd64	255.4-1ubuntu8.12
 libnss3:amd64	2:3.98-1build1
 libntfs-3g89t64:amd64	1:2022.10.3-1.2ubuntu3
 libnuma1:amd64	2.0.18-1build1
@@ -994,7 +994,7 @@ libpam-gnome-keyring:amd64	46.1-2build1
 libpam-modules:amd64	1.5.3-5ubuntu5.5
 libpam-modules-bin	1.5.3-5ubuntu5.5
 libpam-runtime	1.5.3-5ubuntu5.5
-libpam-systemd:amd64	255.4-1ubuntu8.11
+libpam-systemd:amd64	255.4-1ubuntu8.12
 libpam0g:amd64	1.5.3-5ubuntu5.5
 libpango-1.0-0:amd64	1.52.1+ds-1build1
 libpangocairo-1.0-0:amd64	1.52.1+ds-1build1
@@ -1024,9 +1024,9 @@ libperlio-gzip-perl	0.20-1build4
 libperlio-utf8-strict-perl	0.010-1build3
 libpgm-5.3-0t64:amd64	5.3.128~dfsg-2.1build1
 libpipeline1:amd64	1.5.7-2
-libpipewire-0.3-0t64:amd64	1.0.5-1ubuntu3.1
-libpipewire-0.3-common	1.0.5-1ubuntu3.1
-libpipewire-0.3-modules:amd64	1.0.5-1ubuntu3.1
+libpipewire-0.3-0t64:amd64	1.0.5-1ubuntu3.2
+libpipewire-0.3-common	1.0.5-1ubuntu3.2
+libpipewire-0.3-modules:amd64	1.0.5-1ubuntu3.2
 libpixman-1-0:amd64	0.42.2-1build1
 libplacebo338:amd64	6.338.2-2build1
 libplist-2.0-4:amd64	2.3.0-1~exp2build2
@@ -1132,7 +1132,7 @@ libsigc++-2.0-0v5:amd64	2.12.1-2
 libsigc++-3.0-0:amd64	3.6.0-2
 libslang2:amd64	2.3.3-3build2
 libsm6:amd64	2:1.2.3-1build3
-libsmartcols1:amd64	2.39.3-9ubuntu6.3
+libsmartcols1:amd64	2.39.3-9ubuntu6.4
 libsmbclient0:amd64	2:4.19.5+dfsg-4ubuntu9.4
 libsnapd-glib-2-1:amd64	1.64-0ubuntu5
 libsnappy1v5:amd64	1.1.10-1build1
@@ -1151,8 +1151,8 @@ libsoup2.4-common	2.74.3-6ubuntu1.6
 libsource-highlight-common	3.1.9-4.3build1
 libsource-highlight4t64:amd64	3.1.9-4.3build1
 libsoxr0:amd64	0.1.3-4build3
-libspa-0.2-bluetooth:amd64	1.0.5-1ubuntu3.1
-libspa-0.2-modules:amd64	1.0.5-1ubuntu3.1
+libspa-0.2-bluetooth:amd64	1.0.5-1ubuntu3.2
+libspa-0.2-modules:amd64	1.0.5-1ubuntu3.2
 libspectre1:amd64	0.2.12-1build2
 libspeechd2:amd64	0.12.0~rc2-2build3
 libspeex1:amd64	1.2.1-2ubuntu2.24.04.1
@@ -1182,8 +1182,8 @@ libswresample4:amd64	7:6.1.1-3ubuntu5
 libswscale7:amd64	7:6.1.1-3ubuntu5
 libsynctex2:amd64	2023.20230311.66589-9build3
 libsyntax-keyword-try-perl	0.29-1build3
-libsystemd-shared:amd64	255.4-1ubuntu8.11
-libsystemd0:amd64	255.4-1ubuntu8.11
+libsystemd-shared:amd64	255.4-1ubuntu8.12
+libsystemd0:amd64	255.4-1ubuntu8.12
 libtag1v5:amd64	1.13.1-1build1
 libtag1v5-vanilla:amd64	1.13.1-1build1
 libtagc0:amd64	1.13.1-1build1
@@ -1232,7 +1232,7 @@ libtwolame0:amd64	0.4.0-2build3
 libu2f-udev	1.1.10-3build3
 libubsan1:amd64	14.2.0-4ubuntu2~24.04
 libuchardet0:amd64	0.0.8-1build1
-libudev1:amd64	255.4-1ubuntu8.11
+libudev1:amd64	255.4-1ubuntu8.12
 libudfread0:amd64	1.1.2-1build1
 libudisks2-0:amd64	2.10.1-6ubuntu1.3
 libumfpack6:amd64	1:7.6.1+dfsg-1build1
@@ -1253,7 +1253,7 @@ libusb-1.0-0:amd64	2:1.0.27-1
 libusbmuxd6:amd64	2.0.2-4build3
 libutempter0:amd64	1.2.1-3build1
 libuuid-perl	0.31-1build3
-libuuid1:amd64	2.39.3-9ubuntu6.3
+libuuid1:amd64	2.39.3-9ubuntu6.4
 libuutil3linux	2.2.2-0ubuntu9.4
 libuv1t64:amd64	1.48.0-1.1build1
 libv4l-0t64:amd64	1.26.1-4build3
@@ -1450,7 +1450,7 @@ mesa-vulkan-drivers:amd64	25.0.7-0ubuntu0.24.04.2
 mobile-broadband-provider-info	20230416-1
 modemmanager	1.23.4-0ubuntu2
 mokutil	0.6.0-2build3
-mount	2.39.3-9ubuntu6.3
+mount	2.39.3-9ubuntu6.4
 mousepad	0.6.1-1build2
 mscompress	0.4-10build1
 mtools	4.0.43-1build1
@@ -1500,9 +1500,9 @@ perl-base	5.38.2-3.2ubuntu0.2
 perl-modules-5.38	5.38.2-3.2ubuntu0.2
 perl-openssl-defaults:amd64	7build3
 pinentry-gnome3	1.2.1-3ubuntu5
-pipewire:amd64	1.0.5-1ubuntu3.1
-pipewire-bin	1.0.5-1ubuntu3.1
-pipewire-pulse	1.0.5-1ubuntu3.1
+pipewire:amd64	1.0.5-1ubuntu3.2
+pipewire-bin	1.0.5-1ubuntu3.2
+pipewire-pulse	1.0.5-1ubuntu3.2
 pkexec	124-2ubuntu1.24.04.2
 plocate	1.1.19-2ubuntu2
 plymouth	24.004.60-1ubuntu7.1
@@ -1622,7 +1622,7 @@ python3.12	3.12.3-1ubuntu0.9
 python3.12-minimal	3.12.3-1ubuntu0.9
 readline-common	8.2-4build1
 reiserfsprogs	1:3.6.27-7.1build1
-rfkill	2.39.3-9ubuntu6.3
+rfkill	2.39.3-9ubuntu6.4
 rhythmbox	3.4.7-2ubuntu6
 rhythmbox-data	3.4.7-2ubuntu6
 rhythmbox-plugin-alternative-toolbar	0.20.4-1
@@ -1667,12 +1667,12 @@ system-config-printer	1.5.18-1ubuntu9
 system-config-printer-common	1.5.18-1ubuntu9
 system-config-printer-udev	1.5.18-1ubuntu9
 system-tools-backends	2.10.2-3.1ubuntu4
-systemd	255.4-1ubuntu8.11
-systemd-dev	255.4-1ubuntu8.11
+systemd	255.4-1ubuntu8.12
+systemd-dev	255.4-1ubuntu8.12
 systemd-hwe-hwdb	255.1.6
-systemd-resolved	255.4-1ubuntu8.11
-systemd-sysv	255.4-1ubuntu8.11
-systemd-timesyncd	255.4-1ubuntu8.11
+systemd-resolved	255.4-1ubuntu8.12
+systemd-sysv	255.4-1ubuntu8.12
+systemd-timesyncd	255.4-1ubuntu8.12
 sysvinit-utils	3.08-6ubuntu3
 t1utils	1.41-4build3
 tar	1.35+dfsg-3build1
@@ -1710,7 +1710,7 @@ ubuntu-release-upgrader-core	1:24.04.27
 ubuntu-release-upgrader-gtk	1:24.04.27
 ubuntu-standard	1.539.2
 ucf	3.0043+nmu1
-udev	255.4-1ubuntu8.11
+udev	255.4-1ubuntu8.12
 udisks2	2.10.1-6ubuntu1.3
 ufw	0.36.2-6
 unattended-upgrades	2.9.1+nmu4ubuntu1
@@ -1729,8 +1729,8 @@ usb.ids	2024.03.18-1
 usbmuxd	1.1.1-5~exp3ubuntu2.1
 usbutils	1:017-3build1
 user-setup	1.95ubuntu1
-util-linux	2.39.3-9ubuntu6.3
-uuid-runtime	2.39.3-9ubuntu6.3
+util-linux	2.39.3-9ubuntu6.4
+uuid-runtime	2.39.3-9ubuntu6.4
 va-driver-all:amd64	2.20.0-2build1
 vdpau-driver-all:amd64	1.5-2build1
 vim-common	2:9.1.0016-1ubuntu7.9
