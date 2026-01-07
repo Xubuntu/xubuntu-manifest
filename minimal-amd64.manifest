@@ -157,7 +157,7 @@ gir1.2-atk-1.0:amd64	2.52.0-1build1
 gir1.2-freedesktop:amd64	1.80.1-1
 gir1.2-gdkpixbuf-2.0:amd64	2.42.10+dfsg-3ubuntu3.2
 gir1.2-girepository-2.0:amd64	1.80.1-1
-gir1.2-glib-2.0:amd64	2.80.0-6ubuntu3.5
+gir1.2-glib-2.0:amd64	2.80.0-6ubuntu3.6
 gir1.2-gtk-3.0:amd64	3.24.41-4ubuntu1.3
 gir1.2-handy-1:amd64	1.8.3-1build2
 gir1.2-harfbuzz-0.0:amd64	8.3.0-2build2
@@ -476,9 +476,9 @@ libgl1-mesa-dri:amd64	25.0.7-0ubuntu0.24.04.2
 libgles2:amd64	1.7.0-1build1
 libglib-object-introspection-perl	0.051-1build3
 libglib-perl:amd64	3:1.329.3-3build3
-libglib2.0-0t64:amd64	2.80.0-6ubuntu3.5
-libglib2.0-bin	2.80.0-6ubuntu3.5
-libglib2.0-data	2.80.0-6ubuntu3.5
+libglib2.0-0t64:amd64	2.80.0-6ubuntu3.6
+libglib2.0-bin	2.80.0-6ubuntu3.6
+libglib2.0-data	2.80.0-6ubuntu3.6
 libglibmm-2.4-1t64:amd64	2.66.7-1build1
 libglu1-mesa:amd64	9.0.2-1.1build1
 libglvnd0:amd64	1.7.0-1build1
@@ -941,7 +941,7 @@ libzvbi0t64:amd64	0.2.42-2
 lightdm	1.30.0-0ubuntu14
 lightdm-gtk-greeter	2.0.9-0ubuntu3
 linux-base	4.5ubuntu9+24.04.1
-linux-firmware	20240318.git3b128b60-0ubuntu2.21
+linux-firmware	20240318.git3b128b60-0ubuntu2.22
 linux-generic-hwe-24.04	6.14.0-37.37~24.04.1
 linux-headers-6.14.0-37-generic	6.14.0-37.37~24.04.1
 linux-headers-generic-hwe-24.04	6.14.0-37.37~24.04.1
