@@ -772,10 +772,10 @@ libhandy-1-0:amd64	1.8.3-1build2
 libharfbuzz-gobject0:amd64	8.3.0-2build2
 libharfbuzz-icu0:amd64	8.3.0-2build2
 libharfbuzz0b:amd64	8.3.0-2build2
-libheif-plugin-aomdec:amd64	1.17.6-1ubuntu4.1
-libheif-plugin-aomenc:amd64	1.17.6-1ubuntu4.1
-libheif-plugin-libde265:amd64	1.17.6-1ubuntu4.1
-libheif1:amd64	1.17.6-1ubuntu4.1
+libheif-plugin-aomdec:amd64	1.17.6-1ubuntu4.2
+libheif-plugin-aomenc:amd64	1.17.6-1ubuntu4.2
+libheif-plugin-libde265:amd64	1.17.6-1ubuntu4.2
+libheif1:amd64	1.17.6-1ubuntu4.2
 libhogweed6t64:amd64	3.9.1-2.2build1.1
 libhpmud0:amd64	3.23.12+dfsg0-0ubuntu5
 libhtml-form-perl	6.11-1
