@@ -214,7 +214,7 @@ gir1.2-coglpango-1.0:amd64	1.22.8-4ubuntu4
 gir1.2-freedesktop:amd64	1.80.1-1
 gir1.2-gdkpixbuf-2.0:amd64	2.42.10+dfsg-3ubuntu3.2
 gir1.2-girepository-2.0:amd64	1.80.1-1
-gir1.2-glib-2.0:amd64	2.80.0-6ubuntu3.6
+gir1.2-glib-2.0:amd64	2.80.0-6ubuntu3.7
 gir1.2-gmenu-3.0:amd64	3.36.0-1.1ubuntu3
 gir1.2-gst-plugins-base-1.0:amd64	1.24.2-1ubuntu0.3
 gir1.2-gstreamer-1.0:amd64	1.24.2-1ubuntu0.1
@@ -699,9 +699,9 @@ libgl1-mesa-dri:amd64	25.0.7-0ubuntu0.24.04.2
 libgles2:amd64	1.7.0-1build1
 libglib-object-introspection-perl	0.051-1build3
 libglib-perl:amd64	3:1.329.3-3build3
-libglib2.0-0t64:amd64	2.80.0-6ubuntu3.6
-libglib2.0-bin	2.80.0-6ubuntu3.6
-libglib2.0-data	2.80.0-6ubuntu3.6
+libglib2.0-0t64:amd64	2.80.0-6ubuntu3.7
+libglib2.0-bin	2.80.0-6ubuntu3.7
+libglib2.0-data	2.80.0-6ubuntu3.7
 libglibmm-2.4-1t64:amd64	2.66.7-1build1
 libglibmm-2.68-1t64:amd64	2.78.1-2.2build2
 libglu1-mesa:amd64	9.0.2-1.1build1
