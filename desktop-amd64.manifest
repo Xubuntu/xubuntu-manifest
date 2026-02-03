@@ -315,7 +315,7 @@ ieee-data	20220827.1
 im-config	0.57-2
 indicator-common	16.10.0+18.04.20180321.1-0ubuntu8
 indicator-messages	13.10.1+18.10.20180918-0ubuntu7
-inetutils-telnet	2:2.5-3ubuntu4
+inetutils-telnet	2:2.5-3ubuntu4.1
 info	7.1-3build2
 init	1.66ubuntu1
 init-system-helpers	1.66ubuntu1
@@ -1031,7 +1031,7 @@ libpixman-1-0:amd64	0.42.2-1build1
 libplacebo338:amd64	6.338.2-2build1
 libplist-2.0-4:amd64	2.3.0-1~exp2build2
 libplymouth5:amd64	24.004.60-1ubuntu7.1
-libpng16-16t64:amd64	1.6.43-5ubuntu0.3
+libpng16-16t64:amd64	1.6.43-5ubuntu0.4
 libpocketsphinx3:amd64	0.8.0+real5prealpha+1-15ubuntu5
 libpolkit-agent-1-0:amd64	124-2ubuntu1.24.04.2
 libpolkit-gobject-1-0:amd64	124-2ubuntu1.24.04.2
@@ -1538,11 +1538,11 @@ psmisc	23.7-1build1
 publicsuffix	20231001.0357-0.1
 pulseaudio	1:16.1+dfsg1-2ubuntu10.1
 pulseaudio-utils	1:16.1+dfsg1-2ubuntu10.1
-python-apt-common	2.7.7ubuntu5.1
+python-apt-common	2.7.7ubuntu5.2
 python-babel-localedata	2.10.3-3build1
 python3	3.12.3-0ubuntu2.1
 python3-apport	2.28.1-0ubuntu3.8
-python3-apt	2.7.7ubuntu5.1
+python3-apt	2.7.7ubuntu5.2
 python3-aptdaemon	1.1.1+bzr982-0ubuntu44
 python3-aptdaemon.gtk3widgets	1.1.1+bzr982-0ubuntu44
 python3-attr	23.2.0-2
@@ -1679,7 +1679,7 @@ tar	1.35+dfsg-3build1
 tcl	8.6.14build1
 tcl8.6	8.6.14+dfsg-1build1
 tcpdump	4.99.4-3ubuntu4.24.04.1
-telnet	0.17+2.5-3ubuntu4
+telnet	0.17+2.5-3ubuntu4.1
 thermald	2.5.6-2ubuntu0.24.04.3
 thin-provisioning-tools	0.9.0-2ubuntu5.1
 thunar	4.18.8-1build3
