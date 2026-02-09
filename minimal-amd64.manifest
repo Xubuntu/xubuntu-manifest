@@ -22,7 +22,7 @@ at-spi2-core	2.52.0-1build1
 avahi-daemon	0.8-13ubuntu6.1
 ayatana-indicator-application	22.2.0-1build2
 ayatana-indicator-common	0.9.10-1build2
-base-files	13ubuntu10.3
+base-files	13ubuntu10.4
 base-passwd	3.6.3build1
 bash	5.2.21-2ubuntu4
 bash-completion	1:2.11-8
@@ -223,9 +223,9 @@ inetutils-telnet	2:2.5-3ubuntu4.1
 info	7.1-3build2
 init	1.66ubuntu1
 init-system-helpers	1.66ubuntu1
-initramfs-tools	0.142ubuntu25.5
-initramfs-tools-bin	0.142ubuntu25.5
-initramfs-tools-core	0.142ubuntu25.5
+initramfs-tools	0.142ubuntu25.8
+initramfs-tools-bin	0.142ubuntu25.8
+initramfs-tools-core	0.142ubuntu25.8
 inputattach	1:1.8.1-2build1
 install-info	7.1-3build2
 intel-media-va-driver:amd64	24.1.0+dfsg1-1ubuntu0.1
