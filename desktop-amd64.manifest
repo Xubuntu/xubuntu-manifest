@@ -1031,7 +1031,7 @@ libpixman-1-0:amd64	0.42.2-1build1
 libplacebo338:amd64	6.338.2-2build1
 libplist-2.0-4:amd64	2.3.0-1~exp2build2
 libplymouth5:amd64	24.004.60-1ubuntu7.1
-libpng16-16t64:amd64	1.6.43-5ubuntu0.4
+libpng16-16t64:amd64	1.6.43-5ubuntu0.5
 libpocketsphinx3:amd64	0.8.0+real5prealpha+1-15ubuntu5
 libpolkit-agent-1-0:amd64	124-2ubuntu1.24.04.2
 libpolkit-gobject-1-0:amd64	124-2ubuntu1.24.04.2
