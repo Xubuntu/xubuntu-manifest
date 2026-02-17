@@ -54,8 +54,8 @@ console-setup-linux	1.226ubuntu1
 coreutils	9.4-3ubuntu6.1
 cpio	2.15+dfsg-1ubuntu2
 cpp	4:13.2.0-7ubuntu1
-cpp-13	13.3.0-6ubuntu2~24.04
-cpp-13-x86-64-linux-gnu	13.3.0-6ubuntu2~24.04
+cpp-13	13.3.0-6ubuntu2~24.04.1
+cpp-13-x86-64-linux-gnu	13.3.0-6ubuntu2~24.04.1
 cpp-x86-64-linux-gnu	4:13.2.0-7ubuntu1
 cron	3.0pl1-184ubuntu2
 cron-daemon-common	3.0pl1-184ubuntu2
@@ -146,8 +146,8 @@ ftp	20230507-2build3
 fuse3	3.14.0-5build1
 fwupd	1.9.33-0ubuntu1~24.04.1ubuntu1
 fwupd-signed	1.52+1.4-1
-gcc-13-base:amd64	13.3.0-6ubuntu2~24.04
-gcc-14-base:amd64	14.2.0-4ubuntu2~24.04
+gcc-13-base:amd64	13.3.0-6ubuntu2~24.04.1
+gcc-14-base:amd64	14.2.0-4ubuntu2~24.04.1
 gcr	3.41.2-1build3
 gcr4	4.2.0-5
 gdisk	1.0.10-1build1
@@ -302,9 +302,9 @@ libappstream5:amd64	1.0.2-1build6
 libapt-pkg6.0t64:amd64	2.8.3
 libarchive13t64:amd64	3.7.2-2ubuntu0.5
 libargon2-1:amd64	0~20190702+dfsg-4build1
-libasound2-data	1.2.11-1ubuntu0.1
+libasound2-data	1.2.11-1ubuntu0.2
 libasound2-plugins:amd64	1.2.7.1-1ubuntu5
-libasound2t64:amd64	1.2.11-1ubuntu0.1
+libasound2t64:amd64	1.2.11-1ubuntu0.2
 libaspell15:amd64	0.60.8.1-1build1
 libassuan0:amd64	2.5.6-1build1
 libasyncns0:amd64	0.8-6build4
@@ -313,8 +313,8 @@ libatk-bridge2.0-0t64:amd64	2.52.0-1build1
 libatk1.0-0t64:amd64	2.52.0-1build1
 libatkmm-1.6-1v5:amd64	2.28.4-1build4
 libatm1t64:amd64	1:2.5.1-5.1build1
-libatomic1:amd64	14.2.0-4ubuntu2~24.04
-libatopology2t64:amd64	1.2.11-1ubuntu0.1
+libatomic1:amd64	14.2.0-4ubuntu2~24.04.1
+libatopology2t64:amd64	1.2.11-1ubuntu0.2
 libatspi2.0-0t64:amd64	2.52.0-1build1
 libattr1:amd64	1:2.5.2-1build1.1
 libaudit-common	1:3.1.2-2.1build1.1
@@ -428,7 +428,7 @@ libevdev2:amd64	1.13.1+dfsg-1build1
 libexif12:amd64	0.6.24-1build2
 libexo-2-0:amd64	4.18.0-1build4
 libexo-common	4.18.0-1build4
-libexpat1:amd64	2.6.1-2ubuntu0.3
+libexpat1:amd64	2.6.1-2ubuntu0.4
 libext2fs2t64:amd64	1.47.0-2.4~exp1ubuntu4.1
 libextutils-depends-perl	0.8001-2
 libfastjson4:amd64	1.2304.0-1build1
@@ -457,7 +457,7 @@ libgarcon-1-0:amd64	4.18.1-1build3
 libgarcon-common	4.18.1-1build3
 libgarcon-gtk3-1-0:amd64	4.18.1-1build3
 libgbm1:amd64	25.2.8-0ubuntu0.24.04.1
-libgcc-s1:amd64	14.2.0-4ubuntu2~24.04
+libgcc-s1:amd64	14.2.0-4ubuntu2~24.04.1
 libgck-1-0:amd64	3.41.2-1build3
 libgck-2-2:amd64	4.2.0-5
 libgcr-4-4:amd64	4.2.0-5
@@ -485,8 +485,8 @@ libglvnd0:amd64	1.7.0-1build1
 libglx-mesa0:amd64	25.2.8-0ubuntu0.24.04.1
 libglx0:amd64	1.7.0-1build1
 libgmp10:amd64	2:6.3.0+dfsg-2ubuntu6.1
-libgnutls30t64:amd64	3.8.3-1.1ubuntu3.4
-libgomp1:amd64	14.2.0-4ubuntu2~24.04
+libgnutls30t64:amd64	3.8.3-1.1ubuntu3.5
+libgomp1:amd64	14.2.0-4ubuntu2~24.04.1
 libgpg-error-l10n	1.47-3build2.1
 libgpg-error0:amd64	1.47-3build2.1
 libgpgme11t64:amd64	1.18.0-4.1ubuntu4
@@ -770,7 +770,7 @@ libss2:amd64	1.47.0-2.4~exp1ubuntu4.1
 libssh-4:amd64	0.10.6-2ubuntu0.2
 libssl3t64:amd64	3.0.13-0ubuntu3.7
 libstartup-notification0:amd64	0.12-6build3
-libstdc++6:amd64	14.2.0-4ubuntu2~24.04
+libstdc++6:amd64	14.2.0-4ubuntu2~24.04.1
 libstemmer0d:amd64	2.2.0-4build1
 libsvtav1enc1d1:amd64	1.7.0+dfsg-2build1
 libswresample4:amd64	7:6.1.1-3ubuntu5
