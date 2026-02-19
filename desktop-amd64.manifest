@@ -1162,8 +1162,8 @@ libsqlite3-0:amd64	3.45.1-1ubuntu2.5
 libsratom-0-0:amd64	0.6.16-1build1
 libsrt1.5-gnutls:amd64	1.5.3-1build2
 libss2:amd64	1.47.0-2.4~exp1ubuntu4.1
-libssh-4:amd64	0.10.6-2ubuntu0.2
-libssh-gcrypt-4:amd64	0.10.6-2ubuntu0.2
+libssh-4:amd64	0.10.6-2ubuntu0.3
+libssh-gcrypt-4:amd64	0.10.6-2ubuntu0.3
 libssl3t64:amd64	3.0.13-0ubuntu3.7
 libstartup-notification0:amd64	0.12-6build3
 libstdc++-13-dev:amd64	13.3.0-6ubuntu2~24.04.1
@@ -1856,4 +1856,4 @@ snap:gtk-common-themes	stable/ubuntu-24.04	1535
 snap:snap-store	stable/ubuntu-24.04	1270
 snap:snapd-desktop-integration	stable/ubuntu-24.04	343
 snap:thunderbird	stable/ubuntu-24.04	959
-snap:ubuntu-desktop-bootstrap	stable/ubuntu-24.04	433
+snap:ubuntu-desktop-bootstrap	24.04/stable/ubuntu-24.04	494
