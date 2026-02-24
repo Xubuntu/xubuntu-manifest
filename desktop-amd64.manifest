@@ -586,8 +586,8 @@ libdevel-size-perl	0.83-2build4
 libdevel-stacktrace-perl	2.0500-1
 libdevmapper-event1.02.1:amd64	2:1.02.185-3ubuntu3.2
 libdevmapper1.02.1:amd64	2:1.02.185-3ubuntu3.2
-libdjvulibre-text	3.5.28-2ubuntu0.24.04.1
-libdjvulibre21:amd64	3.5.28-2ubuntu0.24.04.1
+libdjvulibre-text	3.5.28-2ubuntu0.24.04.2
+libdjvulibre21:amd64	3.5.28-2ubuntu0.24.04.2
 libdmapsharing-4.0-3t64:amd64	3.9.13-2build1
 libdmraid1.0.0.rc16:amd64	1.0.0.rc16-12ubuntu2
 libdotconf0:amd64	1.3-0.3fakesync1build3
@@ -1400,7 +1400,7 @@ lightdm-gtk-greeter	2.0.9-0ubuntu3
 lightdm-gtk-greeter-settings	1.2.3-0ubuntu1
 lintian	2.117.0ubuntu1.4
 linux-base	4.5ubuntu9+24.04.1
-linux-firmware	20240318.git3b128b60-0ubuntu2.23
+linux-firmware	20240318.git3b128b60-0ubuntu2.25
 linux-generic-hwe-24.04	6.17.0-14.14~24.04.1
 linux-headers-6.17.0-14-generic	6.17.0-14.14~24.04.1
 linux-headers-generic-hwe-24.04	6.17.0-14.14~24.04.1
@@ -1408,12 +1408,12 @@ linux-hwe-6.17-headers-6.17.0-14	6.17.0-14.14~24.04.1
 linux-hwe-6.17-tools-6.17.0-14	6.17.0-14.14~24.04.1
 linux-image-6.17.0-14-generic	6.17.0-14.14~24.04.1
 linux-image-generic-hwe-24.04	6.17.0-14.14~24.04.1
-linux-libc-dev:amd64	6.8.0-100.100
+linux-libc-dev:amd64	6.8.0-101.101
 linux-modules-6.17.0-14-generic	6.17.0-14.14~24.04.1
 linux-modules-extra-6.17.0-14-generic	6.17.0-14.14~24.04.1
 linux-sound-base	1.0.25+dfsg-0ubuntu7
 linux-tools-6.17.0-14-generic	6.17.0-14.14~24.04.1
-linux-tools-common	6.8.0-100.100
+linux-tools-common	6.8.0-101.101
 lm-sensors	1:3.6.0-9build1
 localechooser-data	2.89ubuntu6
 locales	2.39-0ubuntu8.7
@@ -1855,5 +1855,5 @@ snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
 snap:snap-store	stable/ubuntu-24.04	1270
 snap:snapd-desktop-integration	stable/ubuntu-24.04	343
-snap:thunderbird	stable/ubuntu-24.04	959
+snap:thunderbird	stable/ubuntu-24.04	995
 snap:ubuntu-desktop-bootstrap	24.04/stable/ubuntu-24.04	494
