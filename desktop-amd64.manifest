@@ -1740,7 +1740,7 @@ wget	1.21.4-1ubuntu4.1
 whiptail	0.52.24-2ubuntu2
 whoopsie	0.2.77ubuntu0.1
 whoopsie-preferences	23build3
-wireless-regdb	2025.07.10-0ubuntu1~24.04.1
+wireless-regdb	2025.10.07-0ubuntu1~24.04.1
 wireless-tools	30~pre9-16.1ubuntu2
 wireplumber	0.4.17-1ubuntu4.1
 wpasupplicant	2:2.10-21ubuntu0.3

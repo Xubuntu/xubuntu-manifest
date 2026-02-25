@@ -383,8 +383,8 @@ libcups2t64:amd64	2.4.7-1.2ubuntu7.9
 libcupsfilters2-common	2.0.0-0ubuntu7.2
 libcupsfilters2t64:amd64	2.0.0-0ubuntu7.2
 libcupsimage2t64:amd64	2.4.7-1.2ubuntu7.9
-libcurl3t64-gnutls:amd64	8.5.0-2ubuntu10.6
-libcurl4t64:amd64	8.5.0-2ubuntu10.6
+libcurl3t64-gnutls:amd64	8.5.0-2ubuntu10.7
+libcurl4t64:amd64	8.5.0-2ubuntu10.7
 libdaemon0:amd64	0.14-7.1ubuntu4
 libdata-dump-perl	1.25-1
 libdatrie1:amd64	0.2.13-3build1
@@ -1210,7 +1210,7 @@ vim-tiny	2:9.1.0016-1ubuntu7.9
 wamerican	2020.12.07-2
 wget	1.21.4-1ubuntu4.1
 whiptail	0.52.24-2ubuntu2
-wireless-regdb	2025.07.10-0ubuntu1~24.04.1
+wireless-regdb	2025.10.07-0ubuntu1~24.04.1
 wireless-tools	30~pre9-16.1ubuntu2
 wireplumber	0.4.17-1ubuntu4.1
 wpasupplicant	2:2.10-21ubuntu0.3
