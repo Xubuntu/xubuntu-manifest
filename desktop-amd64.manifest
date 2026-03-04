@@ -325,7 +325,7 @@ initramfs-tools-core	0.142ubuntu25.8
 inputattach	1:1.8.1-2build1
 install-info	7.1-3build2
 intel-media-va-driver:amd64	24.1.0+dfsg1-1ubuntu0.1
-intel-microcode	3.20250812.0ubuntu0.24.04.1
+intel-microcode	3.20260210.0ubuntu0.24.04.1
 intltool-debian	0.35.0+20060710.6
 inxi	3.3.34-1-1
 ipp-usb	0.9.24-0ubuntu3.3
@@ -1849,11 +1849,11 @@ zstd	1.5.5+dfsg2-2build1.1
 snap:core22	stable	2339
 snap:snapd	stable	25935
 snap:firefox	stable/ubuntu-24.04	7901
-snap:firmware-updater	stable/ubuntu-24.04	210
+snap:firmware-updater	stable/ubuntu-24.04	216
 snap:gnome-42-2204	stable/ubuntu-24.04	247
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
 snap:snap-store	stable/ubuntu-24.04	1270
 snap:snapd-desktop-integration	stable/ubuntu-24.04	343
-snap:thunderbird	stable/ubuntu-24.04	995
-snap:ubuntu-desktop-bootstrap	24.04/stable/ubuntu-24.04	502
+snap:thunderbird	stable/ubuntu-24.04	1001
+snap:ubuntu-desktop-bootstrap	24.04/stable/ubuntu-24.04	494

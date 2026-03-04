@@ -229,7 +229,7 @@ initramfs-tools-core	0.142ubuntu25.8
 inputattach	1:1.8.1-2build1
 install-info	7.1-3build2
 intel-media-va-driver:amd64	24.1.0+dfsg1-1ubuntu0.1
-intel-microcode	3.20250812.0ubuntu0.24.04.1
+intel-microcode	3.20260210.0ubuntu0.24.04.1
 ipp-usb	0.9.24-0ubuntu3.3
 iproute2	6.1.0-1ubuntu6.2
 iptables	1.8.10-3ubuntu2
@@ -1213,7 +1213,7 @@ whiptail	0.52.24-2ubuntu2
 wireless-regdb	2025.10.07-0ubuntu1~24.04.1
 wireless-tools	30~pre9-16.1ubuntu2
 wireplumber	0.4.17-1ubuntu4.1
-wpasupplicant	2:2.10-21ubuntu0.3
+wpasupplicant	2:2.10-21ubuntu0.4
 x11-apps	7.7+11build3
 x11-common	1:7.7+23ubuntu3
 x11-session-utils	7.7+6build2
