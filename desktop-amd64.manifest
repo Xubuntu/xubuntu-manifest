@@ -966,7 +966,7 @@ libnpth0t64:amd64	1.6-3.1build1
 libnspr4:amd64	2:4.35-1.1build1
 libnss-mdns:amd64	0.15.1-4build1
 libnss-systemd:amd64	255.4-1ubuntu8.12
-libnss3:amd64	2:3.98-1build1
+libnss3:amd64	2:3.98-1ubuntu0.1
 libntfs-3g89t64:amd64	1:2022.10.3-1.2ubuntu3
 libnuma1:amd64	2.0.18-1ubuntu0.24.04.1
 libnumber-compare-perl	0.03-3
@@ -1743,7 +1743,7 @@ whoopsie-preferences	23build3
 wireless-regdb	2025.10.07-0ubuntu1~24.04.1
 wireless-tools	30~pre9-16.1ubuntu2
 wireplumber	0.4.17-1ubuntu4.1
-wpasupplicant	2:2.10-21ubuntu0.3
+wpasupplicant	2:2.10-21ubuntu0.4
 x11-apps	7.7+11build3
 x11-common	1:7.7+23ubuntu3
 x11-session-utils	7.7+6build2
