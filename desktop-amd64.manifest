@@ -1399,7 +1399,7 @@ lightdm	1.30.0-0ubuntu14
 lightdm-gtk-greeter	2.0.9-0ubuntu3
 lightdm-gtk-greeter-settings	1.2.3-0ubuntu1
 lintian	2.117.0ubuntu1.4
-linux-base	4.5ubuntu9+24.04.1
+linux-base	4.5ubuntu9+24.04.2
 linux-firmware	20240318.git3b128b60-0ubuntu2.25
 linux-generic-hwe-24.04	6.17.0-14.14~24.04.1
 linux-headers-6.17.0-14-generic	6.17.0-14.14~24.04.1
