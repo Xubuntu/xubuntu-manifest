@@ -300,7 +300,7 @@ libaom3:amd64	3.8.2-2ubuntu0.1
 libapparmor1:amd64	4.0.1really4.0.1-0ubuntu0.24.04.5
 libappstream5:amd64	1.0.2-1build6
 libapt-pkg6.0t64:amd64	2.8.3
-libarchive13t64:amd64	3.7.2-2ubuntu0.5
+libarchive13t64:amd64	3.7.2-2ubuntu0.6
 libargon2-1:amd64	0~20190702+dfsg-4build1
 libasound2-data	1.2.11-1ubuntu0.2
 libasound2-plugins:amd64	1.2.7.1-1ubuntu5
