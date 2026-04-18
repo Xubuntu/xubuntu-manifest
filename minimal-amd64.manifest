@@ -1141,7 +1141,7 @@ sgml-data	2.0.11+nmu1
 shared-mime-info	2.4-4
 shim-signed	1.58+15.8-0ubuntu1
 shimmer-themes	2.1.3build1
-snapd	2.73+ubuntu24.04.2
+snapd	2.74.1+ubuntu24.04.4
 software-properties-common	0.99.49.4
 software-properties-gtk	0.99.49.4
 sound-theme-freedesktop	0.8-2ubuntu1
