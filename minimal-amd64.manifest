@@ -162,7 +162,7 @@ gir1.2-gtk-3.0:amd64	3.24.41-4ubuntu1.3
 gir1.2-handy-1:amd64	1.8.3-1build2
 gir1.2-harfbuzz-0.0:amd64	8.3.0-2build2
 gir1.2-libxfce4util-1.0:amd64	4.18.1-2build3
-gir1.2-packagekitglib-1.0	1.2.8-2ubuntu1.4
+gir1.2-packagekitglib-1.0	1.2.8-2ubuntu1.5
 gir1.2-pango-1.0:amd64	1.52.1+ds-1build1
 gir1.2-xfconf-0:amd64	4.18.1-1build3
 glib-networking:amd64	2.80.0-1build1
@@ -668,7 +668,7 @@ libopenjp2-7:amd64	2.5.0-2ubuntu0.4
 libopus0:amd64	1.4-1build1
 liborc-0.4-0t64:amd64	1:0.4.38-1ubuntu0.1
 libp11-kit0:amd64	0.25.3-4ubuntu2.1
-libpackagekit-glib2-18:amd64	1.2.8-2ubuntu1.4
+libpackagekit-glib2-18:amd64	1.2.8-2ubuntu1.5
 libpam-cap:amd64	1:2.66-5ubuntu2.4
 libpam-gnome-keyring:amd64	46.1-2ubuntu0.2
 libpam-modules:amd64	1.5.3-5ubuntu5.5
@@ -1006,8 +1006,8 @@ openssl	3.0.13-0ubuntu3.9
 os-prober	1.81ubuntu4
 p11-kit	0.25.3-4ubuntu2.1
 p11-kit-modules:amd64	0.25.3-4ubuntu2.1
-packagekit	1.2.8-2ubuntu1.4
-packagekit-tools	1.2.8-2ubuntu1.4
+packagekit	1.2.8-2ubuntu1.5
+packagekit-tools	1.2.8-2ubuntu1.5
 parted	3.6-4build1
 passwd	1:4.13+dfsg1-4ubuntu3.2
 pavucontrol	5.0-2build3
@@ -1295,5 +1295,5 @@ zip	3.0-13ubuntu0.2
 zlib1g:amd64	1:1.3.dfsg-3.1ubuntu2.1
 zstd	1.5.5+dfsg2-2build1.1
 snap:core22	stable	2411
-snap:snapd	stable	26382
+snap:snapd	stable	26865
 snap:ubuntu-desktop-bootstrap	24.04/stable/ubuntu-24.04	572
