@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RELEASE="resolute"
+RELEASE="stonking"
 ARCHES="amd64"
 DATE=`date -u +%Y%m%d`
 URL=""

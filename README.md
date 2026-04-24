@@ -5,8 +5,11 @@ Use this repository to compare changes between releases.
 
 # Compare Releases
 
+## Xubuntu 26.10 "Stonking Stingray"
+- [26.04 to daily-live](https://github.com/Xubuntu/xubuntu-manifest/compare/26.04...daily-live)
+
 ## Xubuntu 26.04 "Resolute Raccoon"
-- [25.10 to daily-live](https://github.com/Xubuntu/xubuntu-manifest/compare/25.10...daily-live)
+- [24.04.x to 26.04.x](https://github.com/Xubuntu/xubuntu-manifest/compare/xubuntu-24.04...xubuntu-26.04)
 
 ## Xubuntu 25.10 "Questing Quokka"
 - [25.04 to 25.10](https://github.com/Xubuntu/xubuntu-manifest/compare/25.04...25.10)

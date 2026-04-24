@@ -28,6 +28,24 @@ jobs:
       - name: checkout
         uses: actions/checkout@v2
         with:
+          ref: resolute-daily-live
+          token: ${{ secrets.PAT }}
+
+      - name: update manifest files
+        run: |
+          chmod +x "${GITHUB_WORKSPACE}/.github/lts.sh"
+          "${GITHUB_WORKSPACE}/.github/lts.sh"
+
+      - name: commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update daily-live manifest
+  update-oldlts-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+        with:
           ref: noble-daily-live
           token: ${{ secrets.PAT }}
 
