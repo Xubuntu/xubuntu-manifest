@@ -238,7 +238,7 @@ iputils-tracepath	3:20240117-1ubuntu0.1
 iso-codes	4.16.0-1
 iucode-tool	2.3.1-3build1
 jfsutils	1.1.15-5build4
-jq	1.7.1-3ubuntu0.24.04.1
+jq	1.7.1-3ubuntu0.24.04.2
 kbd	2.6.4-2ubuntu2
 kerneloops	0.12+git20140509-6ubuntu8
 keyboard-configuration	1.226ubuntu1
@@ -576,7 +576,7 @@ libjbig2dec0:amd64	0.20-1build3
 libjcat1:amd64	0.2.0-2build3
 libjpeg-turbo8:amd64	2.1.5-2ubuntu2
 libjpeg8:amd64	8c-2ubuntu11
-libjq1:amd64	1.7.1-3ubuntu0.24.04.1
+libjq1:amd64	1.7.1-3ubuntu0.24.04.2
 libjson-c5:amd64	0.17-1build1
 libjson-glib-1.0-0:amd64	1.8.0-2build2
 libjson-glib-1.0-common	1.8.0-2build2
