@@ -589,8 +589,8 @@ libkmod2:amd64	31+20240202-2ubuntu7.1
 libkrb5-3:amd64	1.20.1-6ubuntu2.6
 libkrb5support0:amd64	1.20.1-6ubuntu2.6
 libksba8:amd64	1.6.6-1build1
-liblcms2-2:amd64	2.14-2build1
-liblcms2-utils	2.14-2build1
+liblcms2-2:amd64	2.14-2ubuntu0.1
+liblcms2-utils	2.14-2ubuntu0.1
 libldap-common	2.6.10+dfsg-0ubuntu0.24.04.1
 libldap2:amd64	2.6.10+dfsg-0ubuntu0.24.04.1
 liblerc4:amd64	4.0.0+ds-4ubuntu2
@@ -941,7 +941,7 @@ libzvbi0t64:amd64	0.2.42-2
 lightdm	1.30.0-0ubuntu14
 lightdm-gtk-greeter	2.0.9-0ubuntu3
 linux-base	4.5ubuntu9+24.04.2
-linux-firmware	20240318.git3b128b60-0ubuntu2.26
+linux-firmware	20240318.git3b128b60-0ubuntu2.27
 linux-generic-hwe-24.04	6.17.0-22.22~24.04.1
 linux-headers-6.17.0-22-generic	6.17.0-22.22~24.04.1
 linux-headers-generic-hwe-24.04	6.17.0-22.22~24.04.1
@@ -1164,7 +1164,7 @@ tcl	8.6.14build1
 tcl8.6	8.6.14+dfsg-1build1
 tcpdump	4.99.4-3ubuntu4.24.04.1
 telnet	0.17+2.5-3ubuntu4.1
-thermald	2.5.6-2ubuntu0.24.04.3
+thermald	2.5.6-2ubuntu0.24.04.5
 thin-provisioning-tools	0.9.0-2ubuntu5.1
 thunar	4.18.8-1build3
 thunar-data	4.18.8-1build3
@@ -1205,8 +1205,8 @@ util-linux	2.39.3-9ubuntu6.5
 uuid-runtime	2.39.3-9ubuntu6.5
 va-driver-all:amd64	2.20.0-2ubuntu0.1
 vdpau-driver-all:amd64	1.5-2build1
-vim-common	2:9.1.0016-1ubuntu7.11
-vim-tiny	2:9.1.0016-1ubuntu7.11
+vim-common	2:9.1.0016-1ubuntu7.12
+vim-tiny	2:9.1.0016-1ubuntu7.12
 wamerican	2020.12.07-2
 wget	1.21.4-1ubuntu4.1
 whiptail	0.52.24-2ubuntu2
@@ -1284,7 +1284,7 @@ xubuntu-default-settings	24.04.4
 xubuntu-desktop-minimal	2.262
 xubuntu-live-settings	24.04.4
 xubuntu-wallpapers	24.04.1
-xxd	2:9.1.0016-1ubuntu7.11
+xxd	2:9.1.0016-1ubuntu7.12
 xz-utils	5.6.1+really5.4.5-1ubuntu0.2
 yelp	42.2-1ubuntu0.24.04.1
 yelp-xsl	42.1-2ubuntu0.24.04.1
