@@ -1,6 +1,6 @@
 3cpio	0.14.0-1ubuntu1
 7zip	26.00+dfsg-1
-accountsservice	23.13.9-8ubuntu5
+accountsservice	23.13.9-8ubuntu5.1
 acl	2.3.2-2
 adduser	3.153ubuntu1
 adwaita-icon-theme	50.0-1
@@ -29,12 +29,12 @@ at-spi2-common	2.60.0-1
 at-spi2-core	2.60.0-1
 atril	1.28.2-1
 atril-common	1.28.2-1
-avahi-daemon	0.8-18ubuntu1
-avahi-utils	0.8-18ubuntu1
+avahi-daemon	0.8-18ubuntu1.1
+avahi-utils	0.8-18ubuntu1.1
 ayatana-indicator-application	22.2.0-2build1
 ayatana-indicator-common	0.9.11-2build1
 baobab	49.1-2
-base-files	14ubuntu6
+base-files	14ubuntu6.1
 base-passwd	3.6.8
 bash	5.3-2ubuntu1
 bash-completion	1:2.16.0-8build1
@@ -51,14 +51,14 @@ bluez-cups	5.85-4
 bluez-obexd	5.85-4
 bolt	0.9.10-1
 bpfcc-tools	0.35.0+ds-1ubuntu2
-bpftool	7.7.0+7.0.0-14.14
+bpftool	7.7.0+7.0.0-15.15
 bpftrace	0.25.0-1ubuntu1
 brltty	6.7-1ubuntu6
 brltty-x11	6.7-1ubuntu6
 bsdextrautils	2.41.3-3ubuntu2
 bsdutils	1:2.41.3-3ubuntu2
 btrfs-progs	6.17.1-1build1
-bubblewrap	0.11.1-1
+bubblewrap	0.11.1-1ubuntu0.1
 build-essential	12.12ubuntu2
 busybox-initramfs	1:1.37.0-7ubuntu1
 busybox-static	1:1.37.0-7ubuntu1
@@ -123,13 +123,13 @@ diffstat	1.68-1
 diffutils	1:3.12-1
 dirmngr	2.4.8-4ubuntu3
 distro-info	1.15
-distro-info-data	0.68build1
+distro-info-data	0.68ubuntu0.1
 dmeventd	2:1.02.205-2ubuntu3
 dmidecode	3.6-2build1
 dmsetup	2:1.02.205-2ubuntu3
 dmz-cursor-theme	0.4.5.3build1
 dns-root-data	2025080400build1
-dnsmasq-base	2.92-1
+dnsmasq-base	2.92-1ubuntu0.2
 doc-base	0.11.2build1
 docbook-xml	4.5-13build1
 dosfstools	4.2-1.2build1
@@ -232,13 +232,13 @@ gir1.2-gtk-4.0:amd64	4.22.2+ds-1ubuntu1
 gir1.2-gtkclutter-1.0:amd64	1.8.4-6build1
 gir1.2-handy-1:amd64	1.8.3-3build1
 gir1.2-harfbuzz-0.0:amd64	12.3.2-2
-gir1.2-javascriptcoregtk-4.1:amd64	2.52.0-1
+gir1.2-javascriptcoregtk-4.1:amd64	2.52.3-0ubuntu0.26.04.2
 gir1.2-json-1.0:amd64	1.10.8+ds-2
 gir1.2-libxfce4ui-2.0:amd64	4.20.2-1
 gir1.2-libxfce4util-1.0:amd64	4.20.1-1build1
 gir1.2-nm-1.0:amd64	1.54.3-2ubuntu3
 gir1.2-notify-0.7:amd64	0.8.8-1
-gir1.2-packagekitglib-1.0	1.3.4-3
+gir1.2-packagekitglib-1.0	1.3.4-3ubuntu1
 gir1.2-pango-1.0:amd64	1.57.0-1
 gir1.2-peas-1.0:amd64	1.38.1-4ubuntu1
 gir1.2-polkit-1.0:amd64	127-2ubuntu1
@@ -247,7 +247,7 @@ gir1.2-secret-1:amd64	0.21.7-2build1
 gir1.2-snapd-2:amd64	1.72-0ubuntu3
 gir1.2-soup-3.0:amd64	3.6.6-1
 gir1.2-vte-2.91:amd64	0.84.0-2
-gir1.2-webkit2-4.1:amd64	2.52.0-1
+gir1.2-webkit2-4.1:amd64	2.52.3-0ubuntu0.26.04.2
 gir1.2-wnck-3.0:amd64	43.3-1build1
 gir1.2-xfconf-0:amd64	4.20.0-1build1
 glib-networking:amd64	2.80.1-1build2
@@ -355,7 +355,7 @@ iso-codes	4.20.1-1
 iucode-tool	2.3.1-3build2
 iw	6.17-1
 jfsutils	1.1.15-7
-jq	1.8.1-4ubuntu1
+jq	1.8.1-4ubuntu2
 kbd	2.7.1-2ubuntu2
 keyboard-configuration	1.237ubuntu3
 keyutils	1.6.3-6ubuntu3
@@ -410,7 +410,7 @@ libaa1:amd64	1.4p5-51.1build1
 libaacs0:amd64	0.11.1-4build1
 libabsl20260107:amd64	20260107.0-4
 libabw-0.1-1:amd64	0.1.3-1build6
-libaccountsservice0:amd64	23.13.9-8ubuntu5
+libaccountsservice0:amd64	23.13.9-8ubuntu5.1
 libacl1:amd64	2.3.2-2
 libadwaita-1-0:amd64	1.9.0-0ubuntu1
 libaio1t64:amd64	0.3.113-8build1
@@ -450,11 +450,11 @@ libattr1:amd64	1:2.5.2-4
 libaudit-common	1:4.1.2-1build1
 libaudit1:amd64	1:4.1.2-1build1
 libauthen-sasl-perl	2.2000-1
-libavahi-client3:amd64	0.8-18ubuntu1
-libavahi-common-data:amd64	0.8-18ubuntu1
-libavahi-common3:amd64	0.8-18ubuntu1
-libavahi-core7:amd64	0.8-18ubuntu1
-libavahi-glib1:amd64	0.8-18ubuntu1
+libavahi-client3:amd64	0.8-18ubuntu1.1
+libavahi-common-data:amd64	0.8-18ubuntu1.1
+libavahi-common3:amd64	0.8-18ubuntu1.1
+libavahi-core7:amd64	0.8-18ubuntu1.1
+libavahi-glib1:amd64	0.8-18ubuntu1.1
 libavc1394-0:amd64	0.5.4-5build4
 libavcodec62:amd64	7:8.0.1-3ubuntu2
 libavfilter11:amd64	7:8.0.1-3ubuntu2
@@ -571,8 +571,8 @@ libcups2t64:amd64	2.4.16-1ubuntu1
 libcupsfilters2-common	2.1.1-0ubuntu5
 libcupsfilters2t64:amd64	2.1.1-0ubuntu5
 libcupsimage2t64:amd64	2.4.16-1ubuntu1
-libcurl3t64-gnutls:amd64	8.18.0-1ubuntu2
-libcurl4t64:amd64	8.18.0-1ubuntu2
+libcurl3t64-gnutls:amd64	8.18.0-1ubuntu2.1
+libcurl4t64:amd64	8.18.0-1ubuntu2.1
 libdaemon0:amd64	0.14-7.1ubuntu5
 libdata-dpath-perl	0.60-1
 libdata-dump-perl	1.25-1
@@ -735,7 +735,7 @@ libglycin-2-0:amd64	2.1.1+ds-0ubuntu1
 libgme0:amd64	0.6.4-1
 libgmp10:amd64	2:6.3.0+dfsg-5ubuntu2
 libgnome-menu-3-0:amd64	3.38.1-1ubuntu1
-libgnutls30t64:amd64	3.8.12-2ubuntu1
+libgnutls30t64:amd64	3.8.12-2ubuntu1.1
 libgoa-1.0-0b:amd64	3.58.0-1
 libgoa-1.0-common	3.58.0-1
 libgomp1:amd64	16-20260322-1ubuntu1
@@ -851,15 +851,15 @@ libiterator-util-perl	0.02+ds1-2
 libitm1:amd64	16-20260322-1ubuntu1
 libjack-jackd2-0:amd64	1.9.22~dfsg-5build1
 libjansson4:amd64	2.14-2build4
-libjavascriptcoregtk-4.1-0:amd64	2.52.0-1
-libjavascriptcoregtk-6.0-1:amd64	2.52.0-1
+libjavascriptcoregtk-4.1-0:amd64	2.52.3-0ubuntu0.26.04.2
+libjavascriptcoregtk-6.0-1:amd64	2.52.3-0ubuntu0.26.04.2
 libjbig0:amd64	2.1-6.1ubuntu3
 libjbig2dec0:amd64	0.20-1build4
 libjcat1:amd64	0.2.5-1build1
 libjemalloc2:amd64	5.3.0-4
 libjpeg-turbo8:amd64	2.1.5-4ubuntu4
 libjpeg8:amd64	8c-2ubuntu12
-libjq1:amd64	1.8.1-4ubuntu1
+libjq1:amd64	1.8.1-4ubuntu2
 libjs-mathjax	2.7.9+dfsg-1build1
 libjs-sphinxdoc	8.2.3-12
 libjson-c5:amd64	0.18+ds-3
@@ -880,8 +880,8 @@ liblangtag-common	0.6.8-2
 liblangtag1:amd64	0.6.8-2
 liblapack3:amd64	3.12.1-7ubuntu1
 liblc3-1:amd64	1.1.3+dfsg-1build1
-liblcms2-2:amd64	2.17-1
-liblcms2-utils	2.17-1
+liblcms2-2:amd64	2.17-1ubuntu0.2
+liblcms2-utils	2.17-1ubuntu0.2
 libldacbt-abr2:amd64	2.0.2.3+git20200429+ed310a0-5build1
 libldacbt-enc2:amd64	2.0.2.3+git20200429+ed310a0-5build1
 libldap-common	2.6.10+dfsg-1ubuntu5
@@ -975,7 +975,7 @@ libnfnetlink0:amd64	1.0.2-3build1
 libnfs14:amd64	5.0.2-1ubuntu1
 libnftables1:amd64	1.1.6-1
 libnftnl11:amd64	1.3.1-1
-libnghttp2-14:amd64	1.68.0-2
+libnghttp2-14:amd64	1.68.0-2ubuntu0.1
 libnl-3-200:amd64	3.12.0-2
 libnl-genl-3-200:amd64	3.12.0-2
 libnl-route-3-200:amd64	3.12.0-2
@@ -991,7 +991,7 @@ libnspr4:amd64	2:4.38.2-1ubuntu1
 libnss-mdns:amd64	0.15.1-5
 libnss-systemd:amd64	259.5-0ubuntu3
 libnss3:amd64	2:3.120-1ubuntu2
-libntfs-3g89t64:amd64	1:2022.10.3-5build1
+libntfs-3g89t64:amd64	1:2022.10.3-5ubuntu1
 libnuma1:amd64	2.0.19-1build1
 libnumber-compare-perl	0.03-3
 libnvme1t64:amd64	1.16.1-4
@@ -1002,7 +1002,7 @@ libonig5:amd64	6.9.10-1build1
 liboobs-1-5:amd64	3.0.0-4.4
 libopenexr-3-1-30:amd64	3.1.13-2build1
 libopengl0:amd64	1.7.0-3
-libopenjp2-7:amd64	2.5.4-1
+libopenjp2-7:amd64	2.5.4-1ubuntu0.1
 libopenmpt0t64:amd64	0.8.4-1
 libopus0:amd64	1.6.1-1
 liborc-0.4-0t64:amd64	1:0.4.42-2
@@ -1011,7 +1011,7 @@ liborcus-parser-0.21-0:amd64	0.21.0-4
 libp11-kit0:amd64	0.26.2-2
 libpackage-stash-perl	0.40-1
 libpackage-stash-xs-perl:amd64	0.30-1build5
-libpackagekit-glib2-18:amd64	1.3.4-3
+libpackagekit-glib2-18:amd64	1.3.4-3ubuntu1
 libpagemaker-0.0-0:amd64	0.0.4-1build5
 libpam-cap:amd64	1:2.75-10ubuntu2
 libpam-gnome-keyring:amd64	50.0-1
@@ -1307,8 +1307,8 @@ libwayland-cursor0:amd64	1.24.0-2
 libwayland-egl1:amd64	1.24.0-2
 libwayland-server0:amd64	1.24.0-2
 libwbclient0:amd64	2:4.23.6+dfsg-1ubuntu2
-libwebkit2gtk-4.1-0:amd64	2.52.0-1
-libwebkitgtk-6.0-4:amd64	2.52.0-1
+libwebkit2gtk-4.1-0:amd64	2.52.3-0ubuntu0.26.04.2
+libwebkitgtk-6.0-4:amd64	2.52.3-0ubuntu0.26.04.2
 libwebp7:amd64	1.5.0-0.1build1
 libwebpdemux2:amd64	1.5.0-0.1build1
 libwebpmux3:amd64	1.5.0-0.1build1
@@ -1444,21 +1444,21 @@ linux-firmware-qualcomm-graphics	20260319.git217ca6e4-0ubuntu1
 linux-firmware-qualcomm-misc	20260319.git217ca6e4-0ubuntu2
 linux-firmware-qualcomm-wireless	20260319.git217ca6e4-0ubuntu1
 linux-firmware-realtek	20260319.git217ca6e4-0ubuntu1
-linux-generic	7.0.0-14.14
-linux-headers-7.0.0-14	7.0.0-14.14
-linux-headers-7.0.0-14-generic	7.0.0-14.14
-linux-headers-generic	7.0.0-14.14
-linux-image-7.0.0-14-generic	7.0.0-14.14
-linux-image-generic	7.0.0-14.14
-linux-libc-dev:amd64	7.0.0-14.14
-linux-main-modules-zfs-7.0.0-14-generic	7.0.0-14.14+3
-linux-modules-7.0.0-14-generic	7.0.0-14.14
-linux-perf	7.0.0-14.14
+linux-generic	7.0.0-15.15
+linux-headers-7.0.0-15	7.0.0-15.15
+linux-headers-7.0.0-15-generic	7.0.0-15.15
+linux-headers-generic	7.0.0-15.15
+linux-image-7.0.0-15-generic	7.0.0-15.15
+linux-image-generic	7.0.0-15.15
+linux-libc-dev:amd64	7.0.0-15.15
+linux-main-modules-zfs-7.0.0-15-generic	7.0.0-15.15+1
+linux-modules-7.0.0-15-generic	7.0.0-15.15
+linux-perf	7.0.0-15.15
 linux-sound-base	1.0.25+dfsg-0ubuntu9
 linux-sysctl-defaults	4.15ubuntu5
-linux-tools-7.0.0-14	7.0.0-14.14
-linux-tools-7.0.0-14-generic	7.0.0-14.14
-linux-tools-common	7.0.0-14.14
+linux-tools-7.0.0-15	7.0.0-15.15
+linux-tools-7.0.0-15-generic	7.0.0-15.15
+linux-tools-common	7.0.0-15.15
 lm-sensors	1:3.6.2-2build1
 localechooser-data	2.89ubuntu7
 locales	2.43-2ubuntu2
@@ -1518,7 +1518,7 @@ network-manager-pptp-gnome	1.2.12-6
 networkd-dispatcher	2.2.4-1.1ubuntu1
 nftables	1.1.6-1
 nm-connection-editor	1.36.0-4ubuntu1
-ntfs-3g	1:2022.10.3-5build1
+ntfs-3g	1:2022.10.3-5ubuntu1
 numactl	2.0.19-1build1
 numix-gtk-theme	2.6.7-8ubuntu1
 numlockx	1.2-10build1
@@ -1527,14 +1527,14 @@ onboard	1.4.3+git20260213+ds-2
 onboard-common	1.4.3+git20260213+ds-2
 onboard-data	1.4.3+git20260213+ds-2
 openprinting-ppds	20250819-1build1
-openssh-client	1:10.2p1-2ubuntu3
+openssh-client	1:10.2p1-2ubuntu3.2
 openssl	3.5.5-1ubuntu3
 openssl-provider-legacy	3.5.5-1ubuntu3
-openvpn	2.7.0-1ubuntu1
+openvpn	2.7.0-1ubuntu1.1
 os-prober	1.84ubuntu1
 p11-kit	0.26.2-2
 p11-kit-modules:amd64	0.26.2-2
-packagekit	1.3.4-3
+packagekit	1.3.4-3ubuntu1
 parole	4.20.0-1
 parted	3.6-6
 passwd	1:4.17.4-2ubuntu3
@@ -1615,7 +1615,7 @@ python3-debian	1.0.1ubuntu2
 python3-defer	1.0.6-2.1ubuntu2
 python3-distro	1.9.0-1build1
 python3-distro-info	1.15
-python3-distupgrade	1:26.04.16
+python3-distupgrade	1:26.04.18
 python3-gdbm	3.14.3-0ubuntu2
 python3-gi	3.56.2-1
 python3-gi-cairo	3.56.2-1
@@ -1635,7 +1635,7 @@ python3-launchpadlib	2.1.0-1build1
 python3-lazr.restfulclient	0.14.6-3build1
 python3-lazr.uri	1.0.6-7build1
 python3-linkify-it	2.0.3-1ubuntu3
-python3-mako	1.3.10-3build1
+python3-mako	1.3.10-3ubuntu0.1
 python3-markdown-it	3.0.0-3build1
 python3-markupsafe	3.0.3-1build1
 python3-mdurl	0.1.2-1build1
@@ -1647,7 +1647,7 @@ python3-oauthlib	3.3.1-1build1
 python3-olefile	0.47-1build1
 python3-passlib	1.9.3-1ubuntu1
 python3-pexpect	4.9-4
-python3-pil:amd64	12.1.1-2ubuntu1
+python3-pil:amd64	12.1.1-2ubuntu1.1
 python3-pkg-resources	78.1.1-0.1build1
 python3-problem-report	2.34.0-0ubuntu2
 python3-psutil	7.1.0-1ubuntu1
@@ -1685,7 +1685,7 @@ rhythmbox-plugin-alternative-toolbar	0.21.0-1
 rhythmbox-plugins	3.4.9-3ubuntu3
 ristretto	0.13.4-1
 rpcsvc-proto	1.4.3-1build1
-rsync	3.4.1+ds1-7
+rsync	3.4.1+ds1-7ubuntu0.2
 rsyslog	8.2512.0-1ubuntu4
 rtkit	0.14-1
 rust-coreutils	0.8.0-0ubuntu3
@@ -1695,7 +1695,7 @@ sane-utils	1.4.0-1ubuntu1
 sbsigntool	0.9.4-3.1ubuntu9
 screen	4.9.1-3ubuntu2
 secureboot-db	1.9build2
-sed	4.9-2build3
+sed	4.9-2ubuntu1
 sensible-utils	0.0.26build1
 sgml-base	1.31+nmu1build1
 sgml-data	2.0.11+nmu1build1
@@ -1763,8 +1763,8 @@ ubuntu-keyring	2023.11.28.1build1
 ubuntu-minimal	1.570
 ubuntu-pro-client	37.2ubuntu
 ubuntu-pro-client-l10n	37.2ubuntu
-ubuntu-release-upgrader-core	1:26.04.16
-ubuntu-release-upgrader-gtk	1:26.04.16
+ubuntu-release-upgrader-core	1:26.04.18
+ubuntu-release-upgrader-gtk	1:26.04.18
 ubuntu-standard	1.570
 ucf	3.0052ubuntu1
 udev	259.5-0ubuntu3
@@ -1790,8 +1790,8 @@ user-setup	1.107ubuntu2
 util-linux	2.41.3-3ubuntu2
 uuid-runtime	2.41.3-3ubuntu2
 va-driver-all:amd64	2.23.0-1ubuntu1
-vim-common	2:9.1.2141-1ubuntu4
-vim-tiny	2:9.1.2141-1ubuntu4
+vim-common	2:9.1.2141-1ubuntu4.1
+vim-tiny	2:9.1.2141-1ubuntu4.1
 wamerican	2020.12.07-4build1
 webp-pixbuf-loader:amd64	0.2.7-3
 wget	1.25.0-2ubuntu4
@@ -1889,7 +1889,7 @@ xubuntu-desktop-minimal	2.272
 xubuntu-docs	22.04build1
 xubuntu-live-settings	26.04
 xubuntu-wallpapers	26.04.1
-xxd	2:9.1.2141-1ubuntu4
+xxd	2:9.1.2141-1ubuntu4.1
 xz-utils	5.8.3-1
 yelp	49.0-5
 yelp-xsl	49.0-2
@@ -1901,9 +1901,9 @@ zfsutils-linux	2.4.1-1ubuntu5
 zip	3.0-15ubuntu3
 zlib1g:amd64	1:1.3.dfsg+really1.3.1-1ubuntu3
 zstd	1.5.7+dfsg-3
-snap:core24	stable	1587
+snap:core24	stable	1643
 snap:snapd	stable	26865
-snap:firefox	stable/ubuntu-26.04	8107
+snap:firefox	stable/ubuntu-26.04	8306
 snap:firmware-updater	1/stable/ubuntu-26.04	226
 snap:gnome-46-2404	stable/ubuntu-26.04	153
 snap:bare	stable	5
@@ -1911,5 +1911,5 @@ snap:gtk-common-themes	stable/ubuntu-26.04	1535
 snap:mesa-2404	stable/ubuntu-26.04	1165
 snap:snap-store	2/stable/ubuntu-26.04	1367
 snap:snapd-desktop-integration	stable/ubuntu-26.04	361
-snap:thunderbird	stable/ubuntu-26.04	1057
+snap:thunderbird	stable/ubuntu-26.04	1117
 snap:ubuntu-desktop-bootstrap	26.04/stable/ubuntu-26.04	589
