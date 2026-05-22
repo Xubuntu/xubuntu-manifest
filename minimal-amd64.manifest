@@ -243,9 +243,9 @@ initramfs-tools-bin	0.151ubuntu1
 initramfs-tools-core	0.151ubuntu1
 inputattach	1:1.8.1-2build2
 install-info	7.2-5ubuntu2
-intel-media-va-driver:amd64	26.1.2+dfsg1-1
+intel-media-va-driver:amd64	26.1.6+dfsg1-1
 intel-microcode	3.20260210.1ubuntu2
-ipp-usb	0.9.31-1
+ipp-usb	0.9.31-2
 iproute2	6.19.0-1ubuntu1
 iptables	1.8.11-2ubuntu3
 iputils-ping	3:20250605-1ubuntu1
