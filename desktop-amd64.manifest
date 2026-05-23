@@ -235,7 +235,7 @@ gir1.2-harfbuzz-0.0:amd64	12.3.2-2
 gir1.2-javascriptcoregtk-4.1:amd64	2.52.0-1
 gir1.2-json-1.0:amd64	1.10.8+ds-2
 gir1.2-libxfce4ui-2.0:amd64	4.20.2-1
-gir1.2-libxfce4util-1.0:amd64	4.20.1-1build1
+gir1.2-libxfce4util-1.0:amd64	4.20.1-2
 gir1.2-nm-1.0:amd64	1.54.3-2ubuntu3
 gir1.2-notify-0.7:amd64	0.8.8-1
 gir1.2-packagekitglib-1.0	1.3.4-3
@@ -471,16 +471,16 @@ libberkeleydb-perl:amd64	0.66-2
 libbinutils:amd64	2.46-3ubuntu2
 libblas3:amd64	3.12.1-7ubuntu1
 libblkid1:amd64	2.41.3-3ubuntu2
-libblockdev-crypto3:amd64	3.4.0-1
-libblockdev-fs3:amd64	3.4.0-1
-libblockdev-loop3:amd64	3.4.0-1
-libblockdev-mdraid3:amd64	3.4.0-1
-libblockdev-nvme3:amd64	3.4.0-1
-libblockdev-part3:amd64	3.4.0-1
-libblockdev-smart3:amd64	3.4.0-1
-libblockdev-swap3:amd64	3.4.0-1
-libblockdev-utils3:amd64	3.4.0-1
-libblockdev3:amd64	3.4.0-1
+libblockdev-crypto3:amd64	3.5.0-1
+libblockdev-fs3:amd64	3.5.0-1
+libblockdev-loop3:amd64	3.5.0-1
+libblockdev-mdraid3:amd64	3.5.0-1
+libblockdev-nvme3:amd64	3.5.0-1
+libblockdev-part3:amd64	3.5.0-1
+libblockdev-smart3:amd64	3.5.0-1
+libblockdev-swap3:amd64	3.5.0-1
+libblockdev-utils3:amd64	3.5.0-1
+libblockdev3:amd64	3.5.0-1
 libbluetooth3:amd64	5.85-4
 libbluray3:amd64	1:1.4.1-1
 libboost-iostreams1.90.0:amd64	1.90.0-6ubuntu1
@@ -527,7 +527,7 @@ libcdio-cdda2t64:amd64	10.2+2.0.2-2
 libcdio-paranoia2t64:amd64	10.2+2.0.2-2
 libcdio19t64:amd64	2.2.0-4build1
 libcdparanoia0:amd64	3.10.2+debian-14ubuntu2
-libcdr-0.1-1:amd64	0.1.7-1build4
+libcdr-0.1-1:amd64	0.1.8-1
 libcdt6:amd64	14.1.2-1ubuntu1
 libcfitsio10t64:amd64	4.6.3-1
 libcgi-fast-perl	1:2.17-1
@@ -680,7 +680,7 @@ libfont-ttf-perl	1.06-2
 libfontconfig1:amd64	2.17.1-3ubuntu1
 libfontenc1:amd64	1:1.1.8-1build2
 libfreeaptx0:amd64	0.2.2-1build1
-libfreehand-0.1-1	0.1.2-3build4
+libfreehand-0.1-1	0.1.2-4
 libfreetype6:amd64	2.14.2+dfsg-1
 libfreezethaw-perl	0.5001-3
 libfribidi0:amd64	1.0.16-5
@@ -821,8 +821,8 @@ libicu78:amd64	78.2-2ubuntu1
 libidn12:amd64	1.43-2build1
 libidn2-0:amd64	2.3.8-4build1
 libiec61883-0:amd64	1.2.0-8
-libieee1284-3t64:amd64	0.2.11-14.1build2
-libigdgmm12:amd64	22.9.0+ds1-1
+libieee1284-3t64:amd64	0.2.11-15
+libigdgmm12:amd64	22.10.0+ds1-1
 libijs-0.35:amd64	0.35-16
 libimagequant0:amd64	4.4.1-1
 libimath-3-1-29t64:amd64	3.1.12-1ubuntu5
@@ -875,8 +875,8 @@ libkpathsea6:amd64	2025.20250727.75242+ds-5build1
 libkrb5-3:amd64	1.22.1-2ubuntu4
 libkrb5support0:amd64	1.22.1-2ubuntu4
 libksba8:amd64	1.6.7-2build1
-liblangtag-common	0.6.8-2
-liblangtag1:amd64	0.6.8-2
+liblangtag-common	0.6.8-4
+liblangtag1:amd64	0.6.8-4
 liblapack3:amd64	3.12.1-7ubuntu1
 liblc3-1:amd64	1.1.3+dfsg-1build1
 liblcms2-2:amd64	2.17-1
@@ -943,7 +943,7 @@ libmpc3:amd64	1.3.1-3
 libmpfr6:amd64	4.2.2-3
 libmpg123-0t64:amd64	1.33.3-2
 libmsgraph-1-1:amd64	0.3.3-3build1
-libmspub-0.1-1:amd64	0.1.4-4build1
+libmspub-0.1-1:amd64	0.1.4-5
 libmtdev1t64:amd64	1.1.7-1build1
 libmtp-common	1.1.22-1ubuntu1
 libmtp-runtime	1.1.22-1ubuntu1
@@ -995,7 +995,7 @@ libnuma1:amd64	2.0.19-1build1
 libnumber-compare-perl	0.03-3
 libnvme1t64:amd64	1.16.1-4
 libnvpair3linux:amd64	2.4.1-1ubuntu5
-libodfgen-0.1-1:amd64	0.1.8-3build1
+libodfgen-0.1-1:amd64	0.1.8-4
 libogg0:amd64	1.3.6-2
 libonig5:amd64	6.9.10-1build1
 liboobs-1-5:amd64	3.0.0-4.4
@@ -1045,7 +1045,7 @@ libpeas-common	1.38.1-6
 libperl5.40:amd64	5.40.1-7build1
 libperlio-gzip-perl	0.20-1build5
 libperlio-utf8-strict-perl	0.010-1build4
-libpgm-5.3-0t64:amd64	5.3.128~dfsg-2.1build2
+libpgm-5.3-0t64:amd64	5.3.128~dfsg-3
 libphonenumber8:amd64	8.13.51+ds-5
 libpipeline1:amd64	1.5.8-2
 libpipewire-0.3-0t64:amd64	1.6.2-1ubuntu1
@@ -1359,9 +1359,9 @@ libxfce4panel-2.0-4	4.20.7-1
 libxfce4ui-2-0:amd64	4.20.2-1
 libxfce4ui-common	4.20.2-1
 libxfce4ui-utils	4.20.2-1
-libxfce4util-bin	4.20.1-1build1
-libxfce4util-common	4.20.1-1build1
-libxfce4util7:amd64	4.20.1-1build1
+libxfce4util-bin	4.20.1-2
+libxfce4util-common	4.20.1-2
+libxfce4util7:amd64	4.20.1-2
 libxfce4windowing-0-0:amd64	4.20.5-1
 libxfce4windowing-common	4.20.5-1
 libxfconf-0-3:amd64	4.20.0-1build1
@@ -1484,7 +1484,7 @@ mate-polkit-common	1.26.1-6
 mawk	1.3.4.20260129-1
 media-player-info	26-1build1
 media-types	14.0.0build1
-memtest86+	8.00-3
+memtest86+	8.10-1
 menulibre	2.4.0-0ubuntu2
 mesa-libgallium:amd64	26.0.3-1ubuntu1
 mesa-utils	9.0.0-2build1
@@ -1902,7 +1902,7 @@ zlib1g:amd64	1:1.3.dfsg+really1.3.1-1ubuntu3
 zstd	1.5.7+dfsg-3
 snap:core24	stable	1643
 snap:snapd	stable	26865
-snap:firefox	stable/ubuntu-26.10	8339
+snap:firefox	stable/ubuntu-26.10	8364
 snap:firmware-updater	1/stable/ubuntu-26.04	226
 snap:gnome-46-2404	stable/ubuntu-26.10	153
 snap:bare	stable	5
