@@ -234,7 +234,7 @@ gir1.2-handy-1:amd64	1.8.3-3build1
 gir1.2-harfbuzz-0.0:amd64	12.3.2-2
 gir1.2-javascriptcoregtk-4.1:amd64	2.52.0-1
 gir1.2-json-1.0:amd64	1.10.8+ds-2
-gir1.2-libxfce4ui-2.0:amd64	4.20.2-1
+gir1.2-libxfce4ui-2.0:amd64	4.20.2-2
 gir1.2-libxfce4util-1.0:amd64	4.20.1-2
 gir1.2-nm-1.0:amd64	1.54.3-2ubuntu3
 gir1.2-notify-0.7:amd64	0.8.8-1
@@ -952,7 +952,7 @@ libmwaw-0.3-3:amd64	0.3.22-2
 libmypaint-1.5-1:amd64	1.6.0-4build1
 libmypaint-common	1.6.0-4build1
 libmysofa1:amd64	1.3.3+dfsg-1ubuntu2
-libmythes-1.2-0:amd64	2:1.2.5-2build1
+libmythes-1.2-0:amd64	2:1.2.6-1
 libnamespace-clean-perl	0.27-2
 libnatpmp1t64:amd64	20230423-1.2build4
 libncurses6:amd64	6.6+20251231-1
@@ -1356,9 +1356,9 @@ libxdmcp6:amd64	1:1.1.5-2
 libxdot4:amd64	14.1.2-1ubuntu1
 libxext6:amd64	2:1.3.4-1build3
 libxfce4panel-2.0-4	4.20.7-1
-libxfce4ui-2-0:amd64	4.20.2-1
-libxfce4ui-common	4.20.2-1
-libxfce4ui-utils	4.20.2-1
+libxfce4ui-2-0:amd64	4.20.2-2
+libxfce4ui-common	4.20.2-2
+libxfce4ui-utils	4.20.2-2
 libxfce4util-bin	4.20.1-2
 libxfce4util-common	4.20.1-2
 libxfce4util7:amd64	4.20.1-2
