@@ -1790,8 +1790,8 @@ user-setup	1.107ubuntu2
 util-linux	2.41.3-3ubuntu2
 uuid-runtime	2.41.3-3ubuntu2
 va-driver-all:amd64	2.23.0-1ubuntu1
-vim-common	2:9.1.2141-1ubuntu4.1
-vim-tiny	2:9.1.2141-1ubuntu4.1
+vim-common	2:9.1.2141-1ubuntu4.2
+vim-tiny	2:9.1.2141-1ubuntu4.2
 wamerican	2020.12.07-4build1
 webp-pixbuf-loader:amd64	0.2.7-3
 wget	1.25.0-2ubuntu4
@@ -1889,7 +1889,7 @@ xubuntu-desktop-minimal	2.272
 xubuntu-docs	22.04build1
 xubuntu-live-settings	26.04
 xubuntu-wallpapers	26.04.1
-xxd	2:9.1.2141-1ubuntu4.1
+xxd	2:9.1.2141-1ubuntu4.2
 xz-utils	5.8.3-1
 yelp	49.0-5
 yelp-xsl	49.0-2
