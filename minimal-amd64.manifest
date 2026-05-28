@@ -197,7 +197,7 @@ grub2-common	2.12-1ubuntu7.3
 gsettings-desktop-schemas	46.1-0ubuntu1
 gstreamer1.0-gl:amd64	1.24.2-1ubuntu0.4
 gstreamer1.0-plugins-base:amd64	1.24.2-1ubuntu0.4
-gstreamer1.0-plugins-good:amd64	1.24.2-1ubuntu1.3
+gstreamer1.0-plugins-good:amd64	1.24.2-1ubuntu1.4
 gstreamer1.0-x:amd64	1.24.2-1ubuntu0.4
 gtk-update-icon-cache	3.24.41-4ubuntu1.3
 gtk2-engines-murrine:amd64	0.98.2-4
@@ -354,7 +354,7 @@ libc-dev-bin	2.39-0ubuntu8.7
 libc-devtools	2.39-0ubuntu8.7
 libc6:amd64	2.39-0ubuntu8.7
 libc6-dev:amd64	2.39-0ubuntu8.7
-libcaca0:amd64	0.99.beta20-4ubuntu0.1
+libcaca0:amd64	0.99.beta20-4ubuntu0.2
 libcairo-gobject-perl	1.005-4build3
 libcairo-gobject2:amd64	1.18.0-3build1
 libcairo-perl	1.109-4build1
@@ -462,7 +462,7 @@ libgck-2-2:amd64	4.2.0-5
 libgcr-4-4:amd64	4.2.0-5
 libgcr-base-3-1:amd64	3.41.2-1build3
 libgcr-ui-3-1:amd64	3.41.2-1build3
-libgcrypt20:amd64	1.10.3-2build1
+libgcrypt20:amd64	1.10.3-2ubuntu0.1
 libgd3:amd64	2.3.3-9ubuntu5
 libgdbm-compat4t64:amd64	1.23-5.1build1
 libgdbm6t64:amd64	1.23-5.1build1
@@ -502,7 +502,7 @@ libgsm1:amd64	1.0.22-1build1
 libgssapi-krb5-2:amd64	1.20.1-6ubuntu2.6
 libgstreamer-gl1.0-0:amd64	1.24.2-1ubuntu0.4
 libgstreamer-plugins-base1.0-0:amd64	1.24.2-1ubuntu0.4
-libgstreamer-plugins-good1.0-0:amd64	1.24.2-1ubuntu1.3
+libgstreamer-plugins-good1.0-0:amd64	1.24.2-1ubuntu1.4
 libgstreamer1.0-0:amd64	1.24.2-1ubuntu0.1
 libgtk-3-0t64:amd64	3.24.41-4ubuntu1.3
 libgtk-3-bin	3.24.41-4ubuntu1.3
