@@ -503,7 +503,7 @@ libc-gconv-modules-extra:amd64	2.43-2ubuntu2
 libc6:amd64	2.43-2ubuntu2
 libc6-dbg:amd64	2.43-2ubuntu2
 libc6-dev:amd64	2.43-2ubuntu2
-libcaca0:amd64	0.99.beta20-6ubuntu2
+libcaca0:amd64	0.99.beta20-6ubuntu2.1
 libcairo-gobject-perl	1.005-4build4
 libcairo-gobject2:amd64	1.18.4-3
 libcairo-perl	1.109-5build1
@@ -703,7 +703,7 @@ libgck-2-2:amd64	4.4.0.1-8
 libgcr-4-4:amd64	4.4.0.1-8
 libgcr-base-3-1:amd64	3.41.2-6
 libgcr-ui-3-1:amd64	3.41.2-6
-libgcrypt20:amd64	1.12.0-2
+libgcrypt20:amd64	1.12.0-2ubuntu0.1
 libgd3:amd64	2.3.3-13ubuntu2
 libgdbm-compat4t64:amd64	1.26-1build1
 libgdbm6t64:amd64	1.26-1build1
@@ -1903,7 +1903,7 @@ zlib1g:amd64	1:1.3.dfsg+really1.3.1-1ubuntu3
 zstd	1.5.7+dfsg-3
 snap:core24	stable	1643
 snap:snapd	stable	26865
-snap:firefox	stable/ubuntu-26.04	8364
+snap:firefox	stable/ubuntu-26.04	8387
 snap:firmware-updater	1/stable/ubuntu-26.04	226
 snap:gnome-46-2404	stable/ubuntu-26.04	153
 snap:bare	stable	5
