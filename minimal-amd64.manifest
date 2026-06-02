@@ -45,7 +45,7 @@ ca-certificates	20240203
 casper	1.498
 cifs-utils	2:7.0-2ubuntu0.2
 cloud-guest-utils	0.33-1
-cloud-init	25.3-0ubuntu1~24.04.1
+cloud-init	26.1-0ubuntu1~24.04.1
 colord	1.4.7-1build2
 colord-data	1.4.7-1build2
 command-not-found	23.04.0
