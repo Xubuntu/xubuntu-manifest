@@ -6,7 +6,7 @@ adduser	3.153ubuntu1
 adwaita-icon-theme	50.0-1
 alsa-base	1.0.25+dfsg-0ubuntu9
 alsa-topology-conf	1.2.5.1-3build1
-alsa-ucm-conf	1.2.15.3-1ubuntu4
+alsa-ucm-conf	1.2.15.3-1ubuntu5
 alsa-utils	1.2.15.2-1ubuntu1
 amd64-microcode	3.20251202.1ubuntu2
 anacron	2.3-45ubuntu1
@@ -1129,9 +1129,9 @@ libsamplerate0:amd64	0.2.2-4build2
 libsane-common	1.4.0-1ubuntu1
 libsane-hpaio:amd64	3.24.4+dfsg0-0ubuntu8
 libsane1:amd64	1.4.0-1ubuntu1
-libsasl2-2:amd64	2.1.28+dfsg1-9ubuntu3
-libsasl2-modules:amd64	2.1.28+dfsg1-9ubuntu3
-libsasl2-modules-db:amd64	2.1.28+dfsg1-9ubuntu3
+libsasl2-2:amd64	2.1.28+dfsg1-9ubuntu4
+libsasl2-modules:amd64	2.1.28+dfsg1-9ubuntu4
+libsasl2-modules-db:amd64	2.1.28+dfsg1-9ubuntu4
 libsbc1:amd64	2.1-1build1
 libsdl2-2.0-0:amd64	2.32.10+dfsg-6
 libsdl2-classic:amd64	2.32.10+dfsg-6
@@ -1614,7 +1614,7 @@ python3-debian	1.0.1ubuntu2
 python3-defer	1.0.6-2.1ubuntu2
 python3-distro	1.9.0-1build1
 python3-distro-info	1.15
-python3-distupgrade	1:26.04.18
+python3-distupgrade	1:26.10.3
 python3-gdbm	3.14.3-0ubuntu2
 python3-gi	3.56.2-1
 python3-gi-cairo	3.56.2-1
@@ -1762,8 +1762,8 @@ ubuntu-keyring	2023.11.28.1build1
 ubuntu-minimal	1.570
 ubuntu-pro-client	37.2ubuntu
 ubuntu-pro-client-l10n	37.2ubuntu
-ubuntu-release-upgrader-core	1:26.04.18
-ubuntu-release-upgrader-gtk	1:26.04.18
+ubuntu-release-upgrader-core	1:26.10.3
+ubuntu-release-upgrader-gtk	1:26.10.3
 ubuntu-standard	1.570
 ucf	3.0052ubuntu1
 udev	259.5-0ubuntu3
