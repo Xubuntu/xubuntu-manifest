@@ -246,7 +246,7 @@ gir1.2-rb-3.0:amd64	3.4.9-4ubuntu1
 gir1.2-secret-1:amd64	0.21.7-2build1
 gir1.2-snapd-2:amd64	1.72-0ubuntu3
 gir1.2-soup-3.0:amd64	3.6.6-1
-gir1.2-vte-2.91:amd64	0.84.0-2
+gir1.2-vte-2.91:amd64	0.84.0-2build1
 gir1.2-webkit2-4.1:amd64	2.52.3-2
 gir1.2-wnck-3.0:amd64	43.3-1build1
 gir1.2-xfconf-0:amd64	4.20.0-1build1
@@ -920,7 +920,6 @@ libmarkdown2:amd64	2.2.7-2.1build1
 libmate-desktop-2-17t64:amd64	1.28.2-1
 libmath-base85-perl	0.5+dfsg-2
 libmaxminddb0:amd64	1.12.2-1build2
-libmbedcrypto16:amd64	3.6.5-0.1ubuntu2
 libmbim-glib4:amd64	1.32.0-2ubuntu1
 libmbim-proxy	1.32.0-2ubuntu1
 libmbim-utils	1.32.0-2ubuntu1
@@ -1048,9 +1047,9 @@ libperlio-utf8-strict-perl	0.010-1build4
 libpgm-5.3-0t64:amd64	5.3.128~dfsg-3
 libphonenumber8:amd64	8.13.51+ds-6
 libpipeline1:amd64	1.5.8-2
-libpipewire-0.3-0t64:amd64	1.6.2-1ubuntu1
-libpipewire-0.3-common	1.6.2-1ubuntu1
-libpipewire-0.3-modules:amd64	1.6.2-1ubuntu1
+libpipewire-0.3-0t64:amd64	1.6.4-1ubuntu1
+libpipewire-0.3-common	1.6.4-1ubuntu1
+libpipewire-0.3-modules:amd64	1.6.4-1ubuntu1
 libpixman-1-0:amd64	0.46.4-1
 libpkcs11-helper1t64:amd64	1.31.0-1
 libplacebo360:amd64	7.360.1-1
@@ -1088,7 +1087,7 @@ libqrencode4:amd64	4.1.1-2build1
 libqrtr-glib0:amd64	1.2.2-2ubuntu1
 libquadmath0:amd64	16-20260322-1ubuntu1
 librabbitmq4:amd64	0.15.0-1build2
-libraptor2-0:amd64	2.0.16-6build1
+libraptor2-0:amd64	2.0.16-7
 libraqm0:amd64	0.10.4-1
 librasqal3t64:amd64	0.9.33-3
 librav1e0.8:amd64	0.8.1-7
@@ -1118,7 +1117,7 @@ libreoffice-uiconfig-writer	4:26.2.2.2-0ubuntu1
 libreoffice-writer	4:26.2.2.2-0ubuntu1
 librevenge-0.0-0:amd64	0.0.5-3build2
 librhythmbox-core10:amd64	3.4.9-4ubuntu1
-librist4:amd64	0.2.11+dfsg-1build1
+librist4:amd64	0.2.15+dfsg-1
 libroc0.4:amd64	0.4.0+dfsg-6
 librole-tiny-perl	2.002004-1
 librsvg2-2:amd64	2.61.3+dfsg-3
@@ -1154,7 +1153,7 @@ libshine3:amd64	3.1.1-3build1
 libshout3:amd64	2.4.6-1build3
 libsigc++-2.0-0v5:amd64	2.12.1-4build1
 libsigc++-3.0-0:amd64	3.6.0-2build1
-libsimdutf31:amd64	8.0.0-1
+libsimdutf33:amd64	8.2.0-1
 libslang2:amd64	2.3.3-5build1
 libsm6:amd64	2:1.2.6-1build1
 libsmartcols1:amd64	2.41.3-3ubuntu2
@@ -1174,8 +1173,8 @@ libsoup-3.0-common	3.6.6-1
 libsource-highlight-common	3.1.9-4.3build2
 libsource-highlight4t64:amd64	3.1.9-4.3build2
 libsoxr0:amd64	0.1.3-4.1
-libspa-0.2-bluetooth:amd64	1.6.2-1ubuntu1
-libspa-0.2-modules:amd64	1.6.2-1ubuntu1
+libspa-0.2-bluetooth:amd64	1.6.4-1ubuntu1
+libspa-0.2-modules:amd64	1.6.4-1ubuntu1
 libspectre1:amd64	0.2.12-2
 libspeechd-module0:amd64	0.12.1-2ubuntu1
 libspeechd2:amd64	0.12.1-2ubuntu1
@@ -1295,8 +1294,8 @@ libvorbisenc2:amd64	1.3.7-3build2
 libvorbisfile3:amd64	1.3.7-3build2
 libvpl2	1:2.16.0-1
 libvpx12:amd64	1.16.0-3
-libvte-2.91-0:amd64	0.84.0-2
-libvte-2.91-common	0.84.0-2
+libvte-2.91-0:amd64	0.84.0-2build1
+libvte-2.91-common	0.84.0-2build1
 libvulkan1:amd64	1.4.341.0-1
 libwacom-common	2.18.0-1
 libwacom9:amd64	2.18.0-1
@@ -1549,9 +1548,9 @@ perl-base	5.40.1-7build1
 perl-modules-5.40	5.40.1-7build1
 perl-openssl-defaults:amd64	7build4
 pinentry-gnome3	1.3.2-4ubuntu1
-pipewire:amd64	1.6.2-1ubuntu1
-pipewire-bin	1.6.2-1ubuntu1
-pipewire-pulse	1.6.2-1ubuntu1
+pipewire:amd64	1.6.4-1ubuntu1
+pipewire-bin	1.6.4-1ubuntu1
+pipewire-pulse	1.6.4-1ubuntu1
 pkexec	127-2ubuntu1
 plocate	1.1.23-1ubuntu3
 plymouth	24.004.60+git20250831.4a3c171d-0ubuntu8
@@ -1565,7 +1564,7 @@ polkitd	127-2ubuntu1
 poppler-data	0.4.12-1build1
 poppler-utils	26.01.0-2build2
 powermgmt-base	1.38ubuntu2
-ppp	2.5.2-1+1.2
+ppp	2.5.2-1+2
 pptp-linux	1.10.0-2build1
 printer-driver-brlaser	6.2.8-1
 printer-driver-c2esp	27-11ubuntu8
@@ -1657,7 +1656,7 @@ python3-pyparsing	3.3.2-2
 python3-referencing	0.36.2-1ubuntu2
 python3-requests	2.32.5+dfsg-1ubuntu1
 python3-rich	13.9.4-1.2
-python3-rpds-py	0.27.1-2ubuntu3
+python3-rpds-py	0.30.0-1ubuntu1
 python3-serial	3.5-2build1
 python3-setuptools	78.1.1-0.1build1
 python3-software-properties	0.121
@@ -1902,7 +1901,7 @@ zlib1g:amd64	1:1.3.dfsg+really1.3.1-1ubuntu3
 zstd	1.5.7+dfsg-3
 snap:core24	stable	1643
 snap:snapd	stable	26865
-snap:firefox	stable/ubuntu-26.10	8387
+snap:firefox	stable/ubuntu-26.10	8417
 snap:firmware-updater	1/stable/ubuntu-26.04	226
 snap:gnome-46-2404	stable/ubuntu-26.10	153
 snap:bare	stable	5
@@ -1910,5 +1909,5 @@ snap:gtk-common-themes	stable/ubuntu-26.10	1535
 snap:mesa-2404	stable/ubuntu-26.10	1165
 snap:snap-store	2/stable/ubuntu-26.04	1367
 snap:snapd-desktop-integration	stable/ubuntu-26.10	361
-snap:thunderbird	stable/ubuntu-26.10	1117
+snap:thunderbird	stable/ubuntu-26.10	1138
 snap:ubuntu-desktop-bootstrap	26.04/stable/ubuntu-26.04	589
