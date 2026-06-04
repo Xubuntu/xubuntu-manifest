@@ -873,7 +873,7 @@ libwireplumber-0.5-0:amd64	0.5.13-1ubuntu1
 libwnck-3-0:amd64	43.3-1build1
 libwnck-3-common	43.3-1build1
 libwrap0:amd64	7.6.q-36build2
-libwww-perl	6.81-1build1
+libwww-perl	6.81-1ubuntu0.1
 libwww-robotrules-perl	6.02-1build1
 libx11-6:amd64	2:1.8.13-1
 libx11-data	2:1.8.13-1
@@ -1160,7 +1160,7 @@ python3-typeguard	4.4.4-2
 python3-typing-extensions	4.15.0-2
 python3-uc-micro	1.0.3-1build1
 python3-update-manager	1:26.04.5
-python3-urllib3	2.6.3-1ubuntu1
+python3-urllib3	2.6.3-1ubuntu1.1
 python3-wadllib	2.0.0-3
 python3-xkit	0.5.0ubuntu8
 python3-yaml	6.0.3-1build1
