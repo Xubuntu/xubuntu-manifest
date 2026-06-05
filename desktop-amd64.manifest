@@ -301,7 +301,7 @@ gstreamer1.0-tools	1.28.3-1
 gstreamer1.0-x:amd64	1.28.3-1
 gtk-update-icon-cache	4.22.2+ds-1ubuntu1
 gtk2-engines-pixbuf:amd64	2.24.33-10
-gucharmap	1:16.0.2-4
+gucharmap	1:17.0.2-1
 gvfs:amd64	1.60.0-1
 gvfs-backends	1.60.0-1
 gvfs-common	1.60.0-1
@@ -780,7 +780,7 @@ libgtksourceview-4-0:amd64	4.8.4-9
 libgtksourceview-4-common	4.8.4-9
 libgtop-2.0-11:amd64	2.41.3-2ubuntu1
 libgtop2-common	2.41.3-2ubuntu1
-libgucharmap-2-90-7:amd64	1:16.0.2-4
+libgucharmap-2-90-7:amd64	1:17.0.2-1
 libgudev-1.0-0:amd64	1:238-7build1
 libgusb2a:amd64	0.4.9-7
 libgvc7:amd64	14.1.2-1ubuntu1
