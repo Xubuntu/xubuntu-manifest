@@ -212,7 +212,7 @@ gir1.2-adw-1:amd64	1.9.0-0ubuntu1
 gir1.2-atk-1.0:amd64	2.60.0-1
 gir1.2-atspi-2.0:amd64	2.60.0-1
 gir1.2-ayatanaappindicator3-0.1	0.5.94-1build1
-gir1.2-babl-0.1:amd64	1:0.1.124-1
+gir1.2-babl-0.1:amd64	1:0.1.126-1
 gir1.2-clutter-1.0:amd64	1.26.4+git2779b932+dfsg-8
 gir1.2-cogl-1.0:amd64	1.22.8-6
 gir1.2-coglpango-1.0:amd64	1.22.8-6
@@ -465,7 +465,7 @@ libayatana-indicator3-7:amd64	0.9.4-2.1
 libb-hooks-endofscope-perl	0.28-2
 libb-hooks-op-check-perl:amd64	0.22-3build2
 libbabeltrace1:amd64	1.5.11-5build1
-libbabl-0.1-0:amd64	1:0.1.124-1
+libbabl-0.1-0:amd64	1:0.1.126-1
 libbdplus0:amd64	0.2.0-4build1
 libberkeleydb-perl:amd64	0.66-2
 libbinutils:amd64	2.46-3ubuntu2
@@ -508,8 +508,8 @@ libcairo-gobject2:amd64	1.18.4-3
 libcairo-perl	1.109-5build1
 libcairo-script-interpreter2:amd64	1.18.4-3
 libcairo2:amd64	1.18.4-3
-libcairomm-1.0-1v5:amd64	1.14.5-3
-libcairomm-1.16-1:amd64	1.18.0-3
+libcairomm-1.0-1v5:amd64	1.14.6-1
+libcairomm-1.16-1:amd64	1.18.1-1
 libcaja-extension1:amd64	1.26.4-3
 libcamd3:amd64	1:7.12.2+dfsg-1ubuntu1
 libcamel-1.2-64t64:amd64	3.56.2-8
@@ -1089,11 +1089,11 @@ libquadmath0:amd64	16-20260322-1ubuntu1
 librabbitmq4:amd64	0.15.0-1build2
 libraptor2-0:amd64	2.0.16-7
 libraqm0:amd64	0.10.4-1
-librasqal3t64:amd64	0.9.33-3
+librasqal3t64:amd64	0.9.33-4
 librav1e0.8:amd64	0.8.1-7
 libraw1394-11:amd64	2.1.2-2.1
 libraw23t64:amd64	0.21.5b-1ubuntu1
-librdf0t64:amd64	1.0.17-8
+librdf0t64:amd64	1.0.17-10
 libreadline8t64:amd64	8.3-4
 libregexp-wildcards-perl	1.05-3
 libreoffice-base-core	4:26.2.2.2-0ubuntu1

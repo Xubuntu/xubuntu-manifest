@@ -372,8 +372,8 @@ libcairo-gobject2:amd64	1.18.4-3
 libcairo-perl	1.109-5build1
 libcairo-script-interpreter2:amd64	1.18.4-3
 libcairo2:amd64	1.18.4-3
-libcairomm-1.0-1v5:amd64	1.14.5-3
-libcairomm-1.16-1:amd64	1.18.0-3
+libcairomm-1.0-1v5:amd64	1.14.6-1
+libcairomm-1.16-1:amd64	1.18.1-1
 libcanberra0:amd64	0.30-18ubuntu3
 libcap-ng0:amd64	0.8.5-4build5
 libcap2:amd64	1:2.75-10ubuntu2
