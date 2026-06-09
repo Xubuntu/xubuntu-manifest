@@ -501,8 +501,8 @@ libgnutls30t64:amd64	3.8.12-2ubuntu1
 libgomp1:amd64	16-20260322-1ubuntu1
 libgpg-error-l10n	1.58-2
 libgpg-error0:amd64	1.58-2
-libgpgme45:amd64	2.0.1-2build1
-libgpgmepp7:amd64	2.0.0-3
+libgpgme45:amd64	2.1.0-2
+libgpgmepp7:amd64	2.1.0-2
 libgphoto2-6t64:amd64	2.5.33-1ubuntu1
 libgphoto2-l10n	2.5.33-1ubuntu1
 libgphoto2-port12t64:amd64	2.5.33-1ubuntu1
