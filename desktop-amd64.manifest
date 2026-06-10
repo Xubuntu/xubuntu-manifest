@@ -150,7 +150,7 @@ engrampa-common	1.28.2-1
 espeak	1.48.15+dfsg-4
 espeak-data:amd64	1.48.15+dfsg-4
 espeak-ng-data:amd64	1.52.0+dfsg-5build1
-ethtool	1:6.19-1
+ethtool	1:7.0-1
 evolution-data-server-common	3.56.2-8
 exfatprogs	1.4.1-1
 exo-utils	4.20.0-1build1
@@ -159,7 +159,7 @@ fdisk	2.41.3-3ubuntu2
 file	1:5.46-5build2
 finalrd	9build2
 findutils	4.10.0-3build2
-firefox	1:1snap1-0ubuntu9
+firefox	1:1snap1-0ubuntu10
 firmware-sof-signed	2025.12.2-2
 fontconfig	2.17.1-3ubuntu1
 fontconfig-config	2.17.1-3ubuntu1
@@ -238,7 +238,7 @@ gir1.2-libxfce4ui-2.0:amd64	4.20.2-2
 gir1.2-libxfce4util-1.0:amd64	4.20.1-2
 gir1.2-nm-1.0:amd64	1.54.3-2ubuntu3
 gir1.2-notify-0.7:amd64	0.8.8-1
-gir1.2-packagekitglib-1.0	1.3.5-1
+gir1.2-packagekitglib-1.0	1.3.5-1ubuntu1
 gir1.2-pango-1.0:amd64	1.57.0-1
 gir1.2-peas-1.0:amd64	1.38.1-6
 gir1.2-polkit-1.0:amd64	127-2ubuntu1
@@ -582,7 +582,7 @@ libdata-validate-ip-perl	0.31-1
 libdata-validate-uri-perl	0.07-3
 libdatrie1:amd64	0.2.14-1
 libdav1d7:amd64	1.5.3-1
-libdb5.3t64:amd64	5.3.28+dfsg2-10ubuntu1
+libdb5.3t64:amd64	5.3.28+dfsg2-11
 libdbus-1-3:amd64	1.16.2-2ubuntu4
 libdbus-glib-1-2:amd64	0.114-2
 libdbusmenu-glib4:amd64	18.10.20180917~bzr492+repack1-4build1
@@ -661,8 +661,8 @@ libfcgi-perl	0.82+ds-3build3
 libfcgi0t64:amd64	2.4.5-0.1build2
 libfdisk1:amd64	2.41.3-3ubuntu2
 libffi8:amd64	3.5.2-4
-libfftw3-double3:amd64	3.3.10-2fakesync1build3
-libfftw3-single3:amd64	3.3.10-2fakesync1build3
+libfftw3-double3:amd64	3.3.11-1
+libfftw3-single3:amd64	3.3.11-1
 libfido2-1:amd64	1.16.0-2build1
 libfile-basedir-perl	0.09-2
 libfile-desktopentry-perl	0.23-1
@@ -1001,7 +1001,7 @@ liboobs-1-5:amd64	3.0.0-4.4
 libopenexr-3-1-30:amd64	3.1.13-2build1
 libopengl0:amd64	1.7.0-3
 libopenjp2-7:amd64	2.5.4-1ubuntu0.1
-libopenmpt0t64:amd64	0.8.4-1
+libopenmpt0t64:amd64	0.8.7-1
 libopus0:amd64	1.6.1-1
 liborc-0.4-0t64:amd64	1:0.4.42-3
 liborcus-0.21-0:amd64	0.21.0-4
@@ -1009,7 +1009,7 @@ liborcus-parser-0.21-0:amd64	0.21.0-4
 libp11-kit0:amd64	0.26.2-2
 libpackage-stash-perl	0.40-1
 libpackage-stash-xs-perl:amd64	0.30-1build5
-libpackagekit-glib2-18:amd64	1.3.5-1
+libpackagekit-glib2-18:amd64	1.3.5-1ubuntu1
 libpagemaker-0.0-0:amd64	0.0.4-2
 libpam-cap:amd64	1:2.75-10ubuntu2
 libpam-gnome-keyring:amd64	50.0-1
@@ -1084,11 +1084,11 @@ libqmi-utils	1.38.0-1
 libqpdf30:amd64	12.3.2-1
 libqqwing2v5:amd64	1.3.4-3build1
 libqrencode4:amd64	4.1.1-2build1
-libqrtr-glib0:amd64	1.2.2-2ubuntu1
+libqrtr-glib0:amd64	1.4.0-1
 libquadmath0:amd64	16-20260322-1ubuntu1
 librabbitmq4:amd64	0.15.0-1build2
 libraptor2-0:amd64	2.0.16-7
-libraqm0:amd64	0.10.4-1
+libraqm0:amd64	0.10.5-1
 librasqal3t64:amd64	0.9.33-4
 librav1e0.8:amd64	0.8.1-7
 libraw1394-11:amd64	2.1.2-2.1
@@ -1117,7 +1117,7 @@ libreoffice-uiconfig-writer	4:26.2.2.2-0ubuntu1
 libreoffice-writer	4:26.2.2.2-0ubuntu1
 librevenge-0.0-0:amd64	0.0.5-3build2
 librhythmbox-core10:amd64	3.4.9-4ubuntu1
-librist4:amd64	0.2.15+dfsg-1
+librist4:amd64	0.2.17+dfsg-1
 libroc0.4:amd64	0.4.0+dfsg-6
 librole-tiny-perl	2.002004-1
 librsvg2-2:amd64	2.61.3+dfsg-3
@@ -1391,7 +1391,7 @@ libxpm4:amd64	1:3.5.17-1build3
 libxpresent1:amd64	1.0.1-1build1
 libxrandr2:amd64	2:1.5.4-1build1
 libxrender1:amd64	1:0.9.12-1build1
-libxres1:amd64	2:1.2.1-1build2
+libxres1:amd64	2:1.2.1-2
 libxs-parse-keyword-perl	0.49-1
 libxshmfence1:amd64	1.3.3-1build1
 libxslt1.1:amd64	1.1.45-0.1
@@ -1496,7 +1496,7 @@ mount	2.41.3-3ubuntu2
 mousepad	0.7.0-1
 mscompress	0.4-10build2
 mtools	4.0.49-1
-mtr-tiny	0.95-1.1ubuntu2
+mtr-tiny	0.96-1
 mugshot	0.4.3-1build1
 nano	9.0-1
 ncurses-base	6.6+20251231-1
@@ -1532,7 +1532,7 @@ openvpn	2.7.0-1ubuntu1
 os-prober	1.84ubuntu1
 p11-kit	0.26.2-2
 p11-kit-modules:amd64	0.26.2-2
-packagekit	1.3.5-1
+packagekit	1.3.5-1ubuntu1
 parole	4.20.0-1
 parted	3.6-6
 passwd	1:4.17.4-2ubuntu3
@@ -1693,7 +1693,7 @@ sane-utils	1.4.0-1ubuntu1
 sbsigntool	0.9.4-3.1ubuntu9
 screen	4.9.1-3ubuntu2
 secureboot-db	1.9build2
-sed	4.9-2build3
+sed	4.9-3
 sensible-utils	0.0.26build1
 sgml-base	1.31+nmu1build1
 sgml-data	2.0.11+nmu1build1
