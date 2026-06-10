@@ -6,7 +6,7 @@ adduser	3.153ubuntu1
 adwaita-icon-theme	50.0-1
 alsa-base	1.0.25+dfsg-0ubuntu9
 alsa-topology-conf	1.2.5.1-3build1
-alsa-ucm-conf	1.2.15.3-1ubuntu1
+alsa-ucm-conf	1.2.15.3-1ubuntu1.2
 alsa-utils	1.2.15.2-1ubuntu1
 amd64-microcode	3.20251202.1ubuntu2
 anacron	2.3-45ubuntu1
@@ -1188,7 +1188,7 @@ libsrt1.5-gnutls:amd64	1.5.4-3
 libss2:amd64	1.47.2-3ubuntu4
 libssh-4:amd64	0.11.3-1ubuntu1
 libssh2-1t64:amd64	1.11.1-1ubuntu0.26.04.1
-libssl3t64:amd64	3.5.5-1ubuntu3
+libssl3t64:amd64	3.5.5-1ubuntu3.2
 libstartup-notification0:amd64	0.12-8build1
 libstdc++-15-dev:amd64	15.2.0-16ubuntu1
 libstdc++6:amd64	16-20260322-1ubuntu1
@@ -1528,8 +1528,8 @@ onboard-common	1.4.3+git20260213+ds-2
 onboard-data	1.4.3+git20260213+ds-2
 openprinting-ppds	20250819-1build1
 openssh-client	1:10.2p1-2ubuntu3.2
-openssl	3.5.5-1ubuntu3
-openssl-provider-legacy	3.5.5-1ubuntu3
+openssl	3.5.5-1ubuntu3.2
+openssl-provider-legacy	3.5.5-1ubuntu3.2
 openvpn	2.7.0-1ubuntu1.1
 os-prober	1.84ubuntu1
 p11-kit	0.26.2-2
@@ -1790,8 +1790,8 @@ user-setup	1.107ubuntu2
 util-linux	2.41.3-3ubuntu2
 uuid-runtime	2.41.3-3ubuntu2
 va-driver-all:amd64	2.23.0-1ubuntu1
-vim-common	2:9.1.2141-1ubuntu4.2
-vim-tiny	2:9.1.2141-1ubuntu4.2
+vim-common	2:9.1.2141-1ubuntu4.3
+vim-tiny	2:9.1.2141-1ubuntu4.3
 wamerican	2020.12.07-4build1
 webp-pixbuf-loader:amd64	0.2.7-3
 wget	1.25.0-2ubuntu4
@@ -1889,7 +1889,7 @@ xubuntu-desktop-minimal	2.272
 xubuntu-docs	22.04build1
 xubuntu-live-settings	26.04
 xubuntu-wallpapers	26.04.1
-xxd	2:9.1.2141-1ubuntu4.2
+xxd	2:9.1.2141-1ubuntu4.3
 xz-utils	5.8.3-1
 yelp	49.0-5
 yelp-xsl	49.0-2
