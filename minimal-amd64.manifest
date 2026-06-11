@@ -537,7 +537,7 @@ libhtml-parser-perl:amd64	3.81-1build3
 libhtml-tagset-perl	3.20-6
 libhtml-tree-perl	5.07-3
 libhttp-cookies-perl	6.11-1
-libhttp-daemon-perl	6.16-1
+libhttp-daemon-perl	6.16-1ubuntu0.24.04.1
 libhttp-date-perl	6.06-1
 libhttp-message-perl	6.45-1ubuntu1
 libhttp-negotiate-perl	6.01-2
