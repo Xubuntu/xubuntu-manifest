@@ -45,7 +45,7 @@ btrfs-progs	6.17.1-1build1
 bubblewrap	0.11.1-1ubuntu0.1
 busybox-initramfs	1:1.37.0-7ubuntu1
 busybox-static	1:1.37.0-7ubuntu1
-ca-certificates	20260223
+ca-certificates	20260601~26.04.1
 casper	26.04.2
 chrony	4.8-2ubuntu1
 cifs-utils	2:7.4-1build1
