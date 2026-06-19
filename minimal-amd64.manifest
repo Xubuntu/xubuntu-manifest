@@ -526,9 +526,9 @@ libhandy-1-0:amd64	1.8.3-1build2
 libharfbuzz-gobject0:amd64	8.3.0-2build2
 libharfbuzz-icu0:amd64	8.3.0-2build2
 libharfbuzz0b:amd64	8.3.0-2build2
-libheif-plugin-aomdec:amd64	1.17.6-1ubuntu4.3
-libheif-plugin-aomenc:amd64	1.17.6-1ubuntu4.3
-libheif1:amd64	1.17.6-1ubuntu4.3
+libheif-plugin-aomdec:amd64	1.17.6-1ubuntu4.4
+libheif-plugin-aomenc:amd64	1.17.6-1ubuntu4.4
+libheif1:amd64	1.17.6-1ubuntu4.4
 libhogweed6t64:amd64	3.9.1-2.2build1.1
 libhpmud0:amd64	3.23.12+dfsg0-0ubuntu5
 libhtml-form-perl	6.11-1
@@ -1202,8 +1202,8 @@ util-linux	2.39.3-9ubuntu6.5
 uuid-runtime	2.39.3-9ubuntu6.5
 va-driver-all:amd64	2.20.0-2ubuntu0.2
 vdpau-driver-all:amd64	1.5-2build1
-vim-common	2:9.1.0016-1ubuntu7.15
-vim-tiny	2:9.1.0016-1ubuntu7.15
+vim-common	2:9.1.0016-1ubuntu7.16
+vim-tiny	2:9.1.0016-1ubuntu7.16
 wamerican	2020.12.07-2
 wget	1.21.4-1ubuntu4.1
 whiptail	0.52.24-2ubuntu2
@@ -1281,7 +1281,7 @@ xubuntu-default-settings	24.04.4
 xubuntu-desktop-minimal	2.262
 xubuntu-live-settings	24.04.4
 xubuntu-wallpapers	24.04.1
-xxd	2:9.1.0016-1ubuntu7.15
+xxd	2:9.1.0016-1ubuntu7.16
 xz-utils	5.6.1+really5.4.5-1ubuntu0.3
 yelp	42.2-1ubuntu0.24.04.1
 yelp-xsl	42.1-2ubuntu0.24.04.1
