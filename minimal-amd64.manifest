@@ -1170,7 +1170,7 @@ python3.14-gdbm	3.14.4-1
 python3.14-minimal	3.14.4-1
 readline-common	8.3-4
 rfkill	2.41.3-3ubuntu2
-rpcsvc-proto	1.4.3-1build1
+rpcsvc-proto	1.4.4-1
 rsync	3.4.1+ds1-7
 rsyslog	8.2512.0-1ubuntu4
 rtkit	0.14-1
@@ -1339,4 +1339,4 @@ zlib1g:amd64	1:1.3.dfsg+really1.3.1-1ubuntu3
 zstd	1.5.7+dfsg-3
 snap:core24	stable	1643
 snap:snapd	stable	26865
-snap:ubuntu-desktop-bootstrap	26.04/stable/ubuntu-26.04	589
+snap:ubuntu-desktop-bootstrap	26.10/stable/ubuntu-26.10	620
