@@ -539,9 +539,9 @@ libharfbuzz-gobject0:amd64	12.3.2-2
 libharfbuzz-icu0:amd64	12.3.2-2
 libharfbuzz-subset0:amd64	12.3.2-2
 libharfbuzz0b:amd64	12.3.2-2
-libheif-plugin-aomdec:amd64	1.21.2-3
-libheif-plugin-aomenc:amd64	1.21.2-3
-libheif1:amd64	1.21.2-3
+libheif-plugin-aomdec:amd64	1.21.2-3ubuntu0.1
+libheif-plugin-aomenc:amd64	1.21.2-3ubuntu0.1
+libheif1:amd64	1.21.2-3ubuntu0.1
 libhogweed6t64:amd64	3.10.2-1
 libhpmud0:amd64	3.24.4+dfsg0-0ubuntu8
 libhtml-form-perl	6.13-1build1
@@ -1251,8 +1251,8 @@ user-setup	1.107ubuntu2
 util-linux	2.41.3-3ubuntu2
 uuid-runtime	2.41.3-3ubuntu2
 va-driver-all:amd64	2.23.0-1ubuntu1
-vim-common	2:9.1.2141-1ubuntu4.3
-vim-tiny	2:9.1.2141-1ubuntu4.3
+vim-common	2:9.1.2141-1ubuntu4.5
+vim-tiny	2:9.1.2141-1ubuntu4.5
 wamerican	2020.12.07-4build1
 wget	1.25.0-2ubuntu4
 whiptail	0.52.25-1ubuntu3
@@ -1327,7 +1327,7 @@ xubuntu-default-settings	26.04
 xubuntu-desktop-minimal	2.272
 xubuntu-live-settings	26.04
 xubuntu-wallpapers	26.04.1
-xxd	2:9.1.2141-1ubuntu4.3
+xxd	2:9.1.2141-1ubuntu4.5
 xz-utils	5.8.3-1
 yelp	49.0-5
 yelp-xsl	49.0-2
