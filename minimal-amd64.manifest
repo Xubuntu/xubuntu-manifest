@@ -143,7 +143,7 @@ fonts-noto-core	20201225-2build1
 fonts-noto-hinted	20201225-2build1
 fonts-noto-mono	20201225-2build1
 fonts-noto-ui-core	20201225-2build1
-fonts-opensymbol	4:102.12+LibO26.2.3.2-0ubuntu0.26.04.1
+fonts-opensymbol	4:102.12+LibO26.2.4.2-0ubuntu0.26.04.1
 fonts-symbola	2.60-4
 fonts-ubuntu	0.869+git20240321-0ubuntu2
 fonts-urw-base35	20200910-8build1
@@ -510,7 +510,7 @@ libgphoto2-port12t64:amd64	2.5.33-1ubuntu1
 libgpm2:amd64	1.20.7-12build1
 libgprofng0:amd64	2.46-3ubuntu2
 libgraphene-1.0-0:amd64	1.10.8-5build1
-libgraphite2-3:amd64	1.3.14-11ubuntu1
+libgraphite2-3:amd64	1.3.14-11ubuntu1.1
 libgs-common	10.06.0~dfsg-3ubuntu1
 libgs10:amd64	10.06.0~dfsg-3ubuntu1
 libgs10-common	10.06.0~dfsg-3ubuntu1
@@ -518,7 +518,7 @@ libgsm1:amd64	1.0.23-2
 libgssapi-krb5-2:amd64	1.22.1-2ubuntu4
 libgstreamer-gl1.0-0:amd64	1.28.2-1
 libgstreamer-plugins-base1.0-0:amd64	1.28.2-1
-libgstreamer-plugins-extra1.0-0:amd64	1.28.2-1ubuntu1
+libgstreamer-plugins-extra1.0-0:amd64	1.28.2-1ubuntu1.1
 libgstreamer1.0-0:amd64	1.28.2-1
 libgtk-3-0t64:amd64	3.24.52-0ubuntu1
 libgtk-3-bin	3.24.52-0ubuntu1
@@ -1112,7 +1112,7 @@ python3-dbus	1.4.0-1build2
 python3-debconf	1.5.92
 python3-distro	1.9.0-1build1
 python3-distro-info	1.15
-python3-distupgrade	1:26.04.18
+python3-distupgrade	1:26.04.22
 python3-gdbm	3.14.3-0ubuntu2
 python3-gi	3.56.2-1
 python3-httplib2	0.22.0-1build1
@@ -1230,7 +1230,7 @@ ubuntu-keyring	2023.11.28.1build1
 ubuntu-minimal	1.570
 ubuntu-pro-client	37.2ubuntu
 ubuntu-pro-client-l10n	37.2ubuntu
-ubuntu-release-upgrader-core	1:26.04.18
+ubuntu-release-upgrader-core	1:26.04.22
 ubuntu-standard	1.570
 ucf	3.0052ubuntu1
 udev	259.5-0ubuntu3
