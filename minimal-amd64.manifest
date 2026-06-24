@@ -246,8 +246,8 @@ keyboxd	2.4.4-2ubuntu17.4
 keyutils	1.6.3-3build1
 klibc-utils	2.0.13-4ubuntu0.2
 kmod	31+20240202-2ubuntu7.2
-kpartx	0.9.4-5ubuntu8.1
-kpartx-boot	0.9.4-5ubuntu8.1
+kpartx	0.9.4-5ubuntu8.2
+kpartx-boot	0.9.4-5ubuntu8.2
 krb5-locales	1.20.1-6ubuntu2.6
 language-pack-bn	1:24.04+20260127
 language-pack-bn-base	1:24.04+20260127
