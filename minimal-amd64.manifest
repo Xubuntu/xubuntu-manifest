@@ -222,7 +222,7 @@ gvfs:amd64	1.60.0-1
 gvfs-common	1.60.0-1
 gvfs-daemons	1.60.0-1
 gvfs-libs:amd64	1.60.0-1
-gzip	1.14-1~exp2ubuntu1
+gzip	1.14-1~exp2ubuntu1.1
 hdparm	9.65+ds-1.1build1
 hicolor-icon-theme	0.18-2build1
 hostname	3.25build1
@@ -727,9 +727,9 @@ libpsl5t64:amd64	0.21.2-1.1build2
 libpulse-mainloop-glib0:amd64	1:17.0+dfsg1-2ubuntu4
 libpulse0:amd64	1:17.0+dfsg1-2ubuntu4
 libpython3-stdlib:amd64	3.14.3-0ubuntu2
-libpython3.14:amd64	3.14.4-1
-libpython3.14-minimal:amd64	3.14.4-1
-libpython3.14-stdlib:amd64	3.14.4-1
+libpython3.14:amd64	3.14.4-1ubuntu0.1
+libpython3.14-minimal:amd64	3.14.4-1ubuntu0.1
+libpython3.14-stdlib:amd64	3.14.4-1ubuntu0.1
 libqmi-glib5:amd64	1.38.0-1
 libqmi-proxy	1.38.0-1
 libqmi-utils	1.38.0-1
@@ -1165,9 +1165,9 @@ python3-wadllib	2.0.0-3
 python3-xkit	0.5.0ubuntu8
 python3-yaml	6.0.3-1build1
 python3-zipp	3.23.0-1build1
-python3.14	3.14.4-1
-python3.14-gdbm	3.14.4-1
-python3.14-minimal	3.14.4-1
+python3.14	3.14.4-1ubuntu0.1
+python3.14-gdbm	3.14.4-1ubuntu0.1
+python3.14-minimal	3.14.4-1ubuntu0.1
 readline-common	8.3-4
 rfkill	2.41.3-3ubuntu2
 rpcsvc-proto	1.4.3-1build1
@@ -1206,7 +1206,7 @@ systemd-hwe-hwdb	259.5.3ubuntu
 systemd-resolved	259.5-0ubuntu3
 systemd-sysv	259.5-0ubuntu3
 sysvinit-utils	3.15-5ubuntu1
-tar	1.35+dfsg-4ubuntu0.1
+tar	1.35+dfsg-4ubuntu0.2
 tcl	8.6.16build1
 tcl8.6	8.6.17+dfsg-1build1
 tcpdump	4.99.6-1
