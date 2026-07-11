@@ -4,13 +4,13 @@ adduser	3.137ubuntu1
 adwaita-icon-theme	46.0-1
 alsa-base	1.0.25+dfsg-0ubuntu7
 alsa-topology-conf	1.2.5.1-2
-alsa-ucm-conf	1.2.10-1ubuntu5.11
+alsa-ucm-conf	1.2.10-1ubuntu5.13
 alsa-utils	1.2.9-1ubuntu5
 amd64-microcode	3.20251202.1ubuntu0.24.04.1
 anacron	2.3-39ubuntu2
 apparmor	4.0.1really4.0.1-0ubuntu0.24.04.7
-apport	2.28.1-0ubuntu3.8
-apport-core-dump-handler	2.28.1-0ubuntu3.8
+apport	2.28.2-0ubuntu0.1
+apport-core-dump-handler	2.28.2-0ubuntu0.1
 apport-symptoms	0.25
 appstream	1.0.2-1build6
 apt	2.8.3
@@ -144,7 +144,7 @@ foomatic-db-compressed-ppds	20230202-1
 friendly-recovery	0.2.42
 ftp	20230507-2build3
 fuse3	3.14.0-5build1
-fwupd	2.0.20-1ubuntu2~24.04.1
+fwupd	2.0.20-1ubuntu2~24.04.2
 fwupd-signed	1.52+1.4-1
 gcc-13-base:amd64	13.3.0-6ubuntu2~24.04.1
 gcc-14-base:amd64	14.2.0-4ubuntu2~24.04.1
@@ -383,8 +383,8 @@ libcups2t64:amd64	2.4.7-1.2ubuntu7.14
 libcupsfilters2-common	2.0.0-0ubuntu7.2
 libcupsfilters2t64:amd64	2.0.0-0ubuntu7.2
 libcupsimage2t64:amd64	2.4.7-1.2ubuntu7.14
-libcurl3t64-gnutls:amd64	8.5.0-2ubuntu10.10
-libcurl4t64:amd64	8.5.0-2ubuntu10.10
+libcurl3t64-gnutls:amd64	8.5.0-2ubuntu10.11
+libcurl4t64:amd64	8.5.0-2ubuntu10.11
 libdaemon0:amd64	0.14-7.1ubuntu4
 libdata-dump-perl	1.25-1
 libdatrie1:amd64	0.2.13-3build1
@@ -449,7 +449,7 @@ libfribidi0:amd64	1.0.13-3build1
 libftdi1-2:amd64	1.5-6build5
 libfuse2t64:amd64	2.9.9-8.1build1
 libfuse3-3:amd64	3.14.0-5build1
-libfwupd3:amd64	2.0.20-1ubuntu2~24.04.1
+libfwupd3:amd64	2.0.20-1ubuntu2~24.04.2
 libgail-common:amd64	2.24.33-4ubuntu1.1
 libgail18t64:amd64	2.24.33-4ubuntu1.1
 libgarcon-1-0:amd64	4.18.1-1build3
@@ -526,9 +526,9 @@ libhandy-1-0:amd64	1.8.3-1build2
 libharfbuzz-gobject0:amd64	8.3.0-2build2
 libharfbuzz-icu0:amd64	8.3.0-2build2
 libharfbuzz0b:amd64	8.3.0-2build2
-libheif-plugin-aomdec:amd64	1.17.6-1ubuntu4.4
-libheif-plugin-aomenc:amd64	1.17.6-1ubuntu4.4
-libheif1:amd64	1.17.6-1ubuntu4.4
+libheif-plugin-aomdec:amd64	1.17.6-1ubuntu4.5
+libheif-plugin-aomenc:amd64	1.17.6-1ubuntu4.5
+libheif1:amd64	1.17.6-1ubuntu4.5
 libhogweed6t64:amd64	3.9.1-2.2build1.1
 libhpmud0:amd64	3.23.12+dfsg0-0ubuntu5.1
 libhtml-form-perl	6.11-1
@@ -547,7 +547,7 @@ libhyphen0:amd64	2.8.8-7build3
 libibverbs1:amd64	50.0-2ubuntu0.2
 libice6:amd64	2:1.0.10-1build3
 libicu74:amd64	74.2-1ubuntu3.1
-libidn12:amd64	1.42-1build1
+libidn12:amd64	1.42-1ubuntu0.1
 libidn2-0:amd64	2.3.7-2build1.1
 libiec61883-0:amd64	1.2.0-6build1
 libieee1284-3t64:amd64	0.2.11-14.1build1
@@ -695,7 +695,7 @@ libpipewire-0.3-common	1.0.5-1ubuntu3.2
 libpipewire-0.3-modules:amd64	1.0.5-1ubuntu3.2
 libpixman-1-0:amd64	0.42.2-1build1
 libplist-2.0-4:amd64	2.3.0-1~exp2build2
-libplymouth5:amd64	24.004.60-1ubuntu7.1
+libplymouth5:amd64	24.004.60-1ubuntu7.2
 libpng16-16t64:amd64	1.6.43-5ubuntu0.6
 libpolkit-agent-1-0:amd64	124-2ubuntu1.24.04.3
 libpolkit-gobject-1-0:amd64	124-2ubuntu1.24.04.3
@@ -1020,9 +1020,9 @@ pipewire:amd64	1.0.5-1ubuntu3.2
 pipewire-bin	1.0.5-1ubuntu3.2
 pipewire-pulse	1.0.5-1ubuntu3.2
 pkexec	124-2ubuntu1.24.04.3
-plymouth	24.004.60-1ubuntu7.1
-plymouth-label	24.004.60-1ubuntu7.1
-plymouth-theme-ubuntu-text	24.004.60-1ubuntu7.1
+plymouth	24.004.60-1ubuntu7.2
+plymouth-label	24.004.60-1ubuntu7.2
+plymouth-theme-ubuntu-text	24.004.60-1ubuntu7.2
 plymouth-theme-xubuntu-logo	24.04.1
 plymouth-theme-xubuntu-text	24.04.1
 policykit-1	124-2ubuntu1.24.04.3
@@ -1055,7 +1055,7 @@ pulseaudio-utils	1:16.1+dfsg1-2ubuntu10.1
 python-apt-common	2.7.7ubuntu5.2
 python-babel-localedata	2.10.3-3build1
 python3	3.12.3-0ubuntu2.1
-python3-apport	2.28.1-0ubuntu3.8
+python3-apport	2.28.2-0ubuntu0.1
 python3-apt	2.7.7ubuntu5.2
 python3-attr	23.2.0-2
 python3-babel	2.10.3-3build1
@@ -1099,7 +1099,7 @@ python3-olefile	0.46-3
 python3-pexpect	4.9-2
 python3-pil:amd64	10.2.0-1ubuntu1.2
 python3-pkg-resources	68.1.2-2ubuntu1.2
-python3-problem-report	2.28.1-0ubuntu3.8
+python3-problem-report	2.28.2-0ubuntu0.1
 python3-ptyprocess	0.7.0-5
 python3-pygments	2.17.2+dfsg-1
 python3-pyparsing	3.1.1-1
