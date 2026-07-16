@@ -1621,7 +1621,7 @@ python3-gdbm	3.14.3-0ubuntu2
 python3-gi	3.56.2-1
 python3-gi-cairo	3.56.2-1
 python3-httplib2	0.22.0-1ubuntu0.1
-python3-idna	3.11-1
+python3-idna	3.11-1ubuntu0.1
 python3-inflect	7.5.0-1build1
 python3-jaraco.context	6.0.1-2
 python3-jaraco.functools	4.1.0-1build1
