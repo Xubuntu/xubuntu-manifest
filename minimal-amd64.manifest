@@ -764,7 +764,7 @@ libsoxr0:amd64	0.1.3-4build3
 libspa-0.2-modules:amd64	1.0.5-1ubuntu3.3
 libspeex1:amd64	1.2.1-2ubuntu2.24.04.1
 libspeexdsp1:amd64	1.2.1-1ubuntu3
-libsqlite3-0:amd64	3.45.1-1ubuntu2.6
+libsqlite3-0:amd64	3.45.1-1ubuntu2.7
 libss2:amd64	1.47.0-2.4~exp1ubuntu4.1
 libssh-4:amd64	0.10.6-2ubuntu0.4
 libssl3t64:amd64	3.0.13-0ubuntu3.11
@@ -897,7 +897,7 @@ libxfce4util-common	4.18.1-2build3
 libxfce4util7:amd64	4.18.1-2build3
 libxfconf-0-3:amd64	4.18.1-1build3
 libxfixes3:amd64	1:6.0.0-2build1
-libxfont2:amd64	1:2.0.6-1build1
+libxfont2:amd64	1:2.0.6-1+deb13u1build0.24.04.2
 libxft2:amd64	2.3.6-1build1
 libxi6:amd64	2:1.8.1-1build1
 libxinerama1:amd64	2:1.1.4-3build1
@@ -1138,7 +1138,7 @@ sgml-data	2.0.11+nmu1
 shared-mime-info	2.4-4
 shim-signed	1.58+15.8-0ubuntu1
 shimmer-themes	2.1.3build1
-snapd	2.75.2+ubuntu24.04
+snapd	2.76+ubuntu24.04
 software-properties-common	0.99.49.4
 software-properties-gtk	0.99.49.4
 sound-theme-freedesktop	0.8-2ubuntu1
@@ -1205,7 +1205,7 @@ vdpau-driver-all:amd64	1.5-2build1
 vim-common	2:9.1.0016-1ubuntu7.18
 vim-tiny	2:9.1.0016-1ubuntu7.18
 wamerican	2020.12.07-2
-wget	1.21.4-1ubuntu4.3
+wget	1.21.4-1ubuntu4.4
 whiptail	0.52.24-2ubuntu2
 wireless-regdb	2025.10.07-0ubuntu1~24.04.1
 wireless-tools	30~pre9-16.1ubuntu2
