@@ -1,5 +1,5 @@
 3cpio	0.14.0-1ubuntu1
-accountsservice	23.13.9-8ubuntu5.1
+accountsservice	23.13.9-8ubuntu5.2
 acl	2.3.2-2
 adduser	3.153ubuntu1
 adwaita-icon-theme	50.0-1
@@ -306,7 +306,7 @@ language-selector-common	0.228build1
 laptop-detect	0.16+nmu1build1
 less	668-1build1
 libaa1:amd64	1.4p5-51.1build1
-libaccountsservice0:amd64	23.13.9-8ubuntu5.1
+libaccountsservice0:amd64	23.13.9-8ubuntu5.2
 libacl1:amd64	2.3.2-2
 libadwaita-1-0:amd64	1.9.0-0ubuntu1
 libaio1t64:amd64	0.3.113-8build1
@@ -584,7 +584,7 @@ libjack-jackd2-0:amd64	1.9.22~dfsg-5build1
 libjansson4:amd64	2.14-2build4
 libjavascriptcoregtk-6.0-1:amd64	2.52.3-0ubuntu0.26.04.2
 libjbig0:amd64	2.1-6.1ubuntu3
-libjbig2dec0:amd64	0.20-1build4
+libjbig2dec0:amd64	0.20-1ubuntu0.26.04.1
 libjcat1:amd64	0.2.5-1build1
 libjemalloc2:amd64	5.3.0-4
 libjpeg-turbo8:amd64	2.1.5-4ubuntu4
@@ -1187,7 +1187,7 @@ sgml-data	2.0.11+nmu1build1
 shared-mime-info	2.4-5build3
 shim-signed	1.59+15.8-0ubuntu2
 shimmer-themes	2.1.3build2
-snapd	2.76+ubuntu26.04.2
+snapd	2.76+ubuntu26.04.3
 software-properties-common	0.120.1
 software-properties-gtk	0.120.1
 sound-theme-freedesktop	0.8-7build1
