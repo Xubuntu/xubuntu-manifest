@@ -1,4 +1,4 @@
-accountsservice	23.13.9-2ubuntu6
+accountsservice	23.13.9-2ubuntu6.1
 acl	2.3.2-1build1.1
 adduser	3.137ubuntu1
 adwaita-icon-theme	46.0-1
@@ -293,14 +293,14 @@ language-selector-common	0.225
 laptop-detect	0.16
 less	590-2ubuntu2.1
 libaa1:amd64	1.4p5-51.1
-libaccountsservice0:amd64	23.13.9-2ubuntu6
+libaccountsservice0:amd64	23.13.9-2ubuntu6.1
 libacl1:amd64	2.3.2-1build1.1
 libaio1t64:amd64	0.3.113-6build1.1
 libaom3:amd64	3.8.2-2ubuntu0.1
 libapparmor1:amd64	4.0.1really4.0.1-0ubuntu0.24.04.7
 libappstream5:amd64	1.0.2-1build6
 libapt-pkg6.0t64:amd64	2.8.3
-libarchive13t64:amd64	3.7.2-2ubuntu0.7
+libarchive13t64:amd64	3.7.2-2ubuntu0.8
 libargon2-1:amd64	0~20190702+dfsg-4build1
 libasound2-data	1.2.11-1ubuntu0.3
 libasound2-plugins:amd64	1.2.7.1-1ubuntu5
@@ -570,7 +570,7 @@ libjack-jackd2-0:amd64	1.9.21~dfsg-3ubuntu3
 libjansson4:amd64	2.14-2build2
 libjavascriptcoregtk-4.1-0:amd64	2.52.3-0ubuntu0.24.04.1
 libjbig0:amd64	2.1-6.1ubuntu2
-libjbig2dec0:amd64	0.20-1build3
+libjbig2dec0:amd64	0.20-1ubuntu0.24.04.1
 libjcat1:amd64	0.2.3-1~ubuntu0.24.04.1
 libjpeg-turbo8:amd64	2.1.5-2ubuntu2
 libjpeg8:amd64	8c-2ubuntu11
@@ -1138,7 +1138,7 @@ sgml-data	2.0.11+nmu1
 shared-mime-info	2.4-4
 shim-signed	1.58+15.8-0ubuntu1
 shimmer-themes	2.1.3build1
-snapd	2.76+ubuntu24.04
+snapd	2.76+ubuntu24.04.1
 software-properties-common	0.99.49.4
 software-properties-gtk	0.99.49.4
 sound-theme-freedesktop	0.8-2ubuntu1
