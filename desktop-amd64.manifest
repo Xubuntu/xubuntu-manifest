@@ -11,9 +11,9 @@ alsa-utils	1.2.15.2-1ubuntu1
 amd64-microcode	3.20251202.1ubuntu2
 anacron	2.3-45ubuntu1
 apparmor	5.0.0~beta1-0ubuntu7
-apport	2.34.0-0ubuntu2
-apport-core-dump-handler	2.34.0-0ubuntu2
-apport-gtk	2.34.0-0ubuntu2
+apport	2.34.1-0ubuntu0.1
+apport-core-dump-handler	2.34.1-0ubuntu0.1
+apport-gtk	2.34.1-0ubuntu0.1
 apport-symptoms	0.25build1
 appstream	1.1.2-1
 apt	3.2.0
@@ -189,7 +189,7 @@ g++	4:15.2.0-5ubuntu1
 g++-15	15.2.0-16ubuntu1
 g++-15-x86-64-linux-gnu	15.2.0-16ubuntu1
 g++-x86-64-linux-gnu	4:15.2.0-5ubuntu1
-gawk	1:5.3.2-1ubuntu1
+gawk	1:5.3.2-1ubuntu1.1
 gcc	4:15.2.0-5ubuntu1
 gcc-15	15.2.0-16ubuntu1
 gcc-15-base:amd64	15.2.0-16ubuntu1
@@ -208,7 +208,7 @@ ghostscript	10.06.0~dfsg-3ubuntu1
 gigolo	0.6.0-1
 gimp	3.2.2-1
 gimp-data	3.2.2-1
-gir1.2-adw-1:amd64	1.9.0-0ubuntu1
+gir1.2-adw-1:amd64	1.9.1-0ubuntu0.1
 gir1.2-atk-1.0:amd64	2.60.4-0ubuntu0.1
 gir1.2-atspi-2.0:amd64	2.60.4-0ubuntu0.1
 gir1.2-ayatanaappindicator3-0.1	0.5.94-1build1
@@ -293,10 +293,10 @@ grub-pc-bin	2.14-2ubuntu2
 grub2-common	2.14-2ubuntu2
 gsettings-desktop-schemas	50.0-1ubuntu2
 gstreamer1.0-gl:amd64	1.28.2-1
-gstreamer1.0-gtk3:amd64	1.28.2-2
+gstreamer1.0-gtk3:amd64	1.28.2-2ubuntu0.1
 gstreamer1.0-libav:amd64	1.28.2-1
 gstreamer1.0-plugins-base:amd64	1.28.2-1
-gstreamer1.0-plugins-good:amd64	1.28.2-2
+gstreamer1.0-plugins-good:amd64	1.28.2-2ubuntu0.1
 gstreamer1.0-tools	1.28.2-1
 gstreamer1.0-x:amd64	1.28.2-1
 gtk-update-icon-cache	4.22.4+ds-0ubuntu0.1
@@ -361,7 +361,7 @@ keyboard-configuration	1.237ubuntu3
 keyutils	1.6.3-6ubuntu3
 klibc-utils	2.0.14-1ubuntu2
 kmod	34.2-2ubuntu2
-krb5-locales	1.22.1-2ubuntu4
+krb5-locales	1.22.1-2ubuntu4.1
 language-pack-bn	1:26.04+20260417
 language-pack-bn-base	1:26.04+20260417
 language-pack-de	1:26.04+20260417
@@ -412,7 +412,7 @@ libabsl20260107:amd64	20260107.0-4
 libabw-0.1-1:amd64	0.1.3-1build6
 libaccountsservice0:amd64	23.13.9-8ubuntu5.2
 libacl1:amd64	2.3.2-2
-libadwaita-1-0:amd64	1.9.0-0ubuntu1
+libadwaita-1-0:amd64	1.9.1-0ubuntu0.1
 libaio1t64:amd64	0.3.113-8build1
 libalgorithm-diff-perl	1.201-1
 libalgorithm-diff-xs-perl	0.04-9
@@ -744,9 +744,9 @@ libgpg-error-l10n	1.58-2
 libgpg-error0:amd64	1.58-2
 libgpgme45:amd64	2.0.1-2build1
 libgpgmepp7:amd64	2.0.0-2
-libgphoto2-6t64:amd64	2.5.33-1ubuntu1
-libgphoto2-l10n	2.5.33-1ubuntu1
-libgphoto2-port12t64:amd64	2.5.33-1ubuntu1
+libgphoto2-6t64:amd64	2.5.33-1ubuntu1.1
+libgphoto2-l10n	2.5.33-1ubuntu1.1
+libgphoto2-port12t64:amd64	2.5.33-1ubuntu1.1
 libgpm2:amd64	1.20.7-12build1
 libgpod-common	0.8.3-23
 libgpod4t64:amd64	0.8.3-23
@@ -760,7 +760,7 @@ libgs10-common	10.06.0~dfsg-3ubuntu1
 libgsm1:amd64	1.0.23-2
 libgspell-1-3:amd64	1.14.2-2
 libgspell-1-common	1.14.2-2
-libgssapi-krb5-2:amd64	1.22.1-2ubuntu4
+libgssapi-krb5-2:amd64	1.22.1-2ubuntu4.1
 libgstreamer-gl1.0-0:amd64	1.28.2-1
 libgstreamer-plugins-base1.0-0:amd64	1.28.2-1
 libgstreamer-plugins-extra1.0-0:amd64	1.28.2-1ubuntu1.1
@@ -803,7 +803,7 @@ libhpmud0:amd64	3.24.4+dfsg0-0ubuntu8.1
 libhtml-form-perl	6.13-1build1
 libhtml-format-perl	2.16-2
 libhtml-html5-entities-perl	0.004-3
-libhtml-parser-perl:amd64	3.83-1build1
+libhtml-parser-perl:amd64	3.83-1ubuntu0.1
 libhtml-tagset-perl	3.24-1
 libhtml-tokeparser-simple-perl	3.16-4
 libhtml-tree-perl	5.07-3
@@ -868,14 +868,14 @@ libjson-glib-1.0-0:amd64	1.10.8+ds-2
 libjson-glib-1.0-common	1.10.8+ds-2
 libjson-maybexs-perl	1.004008-1
 libjxl0.11:amd64	0.11.1-6ubuntu4.2
-libk5crypto3:amd64	1.22.1-2ubuntu4
+libk5crypto3:amd64	1.22.1-2ubuntu4.1
 libkeybinder-3.0-0:amd64	0.3.2-1.1build3
 libkeyutils1:amd64	1.6.3-6ubuntu3
 libklibc:amd64	2.0.14-1ubuntu2
 libkmod2:amd64	34.2-2ubuntu2
 libkpathsea6:amd64	2025.20250727.75242+ds-5build1
-libkrb5-3:amd64	1.22.1-2ubuntu4
-libkrb5support0:amd64	1.22.1-2ubuntu4
+libkrb5-3:amd64	1.22.1-2ubuntu4.1
+libkrb5support0:amd64	1.22.1-2ubuntu4.1
 libksba8:amd64	1.6.7-2build1
 liblangtag-common	0.6.8-2
 liblangtag1:amd64	0.6.8-2
@@ -1038,7 +1038,7 @@ libpathplan4:amd64	14.1.2-1ubuntu1
 libpcap0.8t64:amd64	1.10.6-1ubuntu1
 libpcaudio0:amd64	1.3-1build1
 libpci3:amd64	1:3.14.0-1build2
-libpciaccess0:amd64	0.18.1-1ubuntu4
+libpciaccess0:amd64	0.18.1-1ubuntu4.1
 libpcre2-32-0:amd64	10.46-1build1
 libpcre2-8-0:amd64	10.46-1build1
 libpcsclite1:amd64	2.4.1-1
@@ -1588,7 +1588,7 @@ publicsuffix	20260129.1928-1
 python-apt-common	3.1.0ubuntu1
 python-babel-localedata	2.17.0-2
 python3	3.14.3-0ubuntu2
-python3-apport	2.34.0-0ubuntu2
+python3-apport	2.34.1-0ubuntu0.1
 python3-apt	3.1.0ubuntu1
 python3-aptdaemon	2.0.2build1
 python3-aptdaemon.gtk3widgets	2.0.2build1
@@ -1650,7 +1650,7 @@ python3-passlib	1.9.3-1ubuntu1
 python3-pexpect	4.9-4
 python3-pil:amd64	12.1.1-2ubuntu1.2
 python3-pkg-resources	78.1.1-0.1build1
-python3-problem-report	2.34.0-0ubuntu2
+python3-problem-report	2.34.1-0ubuntu0.1
 python3-psutil	7.1.0-1ubuntu1
 python3-ptyprocess	0.7.0-6build1
 python3-pycparser	3.0-1
@@ -1734,7 +1734,7 @@ systemd-resolved	259.5-0ubuntu3
 systemd-sysv	259.5-0ubuntu3
 sysvinit-utils	3.15-5ubuntu1
 t1utils	1.41-4build4
-tar	1.35+dfsg-4ubuntu0.3
+tar	1.35+dfsg-4ubuntu0.4
 tcl	8.6.16build1
 tcl8.6	8.6.17+dfsg-1build1
 tcpdump	4.99.6-1
@@ -1912,5 +1912,5 @@ snap:gtk-common-themes	stable/ubuntu-26.04	1535
 snap:mesa-2404	stable/ubuntu-26.04	1839
 snap:snap-store	2/stable/ubuntu-26.04	1367
 snap:snapd-desktop-integration	stable/ubuntu-26.04	391
-snap:thunderbird	stable/ubuntu-26.04	1170
+snap:thunderbird	stable/ubuntu-26.04	1201
 snap:ubuntu-desktop-bootstrap	26.04/stable/ubuntu-26.04	589
