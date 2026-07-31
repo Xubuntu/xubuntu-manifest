@@ -94,7 +94,7 @@ dictionaries-common	1.29.7
 diffutils	1:3.10-1build1
 dirmngr	2.4.4-2ubuntu17.4
 distro-info	1.7build1
-distro-info-data	0.60ubuntu0.6
+distro-info-data	0.72-0ubuntu0.24.04.1
 dmeventd	2:1.02.185-3ubuntu3.2
 dmidecode	3.5-3ubuntu0.1
 dmraid	1.0.0.rc16-12ubuntu2
@@ -767,7 +767,7 @@ libspeexdsp1:amd64	1.2.1-1ubuntu3
 libsqlite3-0:amd64	3.45.1-1ubuntu2.7
 libss2:amd64	1.47.0-2.4~exp1ubuntu4.1
 libssh-4:amd64	0.10.6-2ubuntu0.4
-libssl3t64:amd64	3.0.13-0ubuntu3.11
+libssl3t64:amd64	3.0.13-0ubuntu3.12
 libstartup-notification0:amd64	0.12-6build3
 libstdc++6:amd64	14.2.0-4ubuntu2~24.04.1
 libstemmer0d:amd64	2.2.0-4build1
@@ -999,7 +999,7 @@ numlockx	1.2-9build1
 ocl-icd-libopencl1:amd64	2.3.2-1build1
 openprinting-ppds	20230202-1
 openssh-client	1:9.6p1-3ubuntu13.18
-openssl	3.0.13-0ubuntu3.11
+openssl	3.0.13-0ubuntu3.12
 os-prober	1.81ubuntu4
 p11-kit	0.25.3-4ubuntu2.1
 p11-kit-modules:amd64	0.25.3-4ubuntu2.1
@@ -1172,7 +1172,7 @@ tpm-udev	0.6ubuntu1
 trace-cmd	3.2-1ubuntu2
 tumbler:amd64	4.18.1-1.1build4
 tumbler-common	4.18.1-1.1build4
-tzdata	2026b-0ubuntu0.24.04.1
+tzdata	2026c-0ubuntu0.24.04.1
 ubuntu-advantage-desktop-daemon	1.11ubuntu0.1
 ubuntu-drivers-common	1:0.9.7.6ubuntu3.7
 ubuntu-kernel-accessories	1.539.2
