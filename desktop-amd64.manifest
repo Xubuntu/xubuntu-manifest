@@ -6,11 +6,11 @@ adduser	3.153ubuntu1
 adwaita-icon-theme	50.0-1
 alsa-base	1.0.25+dfsg-0ubuntu9
 alsa-topology-conf	1.2.5.1-3build1
-alsa-ucm-conf	1.2.15.3-1ubuntu1.4
+alsa-ucm-conf	1.2.15.3-1ubuntu1.5
 alsa-utils	1.2.15.2-1ubuntu1
 amd64-microcode	3.20251202.1ubuntu2
 anacron	2.3-45ubuntu1
-apparmor	5.0.0~beta1-0ubuntu7
+apparmor	5.0.2-0ubuntu1~26.04.1
 apport	2.34.1-0ubuntu0.1
 apport-core-dump-handler	2.34.1-0ubuntu0.1
 apport-gtk	2.34.1-0ubuntu0.1
@@ -39,9 +39,9 @@ base-passwd	3.6.8
 bash	5.3-2ubuntu1
 bash-completion	1:2.16.0-8build1
 bc	1.07.1-4build1
-bind9-dnsutils	1:9.20.18-1ubuntu2.1
-bind9-host	1:9.20.18-1ubuntu2.1
-bind9-libs:amd64	1:9.20.18-1ubuntu2.1
+bind9-dnsutils	1:9.20.24-1ubuntu0.1
+bind9-host	1:9.20.24-1ubuntu0.1
+bind9-libs:amd64	1:9.20.24-1ubuntu0.1
 binutils	2.46-3ubuntu2
 binutils-common:amd64	2.46-3ubuntu2
 binutils-x86-64-linux-gnu	2.46-3ubuntu2
@@ -69,8 +69,8 @@ catfish	4.20.0-2
 chrony	4.8-2ubuntu1
 cifs-utils	2:7.4-1ubuntu0.26.04.3
 cloud-guest-utils	0.33-1build1
-cloud-init	26.1-0ubuntu2
-cloud-init-base	26.1-0ubuntu2
+cloud-init	26.1-0ubuntu3~26.04.1
+cloud-init-base	26.1-0ubuntu3~26.04.1
 colord	1.4.8-3
 colord-data	1.4.8-3
 command-not-found	23.04.0build1
@@ -232,7 +232,7 @@ gir1.2-gtk-4.0:amd64	4.22.4+ds-0ubuntu0.1
 gir1.2-gtkclutter-1.0:amd64	1.8.4-6build1
 gir1.2-handy-1:amd64	1.8.3-3build1
 gir1.2-harfbuzz-0.0:amd64	12.3.2-2
-gir1.2-javascriptcoregtk-4.1:amd64	2.52.3-0ubuntu0.26.04.2
+gir1.2-javascriptcoregtk-4.1:amd64	2.52.3-0ubuntu0.26.04.3
 gir1.2-json-1.0:amd64	1.10.8+ds-2
 gir1.2-libxfce4ui-2.0:amd64	4.20.2-1
 gir1.2-libxfce4util-1.0:amd64	4.20.1-1build1
@@ -247,7 +247,7 @@ gir1.2-secret-1:amd64	0.21.7-2build1
 gir1.2-snapd-2:amd64	1.72-0ubuntu3
 gir1.2-soup-3.0:amd64	3.6.6-1
 gir1.2-vte-2.91:amd64	0.84.0-2
-gir1.2-webkit2-4.1:amd64	2.52.3-0ubuntu0.26.04.2
+gir1.2-webkit2-4.1:amd64	2.52.3-0ubuntu0.26.04.3
 gir1.2-wnck-3.0:amd64	43.3-1build1
 gir1.2-xfconf-0:amd64	4.20.0-1build1
 glib-networking:amd64	2.80.1-1build2
@@ -283,14 +283,14 @@ graphviz	14.1.2-1ubuntu1
 grep	3.12-1
 greybird-gtk-theme	3.23.4-1ubuntu1
 groff-base	1.23.0-10
-grub-common	2.14-2ubuntu2
+grub-common	2.14-2ubuntu2.1
 grub-efi-amd64-bin	2.14-2ubuntu1
 grub-efi-amd64-signed	1.215+2.14-2ubuntu1
 grub-efi-amd64-unsigned	2.14-2ubuntu1
 grub-gfxpayload-lists	0.7build3
-grub-pc	2.14-2ubuntu2
-grub-pc-bin	2.14-2ubuntu2
-grub2-common	2.14-2ubuntu2
+grub-pc	2.14-2ubuntu2.1
+grub-pc-bin	2.14-2ubuntu2.1
+grub2-common	2.14-2ubuntu2.1
 gsettings-desktop-schemas	50.0-1ubuntu2
 gstreamer1.0-gl:amd64	1.28.2-1
 gstreamer1.0-gtk3:amd64	1.28.2-2ubuntu0.1
@@ -422,7 +422,7 @@ libamd3:amd64	1:7.12.2+dfsg-1ubuntu1
 libao-common	1.2.2+20180113-1.2ubuntu2
 libao4:amd64	1.2.2+20180113-1.2ubuntu2
 libaom3:amd64	3.13.1-2
-libapparmor1:amd64	5.0.0~beta1-0ubuntu7
+libapparmor1:amd64	5.0.2-0ubuntu1~26.04.1
 libappstream5:amd64	1.1.2-1
 libapt-pkg-perl	0.1.43
 libapt-pkg7.0:amd64	3.2.0
@@ -852,8 +852,8 @@ libiterator-util-perl	0.02+ds1-2
 libitm1:amd64	16-20260322-1ubuntu1
 libjack-jackd2-0:amd64	1.9.22~dfsg-5build1
 libjansson4:amd64	2.14-2build4
-libjavascriptcoregtk-4.1-0:amd64	2.52.3-0ubuntu0.26.04.2
-libjavascriptcoregtk-6.0-1:amd64	2.52.3-0ubuntu0.26.04.2
+libjavascriptcoregtk-4.1-0:amd64	2.52.3-0ubuntu0.26.04.3
+libjavascriptcoregtk-6.0-1:amd64	2.52.3-0ubuntu0.26.04.3
 libjbig0:amd64	2.1-6.1ubuntu3
 libjbig2dec0:amd64	0.20-1ubuntu0.26.04.1
 libjcat1:amd64	0.2.5-1build1
@@ -990,7 +990,7 @@ libnotify4:amd64	0.8.8-1
 libnpth0t64:amd64	1.8-3build1
 libnspr4:amd64	2:4.38.2-1ubuntu1
 libnss-mdns:amd64	0.15.1-5
-libnss-systemd:amd64	259.5-0ubuntu3
+libnss-systemd:amd64	259.5-0ubuntu3.3
 libnss3:amd64	2:3.120-1ubuntu2.1
 libntfs-3g89t64:amd64	1:2022.10.3-5ubuntu1.1
 libnuma1:amd64	2.0.19-1build1
@@ -1019,7 +1019,7 @@ libpam-gnome-keyring:amd64	50.0-1
 libpam-modules:amd64	1.7.0-5ubuntu3.1
 libpam-modules-bin	1.7.0-5ubuntu3.1
 libpam-runtime	1.7.0-5ubuntu3.1
-libpam-systemd:amd64	259.5-0ubuntu3
+libpam-systemd:amd64	259.5-0ubuntu3.3
 libpam0g:amd64	1.7.0-5ubuntu3.1
 libpango-1.0-0:amd64	1.57.0-1
 libpangocairo-1.0-0:amd64	1.57.0-1
@@ -1207,8 +1207,8 @@ libswresample6:amd64	7:8.0.1-3ubuntu2
 libswscale9:amd64	7:8.0.1-3ubuntu2
 libsynctex2:amd64	2025.20250727.75242+ds-5build1
 libsyntax-keyword-try-perl	0.31-1
-libsystemd-shared:amd64	259.5-0ubuntu3
-libsystemd0:amd64	259.5-0ubuntu3
+libsystemd-shared:amd64	259.5-0ubuntu3.3
+libsystemd0:amd64	259.5-0ubuntu3.3
 libtag-c2:amd64	2.2.1-3
 libtag2:amd64	2.2.1-3
 libtalloc2:amd64	2:2.4.3+samba4.23.6+dfsg-1ubuntu2.2
@@ -1257,7 +1257,7 @@ libtumbler-1-0t64:amd64	4.20.1-1
 libtwolame0:amd64	0.4.0-2build4
 libubsan1:amd64	16-20260322-1ubuntu1
 libuchardet0:amd64	0.0.8-2
-libudev1:amd64	259.5-0ubuntu3
+libudev1:amd64	259.5-0ubuntu3.3
 libudfread3:amd64	1.2.0-2
 libudisks2-0:amd64	2.10.91-1ubuntu2
 libumfpack6:amd64	1:7.12.2+dfsg-1ubuntu1
@@ -1308,8 +1308,8 @@ libwayland-cursor0:amd64	1.24.0-2
 libwayland-egl1:amd64	1.24.0-2
 libwayland-server0:amd64	1.24.0-2
 libwbclient0:amd64	2:4.23.6+dfsg-1ubuntu2.2
-libwebkit2gtk-4.1-0:amd64	2.52.3-0ubuntu0.26.04.2
-libwebkitgtk-6.0-4:amd64	2.52.3-0ubuntu0.26.04.2
+libwebkit2gtk-4.1-0:amd64	2.52.3-0ubuntu0.26.04.3
+libwebkitgtk-6.0-4:amd64	2.52.3-0ubuntu0.26.04.3
 libwebp7:amd64	1.5.0-0.1build1
 libwebpdemux2:amd64	1.5.0-0.1build1
 libwebpmux3:amd64	1.5.0-0.1build1
@@ -1431,11 +1431,11 @@ linux-firmware-amd-graphics	20260319.git217ca6e4-0ubuntu3.1
 linux-firmware-amd-misc	20260319.git217ca6e4-0ubuntu1.1
 linux-firmware-broadcom-wireless	20260319.git217ca6e4-0ubuntu1.1
 linux-firmware-intel-graphics	20260319.git217ca6e4-0ubuntu2.1
-linux-firmware-intel-misc	20260319.git217ca6e4-0ubuntu1
+linux-firmware-intel-misc	20260319.git217ca6e4-0ubuntu1.2
 linux-firmware-intel-wireless	20260319.git217ca6e4-0ubuntu2.1
 linux-firmware-marvell-prestera	20260319.git217ca6e4-0ubuntu1.2
 linux-firmware-marvell-wireless	20260319.git217ca6e4-0ubuntu1.1
-linux-firmware-mediatek	20260319.git217ca6e4-0ubuntu1
+linux-firmware-mediatek	20260319.git217ca6e4-0ubuntu1.2
 linux-firmware-mellanox-spectrum	20260319.git217ca6e4-0ubuntu1.1
 linux-firmware-misc	20260319.git217ca6e4-0ubuntu2
 linux-firmware-netronome	20260319.git217ca6e4-0ubuntu1.1
@@ -1443,7 +1443,7 @@ linux-firmware-nvidia-graphics	20260319.git217ca6e4-0ubuntu1.1
 linux-firmware-qlogic	20260319.git217ca6e4-0ubuntu1.1
 linux-firmware-qualcomm-graphics	20260319.git217ca6e4-0ubuntu1.1
 linux-firmware-qualcomm-misc	20260319.git217ca6e4-0ubuntu2.1
-linux-firmware-qualcomm-wireless	20260319.git217ca6e4-0ubuntu1
+linux-firmware-qualcomm-wireless	20260319.git217ca6e4-0ubuntu1.2
 linux-firmware-realtek	20260319.git217ca6e4-0ubuntu1.2
 linux-generic	7.0.0-29.29
 linux-headers-7.0.0-29	7.0.0-29.29
@@ -1727,11 +1727,11 @@ system-config-printer	1.5.18-4ubuntu2
 system-config-printer-common	1.5.18-4ubuntu2
 system-config-printer-udev	1.5.18-4ubuntu2
 system-tools-backends	2.10.2-5ubuntu2
-systemd	259.5-0ubuntu3
-systemd-cryptsetup	259.5-0ubuntu3
+systemd	259.5-0ubuntu3.3
+systemd-cryptsetup	259.5-0ubuntu3.3
 systemd-hwe-hwdb	259.5.3ubuntu
-systemd-resolved	259.5-0ubuntu3
-systemd-sysv	259.5-0ubuntu3
+systemd-resolved	259.5-0ubuntu3.3
+systemd-sysv	259.5-0ubuntu3.3
 sysvinit-utils	3.15-5ubuntu1
 t1utils	1.41-4build4
 tar	1.35+dfsg-4ubuntu0.4
@@ -1768,7 +1768,7 @@ ubuntu-release-upgrader-core	1:26.04.22
 ubuntu-release-upgrader-gtk	1:26.04.22
 ubuntu-standard	1.570.2
 ucf	3.0052ubuntu1
-udev	259.5-0ubuntu3
+udev	259.5-0ubuntu3.3
 udisks2	2.10.91-1ubuntu2
 ufw	0.36.2-9build1
 unattended-upgrades	2.12ubuntu9
@@ -1904,7 +1904,7 @@ zlib1g:amd64	1:1.3.dfsg+really1.3.1-1ubuntu3
 zstd	1.5.7+dfsg-3
 snap:core24	stable	1643
 snap:snapd	stable	27591
-snap:firefox	stable/ubuntu-26.04	8702
+snap:firefox	stable/ubuntu-26.04	8736
 snap:firmware-updater	1/stable/ubuntu-26.04	226
 snap:gnome-46-2404	stable/ubuntu-26.04	164
 snap:bare	stable	5
