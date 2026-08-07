@@ -571,8 +571,8 @@ libimagequant0:amd64	4.4.1-1
 libimobiledevice-1.0-6:amd64	1.4.0-1build1
 libimobiledevice-glue-1.0-0	1.3.2-2build1
 libinih1:amd64	61-1ubuntu1
-libinput-bin	1.31.1-1ubuntu1
-libinput10:amd64	1.31.1-1ubuntu1
+libinput-bin	1.31.1-1ubuntu1.1
+libinput10:amd64	1.31.1-1ubuntu1.1
 libio-html-perl	1.004-3
 libio-socket-ssl-perl	2.098-1
 libio-stringy-perl	2.113-2
