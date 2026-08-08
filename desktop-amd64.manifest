@@ -1851,7 +1851,7 @@ snap:gnome-46-2404	stable/ubuntu-24.04	164
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-24.04	1535
 snap:mesa-2404	stable/ubuntu-24.04	1839
-snap:snap-store	stable/ubuntu-24.04	1367
+snap:snap-store	stable/ubuntu-24.04	1390
 snap:snapd-desktop-integration	stable/ubuntu-24.04	391
 snap:thunderbird	stable/ubuntu-24.04	1201
 snap:core22	stable	2411
