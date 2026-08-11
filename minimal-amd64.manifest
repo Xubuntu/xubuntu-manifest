@@ -668,7 +668,7 @@ libnotify4:amd64	0.8.8-1
 libnpth0t64:amd64	1.8-3build1
 libnspr4:amd64	2:4.38.2-1ubuntu1
 libnss-mdns:amd64	0.15.1-5
-libnss-systemd:amd64	259.5-0ubuntu3.3
+libnss-systemd:amd64	259.5-0ubuntu3.4
 libnss3:amd64	2:3.120-1ubuntu2.1
 libntfs-3g89t64:amd64	1:2022.10.3-5ubuntu1.1
 libnuma1:amd64	2.0.19-1build1
@@ -687,7 +687,7 @@ libpam-gnome-keyring:amd64	50.0-1
 libpam-modules:amd64	1.7.0-5ubuntu3.1
 libpam-modules-bin	1.7.0-5ubuntu3.1
 libpam-runtime	1.7.0-5ubuntu3.1
-libpam-systemd:amd64	259.5-0ubuntu3.3
+libpam-systemd:amd64	259.5-0ubuntu3.4
 libpam0g:amd64	1.7.0-5ubuntu3.1
 libpango-1.0-0:amd64	1.57.0-1
 libpangocairo-1.0-0:amd64	1.57.0-1
@@ -789,8 +789,8 @@ libstdc++6:amd64	16-20260322-1ubuntu1
 libstemmer0d:amd64	3.0.1-1
 libsvtav1enc2:amd64	2.3.0+dfsg-1build1
 libswresample6:amd64	7:8.0.1-3ubuntu2
-libsystemd-shared:amd64	259.5-0ubuntu3.3
-libsystemd0:amd64	259.5-0ubuntu3.3
+libsystemd-shared:amd64	259.5-0ubuntu3.4
+libsystemd0:amd64	259.5-0ubuntu3.4
 libtag2:amd64	2.2.1-3
 libtalloc2:amd64	2:2.4.3+samba4.23.6+dfsg-1ubuntu2.2
 libtasn1-6:amd64	4.21.0-2
@@ -826,7 +826,7 @@ libtss2-tcti-swtpm0t64:amd64	4.1.3-6
 libtumbler-1-0t64:amd64	4.20.1-1
 libtwolame0:amd64	0.4.0-2build4
 libuchardet0:amd64	0.0.8-2
-libudev1:amd64	259.5-0ubuntu3.3
+libudev1:amd64	259.5-0ubuntu3.4
 libudisks2-0:amd64	2.10.91-1ubuntu2
 libunistring5:amd64	1.3-2build1
 libunwind8:amd64	1.8.3-0ubuntu1
@@ -1200,11 +1200,11 @@ sudo-common	1.2ubuntu
 sudo-rs	0.2.13-0ubuntu1
 synaptic	0.91.7build1
 sysstat	12.7.7-0ubuntu2
-systemd	259.5-0ubuntu3.3
-systemd-cryptsetup	259.5-0ubuntu3.3
+systemd	259.5-0ubuntu3.4
+systemd-cryptsetup	259.5-0ubuntu3.4
 systemd-hwe-hwdb	259.5.3ubuntu
-systemd-resolved	259.5-0ubuntu3.3
-systemd-sysv	259.5-0ubuntu3.3
+systemd-resolved	259.5-0ubuntu3.4
+systemd-sysv	259.5-0ubuntu3.4
 sysvinit-utils	3.15-5ubuntu1
 tar	1.35+dfsg-4ubuntu0.4
 tcl	8.6.16build1
@@ -1233,7 +1233,7 @@ ubuntu-pro-client-l10n	37.2ubuntu0.1
 ubuntu-release-upgrader-core	1:26.04.22
 ubuntu-standard	1.570.2
 ucf	3.0052ubuntu1
-udev	259.5-0ubuntu3.3
+udev	259.5-0ubuntu3.4
 udisks2	2.10.91-1ubuntu2
 ufw	0.36.2-9build1
 unattended-upgrades	2.12ubuntu9
