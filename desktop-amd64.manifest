@@ -964,7 +964,7 @@ libnotify4:amd64	0.8.3-1build2
 libnpth0t64:amd64	1.6-3.1build1
 libnspr4:amd64	2:4.35-1.1build1
 libnss-mdns:amd64	0.15.1-4build1
-libnss-systemd:amd64	255.4-1ubuntu8.16
+libnss-systemd:amd64	255.4-1ubuntu8.17
 libnss3:amd64	2:3.98-1ubuntu0.2
 libntfs-3g89t64:amd64	1:2022.10.3-1.2ubuntu3.2
 libnuma1:amd64	2.0.18-1ubuntu0.24.04.1
@@ -993,7 +993,7 @@ libpam-gnome-keyring:amd64	46.1-2ubuntu0.2
 libpam-modules:amd64	1.5.3-5ubuntu5.6
 libpam-modules-bin	1.5.3-5ubuntu5.6
 libpam-runtime	1.5.3-5ubuntu5.6
-libpam-systemd:amd64	255.4-1ubuntu8.16
+libpam-systemd:amd64	255.4-1ubuntu8.17
 libpam0g:amd64	1.5.3-5ubuntu5.6
 libpango-1.0-0:amd64	1.52.1+ds-1build1
 libpangocairo-1.0-0:amd64	1.52.1+ds-1build1
@@ -1181,8 +1181,8 @@ libswresample4:amd64	7:6.1.1-3ubuntu5
 libswscale7:amd64	7:6.1.1-3ubuntu5
 libsynctex2:amd64	2023.20230311.66589-9build3
 libsyntax-keyword-try-perl	0.29-1build3
-libsystemd-shared:amd64	255.4-1ubuntu8.16
-libsystemd0:amd64	255.4-1ubuntu8.16
+libsystemd-shared:amd64	255.4-1ubuntu8.17
+libsystemd0:amd64	255.4-1ubuntu8.17
 libtag1v5:amd64	1.13.1-1build1
 libtag1v5-vanilla:amd64	1.13.1-1build1
 libtagc0:amd64	1.13.1-1build1
@@ -1231,7 +1231,7 @@ libtwolame0:amd64	0.4.0-2build3
 libu2f-udev	1.1.10-3build3
 libubsan1:amd64	14.2.0-4ubuntu2~24.04.1
 libuchardet0:amd64	0.0.8-1build1
-libudev1:amd64	255.4-1ubuntu8.16
+libudev1:amd64	255.4-1ubuntu8.17
 libudfread0:amd64	1.1.2-1build1
 libudisks2-0:amd64	2.10.1-6ubuntu1.3
 libumfpack6:amd64	1:7.6.1+dfsg-1build1
@@ -1664,12 +1664,12 @@ system-config-printer	1.5.18-1ubuntu9
 system-config-printer-common	1.5.18-1ubuntu9
 system-config-printer-udev	1.5.18-1ubuntu9
 system-tools-backends	2.10.2-3.1ubuntu4
-systemd	255.4-1ubuntu8.16
-systemd-dev	255.4-1ubuntu8.16
+systemd	255.4-1ubuntu8.17
+systemd-dev	255.4-1ubuntu8.17
 systemd-hwe-hwdb	255.1.7
-systemd-resolved	255.4-1ubuntu8.16
-systemd-sysv	255.4-1ubuntu8.16
-systemd-timesyncd	255.4-1ubuntu8.16
+systemd-resolved	255.4-1ubuntu8.17
+systemd-sysv	255.4-1ubuntu8.17
+systemd-timesyncd	255.4-1ubuntu8.17
 sysvinit-utils	3.08-6ubuntu3
 t1utils	1.41-4build3
 tar	1.35+dfsg-3ubuntu0.4
@@ -1707,7 +1707,7 @@ ubuntu-release-upgrader-core	1:24.04.28
 ubuntu-release-upgrader-gtk	1:24.04.28
 ubuntu-standard	1.539.2
 ucf	3.0043+nmu1
-udev	255.4-1ubuntu8.16
+udev	255.4-1ubuntu8.17
 udisks2	2.10.1-6ubuntu1.3
 ufw	0.36.2-6
 unattended-upgrades	2.9.1+nmu4ubuntu1
