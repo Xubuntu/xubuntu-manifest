@@ -206,8 +206,8 @@ gettext	0.23.2-1
 gettext-base	0.23.2-1
 ghostscript	10.06.0~dfsg-3ubuntu1
 gigolo	0.6.0-1
-gimp	3.2.2-1
-gimp-data	3.2.2-1
+gimp	3.2.2-1ubuntu0.26.04.1
+gimp-data	3.2.2-1ubuntu0.26.04.1
 gir1.2-adw-1:amd64	1.9.1-0ubuntu0.1
 gir1.2-atk-1.0:amd64	2.60.4-0ubuntu0.1
 gir1.2-atspi-2.0:amd64	2.60.4-0ubuntu0.1
@@ -220,7 +220,7 @@ gir1.2-freedesktop:amd64	1.86.0-6build1
 gir1.2-gdkpixbuf-2.0:amd64	2.44.5+dfsg-4ubuntu1
 gir1.2-gegl-0.4:amd64	1:0.4.70-1
 gir1.2-gexiv2-0.10:amd64	0.14.6-2
-gir1.2-gimp-3.0:amd64	3.2.2-1
+gir1.2-gimp-3.0:amd64	3.2.2-1ubuntu0.26.04.1
 gir1.2-girepository-3.0:amd64	2.88.0-1
 gir1.2-glib-2.0:amd64	2.88.0-1
 gir1.2-gmenu-3.0:amd64	3.38.1-1ubuntu1
@@ -715,7 +715,7 @@ libgegl-0.4-0t64:amd64	1:0.4.70-1
 libgegl-common	1:0.4.70-1
 libgexiv2-2:amd64	0.14.6-2
 libgfortran5:amd64	16-20260322-1ubuntu1
-libgimp-3.0-0:amd64	3.2.2-1
+libgimp-3.0-0:amd64	3.2.2-1ubuntu0.26.04.1
 libgirepository-1.0-1:amd64	1.86.0-6build1
 libgirepository-2.0-0:amd64	2.88.0-1
 libgl1:amd64	1.7.0-3
@@ -990,7 +990,7 @@ libnotify4:amd64	0.8.8-1
 libnpth0t64:amd64	1.8-3build1
 libnspr4:amd64	2:4.38.2-1ubuntu1
 libnss-mdns:amd64	0.15.1-5
-libnss-systemd:amd64	259.5-0ubuntu3.3
+libnss-systemd:amd64	259.5-0ubuntu3.4
 libnss3:amd64	2:3.120-1ubuntu2.1
 libntfs-3g89t64:amd64	1:2022.10.3-5ubuntu1.1
 libnuma1:amd64	2.0.19-1build1
@@ -1019,7 +1019,7 @@ libpam-gnome-keyring:amd64	50.0-1
 libpam-modules:amd64	1.7.0-5ubuntu3.1
 libpam-modules-bin	1.7.0-5ubuntu3.1
 libpam-runtime	1.7.0-5ubuntu3.1
-libpam-systemd:amd64	259.5-0ubuntu3.3
+libpam-systemd:amd64	259.5-0ubuntu3.4
 libpam0g:amd64	1.7.0-5ubuntu3.1
 libpango-1.0-0:amd64	1.57.0-1
 libpangocairo-1.0-0:amd64	1.57.0-1
@@ -1207,8 +1207,8 @@ libswresample6:amd64	7:8.0.1-3ubuntu2
 libswscale9:amd64	7:8.0.1-3ubuntu2
 libsynctex2:amd64	2025.20250727.75242+ds-5build1
 libsyntax-keyword-try-perl	0.31-1
-libsystemd-shared:amd64	259.5-0ubuntu3.3
-libsystemd0:amd64	259.5-0ubuntu3.3
+libsystemd-shared:amd64	259.5-0ubuntu3.4
+libsystemd0:amd64	259.5-0ubuntu3.4
 libtag-c2:amd64	2.2.1-3
 libtag2:amd64	2.2.1-3
 libtalloc2:amd64	2:2.4.3+samba4.23.6+dfsg-1ubuntu2.2
@@ -1257,7 +1257,7 @@ libtumbler-1-0t64:amd64	4.20.1-1
 libtwolame0:amd64	0.4.0-2build4
 libubsan1:amd64	16-20260322-1ubuntu1
 libuchardet0:amd64	0.0.8-2
-libudev1:amd64	259.5-0ubuntu3.3
+libudev1:amd64	259.5-0ubuntu3.4
 libudfread3:amd64	1.2.0-2
 libudisks2-0:amd64	2.10.91-1ubuntu2
 libumfpack6:amd64	1:7.12.2+dfsg-1ubuntu1
@@ -1727,11 +1727,11 @@ system-config-printer	1.5.18-4ubuntu2
 system-config-printer-common	1.5.18-4ubuntu2
 system-config-printer-udev	1.5.18-4ubuntu2
 system-tools-backends	2.10.2-5ubuntu2
-systemd	259.5-0ubuntu3.3
-systemd-cryptsetup	259.5-0ubuntu3.3
+systemd	259.5-0ubuntu3.4
+systemd-cryptsetup	259.5-0ubuntu3.4
 systemd-hwe-hwdb	259.5.3ubuntu
-systemd-resolved	259.5-0ubuntu3.3
-systemd-sysv	259.5-0ubuntu3.3
+systemd-resolved	259.5-0ubuntu3.4
+systemd-sysv	259.5-0ubuntu3.4
 sysvinit-utils	3.15-5ubuntu1
 t1utils	1.41-4build4
 tar	1.35+dfsg-4ubuntu0.4
@@ -1768,7 +1768,7 @@ ubuntu-release-upgrader-core	1:26.04.22
 ubuntu-release-upgrader-gtk	1:26.04.22
 ubuntu-standard	1.570.2
 ucf	3.0052ubuntu1
-udev	259.5-0ubuntu3.3
+udev	259.5-0ubuntu3.4
 udisks2	2.10.91-1ubuntu2
 ufw	0.36.2-9build1
 unattended-upgrades	2.12ubuntu9
