@@ -930,7 +930,7 @@ libxxf86vm1:amd64	1:1.1.4-1build4
 libxxhash0:amd64	0.8.2-2build1
 libyaml-0-2:amd64	0.2.5-1build1
 libyaml-tiny-perl	1.74-1
-libyelp0:amd64	42.2-1ubuntu0.24.04.1
+libyelp0:amd64	42.2-1ubuntu0.24.04.2
 libzfs4linux	2.2.2-0ubuntu9.4
 libzpool5linux	2.2.2-0ubuntu9.4
 libzstd1:amd64	1.5.5+dfsg2-2build1.1
@@ -939,7 +939,7 @@ libzvbi0t64:amd64	0.2.42-2
 lightdm	1.30.0-0ubuntu14
 lightdm-gtk-greeter	2.0.9-0ubuntu3
 linux-base	4.5ubuntu9+24.04.2
-linux-firmware	20240318.git3b128b60-0ubuntu2.27
+linux-firmware	20240318.git3b128b60-0ubuntu2.29
 linux-generic-hwe-24.04	7.0.0-28.28~24.04.1
 linux-headers-7.0.0-28-generic	7.0.0-28.28~24.04.1
 linux-headers-generic-hwe-24.04	7.0.0-28.28~24.04.1
@@ -1283,7 +1283,7 @@ xubuntu-live-settings	24.04.4
 xubuntu-wallpapers	24.04.1
 xxd	2:9.1.0016-1ubuntu7.18
 xz-utils	5.6.1+really5.4.5-1ubuntu0.3
-yelp	42.2-1ubuntu0.24.04.1
+yelp	42.2-1ubuntu0.24.04.2
 yelp-xsl	42.1-2ubuntu0.24.04.1
 zfs-initramfs	2.2.2-0ubuntu9.4
 zfs-zed	2.2.2-0ubuntu9.4
