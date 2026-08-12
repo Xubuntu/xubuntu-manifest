@@ -946,7 +946,7 @@ libxxf86vm1:amd64	1:1.1.4-2
 libxxhash0:amd64	0.8.3-2build1
 libyaml-0-2:amd64	0.2.5-2build3
 libyaml-tiny-perl	1.76-1
-libyelp-1-0:amd64	49.0-5
+libyelp-1-0:amd64	49.0-5ubuntu0.1
 libzfs7linux:amd64	2.4.1-1ubuntu5
 libzpool7linux:amd64	2.4.1-1ubuntu5
 libzstd1:amd64	1.5.7+dfsg-3
@@ -966,7 +966,7 @@ linux-firmware-marvell-prestera	20260319.git217ca6e4-0ubuntu1.2
 linux-firmware-marvell-wireless	20260319.git217ca6e4-0ubuntu1.1
 linux-firmware-mediatek	20260319.git217ca6e4-0ubuntu1.2
 linux-firmware-mellanox-spectrum	20260319.git217ca6e4-0ubuntu1.1
-linux-firmware-misc	20260319.git217ca6e4-0ubuntu2
+linux-firmware-misc	20260319.git217ca6e4-0ubuntu2.2
 linux-firmware-netronome	20260319.git217ca6e4-0ubuntu1.1
 linux-firmware-nvidia-graphics	20260319.git217ca6e4-0ubuntu1.1
 linux-firmware-qlogic	20260319.git217ca6e4-0ubuntu1.1
@@ -1329,7 +1329,7 @@ xubuntu-live-settings	26.04
 xubuntu-wallpapers	26.04.1
 xxd	2:9.1.2141-1ubuntu4.7
 xz-utils	5.8.3-1
-yelp	49.0-5
+yelp	49.0-5ubuntu0.1
 yelp-xsl	49.0-2
 zfs-initramfs	2.4.1-1ubuntu5
 zfs-zed	2.4.1-1ubuntu5
