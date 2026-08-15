@@ -1854,5 +1854,5 @@ snap:mesa-2404	stable/ubuntu-24.04	1839
 snap:snap-store	stable/ubuntu-24.04	1390
 snap:snapd-desktop-integration	stable/ubuntu-24.04	391
 snap:thunderbird	stable/ubuntu-24.04	1201
-snap:core22	stable	2411
+snap:core22	stable	2437
 snap:ubuntu-desktop-bootstrap	24.04/stable/ubuntu-24.04	572
