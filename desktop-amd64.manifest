@@ -39,9 +39,9 @@ base-passwd	3.6.8
 bash	5.3-2ubuntu1
 bash-completion	1:2.16.0-8build1
 bc	1.07.1-4build1
-bind9-dnsutils	1:9.20.24-1ubuntu0.1
-bind9-host	1:9.20.24-1ubuntu0.1
-bind9-libs:amd64	1:9.20.24-1ubuntu0.1
+bind9-dnsutils	1:9.20.24-1ubuntu0.2
+bind9-host	1:9.20.24-1ubuntu0.2
+bind9-libs:amd64	1:9.20.24-1ubuntu0.2
 binutils	2.46-3ubuntu2
 binutils-common:amd64	2.46-3ubuntu2
 binutils-x86-64-linux-gnu	2.46-3ubuntu2
@@ -74,8 +74,8 @@ cloud-init-base	26.1-0ubuntu3~26.04.1
 colord	1.4.8-3
 colord-data	1.4.8-3
 command-not-found	23.04.0build1
-console-setup	1.237ubuntu3
-console-setup-linux	1.237ubuntu3
+console-setup	1.237ubuntu3.1
+console-setup-linux	1.237ubuntu3.1
 coreutils	9.5-1ubuntu2+0.0.0~ubuntu25
 coreutils-from-uutils	0.0.0~ubuntu25
 cpio	2.15+dfsg-2.1
@@ -175,7 +175,7 @@ fonts-noto-core	20201225-2build1
 fonts-noto-hinted	20201225-2build1
 fonts-noto-mono	20201225-2build1
 fonts-noto-ui-core	20201225-2build1
-fonts-opensymbol	4:102.12+LibO26.2.4.2-0ubuntu0.26.04.2
+fonts-opensymbol	4:102.12+LibO26.2.5.2-0ubuntu0.26.04.1
 fonts-symbola	2.60-4
 fonts-ubuntu	0.869+git20240321-0ubuntu2
 fonts-urw-base35	20200910-8build1
@@ -238,7 +238,7 @@ gir1.2-libxfce4ui-2.0:amd64	4.20.2-1
 gir1.2-libxfce4util-1.0:amd64	4.20.1-1build1
 gir1.2-nm-1.0:amd64	1.54.3-2ubuntu3
 gir1.2-notify-0.7:amd64	0.8.8-1
-gir1.2-packagekitglib-1.0	1.3.4-3ubuntu1.1
+gir1.2-packagekitglib-1.0	1.3.4-3ubuntu1.2
 gir1.2-pango-1.0:amd64	1.57.0-1
 gir1.2-peas-1.0:amd64	1.38.1-4ubuntu1
 gir1.2-polkit-1.0:amd64	127-2ubuntu1
@@ -311,7 +311,7 @@ gvfs-fuse	1.60.0-1
 gvfs-libs:amd64	1.60.0-1
 gzip	1.14-1~exp2ubuntu1.1
 hdparm	9.65+ds-1.1build1
-heif-gdk-pixbuf:amd64	1.21.2-3ubuntu0.3
+heif-gdk-pixbuf:amd64	1.21.2-3ubuntu0.4
 hexchat	2.16.2-1build6
 hexchat-common	2.16.2-1build6
 hexchat-lua:amd64	2.16.2-1build6
@@ -357,7 +357,7 @@ iw	6.17-1
 jfsutils	1.1.15-7
 jq	1.8.1-4ubuntu2
 kbd	2.7.1-2ubuntu2
-keyboard-configuration	1.237ubuntu3
+keyboard-configuration	1.237ubuntu3.1
 keyutils	1.6.3-6ubuntu3
 klibc-utils	2.0.14-1ubuntu2
 kmod	34.2-2ubuntu2
@@ -572,8 +572,8 @@ libcups2t64:amd64	2.4.16-1ubuntu1.3
 libcupsfilters2-common	2.1.1-0ubuntu5
 libcupsfilters2t64:amd64	2.1.1-0ubuntu5
 libcupsimage2t64:amd64	2.4.16-1ubuntu1.3
-libcurl3t64-gnutls:amd64	8.18.0-1ubuntu2.3
-libcurl4t64:amd64	8.18.0-1ubuntu2.3
+libcurl3t64-gnutls:amd64	8.18.0-1ubuntu2.4
+libcurl4t64:amd64	8.18.0-1ubuntu2.4
 libdaemon0:amd64	0.14-7.1ubuntu5
 libdata-dpath-perl	0.60-1
 libdata-dump-perl	1.25-1
@@ -629,7 +629,7 @@ libedataserver-1.2-27t64:amd64	3.56.2-8
 libedit2:amd64	3.1-20251016-1
 libefiboot1t64:amd64	39-2
 libefivar1t64:amd64	39-2
-libegl-mesa0:amd64	26.0.3-1ubuntu1
+libegl-mesa0:amd64	26.0.8-1ubuntu0.3
 libegl1:amd64	1.7.0-3
 libelf1t64:amd64	0.194-4
 libemail-address-xs-perl	1.05-1build5
@@ -696,7 +696,7 @@ libgail18t64:amd64	2.24.33-10
 libgarcon-1-0:amd64	4.20.0-1build1
 libgarcon-common	4.20.0-1build1
 libgarcon-gtk3-1-0:amd64	4.20.0-1build1
-libgbm1:amd64	26.0.3-1ubuntu1
+libgbm1:amd64	26.0.8-1ubuntu0.3
 libgcc-15-dev:amd64	15.2.0-16ubuntu1
 libgcc-s1:amd64	16-20260322-1ubuntu1
 libgck-1-0:amd64	3.41.2-6
@@ -719,7 +719,7 @@ libgimp-3.0-0:amd64	3.2.2-1ubuntu0.26.04.1
 libgirepository-1.0-1:amd64	1.86.0-6build1
 libgirepository-2.0-0:amd64	2.88.0-1
 libgl1:amd64	1.7.0-3
-libgl1-mesa-dri:amd64	26.0.3-1ubuntu1
+libgl1-mesa-dri:amd64	26.0.8-1ubuntu0.3
 libgles2:amd64	1.7.0-3
 libglib-object-introspection-perl	0.052-1
 libglib-perl:amd64	3:1.329.4-1
@@ -730,7 +730,7 @@ libglibmm-2.4-1t64:amd64	2.66.8-3
 libglibmm-2.68-1t64:amd64	2.86.0-7
 libglu1-mesa:amd64	9.0.2-1.1build2
 libglvnd0:amd64	1.7.0-3
-libglx-mesa0:amd64	26.0.3-1ubuntu1
+libglx-mesa0:amd64	26.0.8-1ubuntu0.3
 libglx0:amd64	1.7.0-3
 libglycin-2-0:amd64	2.1.1+ds-0ubuntu1
 libgme0:amd64	0.6.4-1
@@ -795,9 +795,9 @@ libharfbuzz-gobject0:amd64	12.3.2-2
 libharfbuzz-icu0:amd64	12.3.2-2
 libharfbuzz-subset0:amd64	12.3.2-2
 libharfbuzz0b:amd64	12.3.2-2
-libheif-plugin-aomdec:amd64	1.21.2-3ubuntu0.3
-libheif-plugin-aomenc:amd64	1.21.2-3ubuntu0.3
-libheif1:amd64	1.21.2-3ubuntu0.3
+libheif-plugin-aomdec:amd64	1.21.2-3ubuntu0.4
+libheif-plugin-aomenc:amd64	1.21.2-3ubuntu0.4
+libheif1:amd64	1.21.2-3ubuntu0.4
 libhogweed6t64:amd64	3.10.2-1
 libhpmud0:amd64	3.24.4+dfsg0-0ubuntu8.1
 libhtml-form-perl	6.13-1build1
@@ -1012,7 +1012,7 @@ liborcus-parser-0.21-0:amd64	0.21.0-4
 libp11-kit0:amd64	0.26.2-2
 libpackage-stash-perl	0.40-1
 libpackage-stash-xs-perl:amd64	0.30-1build5
-libpackagekit-glib2-18:amd64	1.3.4-3ubuntu1.1
+libpackagekit-glib2-18:amd64	1.3.4-3ubuntu1.2
 libpagemaker-0.0-0:amd64	0.0.4-1build5
 libpam-cap:amd64	1:2.75-10ubuntu2
 libpam-gnome-keyring:amd64	50.0-1
@@ -1099,25 +1099,25 @@ libraw23t64:amd64	0.21.5b-1ubuntu1.1
 librdf0t64:amd64	1.0.17-8
 libreadline8t64:amd64	8.3-4
 libregexp-wildcards-perl	1.05-3
-libreoffice-base-core	4:26.2.4.2-0ubuntu0.26.04.2
-libreoffice-calc	4:26.2.4.2-0ubuntu0.26.04.2
-libreoffice-common	4:26.2.4.2-0ubuntu0.26.04.2
-libreoffice-core	4:26.2.4.2-0ubuntu0.26.04.2
-libreoffice-draw	4:26.2.4.2-0ubuntu0.26.04.2
-libreoffice-gnome	4:26.2.4.2-0ubuntu0.26.04.2
-libreoffice-gtk3	4:26.2.4.2-0ubuntu0.26.04.2
-libreoffice-impress	4:26.2.4.2-0ubuntu0.26.04.2
-libreoffice-math	4:26.2.4.2-0ubuntu0.26.04.2
-libreoffice-style-colibre	4:26.2.4.2-0ubuntu0.26.04.2
-libreoffice-style-elementary	4:26.2.4.2-0ubuntu0.26.04.2
-libreoffice-style-yaru	4:26.2.4.2-0ubuntu0.26.04.2
-libreoffice-uiconfig-calc	4:26.2.4.2-0ubuntu0.26.04.2
-libreoffice-uiconfig-common	4:26.2.4.2-0ubuntu0.26.04.2
-libreoffice-uiconfig-draw	4:26.2.4.2-0ubuntu0.26.04.2
-libreoffice-uiconfig-impress	4:26.2.4.2-0ubuntu0.26.04.2
-libreoffice-uiconfig-math	4:26.2.4.2-0ubuntu0.26.04.2
-libreoffice-uiconfig-writer	4:26.2.4.2-0ubuntu0.26.04.2
-libreoffice-writer	4:26.2.4.2-0ubuntu0.26.04.2
+libreoffice-base-core	4:26.2.5.2-0ubuntu0.26.04.1
+libreoffice-calc	4:26.2.5.2-0ubuntu0.26.04.1
+libreoffice-common	4:26.2.5.2-0ubuntu0.26.04.1
+libreoffice-core	4:26.2.5.2-0ubuntu0.26.04.1
+libreoffice-draw	4:26.2.5.2-0ubuntu0.26.04.1
+libreoffice-gnome	4:26.2.5.2-0ubuntu0.26.04.1
+libreoffice-gtk3	4:26.2.5.2-0ubuntu0.26.04.1
+libreoffice-impress	4:26.2.5.2-0ubuntu0.26.04.1
+libreoffice-math	4:26.2.5.2-0ubuntu0.26.04.1
+libreoffice-style-colibre	4:26.2.5.2-0ubuntu0.26.04.1
+libreoffice-style-elementary	4:26.2.5.2-0ubuntu0.26.04.1
+libreoffice-style-yaru	4:26.2.5.2-0ubuntu0.26.04.1
+libreoffice-uiconfig-calc	4:26.2.5.2-0ubuntu0.26.04.1
+libreoffice-uiconfig-common	4:26.2.5.2-0ubuntu0.26.04.1
+libreoffice-uiconfig-draw	4:26.2.5.2-0ubuntu0.26.04.1
+libreoffice-uiconfig-impress	4:26.2.5.2-0ubuntu0.26.04.1
+libreoffice-uiconfig-math	4:26.2.5.2-0ubuntu0.26.04.1
+libreoffice-uiconfig-writer	4:26.2.5.2-0ubuntu0.26.04.1
+libreoffice-writer	4:26.2.5.2-0ubuntu0.26.04.1
 librevenge-0.0-0:amd64	0.0.5-3build2
 librhythmbox-core10:amd64	3.4.9-3ubuntu3
 librist4:amd64	0.2.11+dfsg-1build1
@@ -1187,7 +1187,7 @@ libsqlite3-0:amd64	3.46.1-9ubuntu0.2
 libsratom-0-0:amd64	0.6.20-1
 libsrt1.5-gnutls:amd64	1.5.4-3
 libss2:amd64	1.47.2-3ubuntu4
-libssh-4:amd64	0.11.3-1ubuntu1
+libssh-4:amd64	0.11.3-1ubuntu2
 libssh2-1t64:amd64	1.11.1-1ubuntu0.26.04.3
 libssl3t64:amd64	3.5.5-1ubuntu3.3
 libstartup-notification0:amd64	0.12-8build1
@@ -1232,7 +1232,7 @@ libtheoradec2:amd64	1.2.0+dfsg-6
 libtheoraenc2:amd64	1.2.0+dfsg-6
 libthunarx-3-0:amd64	4.20.7-1
 libtie-ixhash-perl	1.23-4
-libtiff6:amd64	4.7.0-3ubuntu4
+libtiff6:amd64	4.7.0-3ubuntu5
 libtime-duration-perl	1.21-2
 libtime-moment-perl	0.46-1
 libtimedate-perl	2.3300-2
@@ -1264,11 +1264,11 @@ libumfpack6:amd64	1:7.12.2+dfsg-1ubuntu1
 libunibreak6:amd64	6.1-3build1
 libunicode-utf8-perl	0.63-1
 libunistring5:amd64	1.3-2build1
-libuno-cppu3t64	4:26.2.4.2-0ubuntu0.26.04.2
-libuno-cppuhelpergcc3-3t64	4:26.2.4.2-0ubuntu0.26.04.2
-libuno-purpenvhelpergcc3-3t64	4:26.2.4.2-0ubuntu0.26.04.2
-libuno-sal3t64	4:26.2.4.2-0ubuntu0.26.04.2
-libuno-salhelpergcc3-3t64	4:26.2.4.2-0ubuntu0.26.04.2
+libuno-cppu3t64	4:26.2.5.2-0ubuntu0.26.04.1
+libuno-cppuhelpergcc3-3t64	4:26.2.5.2-0ubuntu0.26.04.1
+libuno-purpenvhelpergcc3-3t64	4:26.2.5.2-0ubuntu0.26.04.1
+libuno-sal3t64	4:26.2.5.2-0ubuntu0.26.04.1
+libuno-salhelpergcc3-3t64	4:26.2.5.2-0ubuntu0.26.04.1
 libunwind8:amd64	1.8.3-0ubuntu1
 libupower-glib3:amd64	1.91.1-1
 liburcu8t64:amd64	0.15.6-1
@@ -1488,10 +1488,10 @@ media-player-info	26-1build1
 media-types	14.0.0build1
 memtest86+	8.00-3
 menulibre	2.4.0-0ubuntu2
-mesa-libgallium:amd64	26.0.3-1ubuntu1
+mesa-libgallium:amd64	26.0.8-1ubuntu0.3
 mesa-utils	9.0.0-2build1
 mesa-utils-bin:amd64	9.0.0-2build1
-mesa-vulkan-drivers:amd64	26.0.3-1ubuntu1
+mesa-vulkan-drivers:amd64	26.0.8-1ubuntu0.3
 mobile-broadband-provider-info	20251101-1build1
 modemmanager	1.25.95-1ubuntu1
 mokutil	0.7.2-2
@@ -1535,7 +1535,7 @@ openvpn	2.7.0-1ubuntu1.2
 os-prober	1.84ubuntu1
 p11-kit	0.26.2-2
 p11-kit-modules:amd64	0.26.2-2
-packagekit	1.3.4-3ubuntu1.1
+packagekit	1.3.4-3ubuntu1.2
 parole	4.20.0-1
 parted	3.6-6
 passwd	1:4.17.4-2ubuntu3
@@ -1667,7 +1667,7 @@ python3-systemd	235-1build9
 python3-typeguard	4.4.4-2
 python3-typing-extensions	4.15.0-2
 python3-uc-micro	1.0.3-1build1
-python3-uno	4:26.2.4.2-0ubuntu0.26.04.2
+python3-uno	4:26.2.5.2-0ubuntu0.26.04.1
 python3-update-manager	1:26.04.5
 python3-urllib3	2.6.3-1ubuntu1.1
 python3-wadllib	2.0.0-3
@@ -1706,7 +1706,7 @@ shared-mime-info	2.4-5build3
 shim-signed	1.59+15.8-0ubuntu2
 shimmer-themes	2.1.3build2
 simple-scan	48.1-0ubuntu3
-snapd	2.76+ubuntu26.04.3
+snapd	2.76.3+ubuntu26.04
 software-properties-common	0.120.1
 software-properties-gtk	0.120.1
 sound-icons	0.1-8build1
@@ -1759,20 +1759,20 @@ tumbler-common	4.20.1-1
 tzdata	2026c-0ubuntu0.26.04.1
 ubuntu-advantage-desktop-daemon	1.13build1
 ubuntu-drivers-common	1:0.10.9
-ubuntu-kernel-accessories	1.570.2
+ubuntu-kernel-accessories	1.570.3
 ubuntu-keyring	2023.11.28.1build1
-ubuntu-minimal	1.570.2
+ubuntu-minimal	1.570.3
 ubuntu-pro-client	37.2ubuntu0.1
 ubuntu-pro-client-l10n	37.2ubuntu0.1
 ubuntu-release-upgrader-core	1:26.04.22
 ubuntu-release-upgrader-gtk	1:26.04.22
-ubuntu-standard	1.570.2
+ubuntu-standard	1.570.3
 ucf	3.0052ubuntu1
 udev	259.5-0ubuntu3.4
 udisks2	2.10.91-1ubuntu2
 ufw	0.36.2-9build1
 unattended-upgrades	2.12ubuntu9
-uno-libs-private	4:26.2.4.2-0ubuntu0.26.04.2
+uno-libs-private	4:26.2.5.2-0ubuntu0.26.04.1
 unzip	6.0-29ubuntu1
 update-inetd	4.54build1
 update-manager	1:26.04.5
@@ -1780,7 +1780,7 @@ update-manager-core	1:26.04.5
 update-notifier	3.207.2
 update-notifier-common	3.207.2
 upower	1.91.1-1
-ure	4:26.2.4.2-0ubuntu0.26.04.2
+ure	4:26.2.5.2-0ubuntu0.26.04.1
 usb-modeswitch	2.6.2-1ubuntu1
 usb-modeswitch-data	20191128-7build1
 usb.ids	2025.12.13-1
@@ -1791,11 +1791,11 @@ user-setup	1.107ubuntu2
 util-linux	2.41.3-3ubuntu2
 uuid-runtime	2.41.3-3ubuntu2
 va-driver-all:amd64	2.23.0-1ubuntu1
-vim-common	2:9.1.2141-1ubuntu4.7
-vim-tiny	2:9.1.2141-1ubuntu4.7
+vim-common	2:9.1.2141-1ubuntu4.8
+vim-tiny	2:9.1.2141-1ubuntu4.8
 wamerican	2020.12.07-4build1
 webp-pixbuf-loader:amd64	0.2.7-3
-wget	1.25.0-2ubuntu4.3
+wget	1.25.0-2ubuntu4.4
 whiptail	0.52.25-1ubuntu3
 whoopsie	0.2.82ubuntu
 whoopsie-preferences	23build4
@@ -1890,7 +1890,7 @@ xubuntu-desktop-minimal	2.272
 xubuntu-docs	22.04build1
 xubuntu-live-settings	26.04
 xubuntu-wallpapers	26.04.1
-xxd	2:9.1.2141-1ubuntu4.7
+xxd	2:9.1.2141-1ubuntu4.8
 xz-utils	5.8.3-1
 yelp	49.0-5ubuntu0.1
 yelp-xsl	49.0-2
@@ -1904,7 +1904,7 @@ zlib1g:amd64	1:1.3.dfsg+really1.3.1-1ubuntu3
 zstd	1.5.7+dfsg-3
 snap:core24	stable	1643
 snap:snapd	stable	27710
-snap:firefox	stable/ubuntu-26.04	8754
+snap:firefox	stable/ubuntu-26.04	8763
 snap:firmware-updater	1/stable/ubuntu-26.04	226
 snap:gnome-46-2404	stable/ubuntu-26.04	164
 snap:bare	stable	5
@@ -1912,5 +1912,5 @@ snap:gtk-common-themes	stable/ubuntu-26.04	1535
 snap:mesa-2404	stable/ubuntu-26.04	1839
 snap:snap-store	2/stable/ubuntu-26.04	1390
 snap:snapd-desktop-integration	stable/ubuntu-26.04	391
-snap:thunderbird	stable/ubuntu-26.04	1201
+snap:thunderbird	stable/ubuntu-26.04	1228
 snap:ubuntu-desktop-bootstrap	26.04/stable/ubuntu-26.04	589
