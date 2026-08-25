@@ -556,8 +556,8 @@ libcups2t64:amd64	2.4.7-1.2ubuntu7.14
 libcupsfilters2-common	2.0.0-0ubuntu7.2
 libcupsfilters2t64:amd64	2.0.0-0ubuntu7.2
 libcupsimage2t64:amd64	2.4.7-1.2ubuntu7.14
-libcurl3t64-gnutls:amd64	8.5.0-2ubuntu10.12
-libcurl4t64:amd64	8.5.0-2ubuntu10.12
+libcurl3t64-gnutls:amd64	8.5.0-2ubuntu10.13
+libcurl4t64:amd64	8.5.0-2ubuntu10.13
 libdaemon0:amd64	0.14-7.1ubuntu4
 libdata-dpath-perl	0.59-1
 libdata-dump-perl	1.25-1
