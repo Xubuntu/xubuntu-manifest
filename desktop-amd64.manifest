@@ -447,8 +447,8 @@ libatrildocument3t64:amd64	1.28.2-1
 libatrilview3t64:amd64	1.28.2-1
 libatspi2.0-0t64:amd64	2.60.4-0ubuntu0.1
 libattr1:amd64	1:2.5.2-4ubuntu0.1
-libaudit-common	1:4.1.2-1build1
-libaudit1:amd64	1:4.1.2-1build1
+libaudit-common	1:4.1.2-1ubuntu0.1
+libaudit1:amd64	1:4.1.2-1ubuntu0.1
 libauthen-sasl-perl	2.2000-1
 libavahi-client3:amd64	0.8-18ubuntu1.1
 libavahi-common-data:amd64	0.8-18ubuntu1.1
@@ -675,7 +675,7 @@ libfile-listing-perl	6.16-1
 libfile-mimeinfo-perl	0.36-2
 libfile-sharedir-perl	1.118-3
 libflac14:amd64	1.5.0+ds-5
-libflashrom1:amd64	1.6.0-2ubuntu1
+libflashrom1:amd64	1.6.0-2ubuntu1.1
 libflite1:amd64	2.2-7build1
 libfont-afm-perl	1.20-4
 libfont-ttf-perl	1.06-2
