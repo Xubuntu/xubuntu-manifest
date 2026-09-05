@@ -1904,7 +1904,7 @@ zlib1g:amd64	1:1.3.dfsg+really1.3.1-1ubuntu3.1
 zstd	1.5.7+dfsg-3
 snap:core24	stable	1643
 snap:snapd	stable	27710
-snap:firefox	stable/ubuntu-26.04	8819
+snap:firefox	stable/ubuntu-26.04	8863
 snap:firmware-updater	1/stable/ubuntu-26.04	226
 snap:gnome-46-2404	stable/ubuntu-26.04	164
 snap:bare	stable	5
@@ -1913,4 +1913,4 @@ snap:mesa-2404	stable/ubuntu-26.04	1839
 snap:snap-store	2/stable/ubuntu-26.04	1390
 snap:snapd-desktop-integration	stable/ubuntu-26.04	391
 snap:thunderbird	stable/ubuntu-26.04	1240
-snap:ubuntu-desktop-bootstrap	26.04/stable/ubuntu-26.04	589
+snap:ubuntu-desktop-bootstrap	26.04/stable/ubuntu-26.04	665
