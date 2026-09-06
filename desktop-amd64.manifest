@@ -1862,7 +1862,7 @@ zip	3.0-13ubuntu0.2
 zlib1g:amd64	1:1.3.dfsg-3.1ubuntu2.2
 zstd	1.5.5+dfsg2-2build1.1
 snap:core24	stable	1643
-snap:snapd	stable	27710
+snap:snapd	stable	27738
 snap:firefox	stable/ubuntu-24.04	8863
 snap:firmware-updater	stable/ubuntu-24.04	226
 snap:gnome-46-2404	stable/ubuntu-24.04	164
