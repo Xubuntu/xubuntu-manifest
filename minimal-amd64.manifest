@@ -33,8 +33,8 @@ bind9-libs:amd64	1:9.20.24-1ubuntu0.3
 binutils	2.46-3ubuntu2
 binutils-common:amd64	2.46-3ubuntu2
 binutils-x86-64-linux-gnu	2.46-3ubuntu2
-bluez	5.85-4ubuntu0.1
-bluez-cups	5.85-4ubuntu0.1
+bluez	5.85-4ubuntu0.2
+bluez-cups	5.85-4ubuntu0.2
 bolt	0.9.10-1
 bpfcc-tools	0.35.0+ds-1ubuntu2
 bpftool	7.7.0+7.0.0-31.31
@@ -112,8 +112,8 @@ doc-base	0.11.2build1
 docbook-xml	4.5-13build1
 dosfstools	4.2-1.2build1
 dpkg	1.23.7ubuntu1
-dracut	110-11
-dracut-install	110-11
+dracut	110-11ubuntu0.1
+dracut-install	110-11ubuntu0.1
 e2fsprogs	1.47.2-3ubuntu4
 eatmydata	131-2build1
 ed	1.22.4-1
@@ -354,7 +354,7 @@ libblockdev-smart3:amd64	3.4.0-1
 libblockdev-swap3:amd64	3.4.0-1
 libblockdev-utils3:amd64	3.4.0-1
 libblockdev3:amd64	3.4.0-1
-libbluetooth3:amd64	5.85-4ubuntu0.1
+libbluetooth3:amd64	5.85-4ubuntu0.2
 libbpf1:amd64	1:1.6.3-1ubuntu1
 libbpfcc:amd64	0.35.0+ds-1ubuntu2
 libbrotli1:amd64	1.2.0-3build1
@@ -571,8 +571,8 @@ libimagequant0:amd64	4.4.1-1
 libimobiledevice-1.0-6:amd64	1.4.0-1build1
 libimobiledevice-glue-1.0-0	1.3.2-2build1
 libinih1:amd64	61-1ubuntu1
-libinput-bin	1.31.1-1ubuntu1.1
-libinput10:amd64	1.31.1-1ubuntu1.1
+libinput-bin	1.31.1-1ubuntu1.2
+libinput10:amd64	1.31.1-1ubuntu1.2
 libio-html-perl	1.004-3
 libio-socket-ssl-perl	2.098-1
 libio-stringy-perl	2.113-2
@@ -650,7 +650,7 @@ libnet-http-perl	6.24-1build1
 libnet-smtp-ssl-perl	1.04-2
 libnet-ssleay-perl:amd64	1.94-3
 libnetfilter-conntrack3:amd64	1.1.1-1
-libnetplan1:amd64	1.2-1ubuntu5
+libnetplan1:amd64	1.2-1ubuntu5.1
 libnettle8t64:amd64	3.10.2-1
 libnewt0.52:amd64	0.52.25-1ubuntu3
 libnfnetlink0:amd64	1.0.2-3build1
@@ -1022,8 +1022,8 @@ ncurses-base	6.6+20251231-1
 ncurses-bin	6.6+20251231-1
 netbase	6.5build1
 netcat-openbsd	1.234-1
-netplan-generator	1.2-1ubuntu5
-netplan.io	1.2-1ubuntu5
+netplan-generator	1.2-1ubuntu5.1
+netplan.io	1.2-1ubuntu5.1
 network-manager	1.54.3-2ubuntu3
 network-manager-applet	1.36.0-4ubuntu1
 network-manager-gnome	1.36.0-4ubuntu1
@@ -1137,7 +1137,7 @@ python3-mdurl	0.1.2-1build1
 python3-minimal	3.14.3-0ubuntu2
 python3-more-itertools	10.8.0-1build1
 python3-netaddr	1.3.0-1build1
-python3-netplan	1.2-1ubuntu5
+python3-netplan	1.2-1ubuntu5.1
 python3-oauthlib	3.3.1-1build1
 python3-olefile	0.47-1build1
 python3-passlib	1.9.3-1ubuntu1
@@ -1211,7 +1211,7 @@ tcl	8.6.16build1
 tcl8.6	8.6.17+dfsg-1build1
 tcpdump	4.99.6-1
 telnet	0.17+2.7-2ubuntu1.1
-thermald	2.5.11-0ubuntu1
+thermald	2.5.11-0ubuntu1.1
 thin-provisioning-tools	1.1.0-4ubuntu2
 thunar	4.20.7-1
 thunar-data	4.20.7-1
