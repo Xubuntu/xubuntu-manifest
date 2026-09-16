@@ -713,8 +713,8 @@ libpixman-1-0:amd64	0.46.4-1
 libplist-2.0-4:amd64	2.7.0+git20250820-1build1
 libplymouth5:amd64	24.004.60+git20250831.4a3c171d-0ubuntu8
 libpng16-16t64:amd64	1.6.57-1
-libpolkit-agent-1-0:amd64	127-2ubuntu1
-libpolkit-gobject-1-0:amd64	127-2ubuntu1
+libpolkit-agent-1-0:amd64	127-2ubuntu1.1
+libpolkit-gobject-1-0:amd64	127-2ubuntu1.1
 libpoppler-cpp3:amd64	26.01.0-2ubuntu0.1
 libpoppler-glib8t64:amd64	26.01.0-2ubuntu0.1
 libpoppler156:amd64	26.01.0-2ubuntu0.1
@@ -1059,7 +1059,7 @@ pinentry-gnome3	1.3.2-3ubuntu1
 pipewire:amd64	1.6.2-1ubuntu1.1
 pipewire-bin	1.6.2-1ubuntu1.1
 pipewire-pulse	1.6.2-1ubuntu1.1
-pkexec	127-2ubuntu1
+pkexec	127-2ubuntu1.1
 plymouth	24.004.60+git20250831.4a3c171d-0ubuntu8
 plymouth-label	24.004.60+git20250831.4a3c171d-0ubuntu8
 plymouth-theme-ubuntu-text	24.004.60+git20250831.4a3c171d-0ubuntu8
@@ -1067,7 +1067,7 @@ plymouth-theme-xubuntu-logo	26.04.1
 plymouth-theme-xubuntu-text	26.04.1
 pnp.ids	0.394-1build1
 policykit-desktop-privileges	0.22build1
-polkitd	127-2ubuntu1
+polkitd	127-2ubuntu1.1
 poppler-data	0.4.12-1build1
 poppler-utils	26.01.0-2ubuntu0.1
 powermgmt-base	1.38ubuntu2
