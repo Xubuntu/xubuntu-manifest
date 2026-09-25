@@ -572,8 +572,8 @@ libcups2t64:amd64	2.4.16-1ubuntu1.3
 libcupsfilters2-common	2.1.1-0ubuntu5
 libcupsfilters2t64:amd64	2.1.1-0ubuntu5
 libcupsimage2t64:amd64	2.4.16-1ubuntu1.3
-libcurl3t64-gnutls:amd64	8.18.0-1ubuntu2.5
-libcurl4t64:amd64	8.18.0-1ubuntu2.5
+libcurl3t64-gnutls:amd64	8.18.0-1ubuntu2.7
+libcurl4t64:amd64	8.18.0-1ubuntu2.7
 libdaemon0:amd64	0.14-7.1ubuntu5
 libdata-dpath-perl	0.60-1
 libdata-dump-perl	1.25-1
@@ -651,7 +651,7 @@ libexiv2-28:amd64	0.28.8+dfsg-1
 libexiv2-data	0.28.8+dfsg-1
 libexo-2-0:amd64	4.20.0-1build1
 libexo-common	4.20.0-1build1
-libexpat1:amd64	2.7.4-1ubuntu0.1
+libexpat1:amd64	2.7.4-1ubuntu0.2
 libext2fs2t64:amd64	1.47.2-3ubuntu4
 libexttextcat-2.0-0:amd64	3.4.7-2
 libexttextcat-data	3.4.7-2
@@ -1616,7 +1616,7 @@ python3-debian	1.0.1ubuntu2
 python3-defer	1.0.6-2.1ubuntu2
 python3-distro	1.9.0-1build1
 python3-distro-info	1.15
-python3-distupgrade	1:26.04.23
+python3-distupgrade	1:26.04.25
 python3-gdbm	3.14.3-0ubuntu2
 python3-gi	3.56.2-1
 python3-gi-cairo	3.56.2-1
@@ -1759,14 +1759,14 @@ tumbler-common	4.20.1-1
 tzdata	2026c-0ubuntu0.26.04.1
 ubuntu-advantage-desktop-daemon	1.13build1
 ubuntu-drivers-common	1:0.10.9
-ubuntu-kernel-accessories	1.570.3
+ubuntu-kernel-accessories	1.570.4
 ubuntu-keyring	2023.11.28.1build1
-ubuntu-minimal	1.570.3
+ubuntu-minimal	1.570.4
 ubuntu-pro-client	37.2ubuntu0.1
 ubuntu-pro-client-l10n	37.2ubuntu0.1
-ubuntu-release-upgrader-core	1:26.04.23
-ubuntu-release-upgrader-gtk	1:26.04.23
-ubuntu-standard	1.570.3
+ubuntu-release-upgrader-core	1:26.04.25
+ubuntu-release-upgrader-gtk	1:26.04.25
+ubuntu-standard	1.570.4
 ucf	3.0052ubuntu1
 udev	259.5-0ubuntu3.4
 udisks2	2.10.91-1ubuntu2.1
@@ -1912,5 +1912,5 @@ snap:gtk-common-themes	stable/ubuntu-26.04	1535
 snap:mesa-2404	stable/ubuntu-26.04	1839
 snap:snap-store	2/stable/ubuntu-26.04	1419
 snap:snapd-desktop-integration	stable/ubuntu-26.04	391
-snap:thunderbird	stable/ubuntu-26.04	1259
+snap:thunderbird	stable/ubuntu-26.04	1274
 snap:ubuntu-desktop-bootstrap	26.04/stable/ubuntu-26.04	665
