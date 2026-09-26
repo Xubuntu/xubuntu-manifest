@@ -1035,7 +1035,7 @@ libparted-fs-resize0t64:amd64	3.6-6
 libparted2t64:amd64	3.6-6
 libpath-tiny-perl	0.148-1
 libpathplan4:amd64	14.1.2-1ubuntu1
-libpcap0.8t64:amd64	1.10.6-1ubuntu1
+libpcap0.8t64:amd64	1.10.6-1ubuntu1.1
 libpcaudio0:amd64	1.3-1build1
 libpci3:amd64	1:3.14.0-1build2
 libpciaccess0:amd64	0.18.1-1ubuntu4.1
@@ -1910,7 +1910,7 @@ snap:gnome-46-2404	stable/ubuntu-26.04	168
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-26.04	1535
 snap:mesa-2404	stable/ubuntu-26.04	1839
-snap:snap-store	2/stable/ubuntu-26.04	1419
+snap:snap-store	2/stable/ubuntu-26.04	1427
 snap:snapd-desktop-integration	stable/ubuntu-26.04	391
 snap:thunderbird	stable/ubuntu-26.04	1274
 snap:ubuntu-desktop-bootstrap	26.04/stable/ubuntu-26.04	665
