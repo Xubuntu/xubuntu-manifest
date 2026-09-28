@@ -1149,7 +1149,7 @@ python3-ptyprocess	0.7.0-6build1
 python3-pygments	2.19.2+dfsg-1
 python3-pyparsing	3.3.2-2
 python3-referencing	0.36.2-1ubuntu2
-python3-requests	2.32.5+dfsg-1ubuntu1
+python3-requests	2.32.5+dfsg-1ubuntu1.1
 python3-rich	13.9.4-1.2
 python3-rpds-py	0.27.1-2ubuntu3
 python3-serial	3.5-2build1
