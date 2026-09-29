@@ -643,8 +643,8 @@ libespeak1:amd64	1.48.15+dfsg-4
 libestr0:amd64	0.1.11-2build1
 libetonyek-0.1-1:amd64	0.1.13-2
 libevdev2:amd64	1.13.6+dfsg-1
-libevent-core-2.1-7t64:amd64	2.1.12-stable-10ubuntu0.1
-libevent-extra-2.1-7t64:amd64	2.1.12-stable-10ubuntu0.1
+libevent-core-2.1-7t64:amd64	2.1.12-stable-10ubuntu0.2
+libevent-extra-2.1-7t64:amd64	2.1.12-stable-10ubuntu0.2
 libexception-class-perl	1.45-1
 libexif12:amd64	0.6.25-2ubuntu0.1
 libexiv2-28:amd64	0.28.8+dfsg-1
@@ -1631,7 +1631,7 @@ python3-json-pointer	2.4-4
 python3-jsonpatch	1.32-6
 python3-jsonschema	4.19.2-6ubuntu2
 python3-jsonschema-specifications	2023.12.1-4
-python3-jwt	2.10.1-4ubuntu1
+python3-jwt	2.10.1-4ubuntu1.1
 python3-launchpadlib	2.1.0-1build1
 python3-lazr.restfulclient	0.14.6-3build1
 python3-lazr.uri	1.0.6-7build1
