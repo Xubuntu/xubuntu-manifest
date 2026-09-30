@@ -178,8 +178,8 @@ gir1.2-xfconf-0:amd64	4.20.0-1build1
 glib-networking:amd64	2.80.1-1build2
 glib-networking-common	2.80.1-1build2
 glib-networking-services	2.80.1-1build2
-glycin-loaders	2.1.1+ds-0ubuntu1
-glycin-thumbnailers	2.1.1+ds-0ubuntu1
+glycin-loaders	2.1.5+ds-0ubuntu0.2
+glycin-thumbnailers	2.1.5+ds-0ubuntu0.2
 gnome-accessibility-themes	3.28-5
 gnome-icon-theme	3.12.0-7
 gnome-keyring	50.0-1
@@ -496,7 +496,7 @@ libglu1-mesa:amd64	9.0.2-1.1build2
 libglvnd0:amd64	1.7.0-3
 libglx-mesa0:amd64	26.0.8-1ubuntu0.3
 libglx0:amd64	1.7.0-3
-libglycin-2-0:amd64	2.1.1+ds-0ubuntu1
+libglycin-2-0:amd64	2.1.5+ds-0ubuntu0.2
 libgmp10:amd64	2:6.3.0+dfsg-5ubuntu2
 libgnutls30t64:amd64	3.8.12-2ubuntu1.1
 libgomp1:amd64	16-20260322-1ubuntu1
@@ -783,7 +783,7 @@ libspeexdsp1:amd64	1.2.1-3build1
 libsqlite3-0:amd64	3.46.1-9ubuntu0.3
 libss2:amd64	1.47.2-3ubuntu4
 libssh2-1t64:amd64	1.11.1-1ubuntu0.26.04.4
-libssl3t64:amd64	3.5.5-1ubuntu3.5
+libssl3t64:amd64	3.5.5-1ubuntu3.6
 libstartup-notification0:amd64	0.12-8build1
 libstdc++6:amd64	16-20260322-1ubuntu1
 libstemmer0d:amd64	3.0.1-1
@@ -1039,8 +1039,8 @@ numlockx	1.2-10build1
 ocl-icd-libopencl1:amd64	2.3.4-1
 openprinting-ppds	20250819-1build1
 openssh-client	1:10.2p1-2ubuntu3.6
-openssl	3.5.5-1ubuntu3.5
-openssl-provider-legacy	3.5.5-1ubuntu3.5
+openssl	3.5.5-1ubuntu3.6
+openssl-provider-legacy	3.5.5-1ubuntu3.6
 os-prober	1.84ubuntu1
 p11-kit	0.26.2-2
 p11-kit-modules:amd64	0.26.2-2
