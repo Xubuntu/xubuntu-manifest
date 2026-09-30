@@ -311,7 +311,7 @@ gvfs-fuse	1.60.0-1
 gvfs-libs:amd64	1.60.0-1
 gzip	1.14-1~exp2ubuntu1.1
 hdparm	9.65+ds-1.1build1
-heif-gdk-pixbuf:amd64	1.21.2-3ubuntu0.5
+heif-gdk-pixbuf:amd64	1.21.2-3ubuntu0.6
 hexchat	2.16.2-1build6
 hexchat-common	2.16.2-1build6
 hexchat-lua:amd64	2.16.2-1build6
@@ -795,9 +795,9 @@ libharfbuzz-gobject0:amd64	12.3.2-2
 libharfbuzz-icu0:amd64	12.3.2-2
 libharfbuzz-subset0:amd64	12.3.2-2
 libharfbuzz0b:amd64	12.3.2-2
-libheif-plugin-aomdec:amd64	1.21.2-3ubuntu0.5
-libheif-plugin-aomenc:amd64	1.21.2-3ubuntu0.5
-libheif1:amd64	1.21.2-3ubuntu0.5
+libheif-plugin-aomdec:amd64	1.21.2-3ubuntu0.6
+libheif-plugin-aomenc:amd64	1.21.2-3ubuntu0.6
+libheif1:amd64	1.21.2-3ubuntu0.6
 libhogweed6t64:amd64	3.10.2-1
 libhpmud0:amd64	3.24.4+dfsg0-0ubuntu8.1
 libhtml-form-perl	6.13-1build1
@@ -1189,7 +1189,7 @@ libsrt1.5-gnutls:amd64	1.5.4-3
 libss2:amd64	1.47.2-3ubuntu4
 libssh-4:amd64	0.11.3-1ubuntu2.1
 libssh2-1t64:amd64	1.11.1-1ubuntu0.26.04.4
-libssl3t64:amd64	3.5.5-1ubuntu3.5
+libssl3t64:amd64	3.5.5-1ubuntu3.6
 libstartup-notification0:amd64	0.12-8build1
 libstdc++-15-dev:amd64	15.2.0-16ubuntu1
 libstdc++6:amd64	16-20260322-1ubuntu1
@@ -1529,8 +1529,8 @@ onboard-common	1.4.3+git20260213+ds-2
 onboard-data	1.4.3+git20260213+ds-2
 openprinting-ppds	20250819-1build1
 openssh-client	1:10.2p1-2ubuntu3.6
-openssl	3.5.5-1ubuntu3.5
-openssl-provider-legacy	3.5.5-1ubuntu3.5
+openssl	3.5.5-1ubuntu3.6
+openssl-provider-legacy	3.5.5-1ubuntu3.6
 openvpn	2.7.0-1ubuntu1.2
 os-prober	1.84ubuntu1
 p11-kit	0.26.2-2

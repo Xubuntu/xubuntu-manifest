@@ -539,9 +539,9 @@ libharfbuzz-gobject0:amd64	12.3.2-2
 libharfbuzz-icu0:amd64	12.3.2-2
 libharfbuzz-subset0:amd64	12.3.2-2
 libharfbuzz0b:amd64	12.3.2-2
-libheif-plugin-aomdec:amd64	1.21.2-3ubuntu0.5
-libheif-plugin-aomenc:amd64	1.21.2-3ubuntu0.5
-libheif1:amd64	1.21.2-3ubuntu0.5
+libheif-plugin-aomdec:amd64	1.21.2-3ubuntu0.6
+libheif-plugin-aomenc:amd64	1.21.2-3ubuntu0.6
+libheif1:amd64	1.21.2-3ubuntu0.6
 libhogweed6t64:amd64	3.10.2-1
 libhpmud0:amd64	3.24.4+dfsg0-0ubuntu8.1
 libhtml-form-perl	6.13-1build1
@@ -1126,7 +1126,7 @@ python3-json-pointer	2.4-4
 python3-jsonpatch	1.32-6
 python3-jsonschema	4.19.2-6ubuntu2
 python3-jsonschema-specifications	2023.12.1-4
-python3-jwt	2.10.1-4ubuntu1
+python3-jwt	2.10.1-4ubuntu1.1
 python3-launchpadlib	2.1.0-1build1
 python3-lazr.restfulclient	0.14.6-3build1
 python3-lazr.uri	1.0.6-7build1
