@@ -940,7 +940,7 @@ libmoox-aliases-perl	0.001006-2
 libmount1:amd64	2.41.3-3ubuntu2.2
 libmouse-perl:amd64	2.6.1-1
 libmousepad0:amd64	0.7.0-1
-libmp3lame0:amd64	3.101~svn6525+dfsg-2
+libmp3lame0:amd64	3.101~svn6525+dfsg-2ubuntu0.1
 libmpc3:amd64	1.3.1-3
 libmpfr6:amd64	4.2.2-3
 libmpg123-0t64:amd64	1.33.3-2
@@ -1061,9 +1061,9 @@ libplymouth5:amd64	24.004.60+git20250831.4a3c171d-0ubuntu8
 libpng16-16t64:amd64	1.6.57-1
 libpolkit-agent-1-0:amd64	127-2ubuntu1.1
 libpolkit-gobject-1-0:amd64	127-2ubuntu1.1
-libpoppler-cpp3:amd64	26.01.0-2ubuntu0.1
-libpoppler-glib8t64:amd64	26.01.0-2ubuntu0.1
-libpoppler156:amd64	26.01.0-2ubuntu0.1
+libpoppler-cpp3:amd64	26.01.0-2ubuntu0.2
+libpoppler-glib8t64:amd64	26.01.0-2ubuntu0.2
+libpoppler156:amd64	26.01.0-2ubuntu0.2
 libpopt0:amd64	1.19+dfsg-2build1
 libportaudio2:amd64	19.7.0+git20260206.e1b70d33-0ubuntu1
 libppd2:amd64	2:2.1.1-0ubuntu2
@@ -1565,7 +1565,7 @@ pnp.ids	0.394-1build1
 policykit-desktop-privileges	0.22build1
 polkitd	127-2ubuntu1.1
 poppler-data	0.4.12-1build1
-poppler-utils	26.01.0-2ubuntu0.1
+poppler-utils	26.01.0-2ubuntu0.2
 powermgmt-base	1.38ubuntu2
 ppp	2.5.2-1+1.2
 pptp-linux	1.10.0-2build1
@@ -1718,7 +1718,7 @@ spice-vdagent	0.23.0-1ubuntu0.1
 squashfs-tools	1:4.7.5-1
 ssl-cert	1.1.3ubuntu2
 strace	6.19+ds-0ubuntu5
-sudo	1.9.17p2-1ubuntu3.1
+sudo	1.9.17p2-1ubuntu3.2
 sudo-common	1.2ubuntu
 sudo-rs	0.2.13-0ubuntu1.2
 synaptic	0.91.7build1
@@ -1904,7 +1904,7 @@ zlib1g:amd64	1:1.3.dfsg+really1.3.1-1ubuntu3.1
 zstd	1.5.7+dfsg-3
 snap:core24	stable	2124
 snap:snapd	stable	28254
-snap:firefox	stable/ubuntu-26.04	8995
+snap:firefox	stable/ubuntu-26.04	9036
 snap:firmware-updater	1/stable/ubuntu-26.04	262
 snap:gnome-46-2404	stable/ubuntu-26.04	168
 snap:bare	stable	5
