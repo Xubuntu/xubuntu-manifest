@@ -33,8 +33,8 @@ bind9-libs:amd64	1:9.20.24-1ubuntu0.3
 binutils	2.46-3ubuntu2
 binutils-common:amd64	2.46-3ubuntu2
 binutils-x86-64-linux-gnu	2.46-3ubuntu2
-bluez	5.85-4ubuntu0.2
-bluez-cups	5.85-4ubuntu0.2
+bluez	5.85-4ubuntu0.3
+bluez-cups	5.85-4ubuntu0.3
 bolt	0.9.10-1
 bpfcc-tools	0.35.0+ds-1ubuntu2
 bpftool	7.7.0+7.0.0-38.38
@@ -354,7 +354,7 @@ libblockdev-smart3:amd64	3.4.0-1
 libblockdev-swap3:amd64	3.4.0-1
 libblockdev-utils3:amd64	3.4.0-1
 libblockdev3:amd64	3.4.0-1
-libbluetooth3:amd64	5.85-4ubuntu0.2
+libbluetooth3:amd64	5.85-4ubuntu0.3
 libbpf1:amd64	1:1.6.3-1ubuntu1
 libbpfcc:amd64	0.35.0+ds-1ubuntu2
 libbrotli1:amd64	1.2.0-3build1
@@ -712,7 +712,7 @@ libpipewire-0.3-modules:amd64	1.6.2-1ubuntu1.2
 libpixman-1-0:amd64	0.46.4-1
 libplist-2.0-4:amd64	2.7.0+git20250820-1build1
 libplymouth5:amd64	24.004.60+git20250831.4a3c171d-0ubuntu8
-libpng16-16t64:amd64	1.6.57-1
+libpng16-16t64:amd64	1.6.57-1ubuntu0.1
 libpolkit-agent-1-0:amd64	127-2ubuntu1.1
 libpolkit-gobject-1-0:amd64	127-2ubuntu1.1
 libpoppler-cpp3:amd64	26.01.0-2ubuntu0.2
@@ -923,7 +923,7 @@ libxklavier16:amd64	5.4-6build1
 libxml-parser-perl	2.47-1ubuntu1
 libxml-twig-perl	1:3.54-1build1
 libxml-xpathengine-perl	0.14-2
-libxml2-16:amd64	2.15.2+dfsg-0.1ubuntu0.2
+libxml2-16:amd64	2.15.2+dfsg-0.1ubuntu0.3
 libxmlb2:amd64	0.3.24-2
 libxmu6:amd64	2:1.1.3-4
 libxmuu1:amd64	2:1.1.3-4
