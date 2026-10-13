@@ -875,10 +875,10 @@ libwnck-3-common	43.3-1build1
 libwrap0:amd64	7.6.q-36build2
 libwww-perl	6.81-1ubuntu0.1
 libwww-robotrules-perl	6.02-1build1
-libx11-6:amd64	2:1.8.13-1
-libx11-data	2:1.8.13-1
+libx11-6:amd64	2:1.8.13-1ubuntu0.1
+libx11-data	2:1.8.13-1ubuntu0.1
 libx11-protocol-perl	0.56-9
-libx11-xcb1:amd64	2:1.8.13-1
+libx11-xcb1:amd64	2:1.8.13-1ubuntu0.1
 libx264-165:amd64	2:0.165.3222+gitb35605ac-3build1
 libx265-215:amd64	4.1-4
 libxau6:amd64	1:1.0.11-1build2
