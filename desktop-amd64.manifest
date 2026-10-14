@@ -46,9 +46,9 @@ binutils	2.46-3ubuntu2
 binutils-common:amd64	2.46-3ubuntu2
 binutils-x86-64-linux-gnu	2.46-3ubuntu2
 blueman	2.4.4-1build1
-bluez	5.85-4ubuntu0.3
-bluez-cups	5.85-4ubuntu0.3
-bluez-obexd	5.85-4ubuntu0.3
+bluez	5.85-4ubuntu0.4
+bluez-cups	5.85-4ubuntu0.4
+bluez-obexd	5.85-4ubuntu0.4
 bolt	0.9.10-1
 bpfcc-tools	0.35.0+ds-1ubuntu2
 bpftool	7.7.0+7.0.0-38.38
@@ -482,7 +482,7 @@ libblockdev-smart3:amd64	3.4.0-1
 libblockdev-swap3:amd64	3.4.0-1
 libblockdev-utils3:amd64	3.4.0-1
 libblockdev3:amd64	3.4.0-1
-libbluetooth3:amd64	5.85-4ubuntu0.3
+libbluetooth3:amd64	5.85-4ubuntu0.4
 libbluray3:amd64	1:1.4.1-1
 libboost-iostreams1.90.0:amd64	1.90.0-6ubuntu1
 libboost-locale1.90.0:amd64	1.90.0-6ubuntu1
