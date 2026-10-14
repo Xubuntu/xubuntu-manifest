@@ -403,8 +403,8 @@ language-pack-xh	1:25.04+20250226
 language-pack-xh-base	1:25.04+20250122
 language-pack-zh-hans	1:26.10+20261008
 language-pack-zh-hans-base	1:26.10+20261008
-language-selector-common	0.230ubuntu
-language-selector-gnome	0.230ubuntu
+language-selector-common	0.231ubuntu
+language-selector-gnome	0.231ubuntu
 laptop-detect	0.17
 less	668-1build1
 libaa1:amd64	1.4p5-51.1build1
@@ -1558,8 +1558,8 @@ plocate	1.1.24-1ubuntu1
 plymouth	24.004.60+git20250831.4a3c171d-0ubuntu10
 plymouth-label	24.004.60+git20250831.4a3c171d-0ubuntu10
 plymouth-theme-ubuntu-text	24.004.60+git20250831.4a3c171d-0ubuntu10
-plymouth-theme-xubuntu-logo	26.10
-plymouth-theme-xubuntu-text	26.10
+plymouth-theme-xubuntu-logo	26.10.1
+plymouth-theme-xubuntu-text	26.10.1
 pnp.ids	0.411-1
 po-debconf	1.0.22
 policykit-desktop-privileges	0.22build1
@@ -1884,7 +1884,7 @@ xserver-xorg-video-qxl	0.1.6-1.1build1
 xserver-xorg-video-radeon	1:22.0.0-1build2
 xserver-xorg-video-vesa	1:2.6.0-2build1
 xterm	411-1ubuntu1
-xubuntu-artwork	26.10
+xubuntu-artwork	26.10.1
 xubuntu-community-wallpapers	26.04.0
 xubuntu-community-wallpapers-resolute	26.04.0
 xubuntu-default-settings	26.04
@@ -1892,7 +1892,7 @@ xubuntu-desktop	2.272
 xubuntu-desktop-minimal	2.272
 xubuntu-docs	22.04build1
 xubuntu-live-settings	26.04
-xubuntu-wallpapers	26.10
+xubuntu-wallpapers	26.10.1
 xxd	2:9.2.0858-1ubuntu2
 xz-utils	5.8.3-1
 yelp	49.2-1
@@ -1916,4 +1916,4 @@ snap:mesa-2404	stable/ubuntu-26.10	1839
 snap:snap-store	2/stable/ubuntu-26.04	1447
 snap:snapd-desktop-integration	stable/ubuntu-26.10	391
 snap:thunderbird	stable/ubuntu-26.10	1282
-snap:ubuntu-desktop-bootstrap	26.10/stable/ubuntu-26.10	701
+snap:ubuntu-desktop-bootstrap	26.10/stable/ubuntu-26.10	705
