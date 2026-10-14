@@ -1,18 +1,18 @@
 #!/bin/bash
 
 RELEASE="stonking"
-ARCHES="amd64"
+ARCHES="amd64 riscv64"
 DATE=`date -u +%Y%m%d`
 URL=""
 
 for ARCH in `echo $ARCHES`; do
-    URL="http://cdimage.ubuntu.com/xubuntu/daily-live/current/$RELEASE-desktop-$ARCH.manifest"
+    URL="https://cdimage.ubuntu.com/xubuntu/$RELEASE/daily-live/current/$RELEASE-desktop-$ARCH.manifest"
     if wget -q --method=HEAD "$URL"; then
         echo $URL
         wget -O "desktop-$ARCH.manifest" "$URL"
     fi
 
-    URL="http://cdimage.ubuntu.com/xubuntu/daily-minimal/current/$RELEASE-minimal-$ARCH.manifest"
+    URL="https://cdimage.ubuntu.com/xubuntu/$RELEASE/daily-minimal/current/$RELEASE-minimal-$ARCH.manifest"
     if wget -q --method=HEAD "$URL"; then
         echo $URL
         wget -O "minimal-$ARCH.manifest" "$URL"
