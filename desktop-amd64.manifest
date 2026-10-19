@@ -1906,7 +1906,7 @@ snap:core24	stable	2124
 snap:snapd	stable	28254
 snap:firefox	stable/ubuntu-26.04	9057
 snap:firmware-updater	1/stable/ubuntu-26.04	262
-snap:gnome-46-2404	stable/ubuntu-26.04	168
+snap:gnome-46-2404	stable/ubuntu-26.04	177
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-26.04	1535
 snap:mesa-2404	stable/ubuntu-26.04	1839
