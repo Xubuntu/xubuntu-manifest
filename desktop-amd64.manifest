@@ -63,14 +63,14 @@ build-essential	12.12ubuntu2.26.04.2
 busybox-initramfs	1:1.37.0-7ubuntu1
 busybox-static	1:1.37.0-7ubuntu1
 bzip2	1.0.8-6ubuntu0.1
-ca-certificates	20260601~26.04.1
+ca-certificates	20260816ubuntu0.26.04.1
 casper	26.04.2
 catfish	4.20.0-2
 chrony	4.8-2ubuntu1
 cifs-utils	2:7.4-1ubuntu0.26.04.4
 cloud-guest-utils	0.33-1build1
-cloud-init	26.1-0ubuntu3~26.04.1
-cloud-init-base	26.1-0ubuntu3~26.04.1
+cloud-init	26.2-0ubuntu1~26.04.1
+cloud-init-base	26.2-0ubuntu1~26.04.1
 colord	1.4.8-3
 colord-data	1.4.8-3
 command-not-found	23.04.0build1
@@ -123,7 +123,7 @@ diffstat	1.68-1
 diffutils	1:3.12-1ubuntu0.1
 dirmngr	2.4.8-4ubuntu3.1
 distro-info	1.15
-distro-info-data	0.72-0ubuntu0.26.04.1
+distro-info-data	2026.10.12-0ubuntu0.26.04.1
 dmeventd	2:1.02.205-2ubuntu3
 dmidecode	3.6-2ubuntu1
 dmsetup	2:1.02.205-2ubuntu3
@@ -913,7 +913,7 @@ liblvm2cmd2.03:amd64	2.03.31-2ubuntu3
 liblwp-mediatypes-perl	6.04-2
 liblwp-protocol-https-perl	6.14-1
 liblz4-1:amd64	1.10.0-8
-liblzma5:amd64	5.8.3-1
+liblzma5:amd64	5.8.3-1ubuntu0.1
 liblzo2-2:amd64	2.10-3build2
 libmagic-mgc	1:5.46-5build2
 libmagic1t64:amd64	1:5.46-5build2
@@ -1070,7 +1070,7 @@ libppd2:amd64	2:2.1.1-0ubuntu2
 libppd2-common	2:2.1.1-0ubuntu2
 libproc-processtable-perl:amd64	0.637-1
 libproc2-0:amd64	2:4.0.4-9ubuntu1
-libprotobuf32t64:amd64	3.21.12-15ubuntu1
+libprotobuf32t64:amd64	3.21.12-15ubuntu1.1
 libproxy1v5:amd64	0.5.12-1
 libpsl5t64:amd64	0.21.2-1.1build2
 libpulse-mainloop-glib0:amd64	1:17.0+dfsg1-2ubuntu4
@@ -1395,7 +1395,7 @@ libxpresent1:amd64	1.0.1-1build1
 libxrandr2:amd64	2:1.5.4-1build1
 libxrender1:amd64	1:0.9.12-1build1
 libxres1:amd64	2:1.2.1-1build2
-libxs-parse-keyword-perl	0.49-1
+libxs-parse-keyword-perl	0.49-1ubuntu0.1
 libxshmfence1:amd64	1.3.3-1build1
 libxslt1.1:amd64	1.1.45-0.1
 libxss1:amd64	1:1.2.3-1build4
@@ -1631,7 +1631,7 @@ python3-json-pointer	2.4-4
 python3-jsonpatch	1.32-6
 python3-jsonschema	4.19.2-6ubuntu2
 python3-jsonschema-specifications	2023.12.1-4
-python3-jwt	2.10.1-4ubuntu1.2
+python3-jwt	2.10.1-4ubuntu1.3
 python3-launchpadlib	2.1.0-1build1
 python3-lazr.restfulclient	0.14.6-3build1
 python3-lazr.uri	1.0.6-7build1
@@ -1891,7 +1891,7 @@ xubuntu-docs	22.04build1
 xubuntu-live-settings	26.04
 xubuntu-wallpapers	26.04.1
 xxd	2:9.1.2141-1ubuntu4.9
-xz-utils	5.8.3-1
+xz-utils	5.8.3-1ubuntu0.1
 yelp	49.0-5ubuntu0.1
 yelp-xsl	49.0-2
 zenity	4.2.1-1
@@ -1904,7 +1904,7 @@ zlib1g:amd64	1:1.3.dfsg+really1.3.1-1ubuntu3.1
 zstd	1.5.7+dfsg-3
 snap:core24	stable	2124
 snap:snapd	stable	28254
-snap:firefox	stable/ubuntu-26.04	9057
+snap:firefox	stable/ubuntu-26.04	9113
 snap:firmware-updater	1/stable/ubuntu-26.04	262
 snap:gnome-46-2404	stable/ubuntu-26.04	177
 snap:bare	stable	5

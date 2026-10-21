@@ -45,13 +45,13 @@ btrfs-progs	6.17.1-1build1
 bubblewrap	0.11.1-1ubuntu0.3
 busybox-initramfs	1:1.37.0-7ubuntu1
 busybox-static	1:1.37.0-7ubuntu1
-ca-certificates	20260601~26.04.1
+ca-certificates	20260816ubuntu0.26.04.1
 casper	26.04.2
 chrony	4.8-2ubuntu1
 cifs-utils	2:7.4-1ubuntu0.26.04.4
 cloud-guest-utils	0.33-1build1
-cloud-init	26.1-0ubuntu3~26.04.1
-cloud-init-base	26.1-0ubuntu3~26.04.1
+cloud-init	26.2-0ubuntu1~26.04.1
+cloud-init-base	26.2-0ubuntu1~26.04.1
 colord	1.4.8-3
 colord-data	1.4.8-3
 command-not-found	23.04.0build1
@@ -101,7 +101,7 @@ dictionaries-common	1.31.4
 diffutils	1:3.12-1ubuntu0.1
 dirmngr	2.4.8-4ubuntu3.1
 distro-info	1.15
-distro-info-data	0.72-0ubuntu0.26.04.1
+distro-info-data	2026.10.12-0ubuntu0.26.04.1
 dmeventd	2:1.02.205-2ubuntu3
 dmidecode	3.6-2ubuntu1
 dmsetup	2:1.02.205-2ubuntu3
@@ -624,7 +624,7 @@ liblvm2cmd2.03:amd64	2.03.31-2ubuntu3
 liblwp-mediatypes-perl	6.04-2
 liblwp-protocol-https-perl	6.14-1
 liblz4-1:amd64	1.10.0-8
-liblzma5:amd64	5.8.3-1
+liblzma5:amd64	5.8.3-1ubuntu0.1
 liblzo2-2:amd64	2.10-3build2
 libmagic-mgc	1:5.46-5build2
 libmagic1t64:amd64	1:5.46-5build2
@@ -1126,7 +1126,7 @@ python3-json-pointer	2.4-4
 python3-jsonpatch	1.32-6
 python3-jsonschema	4.19.2-6ubuntu2
 python3-jsonschema-specifications	2023.12.1-4
-python3-jwt	2.10.1-4ubuntu1.2
+python3-jwt	2.10.1-4ubuntu1.3
 python3-launchpadlib	2.1.0-1build1
 python3-lazr.restfulclient	0.14.6-3build1
 python3-lazr.uri	1.0.6-7build1
@@ -1328,7 +1328,7 @@ xubuntu-desktop-minimal	2.272
 xubuntu-live-settings	26.04
 xubuntu-wallpapers	26.04.1
 xxd	2:9.1.2141-1ubuntu4.9
-xz-utils	5.8.3-1
+xz-utils	5.8.3-1ubuntu0.1
 yelp	49.0-5ubuntu0.1
 yelp-xsl	49.0-2
 zfs-initramfs	2.4.1-1ubuntu5.1
