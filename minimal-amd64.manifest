@@ -161,7 +161,7 @@ gcr4	4.4.0.1-8
 gdisk	1.0.10-2build1
 gettext-base	0.23.2-1
 ghostscript	10.06.0~dfsg-3ubuntu1.2
-gir1.2-adw-1:amd64	1.9.1-0ubuntu0.1
+gir1.2-adw-1:amd64	1.9.1-0ubuntu0.2
 gir1.2-atk-1.0:amd64	2.60.4-0ubuntu0.1
 gir1.2-freedesktop:amd64	1.86.0-6build1
 gir1.2-gdkpixbuf-2.0:amd64	2.44.5+dfsg-4ubuntu1
@@ -308,7 +308,7 @@ less	668-1build1
 libaa1:amd64	1.4p5-51.1build1
 libaccountsservice0:amd64	23.13.9-8ubuntu5.2
 libacl1:amd64	2.3.2-2
-libadwaita-1-0:amd64	1.9.1-0ubuntu0.1
+libadwaita-1-0:amd64	1.9.1-0ubuntu0.2
 libaio1t64:amd64	0.3.113-8build1
 libaom3:amd64	3.13.1-2ubuntu0.1
 libapparmor1:amd64	5.0.2-0ubuntu1~26.04.1
@@ -1173,7 +1173,7 @@ rfkill	2.41.3-3ubuntu2.2
 rpcsvc-proto	1.4.3-1build1
 rsync	3.4.1+ds1-7ubuntu0.3
 rsyslog	8.2512.0-1ubuntu4.2
-rtkit	0.14-1
+rtkit	0.14-1ubuntu0.1
 rust-coreutils	0.10.0-1ubuntu2~26.04.1
 sane-airscan	0.99.36-2ubuntu1
 sane-utils	1.4.0-1ubuntu1
@@ -1335,7 +1335,7 @@ zfs-initramfs	2.4.1-1ubuntu5.1
 zfs-zed	2.4.1-1ubuntu5.1
 zfsutils-linux	2.4.1-1ubuntu5.1
 zip	3.0-15ubuntu3
-zlib1g:amd64	1:1.3.dfsg+really1.3.1-1ubuntu3.1
+zlib1g:amd64	1:1.3.dfsg+really1.3.1-1ubuntu3.2
 zstd	1.5.7+dfsg-3
 snap:core24	stable	2124
 snap:snapd	stable	28254
