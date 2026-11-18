@@ -151,7 +151,7 @@ foomatic-db-compressed-ppds	20250819-1build1
 friendly-recovery	0.2.42build1
 ftp	20260211-1
 fuse3	3.18.2-1
-fwupd	2.1.1-1ubuntu3.1
+fwupd	2.1.6-3ubuntu4~26.04.1
 fwupd-signed	1.55+1.7-1
 gawk	1:5.3.2-1ubuntu1.1
 gcc-15-base:amd64	15.2.0-16ubuntu1
@@ -210,10 +210,10 @@ grub-pc	2.14-2ubuntu2.1
 grub-pc-bin	2.14-2ubuntu2.1
 grub2-common	2.14-2ubuntu2.1
 gsettings-desktop-schemas	50.0-1ubuntu2
-gstreamer1.0-gl:amd64	1.28.2-1ubuntu0.2
-gstreamer1.0-plugins-base:amd64	1.28.2-1ubuntu0.2
+gstreamer1.0-gl:amd64	1.28.2-1ubuntu0.3
+gstreamer1.0-plugins-base:amd64	1.28.2-1ubuntu0.3
 gstreamer1.0-plugins-good:amd64	1.28.2-2ubuntu0.4
-gstreamer1.0-x:amd64	1.28.2-1ubuntu0.2
+gstreamer1.0-x:amd64	1.28.2-1ubuntu0.3
 gtk-update-icon-cache	4.22.4+ds-0ubuntu0.2
 gtk2-engines-murrine:amd64	0.98.2-4ubuntu1
 gtk2-engines-pixbuf:amd64	2.24.33-10
@@ -453,16 +453,14 @@ libfile-desktopentry-perl	0.23-1
 libfile-listing-perl	6.16-1
 libfile-mimeinfo-perl	0.36-2
 libflac14:amd64	1.5.0+ds-5
-libflashrom1:amd64	1.6.0-2ubuntu1.1
 libfont-afm-perl	1.20-4
 libfontconfig1:amd64	2.17.1-3ubuntu1
 libfontenc1:amd64	1:1.1.8-1build2
 libfreetype6:amd64	2.14.2+dfsg-1ubuntu0.2
 libfribidi0:amd64	1.0.16-5
-libftdi1-2:amd64	1.6~rc1-1build1
 libfuse2t64:amd64	2.9.9-9build1
 libfuse3-4:amd64	3.18.2-1
-libfwupd3:amd64	2.1.1-1ubuntu3.1
+libfwupd3:amd64	2.1.6-3ubuntu4~26.04.1
 libfyaml0:amd64	0.9.4-1
 libgarcon-1-0:amd64	4.20.0-1build1
 libgarcon-common	4.20.0-1build1
@@ -516,8 +514,8 @@ libgs10:amd64	10.06.0~dfsg-3ubuntu1.2
 libgs10-common	10.06.0~dfsg-3ubuntu1.2
 libgsm1:amd64	1.0.23-2
 libgssapi-krb5-2:amd64	1.22.1-2ubuntu4.1
-libgstreamer-gl1.0-0:amd64	1.28.2-1ubuntu0.2
-libgstreamer-plugins-base1.0-0:amd64	1.28.2-1ubuntu0.2
+libgstreamer-gl1.0-0:amd64	1.28.2-1ubuntu0.3
+libgstreamer-plugins-base1.0-0:amd64	1.28.2-1ubuntu0.3
 libgstreamer-plugins-extra1.0-0:amd64	1.28.2-1ubuntu1.2
 libgstreamer1.0-0:amd64	1.28.2-1
 libgtk-3-0t64:amd64	3.24.52-0ubuntu1
@@ -582,10 +580,9 @@ libipc-system-simple-perl	1.30-2
 libisl23:amd64	0.27-1build1
 libjack-jackd2-0:amd64	1.9.22~dfsg-5build1
 libjansson4:amd64	2.14-2build4
-libjavascriptcoregtk-6.0-1:amd64	2.52.6-0ubuntu0.26.04.1
+libjavascriptcoregtk-6.0-1:amd64	2.52.6-0ubuntu0.26.04.2
 libjbig0:amd64	2.1-6.1ubuntu3
 libjbig2dec0:amd64	0.20-1ubuntu0.26.04.1
-libjcat1:amd64	0.2.5-1build1
 libjemalloc2:amd64	5.3.0-4
 libjpeg-turbo8:amd64	2.1.5-4ubuntu4
 libjpeg8:amd64	8c-2ubuntu12
@@ -864,7 +861,7 @@ libwayland-cursor0:amd64	1.24.0-2
 libwayland-egl1:amd64	1.24.0-2
 libwayland-server0:amd64	1.24.0-2
 libwbclient0:amd64	2:4.23.6+dfsg-1ubuntu2.2
-libwebkitgtk-6.0-4:amd64	2.52.6-0ubuntu0.26.04.1
+libwebkitgtk-6.0-4:amd64	2.52.6-0ubuntu0.26.04.2
 libwebp7:amd64	1.5.0-0.1build1
 libwebpdemux2:amd64	1.5.0-0.1build1
 libwebpmux3:amd64	1.5.0-0.1build1
@@ -1143,7 +1140,7 @@ python3-oauthlib	3.3.1-1build1
 python3-olefile	0.47-1build1
 python3-passlib	1.9.3-1ubuntu1
 python3-pexpect	4.9-4
-python3-pil:amd64	12.1.1-2ubuntu1.5
+python3-pil:amd64	12.1.1-2ubuntu1.6
 python3-pkg-resources	78.1.1-0.1build1
 python3-problem-report	2.34.1-0ubuntu0.1
 python3-ptyprocess	0.7.0-6build1
@@ -1340,4 +1337,4 @@ zlib1g:amd64	1:1.3.dfsg+really1.3.1-1ubuntu3.2
 zstd	1.5.7+dfsg-3
 snap:core24	stable	2307
 snap:snapd	stable	28332
-snap:ubuntu-desktop-bootstrap	26.04/stable/ubuntu-26.04	665
+snap:ubuntu-desktop-bootstrap	26.04/stable/ubuntu-26.04	719
