@@ -1630,7 +1630,7 @@ python3-json-pointer	2.4-4
 python3-jsonpatch	1.32-6
 python3-jsonschema	4.19.2-6ubuntu2
 python3-jsonschema-specifications	2023.12.1-4
-python3-jwt	2.10.1-4ubuntu1.3
+python3-jwt	2.10.1-4ubuntu1.4
 python3-launchpadlib	2.1.0-1build1
 python3-lazr.restfulclient	0.14.6-3build1
 python3-lazr.uri	1.0.6-7build1
@@ -1905,11 +1905,11 @@ snap:core24	stable	2307
 snap:snapd	stable	28332
 snap:firefox	stable/ubuntu-26.04	9228
 snap:firmware-updater	1/stable/ubuntu-26.04	262
-snap:gnome-46-2404	stable/ubuntu-26.04	177
+snap:gnome-46-2404	stable/ubuntu-26.04	184
 snap:bare	stable	5
 snap:gtk-common-themes	stable/ubuntu-26.04	1535
 snap:mesa-2404	stable/ubuntu-26.04	1839
-snap:snap-store	2/stable/ubuntu-26.04	1504
+snap:snap-store	2/stable/ubuntu-26.04	1509
 snap:snapd-desktop-integration	stable/ubuntu-26.04	391
 snap:thunderbird	stable/ubuntu-26.04	1333
 snap:ubuntu-desktop-bootstrap	26.04/stable/ubuntu-26.04	719

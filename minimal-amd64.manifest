@@ -1124,7 +1124,7 @@ python3-json-pointer	2.4-4
 python3-jsonpatch	1.32-6
 python3-jsonschema	4.19.2-6ubuntu2
 python3-jsonschema-specifications	2023.12.1-4
-python3-jwt	2.10.1-4ubuntu1.3
+python3-jwt	2.10.1-4ubuntu1.4
 python3-launchpadlib	2.1.0-1build1
 python3-lazr.restfulclient	0.14.6-3build1
 python3-lazr.uri	1.0.6-7build1
