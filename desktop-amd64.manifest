@@ -236,7 +236,7 @@ gir1.2-javascriptcoregtk-4.1:amd64	2.52.6-0ubuntu0.26.04.2
 gir1.2-json-1.0:amd64	1.10.8+ds-2
 gir1.2-libxfce4ui-2.0:amd64	4.20.2-1
 gir1.2-libxfce4util-1.0:amd64	4.20.1-1build1
-gir1.2-nm-1.0:amd64	1.54.3-2ubuntu3.1
+gir1.2-nm-1.0:amd64	1.54.3-2ubuntu3.2
 gir1.2-notify-0.7:amd64	0.8.8-1
 gir1.2-packagekitglib-1.0	1.3.4-3ubuntu1.2
 gir1.2-pango-1.0:amd64	1.57.0-1
@@ -361,7 +361,7 @@ keyboard-configuration	1.237ubuntu3.1
 keyutils	1.6.3-6ubuntu3
 klibc-utils	2.0.14-1ubuntu2
 kmod	34.2-2ubuntu2
-krb5-locales	1.22.1-2ubuntu4.1
+krb5-locales	1.22.1-2ubuntu4.3
 language-pack-bn	1:26.04+20260818
 language-pack-bn-base	1:26.04+20260818
 language-pack-de	1:26.04+20260818
@@ -652,7 +652,7 @@ libexiv2-28:amd64	0.28.8+dfsg-1
 libexiv2-data	0.28.8+dfsg-1
 libexo-2-0:amd64	4.20.0-1build1
 libexo-common	4.20.0-1build1
-libexpat1:amd64	2.7.4-1ubuntu0.2
+libexpat1:amd64	2.7.4-1ubuntu0.3
 libext2fs2t64:amd64	1.47.2-3ubuntu4
 libexttextcat-2.0-0:amd64	3.4.7-2
 libexttextcat-data	3.4.7-2
@@ -759,7 +759,7 @@ libgs10-common	10.06.0~dfsg-3ubuntu1.2
 libgsm1:amd64	1.0.23-2
 libgspell-1-3:amd64	1.14.2-2
 libgspell-1-common	1.14.2-2
-libgssapi-krb5-2:amd64	1.22.1-2ubuntu4.1
+libgssapi-krb5-2:amd64	1.22.1-2ubuntu4.3
 libgstreamer-gl1.0-0:amd64	1.28.2-1ubuntu0.3
 libgstreamer-plugins-base1.0-0:amd64	1.28.2-1ubuntu0.3
 libgstreamer-plugins-extra1.0-0:amd64	1.28.2-1ubuntu1.2
@@ -866,14 +866,14 @@ libjson-glib-1.0-0:amd64	1.10.8+ds-2
 libjson-glib-1.0-common	1.10.8+ds-2
 libjson-maybexs-perl	1.004008-1
 libjxl0.11:amd64	0.11.1-6ubuntu4.2
-libk5crypto3:amd64	1.22.1-2ubuntu4.1
+libk5crypto3:amd64	1.22.1-2ubuntu4.3
 libkeybinder-3.0-0:amd64	0.3.2-1.1build3
 libkeyutils1:amd64	1.6.3-6ubuntu3
 libklibc:amd64	2.0.14-1ubuntu2
 libkmod2:amd64	34.2-2ubuntu2
 libkpathsea6:amd64	2025.20250727.75242+ds-5build1
-libkrb5-3:amd64	1.22.1-2ubuntu4.1
-libkrb5support0:amd64	1.22.1-2ubuntu4.1
+libkrb5-3:amd64	1.22.1-2ubuntu4.3
+libkrb5support0:amd64	1.22.1-2ubuntu4.3
 libksba8:amd64	1.6.7-2build1
 liblangtag-common	0.6.8-2
 liblangtag1:amd64	0.6.8-2
@@ -978,7 +978,7 @@ libnghttp2-14:amd64	1.68.0-2ubuntu0.2
 libnl-3-200:amd64	3.12.0-2
 libnl-genl-3-200:amd64	3.12.0-2
 libnl-route-3-200:amd64	3.12.0-2
-libnm0:amd64	1.54.3-2ubuntu3.1
+libnm0:amd64	1.54.3-2ubuntu3.2
 libnma-common	1.10.6-7
 libnma-gtk4-0:amd64	1.10.6-7
 libnma0:amd64	1.10.6-7
@@ -1033,7 +1033,7 @@ libparted-fs-resize0t64:amd64	3.6-6
 libparted2t64:amd64	3.6-6
 libpath-tiny-perl	0.148-1
 libpathplan4:amd64	14.1.2-1ubuntu1
-libpcap0.8t64:amd64	1.10.6-1ubuntu1.1
+libpcap0.8t64:amd64	1.10.6-1ubuntu1.2
 libpcaudio0:amd64	1.3-1build1
 libpci3:amd64	1:3.14.0-1build2
 libpciaccess0:amd64	0.18.1-1ubuntu4.1
@@ -1179,7 +1179,7 @@ libspa-0.2-modules:amd64	1.6.2-1ubuntu1.3
 libspectre1:amd64	0.2.12-2
 libspeechd-module0:amd64	0.12.1-2ubuntu1
 libspeechd2:amd64	0.12.1-2ubuntu1
-libspeex1:amd64	1.2.1-3build1
+libspeex1:amd64	1.2.1-3ubuntu0.26.04.1
 libspeexdsp1:amd64	1.2.1-3build1
 libsqlite3-0:amd64	3.46.1-9ubuntu0.4
 libsratom-0-0:amd64	0.6.20-1
@@ -1391,7 +1391,7 @@ libxmuu1:amd64	2:1.1.3-4
 libxpm4:amd64	1:3.5.17-1ubuntu0.26.04.2
 libxpresent1:amd64	1.0.1-1build1
 libxrandr2:amd64	2:1.5.4-1build1
-libxrender1:amd64	1:0.9.12-1build1
+libxrender1:amd64	1:0.9.12-1ubuntu0.26.04.1
 libxres1:amd64	2:1.2.1-1build2
 libxs-parse-keyword-perl	0.49-1ubuntu0.1
 libxshmfence1:amd64	1.3.3-1build1
@@ -1507,10 +1507,10 @@ netbase	6.5build1
 netcat-openbsd	1.234-1
 netplan-generator	1.2-1ubuntu5.1
 netplan.io	1.2-1ubuntu5.1
-network-manager	1.54.3-2ubuntu3.1
+network-manager	1.54.3-2ubuntu3.2
 network-manager-applet	1.36.0-4ubuntu1
 network-manager-gnome	1.36.0-4ubuntu1
-network-manager-l10n	1.54.3-2ubuntu3.1
+network-manager-l10n	1.54.3-2ubuntu3.2
 network-manager-openvpn	1.12.5-1
 network-manager-openvpn-gnome	1.12.5-1
 network-manager-pptp	1.2.12-6
